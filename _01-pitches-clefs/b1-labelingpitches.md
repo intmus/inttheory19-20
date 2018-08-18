@@ -1,6 +1,7 @@
 ---
 layout: chapter
 title: Lesson 1b - Labeling Pitches
+abc: true
 ---
 
 ## Accidentals
