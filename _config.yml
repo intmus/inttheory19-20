@@ -1,0 +1,102 @@
+# Integrated Musicianship: A Theory and Aural Skills Method
+# OER Music text book, by Sean Butterfield and Miranda Wilson
+
+# jekyll theme adapted from Lanyon, https://github.com/poole/lanyon
+# by evanwill
+
+# site info
+title: "Integrated Music Theory"
+tagline: "2018-19"
+description: "an open, interactive, online textbook for college music theory"
+keywords: "music theory, OER, university of idaho, inquiry-based"
+owner: Sean Butterfield
+email: sbutterfield@uidaho.edu
+published: 2018
+github-repo: https://github.com/intmus/inttheory18-19
+
+# urls
+url: https://intmus.github.io
+baseurl: /inttheory18-19
+
+# collections
+# each unit of the book is a collection
+# each unit collection should be given a name value
+collections:
+  01-pitches-clefs:
+    output: true
+    name: 1) Pitches and Clefs
+  02-int-scales-keys:
+    output: true
+    name: 2) Intervals, Scales, and Keys
+  03-triads-7chords-leadsheet:
+    output: true
+    name: 3) Triads, Seventh Chords, and Leadsheet Notation
+  04-intro-rhythm:
+    output: true
+    name: 4) Rhythm and Regular Meters
+  05-counterpoint-embell-shapes:
+    output: true
+    name: 5) Counterpoint and Embellishing Shapes
+  06-intro-harmonic:
+    output: true
+    name: 6) Introduction to Harmonic Analysis
+  07-harmonic-functions:
+    output: true
+    name: 7) Harmonic Function
+  08-overtones:
+    output: true
+    name: 8) The Overtone Series
+  09-non-chord-tones:
+    output: true
+    name: 9) Non-Chord Tones
+  10-intro-part-writing:
+    output: true
+    name: 10) An Introduction to Part-writing
+  11-further-part-writing:
+    output: true
+    name: 11) Practical Part-writing 
+  12-reading-scores:
+    output: true
+    name: 12) Instrument Transpositions, Ranges, and Score Reduction
+  13-phrasing-texture:
+    output: true
+    name: 13) Phrasing and Texture
+  14-secondary-dominant-functions:
+    output: true
+    name: 14) Secondary Dominant Functions
+  15-further-secondary-functions:
+    output: true
+    name: 15) Further Secondary Functions
+  16-intro-to-modulation:
+    output: true
+    name: 16) An Introduction to Modulation
+  17-mode-mixture:
+    output: true
+    name: 17) Mode Mixture
+  18-chromatic-chords:
+    output: true
+    name: 18) Chromatic Chords
+  19-extended-harmonies:
+    output: true
+    name: 19) Extended Tertian Harmony
+  20-advanced-chromatic-techniques:
+    output: true
+    name: 20) Advanced Chromatic Techniques
+  21-beyond-simple-compound-meters:
+    output: true
+    name: 21) Beyond Simple and Compound Meters
+  22-intro-to-non-diatonic-materials:
+    output: true
+    name: 22) An Introduction to Non-Diatonic Materials
+  23-intro-to-post-tonal:
+    output: true
+    name: 23) An Introduction to Post-Tonal Analysis
+  final-project:
+    output: true
+    name: Final Project Notes and Discussion
+  assignments:
+    output: true
+    name: Assignments
+
+# ignore stuff
+exclude: [docs]
