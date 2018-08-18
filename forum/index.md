@@ -1,9 +1,9 @@
 ---
-title: IBMT Assignments &amp; Forum
+title: Assignments &amp; Forum
 layout: page
 ---
 
-Welcome to the IBMT Assignments & Forum! 
+Welcome to the *Integrated Musicianship: Theory* Assignments & Forum! 
 Links to all assignments for the course will be posted on this page, please follow the link for the description of the homework and a help forum.
 For other discussion and questions, check our general forum threads.
 This discussion space is intended to help students learn, communicate, and collaborate.

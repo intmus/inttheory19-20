@@ -1,6 +1,6 @@
 ---
 layout: forum
-title: IBMT Forum - Typos and Website Suggestions
+title: IntTheory Forum - Typos and Website Suggestions
 ---
 
 Please use this thread to report issues with the website and text so we can (*try to*) fix them.

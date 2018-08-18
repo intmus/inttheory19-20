@@ -3,7 +3,7 @@ layout: page
 title: Search
 ---
 
-This page provides a basic search of IBMT content.
+This page provides a basic search of IntTheory content.
 *Note: it may take a few seconds to load!* 
 (p.s. you can also try [Google CSE]({{ "/search/google.html" | absolute_url }}))
 

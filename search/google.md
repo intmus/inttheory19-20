@@ -5,7 +5,7 @@ title: Google Search
 
 *Please note:* [Custom Search Engine](https://cse.google.com) is a free service provided by Google. 
 Results depend on third party indexing. 
-Since IBMT's content changes frequently, Google's index may not be up-to-date or contain the latest materials. 
+Since IntTheory's content changes frequently, Google's index may not be up-to-date or contain the latest materials. 
 
 <style>td,th { border: none; }</style>
 <script>
