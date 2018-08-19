@@ -3,14 +3,10 @@ layout: page
 title: Google Search
 ---
 
-*Please note:* [Custom Search Engine](https://cse.google.com) is a free service provided by Google. 
-Results depend on third party indexing. 
-Since IntTheory's content changes frequently, Google's index may not be up-to-date or contain the latest materials. 
-
 <style>td,th { border: none; }</style>
 <script>
   (function() {
-    var cx = '000200075986859166645:3spbwn8fvpo';
+    var cx = '003965900948510015874:uyznc-fiix8';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -20,3 +16,7 @@ Since IntTheory's content changes frequently, Google's index may not be up-to-da
   })();
 </script>
 <gcse:search></gcse:search>
+
+*Please note:* [Custom Search Engine](https://cse.google.com) is a free service provided by Google. 
+Results depend on third party indexing. 
+Since Integrated Musicianship's content changes frequently, Google's index may not be up-to-date or contain the latest materials. 
