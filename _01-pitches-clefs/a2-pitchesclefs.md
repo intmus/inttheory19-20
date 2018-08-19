@@ -6,37 +6,6 @@ abc: true
 
 ## Class Discussion
 
-Given that the class is already familiar with note names and staff notation, the discussion of identifying pitches on clefs was a brief, simple dictation of the note names divided into lines and spaces for each clef. They were:
-
-{% capture ex1 %}X: 1
-T:Pitch Names for Each Clef
-M:C
-L:1/4
-K:C
-V:1 name="Treble Clef"
-E G B d f| F A c e|]
-w: E G B D F F A C E
-V:2 name="Alto Clef" clef="alto"
-F, A, C E G| G, B, D F|]
-w: F A C E G G B D F
-V:3 name="Tenor Clef" clef="tenor"
-D, F, A, C E| E, G, B, D|]
-w: D F A C E E G B D
-V:4 name="Bass Clef" clef="bass"
-G,, B,, D, F, A,| A,, C, E, G,|]
-w: G B D F A A C E G{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
-
-The discussion of the secondary name for each clef -- particularly the treble clef as a G-clef -- prompted various suggestions. For the treble clef, one student suggested that the clef is a stylized *G* and another pointed out that the clef encircles the G on the second line of the staff. Both of these are correct.
-
-This led immediately immediately to the quick assumption that the F-clef uses its "dots" to enclose the F on the fourth line of the staff, and the C-clefs have an "arrow" that points to C at all times. This arrow points to different lines for both alto and tenor clef.
-
-For a well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
-
-The tips and tricks for mastering clefs could be broken into three categories:
-- Memorization - The most widely used method uses flash cards or other repetitive devices to practice identifying notes on each clef to ensure a quick and efficient memorization.
-- Relative note identifications - Another student remembers one important note for each clef and then visually "counts" through the alphabet upward or downward to find pitches in unfamiliar clefs. One student suggested remembering where C is and counting by steps (letter names), but another suggested memorizing how thirds are stacked to move around more quickly. While this is a fine method for beginning to familiarize yourself with clefs, it will ultimately be too slow and inconsistent to be practical.
-- The final suggestion was to determine the relationship of your weaker clefs to your strongest clef, and then use this to read in the clef. For example, if you are primarily comfortable in treble-clef, you could remember that alto-clef moves all of the pitches down by a step relative to treble clef. (This ignores octave displacement, of course.) In this case, if you read the alto clef as a treble clef but *up* a step, this compensates and gives you a quick visual method for reading the clef. Like the relative note identification method above, this could be slow or inconsistent, but if one regularly transposes, this could be used.
 
 Further Reading
 ======
