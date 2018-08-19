@@ -33,6 +33,7 @@
 }
 .chapter-contents {
     display: none;
+    margin-top: 10px;
 }
 .active-chapter {
     .chapter-contents {
@@ -55,6 +56,9 @@
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
     background-color: $sidenav-active-bg;
+}
+.active-page {
+    text-decoration: underline;
 }
 /* chapter navigation */
 #chapter-nav {

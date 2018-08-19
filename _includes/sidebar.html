@@ -5,7 +5,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <div class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}">IntMus: <a class="{% if page.url == '/' %}active-page{% endif %}"href="{{ '/' | absolute_url }}">Theory</a> | <a href="https://intmus.github.io/intas18-19/">Aural Skills</a></div>
     <a class="sidebar-nav-item{% if page.url == "/forum/index.html" %} active{% endif %}" href="{{ site.baseurl }}/forum/index.html">Assignments &amp; Forum</a>
     <a class="sidebar-nav-item{% if page.url == "/toc.html" %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
 
@@ -14,7 +14,7 @@
     <div class="sidebar-nav-item chapter{% if page.collection == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.name }}
       <ul class="chapter-contents">
         {% for lesson in chapter.docs %}
-        <li><a href="{{ lesson.url | prepend: site.baseurl }}">{{ lesson.title }}</a></li>
+        <li><a class="{% if page.url == lesson.url %}active-page{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title }}</a></li>
         {% endfor %}
       </ul>
     </div>
