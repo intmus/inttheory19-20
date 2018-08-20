@@ -27,6 +27,12 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 
+  {% if page.comments == true %}
+  <p class="forum-help">For information about getting started and our community guidelines, please check the forum <a href="{{ '/forum/help.html' | relative_url }}">help page</a>.</p>
+  <div id="disqus_thread"></div>
+  {% include disqus.html %}
+  {% endif %}
+
   <div id="chapter-buttons">
     {% if prevurl %}<div class="topic-nav prev">
         <a href="{{ prevurl | prepend: site.baseurl }}"> ❮ Previous</a>
