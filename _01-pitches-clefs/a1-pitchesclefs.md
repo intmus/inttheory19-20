@@ -6,16 +6,16 @@ abc: true
 
 ## A Starting Place
 
-Most beginning music theorists are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- due to time spent performing at some level. If you are uncomfortable with any of aspect of these concepts, you can review the basics under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }} /01-pitches-clefs/a2-pitchesclefs.html) 
+Most beginning music theorists are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- due to time spent performing as an instrumentalist or vocalist. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }} /01-pitches-clefs/a2-pitchesclefs.html) 
 
 https://intmus.github.io/inttheory18-19
 
 ## Clefs
 
-Even though most college music students are familiar with reading music, they are usually far more comfortable when working in the clef most associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only these two most common clefs, but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used for instruments such as viola, cello, trombone, and bassoon. Clefs are an essential way for a composer to communicate range while limiting ledger lines, so it is imperative that you become comfortable reading music in all of the most common clefs.
+Even though most college music students are familiar with reading music, they are usually far more comfortable when working in the clef most associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only the two most common clefs -- treble and bass -- but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used by instruments such as viola, cello, trombone, and bassoon. They alleviate the use of ledger lines in the extreme registers of an instrument, so it is imperative that you become comfortable reading music in all of the most common clefs.
 
 Treble clef is sometimes referred to as a *G-clef*, and bass clef can be called an *F-clef*.
-Alto and tenor clefs are known as the *C-clefs*. 
+Alto and tenor clefs are known as *C-clefs*. 
 
 ## Goals for this topic
 

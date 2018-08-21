@@ -6,15 +6,17 @@ abc: true
 
 ## Accidentals
 
-This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Lesson 1b]({{ site.baseurl }}/1b3-tx-labelingpitches.html).
+This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }} /01-pitches-clefs//b2-labelingpitches.html).
 
-## Labeling Octaves
+## Differentiating and Labeling Pitch-classes
+
+### Octaves
 
 When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, middle C is labeled as C4. 
 
-## Enharmonic Equivalence
+### Enharmonic Equivalence
 
-At its core, enharmonic equivalence is an easy concept: When two pitches sound the same -- meaning that they share identical wavelength frequencies -- but have different note names (i.e. letters), they are considered to be enharmonically equivalent. All pitches that are enharmonic equivalents create a *pitch-class*, so there are twelve possible pitch-classes. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Review the examples under Lesson 1b to make sure that you understand  the less common examples. Note that all but one pitch-class has at least three enharmonic equivalents when using the five most-common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch-class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
+At its core, enharmonic equivalence is an easy concept: When two pitches sound the same -- meaning that they share identical wavelength frequencies -- but have different note names (i.e. letters), they are considered to be enharmonically equivalent. All pitches that are enharmonic equivalents create a *pitch-class*, so there are twelve possible pitch-classes. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Note that all but one pitch-class has at least three enharmonic equivalents when using the five most-common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch-class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
 
 ## Goals for this topic
 
@@ -25,7 +27,7 @@ Using the examples below, determine:
 - what the numeral refers to in the ISO system for labeling octaves
 - how these numerals interact with letters
 
-## Accidentals and Enharmonic Equivalence
+### Accidentals and Enharmonic Equivalence
 
 {% capture ex1 %}X:1
 T:Enharmonic Equivalence
@@ -43,7 +45,30 @@ V:4 name="Bass Clef" clef="bass"
 _D, ^C, |^B,, C, |D, __E,|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-## Labeling Octaves and Clef Relationships
+#### Enharmonic Equivalence and Pitch-Classes
+
+Using the example material to look at examples of enharmonic equivalents, the class worked together to determine which pitch-classes had three enharmonic equivalents and which had two. The first two examplex given were:
+  
+  A, B-double-flat, G-double-sharp
+  B, C-flat, D-double-sharp
+
+Each note in these groups belong to the same pitch-class, because they share an identical frequency in their sound waves. Yet they function differently within the context of music, so we have multiple ways of labeling the same frequency.
+
+The most important realization was that letter system employed in staff notation is the limiting factor in creating enharmonic equivalents within a pitch-class. The pitch-class that includes A-flat is isolated from its neighbors in such a way that there is no pitch that uses the letter *F* or *B* to create a third enharmonic equivalent if we limit ourselves to only the five common accidentals. The interaction between the 7 letter names and 12 pitch-classes is the basis for our musical notation system and will be critical in how we label intervals, chords, and scales.
+
+{% capture ex1 %}X:1
+T:Enharmonic Equivalence
+T:Each measure contains all notes within a pitch-class that are enharmonically 
+T:equivalent using only the five most-common accidentals.
+M:3/4
+L:1/4
+K:C
+^B, C __D| ^^B, ^C _D| ^^C D __E| ^D _E __F|
+^^D E _F| ^E F __G| ^^E ^F _G| ^^F G __A|
+^G _A z| ^^G A __B| ^A _B __C| ^^A B _C|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+### Labeling Octaves and Clef Relationships
 
 {% capture ex2 %}X:2
 T:Pitches and Clefs
@@ -63,3 +88,27 @@ V:4 name="Bass Clef" clef=bass
 E, A, F, B, G, ^C, B,,|]
 w: E3 A3 F3 B3 G3 C#3 B2{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+#### Labeling Octaves
+
+Using the examples, the class was able to determine a few simple rules to label octaves using ISO system.
+- Notes are labeled using a pitch name and a number.
+- The numbers represent an octave range and higher numbers equate to higher octaves.
+- Each number starts on C.
+- Each number ends on B.
+
+From the topic overview, they knew that C4 is *middle C*, and from this, they were able to determine where *middle C* is on each clef
+
+{% capture ex2 %}X:2
+T:Middle C in each clef
+M:C
+L:1
+K:C
+C| [K:clef=alto]C| [K:clef=tenor]C| [K:clef=bass]C|]{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+From this, it is easy to see the necessity of clefs. Ledger lines are an important notational tool, but too many ledger lines becomes difficult to read quickly. Therefore, each clef highlights a specific range that can be written without employing ledger lines. Alto clef is typically employed as a lower treble clef, while tenor clef is a higher bass clef. Of course, alto and tenor clef have similar ranges and one of the other could likely be eliminated with little issue, but because both of these clefs have been widely used for more than a century, it is necessary for all musicians to at least be familiar with reading them.
+
+### Why is the ISO system based on C instead of A?
+
+This is almost entirely related to the evolution of the musical notation system and how the non-accidental pitches (i.e. "white keys" of the keyboard) form a major scale. While this is a fascinating topic, it is somewhat beyond the purview of this chapter, but I hope you will explore this further on your own.

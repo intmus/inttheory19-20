@@ -6,6 +6,7 @@ abc: true
 
 ## Class Discussion
 
+TBD
 
 Further Reading
 ======
