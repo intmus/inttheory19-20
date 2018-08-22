@@ -6,9 +6,7 @@ abc: true
 
 ## A Starting Place
 
-Most beginning music theorists are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- due to time spent performing as an instrumentalist or vocalist. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }} /01-pitches-clefs/a2-pitchesclefs.html) 
-
-https://intmus.github.io/inttheory18-19
+Most beginning music theorists are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- due to time spent performing as an instrumentalist or vocalist. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }} /01-pitches-clefs/a2-pitchesclefs.html). 
 
 ## Clefs
 
@@ -17,22 +15,24 @@ Even though most college music students are familiar with reading music, they ar
 Treble clef is sometimes referred to as a *G-clef*, and bass clef can be called an *F-clef*.
 Alto and tenor clefs are known as *C-clefs*. 
 
-## Goals for this topic
+### Goals for this topic
 
 Use the examples below to find:
 - the order of pitch names for each clef's lines and spaces.
 - why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
 - where middle C is on each clef
 - any tips or tricks that may help in differentiating and reading clefs.
-    - Hint: Many students begin their studies of clefs by relating the unfamiliar clefs to their most familiar clef.
 
 {% capture ex1 %}X: 1
 T: Pitches and Clefs
+T: The treble and alto clefs are in unison.
+T: The tenor and bass clefs are in unison.
+T: The treble and bass clefs are separated by one octave.
 M: 4/4
 L:1/4
 K:C
 V:1 name="Treble Clef"
-e a f b g ^c G|]
+E A F B G ^C G,|]
 w: E A F B G C# G
 V:2 name="Alto Clef" clef="alto"
 E A F B G ^C G,|]
@@ -45,7 +45,7 @@ E, A, F, B, G, ^C, G,,|]
 w: E A F B G C# G{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-## Conclusion
+### Conclusion
 
 The lines and spaces of each clef are:
 
@@ -72,7 +72,7 @@ Clefs have secondary names because each clef is centered around the pitch in its
 
 For a well-researched, short article on the evolution of clefs, I suggest reading Jimmy Stamp's [The Evolution of the Treble Clef](http://www.smithsonianmag.com/arts-culture/the-evolution-of-the-treble-clef-87122373/) from the Smithsonian website.
 
-## Tips and tricks
+### Tips and tricks
 
 When asked about their methods, past students suggested working on clefs via:
 - Memorization - The most widely used method uses flash cards or other repetitive devices to practice identifying notes on each clef to ensure a quick and efficient memorization.

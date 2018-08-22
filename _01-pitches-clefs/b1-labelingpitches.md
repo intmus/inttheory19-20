@@ -52,7 +52,7 @@ Using the example material to look at examples of enharmonic equivalents, the cl
   A, B-double-flat, G-double-sharp
   B, C-flat, D-double-sharp
 
-Each note in these groups belong to the same pitch-class, because they share an identical frequency in their sound waves. Yet they function differently within the context of music, so we have multiple ways of labeling the same frequency.
+Each pitch in these groups belong to the same pitch-class, because they share an identical frequency in their sound waves. Yet they function differently within the context of music, so we have multiple ways of labeling the same frequency.
 
 The most important realization was that letter system employed in staff notation is the limiting factor in creating enharmonic equivalents within a pitch-class. The pitch-class that includes A-flat is isolated from its neighbors in such a way that there is no pitch that uses the letter *F* or *B* to create a third enharmonic equivalent if we limit ourselves to only the five common accidentals. The interaction between the 7 letter names and 12 pitch-classes is the basis for our musical notation system and will be critical in how we label intervals, chords, and scales.
 
