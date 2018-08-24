@@ -20,7 +20,7 @@ abc: true
 
   -Tenor and Alto clefs can be thought of as opposites. Tenor clef is lower sounding, but read as if it is higher than treble clef, Alto    Clef is higher sounding, but is read lower than treble clef
 
-  -Imagine your familiar clef as if it is encircling a new line and read it familiarly from there
+  -Imagine your familiar clef as if it is encircling a new line and read it as you know it from there
 
 
 Further Reading
