@@ -98,6 +98,7 @@ There are a few simple rules to label octaves using the ISO system.
 - The numbers represent an octave range and higher numbers equate to higher octaves.
 - Each numbered octave starts on C, not A.
     - Each number ends on B.
+    - Even if two notes are enharmonically equivalent, they can have different octave designations. For example, C-flat4 and B3 are enharmonically equivalent, but because they straddle the octave break between C and B, they are labeled as belonging to different octaves.
 
 You were given that that C4 is *middle C*, and from this, you should be able to determine where *middle C* is on each clef
 
