@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Examples 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
+title: Lesson 2b - Scales and Scale Degrees - Diatonic, Pentatonic, and Chromatic
 abc: true
 ---
 
