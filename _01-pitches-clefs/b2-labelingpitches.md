@@ -6,7 +6,20 @@ abc: true
 
 ## Class Discussion
 
-TBD
+**Explaining ISO to "non-majors"**
+-Use science to explain how wavelength and frequency influence our perception of pitch
+
+-Use a keyboard to demonstrate how a note can sound the same, but higher or lower
+
+-Use simple terms such as higher and lower
+
+-Make sure they know that the alphabet goes back to A after G in music
+
+-Music tradition is based  on a seven note scale
+
+Post the Bobby McPheren pentatonic scale video
+
+
 
 Further Reading
 ======
