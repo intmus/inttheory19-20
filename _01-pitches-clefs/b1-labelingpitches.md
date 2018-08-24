@@ -6,23 +6,23 @@ abc: true
 
 ## Accidentals
 
-This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }} /01-pitches-clefs//b2-labelingpitches.html).
+This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }}/01-pitches-clefs//b2-labelingpitches.html).
 
-## Differentiating and Labeling Pitch-classes
+## Differentiating and Labeling Pitch Classes
 
 ### Octaves
 
-When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, middle C is labeled as C4. 
+When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, each pitch is given a numeral that designates its octave. For example, middle C is labeled as C4. 
 
 ### Enharmonic Equivalence
 
-At its core, enharmonic equivalence is an easy concept: When two pitches sound the same -- meaning that they share identical wavelength frequencies -- but have different note names (i.e. letters), they are considered to be enharmonically equivalent. All pitches that are enharmonic equivalents create a *pitch-class*, so there are twelve possible pitch-classes. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Note that all but one pitch-class has at least three enharmonic equivalents when using the five most-common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch-class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
+When studying tonal harmony, C-sharp and D-flat have unique functions and are *not* interchangeable, however, when considering their acoustic properties, there is no difference between these two pitches. At its core, enharmonic equivalence is an easy concept: When two pitches sound the same -- meaning that they share identical wavelength frequencies -- but have different note names (i.e. letters), we consider them to be enharmonically equivalent. All pitches that are enharmonic equivalents create a *pitch class*, meaning that there are twelve pitch classes in traditional Western tonality. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Note that all but one pitch class has at least three enharmonic equivalents when using the five most common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
 
 ## Goals for this topic
 
 Using the examples below, determine:
-- three *enharmonic equivalents* for every *pitch-class*
-    - one *pitch-class* only has two enharmonic equivalents if only using the five most common accidentals
+- three *enharmonic equivalents* for every *pitch class*
+    - one *pitch class* only has two enharmonic equivalents if only using the five most common accidentals
 - where C4 lies in each clef
 - what the numeral refers to in the ISO system for labeling octaves
 - how these numerals interact with letters
@@ -45,20 +45,20 @@ V:4 name="Bass Clef" clef="bass"
 _D, ^C, |^B,, C, |D, __E,|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-#### Enharmonic Equivalence and Pitch-Classes
+#### Enharmonic Equivalence and Pitch classes
 
-Using the example material to look at examples of enharmonic equivalents, the class worked together to determine which pitch-classes had three enharmonic equivalents and which had two. The first two examplex given were:
+Using the example material to look at examples of enharmonic equivalents, the class worked together to determine which pitch classes had three enharmonic equivalents and which had two. The first two examplex given were:
   
   A, B-double-flat, G-double-sharp
   B, C-flat, D-double-sharp
 
-Each pitch in these groups belong to the same pitch-class, because they share an identical frequency in their sound waves. Yet they function differently within the context of music, so we have multiple ways of labeling the same frequency.
+Each pitch in these groups belong to the same pitch class, because they share an identical frequency in their sound waves. Yet they function differently within the context of music, so we have multiple ways of labeling the same frequency.
 
-The most important realization was that letter system employed in staff notation is the limiting factor in creating enharmonic equivalents within a pitch-class. The pitch-class that includes A-flat is isolated from its neighbors in such a way that there is no pitch that uses the letter *F* or *B* to create a third enharmonic equivalent if we limit ourselves to only the five common accidentals. The interaction between the 7 letter names and 12 pitch-classes is the basis for our musical notation system and will be critical in how we label intervals, chords, and scales.
+The most important realization was that letter system employed in staff notation is the limiting factor in creating enharmonic equivalents within a pitch class. The pitch class that includes A-flat is isolated from its neighbors in such a way that there is no pitch that uses the letter *F* or *B* to create a third enharmonic equivalent if we limit ourselves to only the five common accidentals. The interaction between the 7 letter names and 12 pitch classes is the basis for our musical notation system and will be critical in how we label intervals, chords, and scales.
 
 {% capture ex2 %}X:2
 T:Enharmonic Equivalence
-T:Each measure contains all notes within a pitch-class that are enharmonically 
+T:Each measure contains all notes within a pitch class that are enharmonically 
 T:equivalent using only the five most-common accidentals.
 M:3/4
 L:1/4
