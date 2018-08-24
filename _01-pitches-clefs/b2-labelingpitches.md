@@ -6,38 +6,38 @@ abc: true
 
 ## Class Discussion
 
-**Explaining ISO to "non-majors"**
+### Explaining ISO to "non-musicians"
 
--Use science to explain how wavelength and frequency influence our perception of pitch
+- Use science to explain how wavelength and frequency influence our perception of pitch
 
--Use a keyboard to demonstrate how a note can sound the same, but higher or lower
+- Use a keyboard to demonstrate how a note can sound the same, but higher or lower
 
--Use simple terms such as higher and lower
+- Use simple terms such as higher and lower
 
--Make sure they know that the alphabet goes back to A after G in music
+- Make sure they know that the alphabet goes back to A after G in music
 
--Music tradition is based  on a seven note scale
+### Prevalence of the pentatonic scale (and dividing the octave into 12 parts)
 
-Post the Bobby McPheren pentatonic scale video
+Western musical tradition is based on a seven note scale, although this requires dividing the octave into twelve pitches. We will explore this more fully when we get discuss the overtone series and its effect on tonal harmony, but in the meantime, watch this video as Bobby McFerrin quickly demonstrates how pervasive the pentatonic scale--and therefore the 12-pitch octave--is to a human mind.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+## Further Reading
 
-Further Reading
-======
+### From *Open Music Theory*
 
-## From *Open Music Theory*
-
-### The Keyboard ###
+### The Keyboard
 
 The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
 
 ![][keyboard]
 
-### Enharmonic equivalence ###
+### Enharmonic equivalence
 
 Notice that some of the keys have two names. When two pitch classes share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each key could have several names (the note C could also be considered D&#9837;&#9837;, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
 
-### Octave Designation ###
+### Octave Designation
 
 When specifying a particular pitch precisely, we also need to know the *register*. In fact, if all you have is C-sharp or B-flat, you do not have a *pitch*, you have a *pitch-class*. A pitch-class plus a register together designate a specific pitch. 
 

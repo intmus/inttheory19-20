@@ -4,6 +4,8 @@ title: Examples 2a - Identifying and Labeling Intervals
 abc: true
 ---
 
+Intervals are the fundamental building blocks of melody and harmony. At their simplest,intervals need only measure the distance between two pitches, but there are many variables in music for which we must account.
+
 ## Goals for this topic
 
 Using the examples below, develop a simple explanation for how we find each of the following:
