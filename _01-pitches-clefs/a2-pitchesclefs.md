@@ -16,7 +16,7 @@ abc: true
 
   -Relate the unfamiliar clef to the one you know best and then rely on your visual prowess
  
-  -Transpose! this may be more useful for instrumentalists that practice this
+  -Transpose! This may be more relevant for instrumentalists that practice this
 
   -Tenor and Alto clefs can be thought of as opposites. Tenor clef is lower sounding, but read as if it is higher than treble clef, Alto    Clef is higher sounding, but is read lower than treble clef
 
