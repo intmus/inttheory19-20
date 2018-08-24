@@ -6,7 +6,7 @@ abc: true
 
 ## Class Discussion
 
--Clefs are helpful for saving ink and limits excessive reading of leger lines
+-Clefs are helpful for saving ink and limits excessive reading of ledger lines
 
 **Clef reading tips:**
 
