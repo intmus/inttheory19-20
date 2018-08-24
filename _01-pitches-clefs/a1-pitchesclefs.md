@@ -4,11 +4,11 @@ title: Lesson 1a - Pitches and Clefs
 abc: true
 ---
 
-## A Starting Place
+### A Starting Place
 
 Most beginning music theorists are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- due to time spent performing as an instrumentalist or vocalist. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }} /01-pitches-clefs/a2-pitchesclefs.html). 
 
-## _Clefs_
+## **Clefs**
 
 Even though most college music students are familiar with reading music, they are usually far more comfortable when working in the clef most associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only the two most common clefs -- treble and bass -- but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used by instruments such as viola, cello, trombone, and bassoon. They alleviate the use of ledger lines in the extreme registers of an instrument, so it is imperative that you become comfortable reading music in all of the most common clefs.
 

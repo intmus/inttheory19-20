@@ -8,7 +8,7 @@ abc: true
 
 This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }}/01-pitches-clefs//b2-labelingpitches.html).
 
-## Enharmonic Equivalence and Pitch Classes
+## **Enharmonic Equivalence and Pitch Classes**
 
 When studying tonal harmony, C-sharp and D-flat have unique functions and are *not* interchangeable, however, when considering their acoustic properties, there is no difference between these two pitches. At its core, enharmonic equivalence is an easy concept: When two pitches sound the same -- meaning that they share identical wavelength frequencies -- but have different note names (i.e. letters), we consider them to be enharmonically equivalent. All pitches that are enharmonic equivalents create a *pitch class*, meaning that there are twelve pitch classes in traditional Western tonality. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Note that all but one pitch class has at least three enharmonic equivalents when using the five most common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
 
@@ -59,9 +59,9 @@ K:C
 ^G _A z| ^^G A __B| ^A _B __C| ^^A B _C|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-## Labeling Octaves and Clef Relationships
+## **Labeling Octaves and Clef Relationships**
 
-### Octaves
+### ISO
 
 When labeling pitches, we also need a way to refer to specific octaves or registers. We will be using the system used by the International Standard Organization (ISO). In this system, each pitch is given a numeral that designates its octave. For example, middle C is labeled as C4.
 
