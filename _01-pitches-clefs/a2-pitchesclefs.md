@@ -8,7 +8,7 @@ abc: true
 
 -Clefs are helpful for saving ink and limit excessive reading of leger lines
 
-_Clef reading tips:_
+**Clef reading tips:**
 
   -Find the note the clef encircles and work from there, this is safe but slow
 
