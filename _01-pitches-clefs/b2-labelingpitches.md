@@ -7,6 +7,7 @@ abc: true
 ## Class Discussion
 
 **Explaining ISO to "non-majors"**
+
 -Use science to explain how wavelength and frequency influence our perception of pitch
 
 -Use a keyboard to demonstrate how a note can sound the same, but higher or lower
