@@ -23,6 +23,5 @@ For information about getting started with [Disqus](https://disqus.com/) and our
 
 - [General Concepts]({{ "/forum/concepts.html" | absolute_url }}) ([0 Comments]({{ "/forum/concepts.html#disqus_thread" | absolute_url }}))
 - [Typos and Website Suggestions]({{ "/forum/suggestions.html" | absolute_url }}) ([0 Comments]({{ "/forum/suggestions.html#disqus_thread" | absolute_url }}))
-- [Fall 2017 Homework Help]({{ "/forum/homework.html" | absolute_url }}) ([0 Comments]({{ "/forum/homework.html#disqus_thread" | absolute_url }}))
 
 <script id="dsq-count-scr" src="//intmus.disqus.com/count.js" async></script>
