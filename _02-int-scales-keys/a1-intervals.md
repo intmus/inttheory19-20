@@ -60,7 +60,7 @@ Our goal when measuring intervals is intrinsically tied to the tonal system that
 
 In a diatonic labeling system, every interval has a *size* and a *quality*. 
 
-For example, in a minor second, labeled `m2`, the **m** indicates the *quality*  or the interval and the **2** indicates the *size* of the interval.
+For example, in a minor second, labeled `m2`, the **m** indicates the *quality* of the interval and the **2** indicates the *size* of the interval.
 
 ### Interval size
 
@@ -68,21 +68,22 @@ Interval *size* can be determined by considering either:
 - lines and spaces
 - letter names
 
-Both these methods will come to the same result, although counting letter names can yield results without requiring the presence (or visualization) of a staff. Do not forget that you must include the both letters when counting. (e.g. The ascending interval from A to C is a third, because you must count A (1), B (2), and C (3).)
+Both these methods will correctly identify interval size, although counting letter names yields results without requiring the presence (or visualization) of a staff. Do not forget that you must include the both letters when counting. (e.g. The ascending interval from A to C is a third, because you must count A (1), B (2), and C (3).)
 
 This means that any interval that has the same two letters, regardless of accidentals or key signatures, will always have the same *size*. Using our previous example, the *size* of the interval between `G` and `D-flat` is a fifth. We can change the bottom note to any other `G` (`G-sharp, G-flat`, etc.) and the top note to any other `D` (`D-sharp, D-natural`, etc.), but the *size* of that interval will **always** be a fifth. Yet if we exchange the `D-flat` for its enharmonic equivalent, `C-sharp`, we alter the letters and turn the *size* of the interval into a fourth.
 
 ### Interval quality
 
-(If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales (2b)]({{ site.baseurl }}/02-int-scales-key/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also scroll to the bottom of this section and read a useful method from the writers of *Open Music Theory*.) 
+- If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales (2b)]({{ site.baseurl }}/02-int-scales-key/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also go to the [Further Reading]({{ site.baseurl }}/02-int-scales-key/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
-- **Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
-- When looking at an interval, consider the bottom pitch of the interval as `do`of a major scale.
-- If the top pitch of the interval is a note that already exists in that major scale, it is either a major or perfect interval. Whether major or perfect depends on the *size*.
-- Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
-- Seconds, thirds, sixths, and sevenths occur naturally as *major* intervals within the major scale.
-- Any alteration from the basic major and perfect intervals can then be labeled by looking at the direction of alteration and the number of half-steps that the interval was altered.
+
+**Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
+1. When looking at an interval, consider the bottom pitch of the interval as `do` of a major scale.
+1. If the top pitch of the interval is a note that naturally exists in that major scale, it is either a major or perfect interval. Whether major or perfect depends on the *size*.
+  - Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
+  - Seconds, thirds, sixths, and sevenths occur naturally as *major* intervals within the major scale.
+1. Any alteration from the basic major and perfect intervals can then be labeled by looking at the direction of alteration and the number of half-steps that the interval was altered.
   - If the original interval is *perfect*:
     - Raising the interval by a half-step creates an *augmented* interval.
     - Lowering the interval by a half-step creates a *diminished* interval.
