@@ -5,7 +5,23 @@ title: Discussion 2a - Identifying and Labeling Intervals
 
 ## Class Discussion
 
-TBD
+#**Let's Teach: Interval Size**
+
+-Ignore the accidentals
+
+-How close together are the dots?
+
+-Count the lines and spaces, Include the lowest note in your counting
+
+-Letters! Count the letters alphabetically, restarting from G to A, to find the interval size, Include the first letter in your counting
+
+#**Let's Teach: Interval Quality**
+
+-The half-step is the smallest interval
+
+-The whole-step is two half-steps put together
+
+-Relate intervals to scales
 
 ## Further Reading
 
