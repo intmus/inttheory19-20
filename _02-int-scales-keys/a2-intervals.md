@@ -5,7 +5,7 @@ title: Discussion 2a - Identifying and Labeling Intervals
 
 ## Class Discussion
 
-#**Let's Teach: Interval Size**
+**Let's Teach: Interval Size**
 
 -Ignore the accidentals
 
@@ -15,7 +15,7 @@ title: Discussion 2a - Identifying and Labeling Intervals
 
 -Letters! Count the letters alphabetically, restarting from G to A, to find the interval size, Include the first letter in your counting
 
-#**Let's Teach: Interval Quality**
+**Let's Teach: Interval Quality**
 
 -The half-step is the smallest interval
 
