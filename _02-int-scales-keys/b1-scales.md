@@ -6,13 +6,14 @@ abc: true
 
 <!--  MUST ADD MODES BEFORE NEXT YEAR IN ORDER TO PREPARE MODE MIXTURE -->
 
-In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. The common practice period is generally considered to include Western art music from the Renaissance through the late Romantic eras, but any music that that grew out of this tradition -- including almost all popular music today -- can be analyzed using the tools we will study for common practice harmony.
+In this course, we will be studying many styles of music, but all of these will have roots in the harmonic and melodic practices of the common practice period. The common practice period is generally considered to include Western art music from the Renaissance through the Romantic eras, but any music that that grew out of this tradition--including almost all popular music today--can be analyzed using the tools we will study for common practice harmony.
 
-Whereas intervals are the basic building blocks of all music, *scales* represent the next step up the complexity ladder. Whenever you stack any number of pitches from top to bottom, you create a scale. A scale is a collection of pitches with a defined intervallic pattern -- in short, a series of intervals -- and can encompass any tuning system or style of composition.
+## **Scales**
+Whereas intervals are the basic building blocks of all music, *scales* represent the next step up the complexity ladder. Whenever you group any number of pitches from top to bottom, you create a scale. A scale is a collection of pitches with a defined intervallic pattern when organized in a ascending or descending form--in short, a series of intervals--and can encompass any tuning system or style of composition.
 
 We will explore some extended scales later in this course, but certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, pentatonic, and chromatic*.
 
-## Goals for this topic:
+### Goals for this topic:
 
 Using the examples below, create definitions and/or simple explanations for:
 - the intervallic pattern of the *major* scale and all forms of *minor* scales
@@ -22,7 +23,7 @@ Using the examples below, create definitions and/or simple explanations for:
     - how the names for each scale degree are derived (e.g. How are dominant and subdominant scale degrees related?)
 - the Latin spelling for every solfege
 
-## Instructions for these examples
+### Important notes
 
 The following examples demonstrate how the tune of *Happy Birthday* would be written if only using the notes from a particular scale. In all examples, scale degrees are numbered below each pitch as well as solfege using movable "do". Additionally,scale degrees are named above the pitches for the examples in major and melodic minor. When determining your pitch collections, pay particular attention to the differences of the sixth and seventh scale degrees.
 
@@ -165,11 +166,13 @@ w:sol se fa me me re do ti te la fa fa mi ri mi do di re ra do{% endcapture %}
 
 Upon hearing a scale, most non-musicians recognize an obvious building block for creating music, even though they cannot articulate why. In my opinion, the simplest definition of music is "organized sound", and a scale represents an easily understood arrangement of pitches. 
 
-This definition also provides a great launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the method used to organize it will define any *style* of composition. For this course, we will be studying *tonal* music, because *tonal* describes the organizational method of this music.
+This definition also provides a launching point for discussing pitch collections and scales. If we accept that music is "organized sound", then the method used to organize it will define any *style* of composition. For this course, we will be studying *tonal* music, because *tonal* describes the organizational method of this music.
 
 Tonal music is organized around a central tone called the *tonic*.
 
-Once we have chosen a central pitch around which we build a tonality, every pitch in the tonality can be summarized by its relationship to that pitch. It is these intervallic relationships that create pitch collections, and if that pitch collection has certain properties, it can be further categorized. 
+Once we have chosen a central pitch around which we build a tonality, every pitch in the tonality is defined by its relationship to that pitch. It is these intervallic relationships that create pitch collections, and we can further categorize them by studying their commonalities and differences. 
+
+## Diatonic music
 
 For the majority of this course, we will be discussing *diatonic* music which is a subset of tonal music. The term *diatonic* can have a variety of meanings depending on context, but for this course, we will be using this term to refer to music that:
 - is built around a tonic
@@ -181,7 +184,7 @@ Put simply, our musical hierarchy is:
 - *Music* - organized sound
     - *Tonal music* - music organized around a central pitch
         - *Diatonic music* - tonal music that uses all seven letter names only once and follows a specific order of intervals
-            - *Scale* - a condensed ordering of all seven pitches in a diatonic pitch collection where all intervals are either minor 2nds or major 2nds
+            - *Diatonic scale* - a condensed ordering of all seven pitches in a diatonic pitch collection where all intervals are either minor 2nds or major 2nds
 
 ### Intervallic patterns
 
@@ -205,13 +208,25 @@ Melodic minor scales have both an ascending and descending form. The descending 
 
 W - H - W - W - W - W - H
 
-### Scale degrees
+### Labeling scale degrees
 
-When discussing scales, it is helpful to have a way to refer to pitches that does not reference the particular key. For example, the first "Happy Birthday" example on the previous page is written in G major, but there are eleven other keys in which we could write that melody. In order to reference the interval pattern rather than the actual pitches, we use *scale degrees*. 
+When discussing scales, it is helpful to have a method that refers to pitches without referencing a specific key. For example, the first "Happy Birthday" example on the previous page is written in G major, but there are eleven other tonics around which we could structure that melody's intervallic structure. In order to reference the interval pattern rather than the actual pitches, we use *scale degrees*. 
 
-The most common way to communicate pitches of the scale is to use scale degree numbers. We denote these by placing a caret `^` above the scale degree number. For example, the pitch that is a fifth above the tonic would be called fifth scale degree and would be written as `^5`, although the caret would be above the numeral,not to the side. 
+One common way to communicate pitches of the scale is to use scale degree numbers. We denote these by placing a caret `^` above the scale degree number. For example, the pitch that is a fifth above the tonic would be called fifth scale degree and would be written as `^5`, although the caret would be above the numeral, not to the side.
 
-Another traditional method is to use the names of the functions of each pitch as it relates to tonic. These names evolved over centuries of theory treatises from scholars such as Rameau, Riemann, Secther, Schoenberg, and Schenker. We will not use these names often in this course, but knowing them can help understand harmonic function when that concept is introduced.
+A second common way to describe scale degrees is to use *solfege syllables*. In this system, each scale degree is assigned a single-syllable Latin word, and this can be helpful when sight-singing. The chart below shows all seven base solfege syllables and how each can be altered for raised and lowered pitches. If a solfege symbol is marked as "N/A", this alteration is non-functional in tonal harmony.
+
+Scale degree | Solfege syllable | Raised | Lowered
+ --- | --- | --- | ---
+ ^1 | do | di | N/A
+ ^2 | re | ri | ra
+ ^3 | mi | N/A | me
+ ^4 | fa | fi | N/A
+ ^5 | sol | si | se
+ ^6 | la | li | le
+ ^7 | ti | N/A | te
+
+A final method for labeling scale degrees is to use the names of the functions of each pitch as it relates to tonic. These names evolved over centuries of theory treatises from scholars such as Rameau, Riemann, Secther, Schoenberg, and Schenker. We will not use these names often in this course, but knowing them can help understand harmonic function when that concept is introduced.
 
 They are:
 1. Tonic 
@@ -224,11 +239,11 @@ They are:
 
 Notice the relationship between any term and its counterpart as denoted by the prefix `sub`. The dominant is a fifth above the tonic; the subdominant is a fifth below the tonic. The mediant is a third above the tonic; the submediant is a third below the tonic. 
 
-The supertonic is a 2nd above the tonic, but because of the importance and function of the leading-tone, the scale degree names changes to reflect the difference between a major 2nd below the tonic versus the minor 2nd below the tonic. If the 2nd below the tonic is a whole-step, we call it the subtonic. If the 2nd below the tonic is a half-step, we call it the leading-tone. This is true in both major and minor.
+The supertonic is a 2nd above the tonic, but because of the importance and function of the leading-tone, its scale degree name changes to reflect the difference between a major 2nd below the tonic versus the minor 2nd below the tonic. If the 2nd below the tonic is a whole-step, we call it the subtonic. If the 2nd below the tonic is a half-step, we call it the leading tone. This is true in both major and minor.
 
 ### Tonal centers and modes
 
-We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example,G major and G minor are the same key, but different modes.
+We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature.
 
 ### Why we need three minor scales
 
@@ -238,11 +253,11 @@ Natural minor is the most obvious. It uses all of the naturally occurring notes 
 
 We will discuss the role of harmonic minor more when we begin analyzing chords, but as the name implies, it is a form of minor that emphasizes the most common scale degrees from a harmonic standpoint.
 
-However, the "Happy Birthday" examples from the previous page are perfect for exploring the imoprtance of melodic minor. By keeping the interval sizes from "Happy Birthday" but changing the pitches to fit the various forms of minor, I created three similar but distinct versions of "Happy Birthday". When the class listened to the natural minor version, they felt that the first `te` did not work with the tune. In the harmonic minor version, the augmented 2nd that occurs between `ti` and `le` surprised them and "felt wrong". Finally, the melodic minor version sounded entirely correct (although one student didn't like the depressing change to a happy song...)
+The "Happy Birthday" examples above are perfect for exploring the importance of melodic minor. By keeping the interval sizes from "Happy Birthday" but changing the pitches to fit the various forms of minor, you can hear three similar but distinct versions of "Happy Birthday". When a student first listens to the natural minor version, they often feel that the first `te` does not work with the rest of the tune, and in the harmonic minor version, the augmented 2nd that occurs between `ti` and `le` is jarring. On the other hand, the melodic minor version sounds entirely correct (although some may not like the darker tone of a traditionally "happy" song.)
 
-This easily highlighted the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most obviously jarring version.)
+This easily highlights the role of melodic minor -- to create melodies in minor. By having both an ascending and descending version, we can resolve the sixth and seventh scale degrees upward and downward by relying on the tendency of those scale degrees. `Te` and `le` both have a strong downward pull and almost always resolve downward. `Ti` and `la` both have a strong upward pull and tend to resolve upward. These are general rules and are occasionally broken, but I encourage you to play with the example below to hear how "strange" the piece becomes if you do not allow the sixth and seventh scale degrees to account for their resolutions. (Try putting `la` in for every sixth scale degree for the most obviously jarring version.)
 
-{% capture ex1 %}X:1
+{% capture ex8 %}X:8
 %%staffsep 100%
 T:Happy Birthday in G melodic minor
 T:using the parallel minor to G major
@@ -256,7 +271,7 @@ w:sol sol le sol do ti sol sol le sol re do sol sol
 d B G| F HE c/2>c/2| B G A/4D/4=E/4^F/4| G2|]
 w:^5 ^3 ^1 ^7 ^6 ^4 ^4 ^3 ^1 ^2 ^5 ^#6 ^#7 ^1
 w:sol me do te le fa fa me do re sol la ti do{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="8" abc=ex8 %}
 
 ### Pentatonic Scales
 
@@ -274,7 +289,7 @@ Even though they do not function diatonically, there are two general concepts of
 
 ### Chromatic scale
 
-The chromatic scale is not a tonality, because it has no tonic. It is however, the ultimate pitch collection and functions as a useful way to familiarize a student with all twelve pitch-classes.
+The chromatic scale is not a tonality, because it has no tonic. It is however, the ultimate pitch collection and functions as a useful way to familiarize a musician with all twelve pitch-classes.
 
 The final "Happy Birthday" version on the previous page uses every possible scale degree in order to demonstrate resolution in a diatonic key, but it is not a "chromatic" tonality. That example is still in G major, but it is heavily embellished using chromatic tones.
 
@@ -284,7 +299,7 @@ Of particular note, the example demonstrates the importance of considering resol
 
 If we were to put attach all of these ideas to staff notation, we get:
 
-{% capture ex2 %}X:2
+{% capture ex9 %}X:9
 %%staffsep 100%
 T:Major scales
 M:4/4
@@ -297,9 +312,9 @@ w:tonic supertonic mediant subdominant dominant submediant leading~tone
 "Pentatonic" G A B d e ||
 w:^1 ^2 ^3 ^5 ^6
 w:do re mi sol la{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="9" abc=ex9 %}
 
-{% capture ex3 %}X:3
+{% capture ex10 %}X:10
 %%staffsep 100%
 T:Minor scales
 M:4/4
@@ -319,4 +334,4 @@ w:do re me fa sol la ti do te le sol fa me re do
 "Pentatonic" G B c d f ||
 w:^1 ^3 ^4 ^5 ^7 
 w: do me fa sol te{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="10" abc=ex10 %}
