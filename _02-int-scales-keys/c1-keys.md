@@ -4,11 +4,13 @@ title: Lesson 2c - Key Signatures
 abc: true
 ---
 
-As discussed in the previous topic, scales represent a pitch collection that centralizes around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we can create twelve unique pitch centers -- called *keys* -- and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
+As discussed in the previous topic, scales represent a pitch collection that centralizes around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers -- called *keys* -- and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
+
+## Key signatures
 
 The structure of key signatures relates to the very nature of diatonic harmony. This music is built around perfect intervals, and as we discussed in our topic on scales, the one non-perfect 4th/5th in the major scale is the one that creates the tension necessary to accentuate the tonic and therefore creates our tonal system. Because of this non-perfect interval, key signatures follow a very simple pattern that can be reversed whether you are raising or lowering pitches.
 
-## Goals for this topic
+### Goals for this topic
 
 In the examples below, you will find sets of three keys. Use these to find:
 - the order of sharps and flats
@@ -18,11 +20,11 @@ In the examples below, you will find sets of three keys. Use these to find:
 - a method for determining the *relative* and *parallel* minor keys from a major key
     - as well as the *relative* and *parallel* major keys from a minor key
 
-## A caveat
+### A caveat
 
 Please note that any *scale* that shares a tonic note is considered to be one key. Even though this may contradict your intuitive thoughts, this means that G major and G minor are considered the same **key**! Instead, we call them *modes* of each other, not different keys. The explanation for this terminology is best left for once we have more tools to examine it, but for now, practice using the correct terminology to avoid a confusing "re-learning" moment later in the course.
 
-## Keys that use sharps and the minor keys that are related to them
+### Keys that use sharps and the minor keys that are related to them
 
 Use these examples to determine the order of sharps. Pay particular attention to which **scale degrees** are affected in each key as sharps are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.
 
@@ -57,7 +59,7 @@ G,,A,, B,,C, D,E, F,G, ||[K:F] D,E, F,G, A,B, CD||[K:C] A,,B,, C,D, E,F, G,A,|]
 w: G min (G maj) _ _ _ _ D min (D maj) _ _ _ _ _ _ A min (A maj){% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-## Keys that use flats and the minor keys that are related to them
+### Keys that use flats and the minor keys that are related to them
 
 Use these examples to determine the order of flats. Pay particular attention to which **scale degrees** are affected in each key as flats are added. Is it the same scale degree in each key? How is this related to the tonic? If you continue the pattern, are you able to discern the name of the next key and which accidentals are added? You should also be able to determine the relationship between a major key and its parallel and relative minors.
 
@@ -90,4 +92,5 @@ L:1/8
 K:Db clef=bass
 B,,C, D,E, F,G, A,B,||[K:Gb] E,F, G,A, B,C DE||[K:Cb] A,,B,, C,D, E,F, G,A,|]
 w: B-flat min (B-flat maj) _ _ E-flat min (E-flat maj) _ _ A-flat min (A-flat maj)(A maj){% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="6" abc=ex6 %}
+

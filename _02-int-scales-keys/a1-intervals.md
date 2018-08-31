@@ -74,7 +74,7 @@ This means that any interval that has the same two letters, regardless of accide
 
 ### Interval quality
 
-- If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales (2b)]({{ site.baseurl }}/02-int-scales-key/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also go to the [Further Reading]({{ site.baseurl }}/02-int-scales-key/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
+- If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales]({{ site.baseurl }}/02-int-scales-keys/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also go to the [Further Reading]({{ site.baseurl }}/02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
 

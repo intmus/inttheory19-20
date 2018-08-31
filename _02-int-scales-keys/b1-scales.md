@@ -118,7 +118,7 @@ L:1/4
 Q:1/4=90
 K:G
 D/2>D/2| E D G| D2 D/2>D/2| E D A| G2 D/2>D/2|
-w:^5 ^5 ^6 ^5 ^1 ^6 ^5 ^5 ^6 ^5 ^2 ^1 ^5 ^5
+w:^5 ^5 ^6 ^5 ^1 ^5 ^5 ^5 ^6 ^5 ^2 ^1 ^5 ^5
 w:sol sol la sol do sol sol sol la sol re do sol sol
 d B G| D E d/2>d/2| B G A| G2|]
 w:^5 ^3 ^1 ^5 ^6 ^5 ^5 ^3 ^1 ^2 ^1
@@ -127,7 +127,7 @@ w:sol mi do sol la sol sol mi do re do{% endcapture %}
 
 ### Minor pentatonic
 
-The same can be stipulation applies to the minor pentatonic scale that applied to the major pentatonic scale. These scales do not correlate directly to their seven-note counterparts, so this is more of a re-imagining of Happy Birthday.
+We must also apply the same restrictions to the minor pentatonic scale. These scales do not correlate directly to their seven-note counterparts, so this is more of a re-imagining of Happy Birthday.
 
 {% capture ex6 %}X:6
 %%staffsep 75%
@@ -172,10 +172,10 @@ Tonal music is organized around a central tone called the *tonic*.
 
 Once we have chosen a central pitch around which we build a tonality, every pitch in the tonality is defined by its relationship to that pitch. It is these intervallic relationships that create pitch collections, and we can further categorize them by studying their commonalities and differences. 
 
-## Diatonic music
+### Diatonic music
 
 For the majority of this course, we will be discussing *diatonic* music which is a subset of tonal music. The term *diatonic* can have a variety of meanings depending on context, but for this course, we will be using this term to refer to music that:
-- is built around a tonic
+- is built around a tonic pitch
 - includes all seven pitch names (i.e. letters)
 - has a specific order of intervals that create a scale
 
@@ -184,11 +184,11 @@ Put simply, our musical hierarchy is:
 - *Music* - organized sound
     - *Tonal music* - music organized around a central pitch
         - *Diatonic music* - tonal music that uses all seven letter names only once and follows a specific order of intervals
-            - *Diatonic scale* - a condensed ordering of all seven pitches in a diatonic pitch collection where all intervals are either minor 2nds or major 2nds
+            - *Diatonic scale* - a ascending (or descending) ordering of all seven pitches in a diatonic pitch collection, contained within one octave
 
 ### Intervallic patterns
 
-In diatonic music, each scale has seven pitches. All seven letters can be used once, and no letter can be used more than once. This creates a series of 2nds, and it is the alternation of major 2nds (whole-steps) and minor 2nds (half-steps) that create our scale.
+In diatonic music, each scale has seven pitches. All seven letters can be used once, and no letter can be used more than once. This creates a series of 2nds that create our scale.
 
 Major scales have an intervallic pattern of:
 
@@ -204,7 +204,7 @@ Harmonic minor scales have an intervallic pattern of:
 
 W - H - W - W - H - A - H
 
-Melodic minor scales have both an ascending and descending form. The descending melodic minor intervallic pattern is identical to a descending natural minor scale. (The necessity of this seemingly redundant pattern is discussed below under "Why we *need* three minor scales".) The ascending melodic minor intervallic pattern is:
+Melodic minor scales have both an ascending and descending form. The intervallic pattern for descending melodic minor is identical to a descending natural minor scale. (The necessity of this seemingly redundant pattern is discussed below under "Why we *need* three minor scales".) The intervallic pattern for 4ascending melodic minor is:
 
 W - H - W - W - W - W - H
 
