@@ -4,7 +4,7 @@ title: Lesson 2c - Key Signatures
 abc: true
 ---
 
-As discussed in the previous topic, scales represent a pitch collection that centralizes around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers -- called *keys* -- and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
+As discussed in the previous topic, scales represent a pitch collection, centered around a tonic pitch. Because we can transpose these pitch collections to center around any pitch-class, we create twelve unique pitch centers -- called *keys* -- and even more if we include enharmonic equivalents. Because writing accidentals for many of these keys would be clunky and difficult to read, we use a system of key signatures to give the performer a simple way of knowing which pitches in the key are raised and lowered.
 
 ## Key signatures
 
@@ -94,3 +94,42 @@ B,,C, D,E, F,G, A,B,||[K:Gb] E,F, G,A, B,C DE||[K:Cb] A,,B,, C,D, E,F, G,A,|]
 w: B-flat min (B-flat maj) _ _ E-flat min (E-flat maj) _ _ A-flat min (A-flat maj)(A maj){% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
+## Conclusions
+
+While memorizing the all key signatures is an important skill, we also can use the examples above to try to understand "how" key signatures effect keys.
+
+The division of the octave into twelve parts is our brains' interpretations of a simple mathematical phenomenon. When the frequency of a soundwave doubles, our brains hear those two frequencies as sharing some fundamental commonality, so it interprets those two pitches as the "same" but separated by an octave. Therefore, octaves always have a 2:1 ratio. (A110, A220, A440, and A880 are all `A` separated by octaves.) The next two simplest ratios ares a 3:2 ratio and a 4:3 ratio, which create a perfect 5th and a perfect 4th respectively. 
+
+The importance of these ratios is most easily observed in the circle of fifths. If you begin on any pitch-class and begin moving by ascending perfect 5ths (or 4ths), you will find yourself back at the beginning after cycling through all twelve pitch-classes. We call this the circle of fifths.
+
+C - G - D - A - E - B - F-sharp - C-sharp - G-sharp - D-sharp/E-flat - B-flat - F - *C*
+
+Perhaps more important for our discussion, though, is what happens when we introduce a non-perfect 5th into the pattern. If we begin on a pitch-class and begin moving through ascending perfect 5ths, each new perfect 5th will move us to a *new letter*. After seven letters, we will begin repeating letters but adding accidentals to them as seen in the circle of fifths above. If, however, we alter the last perfect 5th by a half-step to create a diminished 5th, we can break the pattern and shortcut to the end. 
+
+C - G - D - A - E - B - *F* - C
+
+This slight change creates the necessary tension for keys to function diatonically, so diatonic function could be described as a slight imperfection on an otherwise perfect series of intervals. 
+
+This can be further shown by looking at the naturally occuring intervals if we write diatonic 5ths above the notes of a major scale.
+
+{% capture ex7 %}X:7
+%%staffsep 100%
+T:Diatonic 5ths in the Major Scale
+M:C
+L:1/2
+K:C
+[CG] [DA]| [EB] [Fc]| [Gd] [Ae]| [Bf] [cg]||
+w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+When we begin exploring harmonic function in Unit 6, the tension provided by the one non-perfect 5th and its subsequent release will become obvious.
+
+Key signatures reflect the importance of the one non-perfect interval. When studying the consecutive key signatures on the previous page, I asked the students to focus on *which scale degree* is changed between consecutive keys. The class came up with two rules:
+- When a sharp is added to a key, it always raises the 7th scale degree in the new key, thereby creating the new `ti`.
+- When a flat is added to a key, it always lowers the 4th scale degree in the new key, thereby creating the new `fa`. 
+
+### Order of sharps and flats
+
+This directly reflects how diatonic function works; if we change *where* the one non-perfect 5th occurs, we change the key. We did not need to spend time determining the order of sharps and flats, because the class was already familiar with this from previous courses. It did not surprise them that circle-of-fifths plays a critical role in defining diatonic function and key signatures. The two orders are simply the reverses of each other. 
+- Order of sharps: F - C - G - D - A - E - B
+- Order of flats: B - E - A - D - G - C - F
