@@ -120,7 +120,7 @@ L:1/2
 K:C
 [CG] [DA]| [EB] [Fc]| [Gd] [Ae]| [Bf] [cg]||
 w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="7" abc=ex7 %}
 
 When we begin exploring harmonic function in Unit 6, the tension provided by the one non-perfect 5th and its subsequent release will become obvious.
 
