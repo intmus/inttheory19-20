@@ -1,0 +1,176 @@
+---
+layout: chapter
+title: Lesson 3a - Triads
+abc: true
+---
+
+In discussing key signatures, we explored how the interval of the perfect 5th cycles through all twelve pitch classes before repeating. And if we substitute a non-perfect 5th after moving through the first seven letter names, we found the defining interval that creates diatonic tonality. 
+
+This effect is demonstrated by stacking intervals of the 5th on a a major scale.
+
+{% capture ex1 %}X:1
+%%staffsep 100%
+T:Diatonic 5ths in the Major Scale
+M:C
+L:1/2
+K:C
+[CG] [DA]| [EB] [Fc]| [Gd] [Ae]| [Bf] [cg]||
+w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+If the study of the evolution of music, you will find that early harmony focused on perfect intervals, but diatonic harmony as we know it did not truly begin until composers began adding a third chordal member. This *chordal third* created two stacked intervals of a 3rd called a *triad*. Any harmonic system which relies on stacking thirds is called *tertian harmony*.
+
+{% capture ex2 %}X:2
+%%staffsep 100%
+T:Diatonic triads in the Major Scale
+M:C
+L:1/2
+K:C
+[CEG] [DFA]| [EGB] [FAc]| [GBd] [Ace]| [Bdf] [ceg]||
+w:M m m M M m d{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+Triads are important to almost all of Western music and form the basic unit in diatonic (key-based) harmony. While our ultimate goal is to describe how triads *function* harmonically, it is important that we are able to identify the structure of triads themselves independent of their diatonic functions, so we will begin by studying their intervallic structure.
+
+## Building diatonic triads
+
+All diatonic triads have exactly three pitches, although chordal members may be doubled and certain chord members can occasionally be omitted (and therefore implied) depending on the context. We name the chord members by the distance above the bottom pitch **when the chord is stacked in thirds**:
+- the lowest pitch is called the *root* of the chord
+- the pitch that is a 3rd above the root is called the *chordal third*
+- the pitch that is a 5th above the root is called the *chordal fifth*
+
+This can be confusing to beginning theory students, because we refer to intervals, scale degrees, and chordal members using the same ordinal numbers -- thirds, fifths, etc. -- and most often do not use the word "chordal". As you become more experienced in describing these things, you will be able to discern the meaning from context, but if you would like to avoid confusion for now, you can preface the ordinal number with the word "chordal" until you are comfortable. 
+
+### Triad inversions
+
+Because triads have three pitches, there are three possible configurations that depend on which note of the triad is in the lowest voice. We will call these *inversions*, but they are sometimes referred to as *positions*. The system that we use to label inversions relies on the intervals within the triad.
+
+### A note on terminology
+
+As dyads have two pitches, the word "triad" implies *any* collection of three pitches. In diatonic music, however, we use this word to refer to a certain intervallic structure, so until we reach the unit on post-tonal harmony, you may assume that the word "triad" refers to the stacked thirds of diatonic harmony. 
+
+## Goals for this topic
+
+Using the examples below:
+- determine what role each chord member -- root, third, and fifth -- plays in determining the quality of a triad
+- find all three intervals contained in a *root-position* triad for each chord quality
+- find the rest of the interval *sizes* between chord members of a triad (Hint: This may involve moving some chord members up or down an octave)
+    - thirds (2)
+    - fourth (1)
+    - fifth (1)
+    - sixths (2)
+- relate these interval sizes to our system for labeling triad inversions
+    - provide inversion figures for root position, first-inversion, and second-inversion triads
+- be able to explain how to turn any inverted and/or open-voiced triad into a root-position triad in a closed voicing
+
+### Triad qualities
+
+{% capture ex3 %}X:3
+T:Triad qualities
+M:2/4
+L:1/2
+K:C clef=bass
+"Augmented (A)"[_B,,D,^F,]| "Major (M)"[_B,,D,F,]| "Minor (m)"[_B,,_D,F,]| "diminished (d)"[_B,,_D,_F,]||{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+### Triad inversions
+
+Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use custom notation software, you would notate all inversion figures using superscript. For example, a major chord in first inversion would be written as M<sup>6</sup>
+
+{% capture ex4 %}X:4
+T:Triad inversions
+T:1) Inversion names are listed above the staff
+T:2) Inversion figures are listed below the staff
+T:---------
+M:2/4
+L:1/2
+K:C
+"Root-position"[_Bdf]| "First-inversion"[_BDF]| "Second-inversion"[_BdF]||
+w:5/3 6~(6/3) 6/4{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+### Triad voicings
+
+{% capture ex3 %}X:3
+T:Triad voicings
+M:2/4
+L:1/2
+K:C
+V:1
+"Closed"z| "Closed"[_BF]| "Open"[_Bf]| "Open"[fdF]|
+V:2 clef=bass
+[_B,,D,F,_B,]| [D]| [_B,,D]| [F,_B,]|{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+## Conclusions
+
+Your first goal should be to come up with a way to define each triad quality. To begin, you may classify triadic qualities by dividing them into two groups based on the defining chord members of the triads.
+
+When looking at a diatonic triad in root position:
+- If the chordal fifth is either a diminished or augmented fifth, then the triad is labeled as *diminished* or *augmented* respectively.
+    - Diminished triads always have a minor 3rd between the root and chordal third.
+    - Augmented triads always have a major 3rd between the root and chordal third.
+- If the chordal fifth is a perfect fifth, the chordal third determines whether a triad is *major* or *minor*.
+    - Major triads have a M3 above the root.
+    - Minor triads have a m3 above the root.
+
+From this, we can create a couple of simple groupings based on the chord members:
+- Between root and chordal 3rd
+  - Augmented and major triads always have a M3 (or inversion)
+  - Minor and diminished triads always have a m3 (or inversion)
+- Between root and chordal fifth
+  - Major and minor triads always have P5 (or inversion)
+  - Diminished triads always have a d5 (or inversion)
+  - Augmented triads always have an A5 (or inversion)
+
+Therefore, if a triad is in root position, you can determine triad qualities by the measuring the intervals of the stacked thirds.
+
+- Major: M3 + m3
+- Minor: m3 + M3
+- Diminished: m3 + m3
+- Augmented: M3 + M3
+
+### Inversions and their labels
+
+Having identified the intervallic structures of each triad, we can look at the various *inversions* of these triad. This entails knowing the naming conventions of inversions, the shorthand method for labeling them, and a method for determining the chord quality of a triad that is not presented in root position (stacked as two thirds on top of each other.) From the simple presentation of the above example, you should be able to identify that it is not necessary to know each interval within a triad to determine the inversion, but instead, you only need to identify the chordal member in the bass.
+
+- Root position: 5/3
+  - the root of the chord is in the bass
+  - The `5` and `3` refer to the simple intervals above the bass 
+- First inversion: 6/3 (shortened to 6)
+  - the 3rd of the chord is in the bass
+  - The `6` and `3` refer to the simple intervals above the bass
+- Second inversion: 6/4
+  - the 5th of the chord is in the bass- The `6` and `4` refer to the simple intervals above the bass
+
+Of note, there are six different possible intervals in a triad, depending on the inversion: two 3rds, two sixths, one fourth, and one fifth. These intervals always exist between the same two chord members.
+- The thirds exist between the root-third and third-fifth
+- The sixths come when you invert these either of the thirds, so between the third-root and fifth-third
+- The fifth always exists between root-fifth
+- The fourth is the inversion of the fifth, so between fifth-root
+
+### Chordal voicings
+
+This information is all important, but it assumes that you already know which chordal member of an inverted triad is the root. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
+
+Using the examples of open and closed voicings, students often suggest work through the following process:
+- open voicing is spread out
+  - True, but this is a subjective measure. What constitutes "spread out"?
+- closed positions use simple intervals and open positions use compound intervals
+  - This is interesting in that it works if the chord only has four notes, but does not hold up if there are five or more chord members.
+- open position skips one of the voices
+  - This definition is basically correct, but the term "voices" is problematic because "voices" does not relate directly to the chord.
+
+The final definition combined these three ideas.
+- Closed voicings contain all chord members within one octave.
+- Open voicings can have chord members stacked in any order, skip chord members, and cover more than one octave.
+
+### *Root* versus *bass*
+
+Understanding the difference between the terms *root* and *bass* is the last piece of information necessary to find the quality of any chord; students often confuse the two. The term *bass* **always** refers to the lowest voice of any chord. The *root* is the lowest member of the chord **if the chord is in root position**, meaning that the triad is stacked as two thirds. If a chord is in root position, the *root* and *bass* will be the same pitch, however if a triad is in first or second inversion, the *root* and *bass* will be different pitches.
+
+### Finding a chord quality while inverted
+
+Combining a knowledge of inversions and voicings is critical in correctly identifying chord qualities. Teachers often suggest to students that they can find chord qualities by putting a chord in root position, but a chord in root position can be spread across multiple staves and still difficult to parse. We really mean that they should put the chord in root position *and* closed voicing. This allows the student to look at the interval qualities and determine the quality of the triad based on their knowledge of triadic interval structures.
+
+I also suggest that you look at the method for identifying triads from the *Open Music Theory*. You can find this listed under the [Further Reading]({{ site.baseurl }}/03-triads-7chords-leadsheet//a2-triads.html) for this topic.
