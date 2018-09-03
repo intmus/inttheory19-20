@@ -4,9 +4,9 @@ title: Lesson 3a - Triads
 abc: true
 ---
 
-In discussing key signatures, we explored how the interval of the perfect 5th cycles through all twelve pitch classes before repeating. And if we substitute a non-perfect 5th after moving through the first seven letter names, we found the defining interval that creates diatonic tonality. 
+In discussing key signatures, we found that repeatedly ascending intervals of a perfect 5th cycles through all twelve pitch classes before repeating. And if we alter a particular one of those perfect 5ths by a half step--creating a diminished 5th after moving through the first seven letter names--the cycle repeats back on itself and creates the diatonic collection of seven pitches that we associate with Western diatonic tonality. 
 
-This effect is demonstrated by stacking intervals of the 5th on a a major scale.
+This effect can be further demonstrated by stacking intervals of a diatonic 5th on the major scale.
 
 {% capture ex1 %}X:1
 %%staffsep 100%
