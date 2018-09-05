@@ -91,7 +91,7 @@ w:5/3 6~(6/3) 6/4{% endcapture %}
 
 ### Triad voicings
 
-{% capture ex3 %}X:3
+{% capture ex5 %}X:5
 T:Triad voicings
 M:2/4
 L:1/2
@@ -100,7 +100,7 @@ V:1
 "Closed"z| "Closed"[_BF]| "Open"[_Bf]| "Open"[fdF]|
 V:2 clef=bass
 [_B,,D,F,_B,]| [D]| [_B,,D]| [F,_B,]|{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="5" abc=ex5 %}
 
 ## Conclusions
 
