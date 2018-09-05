@@ -5,7 +5,11 @@ title: Discussion 3a - Triads
 
 # Class Discussion
 
-TBD
+What is the root?
+
+-The tonal center of the chord
+
+-It is where we begin stacking thirds
 
 # Further Reading
 
