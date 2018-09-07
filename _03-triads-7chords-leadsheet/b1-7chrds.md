@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 3a - Seventh Chords
+title: Lesson 3b - Seventh Chords
 abc: true
 ---
 
@@ -70,7 +70,7 @@ L:1/2
 K:C
 "Root position"[D^FAc]| "First-inversion"[d^FAc]| "Second-inversion"[d^fAc]| "Third-inversion"[D^FAC]||
 w:7~(7/5/3) 6/5~(6/5/3) 4/3~(6/4/3) 4/2~(6/4/2){% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 ### Seventh chord voicings
 
@@ -83,7 +83,7 @@ V:1
 "Closed"[dFAc]| "Closed"[Ac]| "Open"[dF]| "Open"[dFAC]|
 V:2 clef=bass
 z| [DF]| [A,,C]| [D,,D,]|{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
 ## Conclusions
 
@@ -98,15 +98,15 @@ There are 5 types of seventh chords, and we will be using both of the common ter
 
 These terms are interchangeable but they are typically used in different circles. We will refer to them as the pedagogical name (e.g. major major, etc.) and common name (e.g. major seventh chord, etc.).
 
-The pedagogical names are useful in illustrating the structure of a seventh chord and is unsurprisingly often used by theory teachers. I asked the class to explain what the two words in "major major" meant, and the first suggestion was, "The first word is the triad quality (major triad on bottom), and the second word is the chord quality between the root and the 7th. This is close, but did not quite explain the true nature of the second word. The pedagogical naming system for seventh chords mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always a 7th.
+The pedagogical names are useful in illustrating the structure of a seventh chord and is unsurprisingly often used by theory teachers. As a student explained, "The first word is the triad quality (e.g. major triad on bottom), and the second word describes the interval between the root and the 7th." This explanation highlights the mixed nature of this pedagogical categorization--it mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always a 7th.
 
 - Major major (major seventh chord): major triad + M7
 - Major minor (dominant seventh chord): major triad + m7
-- Minor minor (minor seventh chord): minor triad +m7
+- Minor minor (minor seventh chord): minor triad + m7
 - Diminished minor (half-diminished seventh chord): diminished triad + m7
 - Diminished diminished (fully-diminished seventh chord): diminished triad + d7
 
-Because the class had already been through a similar exercise for triads, they were able to quickly identifty the inversion figures as they relate to the intervals above the *bass*, not the *root* of the chord.
+Building on your knowledge of inversion figures from triads, it should be simple to derive the seventh chord system; it also uses the intervals above the *bass*, not the *root* of the chord.
 
 - Root position: 7 (7/5/3)
 - First Inversion: 6/5 (6/5/3)

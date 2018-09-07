@@ -153,7 +153,7 @@ Of note, there are six different possible intervals in a triad, depending on the
 
 This information is all important, but it assumes that you already know which chordal member of an inverted triad is the root. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
 
-Using the examples of open and closed voicings, students often suggest work through the following process:
+Using the examples of open and closed voicings, students often work through the following process:
 - open voicing is spread out
   - True, but this is a subjective measure. What constitutes "spread out"?
 - closed positions use simple intervals and open positions use compound intervals

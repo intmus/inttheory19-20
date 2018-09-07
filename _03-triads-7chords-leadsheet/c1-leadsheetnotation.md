@@ -45,7 +45,7 @@ w: major~seventh dominant~seventh minor~seventh half~diminished fully~diminished
 ### Labeling inversions
 
 {% capture ex3 %}X:3
-TT:Inversions in leadsheet notation
+T:Inversions in leadsheet notation
 T:---------------
 M:2/4
 L:1/2
