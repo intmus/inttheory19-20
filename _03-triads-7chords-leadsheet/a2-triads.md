@@ -11,6 +11,14 @@ What is the root?
 
 -It is where we begin stacking thirds
 
+-Where the chord starts, what the chord is built around
+
+What is the bass?
+
+- The lowest note of the chord
+
+Figured bass comes from the Baroque era, keyboardists used this to create harmony based on the bass notes.
+
 # Further Reading
 
 ## From *Open Music Theory*
