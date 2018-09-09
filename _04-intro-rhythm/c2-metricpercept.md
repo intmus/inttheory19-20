@@ -1,39 +1,11 @@
 ---
 layout: chapter
-title: Lesson 4c - Metric perception
+title: Discussion 4c - Metric perception
 ---
 
 # Class discussion
 
-## Syncopation
-
-Syncopation occurs when emphasis is put on the weak beats of the meter, but the first example shows the subjectivity of this. When the class listened to the bottom line of the first example without the top line, every person heard it as starting on the beat. This may be obvious, but it is worth stating that strong and weak beats are determined by *context*, not by meter. Once the top line is added to the excerpt, the bottom line becomes a strongly syncopated rhythm. Syncopation can occur within a single line if the beat is established first and then off-beat rhythms are introduced, but this is still an example of establishing the strong beats for the listener before syncopation can begin.
-
-## Written time signatures versus aural perception
-
-The second excerpt demonstrated how a variation -- in this example, melodic shape -- can affect listener perception. Aurally, both parts sounded identical regardless of the meter, but when listening and not looking at the excerpt, most students felt that the piece was in a compound duple meter. This demonstrates that even though a pattern can be written in various meters, there are other factors that can strongly pull toward a particular meter. In this case, the motif is melodically grouped into two groups of three, so it pull most of the listeners toward a 6/8 feel. The one student that heard it in 3/4, heard it as heavily syncopated.
-
-The class noted that other factors such as accents, silence, and tempo can all have a strong effect on how a listener perceives a particular passage.
-
-It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous to say that meter is *entirely* subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*), so a good performer is aware of what the meter is trying to tell them.
-
-## Previous material affecting perception
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=138" frameborder="0" allowfullscreen></iframe>
-
-By starting at this particular point in the piece, most listeners will hear this section in a slow, simple triple meter. But an observant student may have noticed the conductor in the background (around the 2:29 mark) conducting in a double-time three, which means that the conductor is placing an *off-beat* where the listener is likely hearing beat 2 of their slow simple triple meter. If we move our starting point backward by only ten seconds, we hear the original groove of this section of the tune, which is the origin of the double-time simple triple meter that we saw the conductor using.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=126" frameborder="0" allowfullscreen></iframe>
-
-By starting at this new point, many listeners will switch to a faster (double-time) simple triple meter. The listener may or may not carry this feel through the half-time section from the first clip, but given the conductor's beat pattern, we can be fairly certain that the orchestra is counting this section as if there is no change in meter. 
-
-Perhaps even more interesting is the effect on the listener when we move our starting point back into the the intro of the piece. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=47" frameborder="0" allowfullscreen></iframe>
-
-The introduction is clearly in a slow compound quadruple meter. The melody happens mostly at the beat level, and the cellos have a constant arpeggio at the subdivision level. At the 1:20 mark, there is a slightly disconcerting two-beat transition, and then a new section starts that most listeners will hear as a continuation of the slow compound quadruple meter of the intro. This is reinforced by an ostinato in a contra-bass clarinet as well as the body language of the performers. When the trumpet and saxophone enter with a new melody at 1:32, we realize that this slow compound quadruple meter is the exact same feel and melody that we heard as a fast simple triple melody in the second clip.
-
-The conclusion of this exercise should be that the listener's perception of meter is not tied to what is on the page, only to a complex array of aural input. Therefore, we can discuss meter in an objective manner by looking at what is written, but a listener is not required to hear the meter similarly to an analysis or even in the way in which the composer intended.
+TBD
 
 # Further Reading
 

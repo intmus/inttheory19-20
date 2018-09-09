@@ -1,61 +1,39 @@
 ---
 layout: chapter
-title: Lesson 4a - Simple Meters
+title: Discussion 4a - Simple Meters
 ---
 
-### Class Discussion
+## Class Discussion
 
-This was an interesting class because it was the first class at which I was not present for a majority of the class period, so the teaching assistants ran the exercises and discussion. I asked the graduate teaching assistant to start by ensuring that the class understood all of the terminology and definitions from Overview 4a. The following is my summation of the teaching assistants' notes and my addendums.
-
-In looking through the class notes, it does not seem that the class correctly identified the common characteristic of all simple meters. When asked to identify what all simple meters had in common, they landed on, "the top number of the time signature is divisible by two." Not only is this not true for all simple meters (e.g. 3/4) as shown in Examples 4a, it still would not differentiate this class of meters from compound meters. 6/8 and 12/8 are both compound time signatures that have a top number that is divisible by two.
-
-The definition is "simple"! (Music professor humor...) *Simple meters are any regular meters in which the beat is divided into exactly two equal parts.*
-
-## Duple, Triple, and Quadruple
-
-The class came up with the following collections of duple, triple, and quadruple meters:
-- simple duple meter: 2 
-  - ex: 2/4, 2/2, 2/8, 2/16
-- simple triple meter: 3
-  - ex: 3/4, 3/2, 3/8, 3/16
-- simple quadruple meter: 4
-  - ex: 4/4, 4/2, 4/8, 4/16
-
-This is correct but it doesn't provide a definition of what these numbers mean. *These words are used to signify how many beats are in a measure.*
-
-## Simple time signatures
-
-The class succesfully described the function of the top and bottom numbers of the time signature. For simple meter time signatures:
-- the top number represents how many beats are in the measure
-- the bottom number denotes what rhythmic value represents the beat
-  - if a 4 is on the bottom, the beat is represented by a quarter note
-  - if an 8 is on the bottom, the beat is represented by an eighth note
-
-To easily figure out the bottom number's rhythmic value, I always tell students to imagine that the bottom note becomes the denominator (lower number) of a fraction under a numerator of 1. A bottom number of 4 becomes 1/4 -- a quarter. A bottom number of 2 becomes 1/2 -- a half.
-  
-## Beat-counting system in simple meters
-
-It seems that for every unique syllable, there is a beat-counting system for affixing syllables to beats, divisions, and subdivisions. Each of these have their strengths and weaknesses, but for this theory course, we will be using the following for simple meters:
-- `beat numbers` for each beat (e.g. 1, 2, 3, etc.)
-- `&` for the division (e.g. 1-& 2-& etc.)
-- `e` (pronounced 'ee') and a (pronounced 'ah') for the first level subdivisions (e.g. 1-e-&-a 2-e-&-a)
-
-While this system can blend together aurally if said quickly, its primary benefit is that it has a unique syllable for each level through the first subdivision, and this makes communicating easier with higher specificity. For example, it is easy to ask, "Is the G4 on the 'e' of beat four a non-chord tone?", and this does not require further information.
-
-## Theoretically ideal beaming versus common practice
-
-In Examples 4a, I asked the class to look at two examples of something I termed "theoretically ideal" beaming versus two counterparts of the same rhythm beamed in a more commonly used manner. The class came up with the following ideas:
-- "Theoretically ideal" beaming shows where each beat occurs in an effort not to obscure the beat
-  - Half notes and whole notes are obvious exceptions.
-  - This focuses more on eighth notes, sixteenth notes, and further subdivisions.
-
-This is very much inline with my general intention. Well-engraved music is meant to look pleasing and be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its stricest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
-
-That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to help students to begin demonstrating mastery of meters and rhythmic values.
+TBD
 
 # Further Reading
 
 ## From *Open Music Theory*
+
+Rhythm refers to the combination of long and short durations in time. Durations are notated with either unfilled or filled noteheads. Unfilled noteheads can appear with or without a stem; filled noteheads always appear with a stem. Flags can be added to the stems of filled noteheads; each flag shortens the duration by half. 
+
+<img src="{{ site.baseurl }}/images/durations.png" width="60%">
+
+### Rests
+
+Rests represent silence in musical notation. For each durational symbol there exists a corresponding rest. 
+
+<img src="{{ site.baseurl }}/images/rests.png" width="60%">
+
+### Dots and ties
+
+Dots and ties allow for basic durations to be lengthened. A dot occurs after a pitch or a rest, and it increases its duration by half. For example, if a quarter note is equivalent in duration to two eighth notes, a dotted quarter note would be equivalent to *three* eighth notes. Generally, undotted notes divide into two notes; dotted notes divide into three. Thus, undotted notes are typically used to represent the beat level in simple meter, while dotted notes are used to represent the beat in compound meter.
+
+Multiple dots can be added to a duration. Subsequent dots add half the duration of the previous dot. For example, a quarter note with two dots would be equivalent in duration to a quarter, eighth, and sixteenth note. 
+
+<a href="{{ site.baseurl }}/images/dots.png"><img src="{{ site.baseurl }}/images/dots.png" width="50%"></a>
+
+A *tie* lengthens a duration by connecting two adjacent identical pitches. Ties are used to either sustain a pitch beyond the length of a single measure, or to make a particular rhythmic grouping in a measure more clear. 
+
+In the example below, the duration of the first pitch is longer than a single measure, so it is represented by tying the dotted half note, which lasts the full measure, to the first beat of the subsequent measure. 
+
+<a href="{{ site.baseurl }}/images/ties.png"><img src="{{ site.baseurl }}/images/ties.png" width="50%"></a>
 
 ### Meters
 

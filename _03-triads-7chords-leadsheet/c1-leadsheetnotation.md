@@ -4,7 +4,7 @@ title: Lesson 3c - Leadsheet Notation
 abc: true
 ---
 
-In looking at triads and seventh chords, we have only learned how to label and classify these muiscal objects without specifying a particular root. A major triad or a dominant seventh chord can be built off any of the twelve pitch-classes, and each of the pitch-classes have multiple options depending on which enharmonic equivalent you choose as the root.  
+In looking at triads and seventh chords, we have only learned how to label and classify these musical objects without specifying a particular root. A major triad or a dominant seventh chord can be built off any of the twelve pitch-classes, and each of the pitch-classes have multiple options depending on which enharmonic equivalent you choose as the root.  
 
 There is one commonly-used method that we allows us to label specific triads and seventh chords as well as their inversions: *leadsheet notation*. This is also sometimes referred to as *slash-chord notation*, *jazz chord symbols*, or *pop chord symbols*. This system for labeling chords is prevalent in jazz and pop music but is extremely useful to all musicians because it creates a reliable way to communicate chords *of any complexity* in a concise manner.
 
