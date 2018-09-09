@@ -4,19 +4,19 @@ title: Lesson 4a - Simple Meters
 abc: true
 ---
 
-Because we are assuming that you are already familiar with the basics of rhythmic notation, we will be skipping most of the basic rhythmic terminology. If you would like to review, I have included some materials from *Open Music Theory* in the [Further Reading]({{ site.baseurl }}/04-intro-rhythm/a2-simplemeter.html).
+We will be assuming that you are already familiar with the basics of rhythmic notation, so we will be skipping most of the basic rhythmic terminology. If you would like to review, I have included some materials from *Open Music Theory* in the [Further Reading]({{ site.baseurl }}/04-intro-rhythm/a2-simplemeter.html).
 
 ## Simple meters
 
 Instead, we will be skipping ahead into classifications for meters. For today's topic, we will be focusing exclusively on simple meters, one of the two classifications for *regular* meters. 
 
-We must agree on a few basic terms. *Meter* is the manner in which we organize strong and weak pulses in music over time, and it is from this grouping that we determine the length of each *measure*. At its most basic, meter tells us two things:
+First, a few basic terms: *Meter* is the manner in which we organize strong and weak pulses in music over time, and it is from this grouping that we determine the length of each *measure*. At its most basic, meter tells us two things:
 - how we divide the meter into regular or irregular pulses called *beats*
 - how many of these *beats* are in the measure
 
 If we imagine meter as a hierarchy, *beats* are the highest level. Beats are then divided into *divisions*, and *divisions* can be further divided into *subdivisions*. A *regular* meter is one in which every *beat* is the same length.
 
-Finally, do remember that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear the beat in a slow two with the half-note as the beat.
+Finally, remember that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear the beat in a slow two with the half-note as the beat.
 
 ### Goals for this topic
 
@@ -79,15 +79,15 @@ w:Ideal| Common|{% endcapture %}
 
 ## Conclusions
 
-This was an interesting class because it was the first class at which I was not present for a majority of the class period, so the teaching assistants ran the exercises and discussion. I asked the graduate teaching assistant to start by ensuring that the class understood all of the terminology and definitions from Overview 4a. The following is my summation of the teaching assistants' notes and my addendums.
+This is always an interesting class discussion, because creating objective definitions depends on the students differentiating their opinions from the underlying principles of the concept.
 
-In looking through the class notes, it does not seem that the class correctly identified the common characteristic of all simple meters. When asked to identify what all simple meters had in common, they landed on, "the top number of the time signature is divisible by two." Not only is this not true for all simple meters (e.g. 3/4) as shown in Examples 4a, it still would not differentiate this class of meters from compound meters. 6/8 and 12/8 are both compound time signatures that have a top number that is divisible by two.
+While most students intuitively understand what a simple meter, it is often difficult to agree on the common characteristic of all simple meters. When asked to identify what all simple meters had in common, they landed on, they often focus on the visual or mathematical representation of the time signature--for example, "The top number of the time signature is divisible by two." Not only is this not true for all simple meters (e.g. 3/4) as shown in Examples 4a, it still would not differentiate this class of meters from compound meters. 6/8 and 12/8 are both compound time signatures that have a top number that is divisible by two.
 
-The definition is "simple"! (Music professor humor...) *Simple meters are any regular meters in which the beat is divided into exactly two equal parts.*
+The common characteristic of simple meters is how the individual beats are divided. *Simple meters are any regular meters in which the beat is divided into exactly two equal parts.*
 
 ## Duple, Triple, and Quadruple
 
-The class came up with the following collections of duple, triple, and quadruple meters:
+When looking at the above examples, simple meters can be divided into collections of duple, triple, and quadruple meters:
 - simple duple meter: 2 
   - ex: 2/4, 2/2, 2/8, 2/16
 - simple triple meter: 3
@@ -95,17 +95,19 @@ The class came up with the following collections of duple, triple, and quadruple
 - simple quadruple meter: 4
   - ex: 4/4, 4/2, 4/8, 4/16
 
-This is correct but it doesn't provide a definition of what these numbers mean. *These words are used to signify how many beats are in a measure.*
+While this is correct for the meters above, it does not provide a definition of what these numbers mean. *These words--simple, triple, quadruple, and so on--are used to signify how many beats are in a measure.*
 
 ## Simple time signatures
 
-The class succesfully described the function of the top and bottom numbers of the time signature. For simple meter time signatures:
+Most students correctly identify the function of the top and bottom numbers of the simple time signatures (but struggle with the same concept for compound meters.) 
+
+For simple meter time signatures:
 - the top number represents how many beats are in the measure
 - the bottom number denotes what rhythmic value represents the beat
   - if a 4 is on the bottom, the beat is represented by a quarter note
   - if an 8 is on the bottom, the beat is represented by an eighth note
 
-To easily figure out the bottom number's rhythmic value, I always tell students to imagine that the bottom note becomes the denominator (lower number) of a fraction under a numerator of 1. A bottom number of 4 becomes 1/4 -- a quarter. A bottom number of 2 becomes 1/2 -- a half.
+To easily figure out the bottom number's rhythmic value, I tell students to imagine that the bottom note becomes the denominator (lower number) of a fraction under a numerator of 1. A bottom number of 4 becomes 1/4 -- a quarter. A bottom number of 2 becomes 1/2 -- a half.
   
 ## Beat-counting system in simple meters
 
@@ -118,11 +120,11 @@ While this system can blend together aurally if said quickly, its primary benefi
 
 ## Theoretically ideal beaming versus common practice
 
-In Examples 4a, I asked the class to look at two examples of something I termed "theoretically ideal" beaming versus two counterparts of the same rhythm beamed in a more commonly used manner. The class came up with the following ideas:
+The two examples of Examples 4a demonstrate something I term "theoretically ideal" beaming versus two counterparts of the same rhythm beamed in a more commonly used manner. For these:
 - "Theoretically ideal" beaming shows where each beat occurs in an effort not to obscure the beat
   - Half notes and whole notes are obvious exceptions.
   - This focuses more on eighth notes, sixteenth notes, and further subdivisions.
 
-This is very much inline with my general intention. Well-engraved music is meant to look pleasing and be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its stricest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
+This is very much inline with my general intention. Well-engraved music is meant to look pleasing and be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its strictest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
 
 That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to help students to begin demonstrating mastery of meters and rhythmic values.
