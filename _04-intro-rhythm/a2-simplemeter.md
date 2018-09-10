@@ -25,11 +25,11 @@ What characteristic do all simple meters share?
 
 -They divide the beat in two equal parts
 
-What do the top and bottom numbers of time signatures mean?
+Describe top and bottom numbers of time signatures.
 
 -The top number is the number of beats in a measure; the bottom number shows which rhythmic value gets the beat
 
-Beaming
+Discuss beaming.
 
 -I can see where each beat starts and the divisions and subdivisions
 
