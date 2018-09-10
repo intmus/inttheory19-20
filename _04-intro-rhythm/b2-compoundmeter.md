@@ -5,7 +5,21 @@ title: Discussion 4b - Compound Meters
 
 ## Class discussion
 
-TBD
+What characteristic do all compound meters share?
+
+-Compound meters have beats that are divided into three equal parts
+
+Describe top and bottom numbers of time signatures
+
+-
+
+Beaming
+
+-
+
+What does duple, triple, quadruple, etc. describe?
+
+-
 
 # Further reading
 
