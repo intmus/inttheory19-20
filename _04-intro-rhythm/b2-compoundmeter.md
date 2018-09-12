@@ -11,15 +11,25 @@ What characteristic do all compound meters share?
 
 Describe top and bottom numbers of time signatures
 
--
+-Top number shows the number of divisions in a measure
 
-Beaming
-
--
+-Bottom number shows the rhythmic value of divisions
 
 What does duple, triple, quadruple, etc. describe?
 
--
+-It shows how many beats are in a measure
+
+Beaming
+
+-It shows the beat
+
+Be careful with blanket statements and giving beginners too much information
+
+Perception
+
+-Tempo can affect how you hear meter
+
+-Simple triple can sound like compound single at a faster tempo
 
 # Further reading
 
