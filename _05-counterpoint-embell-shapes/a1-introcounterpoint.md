@@ -35,4 +35,20 @@ Also, note Schenker's expression "lead the ear." Counterpoint is not a pencil-an
 
 The specific method we will use is called *species counterpoint*—so called because the study progresses through stages, or species, where one or two new musical "problems" are introduced. This approach has existed in some form since the early seventeenth century. The specific method we will use is very close to that articulated by Johann Joseph Fux, in his *Gradus ad parnassum* (*Steps to Parnassus*, 1725). Master composers from the eighteenth to the twenty-first centuries have used this method, or some variation on it. While Fux proposed five species, moving from two-voice combinations up to six- and eight-voice combinations, we will focus on species one through four, in two voices only.
 
-**Class discussion**
+## Conclusions
+
+Any lesson could begin with the question, "Why study this it all?", and the discussion of counterpoint is no different. Why should we study counterpoint in a tonal harmony class when there are entire courses in later semesters dedicated to this specific subject? Re-read the second sentence of the passage above.
+
+>"*Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea." 
+
+A brief study of counterpoint is the next step for us as we work through increasing levels of musical complexity. We began with a single pitch, then combined pitches to create intervals. We must then combine intervals to create melodies and combine melodies to create counterpoint. Studying counterpoint allows us to strip away many of the complicating factors of musical harmony and begin to understand the origin of tonality. 
+
+In the next topic, we will establish some basic rules for constructing a simple melody and then look at what happens when we create a second melody that works with the original. It is from these interactions that harmony evolved as we know it, so to study counterpoint is to study the fundamental of Western music. 
+
+Eighteenth century species counterpoint gives us a relatively straightforward set of rules and norms to begin this study. Even though many of these rules are not observed by modern music, we can study the process of how these rules create music and then apply that *process* to all types of music.
+
+Consider these two takeaways from the reading:
+- Music is a built upon tension and release.
+- Music is structured to create expectations for the listener and then either fulfill or deny those expectations. 
+
+These observations consider the nature of musical composition in general, because they also demonstrate the fundamentals of counterpoint. Tension, release, and expectations are based on two primary functions: intervals and melodic motion, and we will begin looking at these for the rest of this unit.
