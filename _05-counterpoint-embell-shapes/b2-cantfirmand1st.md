@@ -1,80 +1,11 @@
 ---
 layout: chapter
-title: Lesson 5b - Cantus Firmus and 1:1 Counterpoint
+title: Discussion 5b - Cantus Firmus and 1:1 Counterpoint
 ---
 
 ## Class discussion
 
-As the class developed rules, their observations were naturally divided by whether they were looking within a line versus when they compared the two lines. Horizontal versus vertical. Melodic versus harmonic.
-
-### Melodic intervals and structure
-- Length
-    - 8 to 14 notes
-- Starting and ending pitches: 
-    - Starts and ends on a perfect 8ve (or unison) of the tonic pitch  
-- Approaching final note: 
-    - By stepwise contrary motion which means that one voice will have `ti` and the other `re`
-- Repeated pitches
-    - generally no repeated notes
-        - this means that static and oblique motion do not occur in first species because they both require at least one voice to repeat pitches
-- Climax
-    - The line should have a clear high (or low point) which means that the highest (or lowest) pitch  
-- Leaps
-    - should be used sparingly because
-    - too many leaps imply triadic harmony, and that didn't exist yet
-    - always leave a leap by step 
-
-
-You can sometimes leap to and step from a high or low point. 
-You can sometimes step to and leap from a high or low point. 
-Never leap to or leap from a high or low point, as a general rule use stepwise motion as much as possible.
-Thirds or other leaps imply triadic harmony. 
-
-#### Harmonic intervals and structure
-
-Valid starting and ending harmonic intervals
-- consonant intervals
-    - perfect 8ve
-    - perfect 5th
-
-Approaching perfect intervals
-- only approach by oblique or contrary motion
-    - oblique motion is not allowed in 1st species
-
-Perfect/Imperfect Intervals (consonant):
-- perfect:
-    - 8ve
-    - 5th
-- imperfect:
-    - 6th 
-    - 3rd
-
-#### Acceptable Motion Between Lines
-
-Types of motion
-- parallel 
-- contrary
-    - always okay
-- static
-- oblique
-- similar
-    mostly okay
-    - In 1st species counterpoint, because there are no repeated notes, that rules out static and oblique motion.
-    1st Species only uses parallel, contrary, and similar motion. 
-    - Similar motion is less common because it is easy to have part writing errors. 
-
-Types of Errors:
-- parallel octaves and fifths
-- contrary octaves and fifths
-- similar/direct/hidden octaves and fifths
-
-Parallel perfect octaves and fifths are not okay. Using the same pitch is the same as monophony.
-Contrary octaves are when you have two intervals of an octave in a row and they move in contrary motion. 
-You still have two octaves in a row, even if they were approached by contrary motion. 
-Similar motion is when you approach a perfect fifth or octave in similar motion from any interval. 
-Approaching a perfect interval by similar motion makes it more difficult to hear the interval and paints you into a corner when writing counterpoint as well. 
-Similar motion is also called direct motion, and hidden motion.
-
+TBD
 
 # Further reading
 
