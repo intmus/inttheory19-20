@@ -22,19 +22,26 @@ Why do we study counterpoint in a general music theory course?
 These lines are built with the others in mind, but still are intentional and functional as one line
 
 Consonant intervals: Sounds stable on its own, for example major chord.
-	Imperfect- M3, m3, M6, m6
 
-	Perfect- P1, P5, P8
+Imperfect- M3, m3, M6, m6
+
+Perfect- P1, P5, P8
 
 Dissonant intervals: Sounds like it needs to resolve, for example a diminished chord
-	P4, M2, m2, M7, m7, A4, d5
+
+P4, M2, m2, M7, m7, A4, d5
 
 What are the different kinds of contrapuntal motion?
-	Static: Two lines that do not move
-	Contrary: Two lines moving in opposite direction and by any distance
-	Similar: Two lines moving in the same direction, and by different distance
-	Oblique: One line moves while the other does not
-	Parallel: Two lines moving the in same direction and by same distance
+
+Static: Two lines that do not move
+
+Contrary: Two lines moving in opposite direction and by any distance
+
+Similar: Two lines moving in the same direction, and by different distance
+
+Oblique: One line moves while the other does not
+
+Parallel: Two lines moving the in same direction and by same distance
 
 
 # Further reading
