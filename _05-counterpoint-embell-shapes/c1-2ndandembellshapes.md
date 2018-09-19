@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Examples 5c - 2:1 Counterpoint and Embellishing Shapes
+title: Lesson 5c - 2:1 Counterpoint and Embellishing Shapes
 abc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 5c - 2:1 Counterpoint and Embellishing Shapes
+title: Discussion 5c - 2:1 Counterpoint and Embellishing Shapes
 ---
 
 # Class discussion
