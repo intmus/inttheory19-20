@@ -31,18 +31,31 @@ Dissonant intervals: Sounds like it needs to resolve, for example a diminished c
 
 P4, M2, m2, M7, m7, A4, d5
 
+Why are fourths dissonant?
+
+-They sound like they still need to resolve
+
 What are the different kinds of contrapuntal motion?
 
-Static: Two lines that do not move
+Static: Lines that do not move
 
-Contrary: Two lines moving in opposite direction and by any distance
+Contrary: Movement in opposite direction
 
-Similar: Two lines moving in the same direction, and by different distance
+Similar: Lines moving in the same direction, and arrive at different interval sizes
 
-Oblique: One line moves while the other does not
+Oblique: One line moves while the other(s) remain the same
 
-Parallel: Two lines moving the in same direction and by same distance
+Parallel: Lines moving the in same direction and arrives at same interval size
 
+What is counterpoint
+
+-smooth voice leading
+
+-different lines of music or melodies moving together
+
+What is the value of counterpoint
+
+-one of the big concepts of music, voice leading!
 
 # Further reading
 
