@@ -4,6 +4,8 @@ title: Lesson 5a - Introduction to Counterpoint
 abc: true
 ---
 
+Before you begin, please remember that this unit is not meant to be a formal introduction to counterpoint. Because this is primarily a tonal harmony course, we are briefly dipping into the study of counterpoint to introduce voice-leading in its simplest form. I highly encourage you to study counterpoint fully at a later time (if you have not already), because it will change for the better the the manner in which you listen to, study, and perform music.
+
 To begin studying basic counterpoint, we need to establish the fundamental concepts of intervallic consonance, intrevallic dissonance, and the types of contrapuntal motion.
 
 ## Goals for this topic
@@ -99,7 +101,7 @@ Students familiar with modern music are often surprised to find that a perfect 4
 ### Contrapuntal motion
 
 At its most basic, classifying contrapuntal motion is fairly simple to understand. When we compare two melodic lines, there are five types of possible motion:
-- parallel - two lines that move in the same direction and have the same interval size
+- parallel - two lines that move in the same direction and have the same interval *size*
 - similar - both lines move in the same direction but have different interval sizes
 - contrary - two lines that move in opposite directions
 - oblique - one line stays the same and the other line moves in any direction

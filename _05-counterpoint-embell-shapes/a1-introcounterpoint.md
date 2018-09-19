@@ -5,7 +5,7 @@ title: Overview 5a - Introduction to Counterpoint
 
 # Class reading from *Open Music Theory*
 
-**As you read this, try to answer the question, "Why are we going to spend time to develop a basic understanding of counterpoint in a general theory course that is not a specialized counterpoint course?"**
+**As you read this, try to answer the question, "What is the value in developing a basic understanding of counterpoint in a tonal harmony course?"**
 
 The study of the theory of Western music involves three main components: voice-leading, harmony, and form. *Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea. *Harmony* addresses the rules or norms for combining chords into successions. *Form* addresses the rules or norms for the combination of phrases and other small musical units into larger units—including whole movements and works. 
 
@@ -37,9 +37,15 @@ The specific method we will use is called *species counterpoint*—so called bec
 
 ## Conclusions
 
-Any lesson could begin with the question, "Why study this it all?", and the discussion of counterpoint is no different. Why should we study counterpoint in a tonal harmony class when there are entire courses in later semesters dedicated to this specific subject? Re-read the second sentence of the passage above.
+Any lesson could begin with the question, "Why study this it all?", and the discussion of counterpoint is no different. Why should we study counterpoint in a tonal harmony class when there are entire courses in later semesters dedicated to this specific subject?
 
->"*Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea." 
+First, you should try to conceptualize what counterpoint is in a musical context. Re-read the second sentence of the passage above.
+
+>"*Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea."
+
+And then read the second paragraph.
+
+>However, of the three [aspects of music], voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*.
 
 A brief study of counterpoint is the next step for us as we work through increasing levels of musical complexity. We began with a single pitch, then combined pitches to create intervals. We must then combine intervals to create melodies and combine melodies to create counterpoint. Studying counterpoint allows us to strip away many of the complicating factors of musical harmony and begin to understand the origin of tonality. 
 
@@ -47,7 +53,7 @@ In the next topic, we will establish some basic rules for constructing a simple 
 
 Eighteenth century species counterpoint gives us a relatively straightforward set of rules and norms to begin this study. Even though many of these rules are not observed by modern music, we can study the process of how these rules create music and then apply that *process* to all types of music.
 
-Consider these two takeaways from the reading:
+Finally, consider these two further takeaways from the reading:
 - Music is a built upon tension and release.
 - Music is structured to create expectations for the listener and then either fulfill or deny those expectations. 
 

@@ -106,7 +106,7 @@ These are some general guidelines for each of the *melodic* aspects of 1:1 count
 
 ### Harmonic intervals and structure
 
-- The counterpoint will likely start and end on a perfect octave (or unison) of the tonic pitch, although a perfect fifth can be used to begin the counterpoint if necessary.
+- 1:1 counterpoint will likely start and end on a perfect octave (or unison) of the tonic pitch, although a perfect fifth can be used to begin the counterpoint if necessary.
 - In counterpoint, perfect intervals should only be approached by oblique or contrary motion, although oblique motion is not allowed in first species.
 - You should only use consonant intervals in first species, which you can review from [the previous topic]({{ site.baseurl }} /05-counterpoint-embell-shapes/a2-introcounterpoint.html).
 
