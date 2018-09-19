@@ -5,50 +5,7 @@ title: Lesson 5c - 2:1 Counterpoint and Embellishing Shapes
 
 # Class discussion
 
-## Second Species Counterpoint
-
-2nd Species brings in one key element of music that 1st species leaves out: dissonance.
-  - 2nd species applies motion between two notes of the cantus firmus
-
-Instead of a 1:1 ratio of a whole note against another whole note, we have a 2:1 ratio with 2 half notes for every whole note.
-
-Types of beats:
-- strong 
-  - strong beats are on the on beat 
-  - in 4/4 that would be on 1, and only on the downbeat with the cantus firmus 
-- weak
-  - weak beats are on the off beat, where the whole note does not directly hit, but is still carried over
-  - in 4/4 the weak beat would be on beat 3
-  
-#### Harmonic Intervals:
-
-Strong and Weak Beats:
-- consonances on strong beats 
-- dissonances are now allowed on weak beats
- 
- Start a line of counterpoint with a rest on the strong beat, and a perfect interval on the weak beat moving into the rest of the line.
-
-Dissonances:
-- only on weak beats
-- approached by step
-
-Starting and Ending Intervals:
-- starts on P5, P8, or unison
-- ends on P5 or P8
-
-Approaching and Leaving Perfect Intervals
-- approached by parallel motion
-
-#### Motion Between Lines
-
-passing motion (P): motion approached by step and left by step in the same direction
-
-neighbor motion (N): motion approached by step and left by step in the opposite direction
-
-- these two types of motion are the only way you can use dissonant intervals in a line of counterpoint in 2nd species
-- neighbor motion is only allowed for dissonances as lower neighbor motion
-
-appogiatura (APP): motion approached by leap and left by step in the opposite direction
+TBD
 
 # Further reading
 

@@ -6,7 +6,7 @@ abc: true
 
 Before you begin, please remember that this unit is not meant to be a formal introduction to counterpoint. Because this is primarily a tonal harmony course, we are briefly dipping into the study of counterpoint to introduce voice-leading in its simplest form. I highly encourage you to study counterpoint fully at a later time (if you have not already), because it will change for the better the the manner in which you listen to, study, and perform music.
 
-To begin studying basic counterpoint, we need to establish the fundamental concepts of intervallic consonance, intrevallic dissonance, and the types of contrapuntal motion.
+To begin studying basic counterpoint, we need to establish the fundamental concepts of intervallic consonance, intervallic dissonance, and the types of contrapuntal motion.
 
 ## Goals for this topic
 
