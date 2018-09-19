@@ -5,7 +5,23 @@ title: Discussion 5b - Cantus Firmus and 1:1 Counterpoint
 
 ## Class discussion
 
-TBD
+Independence and integrity of melodic lines
+
+-Distinctly two different lines of music
+
+-They function on their own
+
+-Static and parallel can hinder this
+
+Harmonic intervals- verticle "slice" of music
+
+Melodic intervals- horizontal slice of music
+
+- these two determine our study of motion
+
+Stepwise = movement by second,
+Skip = movement by third,
+Leap = larger movement
 
 # Further reading
 
