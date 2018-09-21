@@ -40,51 +40,51 @@ Start and end pitches
 
 -the two lines will always be re and ti
 
-repeated pitches
+Repeated Pitches
 
 -no
 
-acceptable melodic intervals
+Acceptable Melodic Intervals
 
 -stepwise motion
 
 -more leaps than skips
 
-approaching and leaving leaps, skips
+Approaching and Leaving Leaps, Skips
 
 -for leaps, approach and leave by stepwise direction in the opposite direction of the leap
 
-range
+Range
 
 -very singable
 
 -stay in the range of a human being
 
-climax
+Climax
 
 -only one
 
-Acceptable harmonic intervals
+Acceptable Harmonic Intervals
 
 -consonance only
 
 -you see more imperfect consonances than perfect consonances, helps avoid parallel perfect intervals
 
-approaching the final pitch
+Approaching the Final Pitch
 
 -stepwise contrary motion
 
-number of times that an interval size can be used consecutively
+Number of Times that an Interval Size can be Used Consecutively
 
 -imperfect consonances, two or three
 
 -perfect consonances, zero
 
-acceptable motion between lines
+Acceptable Motion Between Lines
 
 -no parallel perfect intervals, this makes the lines lose their independence
 
-acceptable types of motion
+Acceptable Types of Motion
 
 -parallel, contrary, similar
 
