@@ -8,13 +8,13 @@ In second-species counterpoint, the counterpoint line moves in half notes agains
 - the differentiation between *strong beats* and *weak beats*
 - the introduction of the *passing tone* dissonance. 
 
-The introduction of harmonic dissonance into second species adds to the variety of the musical texture. However, it brings a tension that must be balanced with consonance to promote tonal fusion, and it requires careful attention in order to maintain smoothness in and out of the dissonance.
+The introduction of harmonic dissonance into second species adds to the variety of the musical texture. However, it brings a tension that must be balanced with consonance to promote a cohesive tonal progression, and it requires careful attention in order to maintain smoothness in and out of the dissonance.
 
 If we consider first-species counterpart the most "basic" interaction between two melodies, adding this second note against a harmony also provides an opportunity to begin discussing the shapes and patterns that composers use to embellish a simple melody.  
 
 ## Goals for this topic
 
-Use the following examples of second-species (2:1) counterpoint to develop guidelines for writing in this style. Each of the following examples is in the major mode and has the counterpoint above the cantus firmus, but be aware that these two characteristics are not indicative of all counterpoint; we are using a simplified structure as our introduction. 
+Use the following examples of second-species (2:1) counterpoint to develop guidelines for writing in this style. Each of the following examples is in the major mode and has the counterpoint above the cantus firmus, but again, be aware that these two characteristics are not indicative of all counterpoint; we are using a simplified structure as our introduction.
 
 **As you develop your rules for second-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line was written by following the stylistic rules.**
 
@@ -27,8 +27,6 @@ Generally, your rules should be divided into three categories:
     - Approaching and leaving perfect intervals
     - Number of times that an interval size can be used consecutively
         - Differentiate between perfect and imperfect consonances
-- Acceptable *motion between lines*
-    - Acceptable types of motion
 - Constructing a *melodic line*
     - Length
     - Starting and ending pitches
@@ -40,6 +38,8 @@ Generally, your rules should be divided into three categories:
         - How would you describe the motion surrounding any dissonant intervals?
     - Range
     - Climax (position in melody and frequency)
+- Acceptable *motion between lines*
+    - Acceptable types of motion
 
 {% capture ex1 %}X:1
 T:Second species (2:1) examples
@@ -61,26 +61,21 @@ C,2| D,2| F,2| E,2| F,2| G,2| A,2| G,2| E,2| D,2| C,2|]{% endcapture %}
 
 ### Second Species Counterpoint
 
-2nd Species brings in one key element of music that 1st species leaves out: dissonance.
-  - 2nd species applies motion between two notes of the cantus firmus
+Instead of the 1:1 ratio in first species between pitches of the cantus firmus and counterpoint, second species has a 2:1 ratio--most often notated as two half notes for every one whole note. This creates a pattern of strong and weak beats and consequently a series of rules that are defined by the contrapuntal place in the measure.
 
-Instead of a 1:1 ratio of a whole note against another whole note, we have a 2:1 ratio with 2 half notes for every whole note.
-
-Types of beats:
-- strong 
-  - strong beats are on the on beat 
-  - in 4/4 that would be on 1, and only on the downbeat with the cantus firmus 
-- weak
-  - weak beats are on the off beat, where the whole note does not directly hit, but is still carried over
-  - in 4/4 the weak beat would be on beat 3
+- Strong beats occur "on the beat", meaning that they align with every change of pitch in the cantus firmus.
+- Weak beats are "off the beat" meaning that they occur in the middle of each pitch in the cantus firmus.
   
-#### Harmonic Intervals:
+### Harmonic Intervals:
 
-Strong and Weak Beats:
-- consonances on strong beats 
-- dissonances are now allowed on weak beats
- 
- Start a line of counterpoint with a rest on the strong beat, and a perfect interval on the weak beat moving into the rest of the line.
+Second species counterpoint also allows for a key element that is not an option in first species: dissonance. Strong beats must still only use consonances. Weak beats may use dissonance, although there are many restrictions.
+
+For our studies, we will start the counterpoint with a rest on the strong beat followed by a perfect interval on the weak beat. From that point forward, you will follow these harmonic rules:
+
+Consonances:
+- may occur at any point
+- strong beats will always be consonant
+- imperfect consonances are generally preferred because they do not cause issues when used in parallel motion
 
 Dissonances:
 - only on weak beats
@@ -90,10 +85,11 @@ Starting and Ending Intervals:
 - starts on P5, P8, or unison
 - ends on P5 or P8
 
-Approaching and Leaving Perfect Intervals
+Perfect Intervals
 - approached by parallel motion
+- same perfect interval (e.g. P5 to P5) can never occur consecutively, nor can they occur on consecutive strong beats
 
-#### Motion Between Lines
+### Motion Between Lines
 
 passing motion (P): motion approached by step and left by step in the same direction
 
@@ -102,4 +98,4 @@ neighbor motion (N): motion approached by step and left by step in the opposite 
 - these two types of motion are the only way you can use dissonant intervals in a line of counterpoint in 2nd species
 - neighbor motion is only allowed for dissonances as lower neighbor motion
 
-appogiatura (APP): motion approached by leap and left by step in the opposite direction
+appoggiatura (APP): motion approached by leap and left by step in the opposite direction
