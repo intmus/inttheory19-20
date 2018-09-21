@@ -1,60 +1,111 @@
 ---
 layout: chapter
-title: Overview 5a - Introduction to Counterpoint
+title: Lesson 5a - Introduction to Counterpoint
+abc: true
 ---
 
-# Class reading from *Open Music Theory*
+Before you begin, please remember that this unit is not meant to be a formal introduction to counterpoint. Because this is primarily a tonal harmony course, we are briefly dipping into the study of counterpoint to introduce voice-leading in its simplest form. I highly encourage you to study counterpoint fully at a later time (if you have not already), because it will change for the better the the manner in which you listen to, study, and perform music.
 
-**As you read this, try to answer the question, "What is the value in developing a basic understanding of counterpoint in a tonal harmony course?"**
+To begin studying basic counterpoint, we need to establish the fundamental concepts of intervallic consonance, intervallic dissonance, and the types of contrapuntal motion.
 
-The study of the theory of Western music involves three main components: voice-leading, harmony, and form. *Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea. *Harmony* addresses the rules or norms for combining chords into successions. *Form* addresses the rules or norms for the combination of phrases and other small musical units into larger units—including whole movements and works. 
+## Goals for this topic
 
-We will address all three of these facets of musical theory. However, of the three, voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*. 
+From the following examples, determine:
+- which intervals are considered consonant and dissonant
+    - which consonances are considered perfect and imperfect
+- what elements are necessary to create contrapuntal motion
+- a simple way to describe each of the four types of contrapuntal motion: parallel, contrary, static, and oblique
 
-Twentieth-century musician and theorist, Heinrich Schenker, wrote:
+### Consonant and dissonant intervals
 
-> The purpose of counterpoint, rather than to teach a specific style of composition, is to lead the ear of the serious student of music for the first time into the infinite world of fundamental musical problems (*Kontrapunkt*, p. 10).
+The next two examples show an example of each possible perfect and imperfect consonance. All other intervals are considered dissonant. Make a list of perfect consonances, imperfect consonances, and dissonances. Do any of the dissonances surprise you? If so, discuss why.
 
-Following this line of thinking, our early voice-leading exercises will not be in a specific style (Classical, Baroque, Romantic, pop/rock, etc.). Instead, these exercises will eliminate important musical elements like *harmony*, *orchestration*, *melodic motives*, *formal structure*, and even many elements of *rhythm*, in order to focus very specifically on a small set of musical problems. These other elements of music will be introduced one-by-one as we progress through this course and into future courses.
+{% capture ex1 %}X:1
+T:Perfect consonance examples
+M:4/4
+L:1
+K:C
+V:1
+_B|| G|| _A,|| _A|| ^F|| A|| ^G||
+V:2 clef=bass
+_B,|| C,|| _A,|| _D|| ^F,,|| D,|| ^G,||{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
 
-The "fundamental musical problems" we will address in the study of counterpoint center around the way in which some basic principles of auditory perception and cognition (how the brain perceives and conceptualizes sound) play out in Western musical structure. For example, our brains tend to assume that sounds similar in pitch or timbre come from the same source. Our brains also listen for patterns, and when a new sound continues or completes a previously heard pattern, it assumes that the new sound belongs together with those others. On the other hand, the breaking of these regularities in the sonic environment can signal danger, or at the very least the need for heightened attention to be applied to the sonic "culprit." Identifying irregularities in the sonic environment and boosting attention and adrenaline when one is found have been absolutely essential to the survival of the human species. These abilities are also what allows music to have the emotional effect that it does on so many people. Whether or not a composer or songwriter is aware of the science and psychology of hearing, a masterful composer mediates and plays with these basic concepts.
+{% capture ex2 %}X:2
+T:Imperfect consonance examples
+M:4/4
+L:1
+K:C
+V:1
+G|| E|| _C|| __B|| ^D|| G|| ^B||
+V:2 clef=bass
+_B,|| C,|| _A,|| _D|| ^F,,|| E,|| ^G,||{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
 
-"Mediates" and "plays" are important ideas here. Music that simply makes it easy for the brain to parse and process sound is boring. It calls for no heightened attention -- it doesn't increase our heart rate or make the hair on the back of our neck stand up or give us a little jolt of dopamine. On the other hand, music that constantly activates our innate sense of danger is hardly pleasant for most listeners. Thus, fundamental to most of the music we will study is the dance between tension and relaxation, motion and rest.
+### Classifying types of contrapuntal motion
 
-The study of counterpoint will help us to engage several important musical "problems" in a limited context, so that we can master them compositionally and understand them analytically. Those problems arise as we seek to bring the following traits together:
-
-- smoothness  
-- independence and integrity of melodic lines  
-- tonal fusion (the preference for simultaneous notes to form a consonant unity)  
-- variety  
-- motion (towards a goal)
-
-These traits are based in human perception and cognition, but they are often in conflict in specific musical moments, and need to be balanced over the course of larger passages and complete works. Counterpoint will help us begin to practice mediating these conflicts.
-
-Also, note Schenker's expression "lead the ear." Counterpoint is not a pencil-and-paper (or lecture-and-homework) study. Rather, the exercises are mini- (micro-? nano-?) compositions that must be *performed*—with voice and/or keyboard, often with a partner—so that the ear, the fingers, the throat, and ultimately the mind can internalize the sound, sight, and feel of good (and bad) musical lines, and good (and bad) combinations of musical lines.
-
-The specific method we will use is called *species counterpoint*—so called because the study progresses through stages, or species, where one or two new musical "problems" are introduced. This approach has existed in some form since the early seventeenth century. The specific method we will use is very close to that articulated by Johann Joseph Fux, in his *Gradus ad parnassum* (*Steps to Parnassus*, 1725). Master composers from the eighteenth to the twenty-first centuries have used this method, or some variation on it. While Fux proposed five species, moving from two-voice combinations up to six- and eight-voice combinations, we will focus on species one through four, in two voices only.
+{% capture ex3 %}X:3
+T:Types of contrapuntal motion
+T:Each measure is an individual example. Do not consider motion between measures.
+M:4/4
+L:1/2
+K:C
+V:1
+_BF|| Ge|| C_E|| _AG||
+w:parallel
+_Bf|| Ge|| c_A|| _AG||
+w:contrary
+_B_B|| GG|| _E_E|| _A_A||
+w:static
+_B_B|| Ge|| _E_E|| _AG||
+w:oblique
+_BA|| Ge|| _E_A|| _AG||
+w:similar
+V:2 clef=bass
+_B,F,|| C,A,|| _A,C|| DC||
+_B,F,|| C,B,,|| _A,C|| DE||
+_B,_B,|| C,C,|| C,C,|| DD||
+_B,F,|| C,C,|| _A,C|| DD||
+_B,F,|| C,D,|| _A,C|| D_B,||{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 ## Conclusions
 
-Any lesson could begin with the question, "Why study this it all?", and the discussion of counterpoint is no different. Why should we study counterpoint in a tonal harmony class when there are entire courses in later semesters dedicated to this specific subject?
+### Consonant vs dissonant intervals
 
-First, you should try to conceptualize what counterpoint is in a musical context. Re-read the second sentence of the passage above.
+Consonant and Dissonant Intervals:
+- Perfect Consonance:
+    - Perfect 5ths
+    - Perfect Octave
+    - Perfect Unison
+    - (The perfect 4th was mentioned, but it was not in the examples.)
 
->"*Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea."
+- Imperfect Consonance:
+    - Major 3rd
+    - Minor 3rd
+    - Major 6th
+    - Minor 6th
+    
+- Dissonance:
+    - All other intervals, but the most common are:
+        - Major 2nd
+        - Minor 2nd
+        - Perfect 4th
+        - Augmented 4th
+        - Diminished 5th
+        - Major 7th
+        - Minor 7th
+    
+Students familiar with modern music are often surprised to find that a perfect 4th is considered dissonant in this style. The first thing to understand is that the terms *consonant* and *dissonant* are subjective terms that are determined within a style. In this case, a perfect 4th undermines the melodic structure of tonality because it implies a weak inversion. Complete understanding of this idea requires a deeper knowledge of counterpoint and implied harmony, so at this point, I ask that you file this away for us to discuss when we get to tonal implications and usage of second inversion chords in Unit 7.
 
-And then read the second paragraph.
+### Contrapuntal motion
 
->However, of the three [aspects of music], voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*.
+At its most basic, classifying contrapuntal motion is fairly simple to understand. When we compare two melodic lines, there are five types of possible motion:
+- parallel - two lines that move in the same direction and have the same interval *size*
+- similar - both lines move in the same direction but have different interval sizes
+- contrary - two lines that move in opposite directions
+- oblique - one line stays the same and the other line moves in any direction
+- static: neither line moves 
+  - static motion supercedes parallel motion
 
-A brief study of counterpoint is the next step for us as we work through increasing levels of musical complexity. We began with a single pitch, then combined pitches to create intervals. We must then combine intervals to create melodies and combine melodies to create counterpoint. Studying counterpoint allows us to strip away many of the complicating factors of musical harmony and begin to understand the origin of tonality. 
-
-In the next topic, we will establish some basic rules for constructing a simple melody and then look at what happens when we create a second melody that works with the original. It is from these interactions that harmony evolved as we know it, so to study counterpoint is to study the fundamental of Western music. 
-
-Eighteenth century species counterpoint gives us a relatively straightforward set of rules and norms to begin this study. Even though many of these rules are not observed by modern music, we can study the process of how these rules create music and then apply that *process* to all types of music.
-
-Finally, consider these two further takeaways from the reading:
-- Music is a built upon tension and release.
-- Music is structured to create expectations for the listener and then either fulfill or deny those expectations. 
-
-These observations consider the nature of musical composition in general, because they also demonstrate the fundamentals of counterpoint. Tension, release, and expectations are based on two primary functions: intervals and melodic motion, and we will begin looking at these for the rest of this unit.
+Each of these types of motion compares the direction of each line (i.e. ascending and descending) and the size of the interval. 

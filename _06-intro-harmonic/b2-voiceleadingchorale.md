@@ -3,7 +3,9 @@ layout: chapter
 title: Lesson 6b - Voice-leading Considerations in Chorale-style Harmony
 ---
 
-# Class discussion
+## Class discussion
+
+TBD
 
 ### Implied harmony in two-parts
 
@@ -42,48 +44,7 @@ There are many common mistakes when creating or analyzing suspensions:
 
 Once you have familiarized yourself with these three concepts, review the examples on the previous page to ensure that you understand the form of a suspension. While doing this, you will notice that each of the suspensions is labeled with a pair of numbers in addition to the word *sus*. The class easily figured out that the numbers correspond to the intervals created by the suspension and its resolution *against the bass*. It is important to remember the difference between the terms *root* and *bass*. The root of the chord may be in a higher voice, but you will still measure the suspension against the bass. Always use the bass! The most common suspensions are the 4-3, 7-6, and 9-8 suspensions, but others can exist. 
 
-If the suspension is in the bass voice, you must measure the suspension against the most dissonant voice -- this always creates a 2-3 suspension. There are two important things to notice here:
-- The intervals go from small to large (2-3), but when the suspension is in an upper voice, the intervals go from large to small. This is because suspensions always resolve *down* by step. When you measure a downward resolution against a lower voice, the intervals get smaller as the upper voice moves *closer* to the bass. When you measure a downward resolution against a higher voice, the intervals get larger as the bass moves *away* from the upper voice.
-- Assuming that there are more than two voices, there will always be a second and a third present above a suspension in the bass. We say that you measure it against the most dissonant interval, but the reality is that it is always a 2-3 suspension if the suspension is in the bass.
-
-### Adding inner voices
-
-To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers constantly bend or break these rules if it better serves their ideas.
-
-### Doubling
-
-When voicing triads in four-part harmony, at least one note must be doubled.
-
-1. Doubling the root is the ideal choice.
-2. Doubling the fifth is the second best option.
-3. Doubling the third is generally *unacceptable*, although there are certain corner cases in which this can be necessary. As a rule of thumb, try to never double the third. The reason for this will be clear after we talk about chordal resolutions in Unit 7a.
-4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony that require a fifth as well.
-4. You can triple the root if necessary, but this creates a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
-
-Doubling in a seventh chord is similar, but because you have four notes for four voices, there is less freedom.
-1. There must always be a root, third, and seventh in the chord, because without any of them, the chord is no longer a functioning seventh chord.
-2. If necessary, you can omit the fifth.
-3. If the fifth is ommitted, the root is the only chord tone that can be doubled. Never double the third or the seventh.
-
-### Spacing
-
-Spacing is a relatively straightfoward idea, but it took the class quite a few tries to come up with working definitions based on the examples. The final conclusions were:
-- The bass *can* be as far from the tenor as needed.
-- Tenor and alto *cannot* have more than an octave between them.
-- Soprano and alto *cannot* have more than an octave between them.
-- Tenor and soprano *can* have more than an octave between them.
-  - When the tenor and soprano are within an octave of each other, we call this a *closed voicing*.
-  - When the tenor and soprano are more than an octave apart, we call this an *open voicing*.
-
-In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 8, but a general rule of good voicing is to allow wider intervals between lower voices and narrower intervals between high voices.
-
-### Range
-
-The ranges for each voice in the examples are conservative, but will serve us well in our beginning part-writing. These are highly dependent on the intended performers.
-
-### Voice-crossing
-
-There was no easy way to notate this in the examples, but voice-crossing should be avoided unless absolutely necessary. It is almost never absolutely necessary.
+If the suspension is in the bass voice, you must measure the suspension against the most dissonant voice -- this always creates a 2-3 suspension. There are two impo
 
 # Further reading
 
