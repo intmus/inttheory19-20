@@ -13,15 +13,82 @@ Independence and integrity of melodic lines
 
 -Static and parallel can hinder this
 
-Harmonic intervals- verticle "slice" of music
+Harmonic intervals- verticle slice of music
 
 Melodic intervals- horizontal slice of music
 
-- these two determine our study of motion
+-these two determine our study of motion
 
 Stepwise = movement by second,
 Skip = movement by third,
 Leap = larger movement
+
+
+Rules of first species counterpoint:
+
+Length
+
+-8 to 14 pitches
+
+Start and end pitches
+
+-start on P8 of tonic
+
+-end on P8 of tonic
+
+-approach by stepwise contrary motion
+
+-the two lines will always be re and ti
+
+repeated pitches
+
+-no
+
+acceptable melodic intervals
+
+-stepwise motion
+
+-more leaps than skips
+
+approaching and leaving leaps, skips
+
+-for leaps, approach and leave by stepwise direction in the opposite direction of the leap
+
+range
+
+-very singable
+
+-stay in the range of a human being
+
+climax
+
+-only one
+
+Acceptable harmonic intervals
+
+-consonance only
+
+-you see more imperfect consonances than perfect consonances, helps avoid parallel perfect intervals
+
+approaching the final pitch
+
+-stepwise contrary motion
+
+number of times that an interval size can be used consecutively
+
+-imperfect consonances, two or three
+
+-perfect consonances, zero
+
+acceptable motion between lines
+
+-no parallel perfect intervals, this makes the lines lose their independence
+
+acceptable types of motion
+
+-parallel, contrary, similar
+
+-do not see oblique and static, no repeated pitches!
 
 # Further reading
 
