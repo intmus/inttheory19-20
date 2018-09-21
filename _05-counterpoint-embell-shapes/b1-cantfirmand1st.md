@@ -114,28 +114,22 @@ For quick reference, this means that the acceptable consonant intervals in first
 - **Perfect**: Perfect fifths and octaves
 - **Imperfect**: Major and minor thirds and sixths
 
-### Acceptable Motion Between Lines
+### Motion Between Lines in First Species
 
 Types of motion
-- parallel 
-- contrary
-    - always okay
-- static
-- oblique
-- similar
-    mostly okay
-    - In 1st species counterpoint, because there are no repeated notes, that rules out static and oblique motion.
-    1st Species only uses parallel, contrary, and similar motion. 
-    - Similar motion is less common because it is easy to have part writing errors. 
+- contrary - no restrictions
+- parallel - some restrictions
+- similar - some restrictions
+- static - not allowed
+- oblique - not allowed
 
-Types of Errors:
-- parallel octaves and fifths
-- contrary octaves and fifths
+In first species, an individual line cannot repeat a pitch, so this eliminates both static and oblique motion entirely. Contrary motion is the easiest motion to use because it has almost no restrictions. Parallel and similar motion are less common but still regularly used; you will need to pay careful attention to avoid creating part writing errors with both of these. 
+
+### Errors in motion
+
+- parallel perfect octaves and perfect fifths
+    - Parallel perfect octaves and fifths are always unacceptable. Repeating the same pitch in this manner blurs the independence of the lines and becomes too similar to monophony.
+- contrary perfect octaves and perfect fifths
+    - Unacceptable contrary octaves and fifths occur when two identical perfect intervals occur consecutively in contrary motion. This is a way of trying to hide parallel perfect octaves or fifths by using contrary motion. 
 - similar/direct/hidden octaves and fifths
-
-Parallel perfect octaves and fifths are unacceptable. Repeating the same pitch in this manner blurs the independence of the lines and becomes too similar to monophony.
-Contrary octaves are when you have two intervals of an octave in a row and they move in contrary motion. 
-You still have two octaves in a row, even if they were approached by contrary motion. 
-Similar motion is when you approach a perfect fifth or octave in similar motion from any interval. 
-Approaching a perfect interval by similar motion makes it more difficult to hear the interval and paints you into a corner when writing counterpoint as well. 
-Similar motion is also called direct motion, and hidden motion.
+    - Unacceptable similar motion occurs when you approach a perfect fifth or octave in similar motion from any interval. Approaching a perfect interval by similar motion makes it more difficult to hear the interval and will make it difficult to continue writing your counterpoint without creating more errors. Similar octaves or fifths are also referred to as direct octaves/fifths or hidden octaves/fifths; I prefer the term "similar octaves/fifths" because it describes the motion accurately.
