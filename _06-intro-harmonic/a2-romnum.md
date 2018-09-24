@@ -5,7 +5,13 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 
 # Class discussion
 
-TBD
+Why not just use leadsheet notation?
+
+-they cannot imply a key
+
+What information does a roman numeral communicate?
+
+
   
 # Further Reading
 
