@@ -3,6 +3,12 @@ layout: chapter
 title: Discussion of class readings
 ---
 
+## Class discussion
+
+TBD
+
+<!-- FROM PREVIOUS YEAR
+
 ### Harmonic Analysis:
 
 Notes from the reading:
@@ -13,7 +19,7 @@ Notes from the reading:
 - circle of fifths progressions are the foundation of music 
   - the more you break traditional rules, the more you create a new style of your own
   
-#### Figured Bass
+### Figured Bass
 
 Figured bass is the way we label function within a piece of music. 
 It is most often used as shorthand for keyboardists.
@@ -26,4 +32,5 @@ They would read a bass line and see small numbers or accidentals and assume the 
 It is important not to mix Lead Sheet Notation, Figured Bass, and Roman Numeral Analysis.
 Firgured bass does not exist without a bass line. 
 Roman numerals tell you the bass line and give us context.
-Lead sheet notation gives you absolutes and tell you the exact pitches to use. 
+Lead sheet notation gives you absolutes and tell you the exact pitches to use.
+-->

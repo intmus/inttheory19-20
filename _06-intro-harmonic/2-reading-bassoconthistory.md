@@ -11,7 +11,7 @@ title: Class reading - An introduction to basso continuo keyboard-style voice-le
 
 *Basso continuo* emerged in the seventeenth century as a shorthand notation for keyboardists (typically church organists) who were accompanying a soloist or small ensemble performing a work originally composed for a larger group. For example, if two or three singers were tasked with performing an eight-voice choral work, they could select the most prominent parts to sing, while an organist could cover the rest. Performing five or six lines of contrapuntal choral music could be a significant challenge, so organists needed a way to condense the texture while still preserving the core musical structure to support the vocalists.
 
-The *thorough bass* emerged as that shortcut. The "thorough" or "continuous" bass is a musical line that includes the lowest note at any given time. Usually, works would not include a single part that could function as this line, so the organist would alternate between voices, as they exchanged registers or took rests. The resulting line, unline the regular "bass" part, was "continuous" (or "thorough")—hence the name *thoroughbass* or *basso continuo*.
+The *thorough bass* emerged as that shortcut. The "thorough" or "continuous" bass is a musical line that includes the lowest note at any given time. Usually, works would not include a single part that could function as this line, so the organist would alternate between voices, as they exchanged registers or took rests. The resulting line, unlike the regular "bass" part, was "continuous" (or "thorough")—hence the name *thoroughbass* or *basso continuo*.
 
 A good musician could perform this bass line, and with an eye (or ear) on the vocal parts and with knowledge of how to improvise good voice-leading, that musician could *accompany* the thoroughbass line with chords that made musical sense. (This is the original meaning of the term accompany—to accompany a bass line with chords. The fact that keyboardists did this in the context of supporting a soloist or small ensemble led to that term later being applied to any situation where a keyboardist *accompanied* spotlight performers.)
 
@@ -71,16 +71,16 @@ These figures are so common, that most of them have shortcuts:
 - 4/3 = 6/4/3  
 - 4/2 (or just 2) = 6/4/2
 
-Other shortcuts generally follow two simple rules:
+Other shortcuts for figured bass realization generally follow two simple rules:
 
 - Assume a fifth is present above the bass unless there is a "6" in the figure.  
 - Assume a third is present above the bass unless there is a "4" or a "2" in the figure.
 
-## Unfamiliar figures and chords ##
+## Unfamiliar figures and chords
 
 Only seven figures are given above. If you see a figure you do not recognize, simply follow the intervals (using the two shortcut rules). Likewise, if analyzing a chord that is not a triad or seventh chord, simply label the *simple* intervals you see/hear above the bass, from top to bottom in descending order: 7/6/3 or 5/4, for example. In time, you will become familiar with a number of other harmonic possibilities, and their corresponding figures.
 
-## Chords of the fifth and chords of the sixth ##
+## Chords of the fifth and chords of the sixth
 
 All chords can be categorized as either a *chord of the fifth* or a *chord of the sixth*. This distinction will be important for our study of voice-leading.
 
@@ -88,7 +88,7 @@ A *chord of the fifth* contains a fifth above the bass, but no sixth above the b
 
 A *chord of the sixth* contains a sixth above the bass.
 
-## Chromatic alteration ##
+## Chromatic alteration
 
 If a note is chromatically altered (different than the key signature), the figure must be altered as well. Since bass notes are already present in the bass, a chromatic alteration in the bass will not make it into the figure. However, any other alteration in the upper voices (such as a raised leading tone in minor) must be reflected in the figure. To do so, simply put a sharp, flat, or natural to the left of the appropriate number. 
 
