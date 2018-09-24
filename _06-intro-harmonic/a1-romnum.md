@@ -72,8 +72,9 @@ w:IM7 ii6/5 iii4/3 IVM4/2 V4/3 vi7 vii\/o4/2 IM6/5{% endcapture %}
 
 ## Conclusions
  
-Most of the class was familiar with the basics of using Roman numerals to label diatonic chords, but we broke the system into its fundamental components.
-- *Root* - The number associated with a Roman numeral denotes the scale degree on which the chord is built.
+You are likely already familiar with the basics of using Roman numerals to label diatonic chords, but it is helpful to have a complete breakdown of the system into its fundamental components.
+
+- *Root* - The number (e.g. one, two, three, etc.) associated with a Roman numeral denotes the scale degree on which the chord is built.
   - If there is no accidental in front of the Roman numeral, the chord is built off the diatonic scale degree.
     - The only exception to this rule is the vii<sup>&oslash;</sup> chord in minor; this chord is built off of `ti` (raised seventh scale degree), and this is considered the diatonic function. The naturally-occurring VII chord serves little diatonic purpose.
   - If there is an accidental in front of the Roman numeral, this affects only the root of the chord by raising or lowering it.
