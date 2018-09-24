@@ -90,6 +90,7 @@ Acceptable Types of Motion
 
 -do not see oblique and static, no repeated pitches!
 
+
 # Further reading
 
 ## From *Open Music Theory*
