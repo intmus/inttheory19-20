@@ -3,6 +3,8 @@ layout: chapter
 title: Lesson 5c - 2:1 Counterpoint and Embellishing Shapes
 abc: true
 ---
+<!-- Consider moving all discussion of NCTs below to unit 9. This will affect homework going forward, particularly for units 6 and 7.)
+-->
 
 In second-species counterpoint, the counterpoint line moves in half notes against a cantus firmus in whole notes. This 2:1 rhythmic ratio leads to two new "fundamental musical problems" -- one metric and one harmonic: 
 - the differentiation between *strong beats* and *weak beats*

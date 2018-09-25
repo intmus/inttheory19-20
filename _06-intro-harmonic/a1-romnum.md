@@ -98,9 +98,9 @@ Chordal member | Default implied pitch | To raise by semitone from default | To 
  fifth | P5 above root | <sup>+</sup> after Rom num | <sup>o</sup> after Rom num
  seventh | m7 above root | <sup>M</sup> before inversion figure | <sup>o</sup> before inversion figure**
 
- *For clarity's sake, we **always** use a sharp or flat symbol to show that we are raising or lowering the root, even if you are actually adding a natural.
+ *For clarity's sake, we **always** use a sharp or flat symbol to show that we are raising or lowering the root, even if you are actually adding a natural. When analyzing pieces that change keys--especially to distant keys--this makes it much easier to look for similar patterns, regardless of whether the key signature uses sharps or flats.
 
- **Because the diminished <sup>o</sup> implies the interval of a d5 AND a d7, you must use the half-diminished symbol if you wish to alter the fifth but leave the chordal seventh as a m7 above the root.
+ **Because the diminished symbol <sup>o</sup> implies the interval of a d5 AND a d7, you must use the half-diminished symbol if you wish to alter the fifth but leave the chordal seventh as a m7 above the root.
 
 ### Add and sub
 

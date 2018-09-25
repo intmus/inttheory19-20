@@ -7,45 +7,6 @@ title: Discussion 6b - Voice-leading Considerations in Chorale-style Harmony
 
 TBD
 
-### Implied harmony in two-parts
-
-After some discussion, the class agreed that all of the two-voice counterpoints in the first example implied harmonies of V moving to I in the key of C major. The bass movement of the first three measures highlighted this, but even when the bass movement changed, the class still heard the same progression of V to I. From this, we drew the conclusion that two lines -- in this case the soprano and bass lines -- are enough to imply tonality. One student also pointed out that the chordal fifth was the least common chordal member in these examples, and as we will see when we begin voicing four-part harmony, the chordal fifth is indeed expendable. The root and third are best at implying a triad, and the seventh is obviously necessary to create a seventh chord.
-
-The last bit of discussion on the first example revolved around the strength of cadences. There was no general concensus amongst the class about an absolute ranking, but in general, bass movement was a key factor in strength. For example, measures 1 and 3 were considered to be much stronger than the last measure. The last measure not only lacked `sol` to `do` in the bass, it also did not have a tonic in the final chord.
-
-### Non-Chord Tones in Cadential Motion
-
-As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** The first four measures added decorations that were simply part of the V or V<sup>7</sup> chords that were already implied. Of note, all students heard the added `F` in measures 3 and 4 as changing the harmony from V to V<sup>7</sup>, meaning that the harmony was altered rather than embellished.
-
-Measure 5 continued this idea, but for teaching purposes, I asked them to consider this strictly as a triadic V chord. What does that make the `F`? Of course, it becomes a non-chord tone called a *passing tone*. A *passing tone* is *approached by step* and *left by step in the same direction*. 
-
-One astute student then asked what would happen if we applied the same logic to measures 3 and 4. This was admittedly beyond the scope of what I intended to cover, but because we had briefly discussed the idea of the term *appogiatura* to describe a melodic shape when discussing second species counterpart, I admitted that if the `F` was considered to be a non-chord tone, both measures 3 and 4 would be considered to have a non-chord tone of an *appogiatura*. An *appogiatura* is a non-chord tone that is *approached by leap* and then *left by stepwise motion in the opposite direction*.
-
-The final measure clearly contained an NCT, because the `A` could not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*: a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
-
-My final reminder to students when looking for non-chord tones: Always make sure that the pitch is not actually a chord tone! This is one of the most common mistakes for beginning analysts.
-
-### Suspensions
-
-After looking at the examples for suspensions, the first suggestion was that a *suspension* is a pitch that is tied over from the previous chord. This is on the right track, but defining a suspension requires considerably more information. The first and most easily dispelled misconception is that it must be *tied*; the tone can be re-articulated. From this point, the class was able to come up with three basic ideas for a full definition of a suspension:
-- It must start as a chord tone in the previous chord
-- It must be carried into the following chord and create a non-chord tone at the beginning of the chord.
-- It must then resolve down by step to a chord tone in the new chord.
-
-These three ideas directly relate to the standardized terminology for the three basic components of a suspension:
-- *Preparation* - A chord tone that occurs as part of a separate chord before the suspension.
-- *Suspension* - A non-chord tone that occurs at the moment that all other voices change to the new chord. This tone must be carried over from the previous chord, but it can be re-articulated.
-- *Resolution* - The non-chord tone then resolves downward by step to a chord tone.
-
-There are many common mistakes when creating or analyzing suspensions:
-- There must be two chords. You cannot have a suspension with only one chord.
-- It must resolve downward. If it resolves upward, it is a different kind of NCT.
-- It must resolve by step.
-
-Once you have familiarized yourself with these three concepts, review the examples on the previous page to ensure that you understand the form of a suspension. While doing this, you will notice that each of the suspensions is labeled with a pair of numbers in addition to the word *sus*. The class easily figured out that the numbers correspond to the intervals created by the suspension and its resolution *against the bass*. It is important to remember the difference between the terms *root* and *bass*. The root of the chord may be in a higher voice, but you will still measure the suspension against the bass. Always use the bass! The most common suspensions are the 4-3, 7-6, and 9-8 suspensions, but others can exist. 
-
-If the suspension is in the bass voice, you must measure the suspension against the most dissonant voice -- this always creates a 2-3 suspension. There are two impo
-
 # Further reading
 
 ## From *Open Music Theory*

@@ -7,43 +7,37 @@ title: Discussion of class readings
 
 Laws
 
--Human biology based. Things we cannot change because they are based on how our brains work
-
--Things we cannot change
-
--transcends cultural bias
-
--based in physics or acoustics, these are not up for argument
+- Human biology based. Things we cannot change because they are based on how our brains work
+- Things we cannot change
+- transcends cultural bias
+- based in physics or acoustics, these are not up for argument
 
 
 Rules
 
--Things that we do to make music fit into the laws
-
--These depend on style and culture
-
--Listener expectations help inform the rules
-
--guidelines for a musical style
+- Things that we do to make music fit into the laws
+- These depend on style and culture
+- Listener expectations help inform the rules
+- guidelines for a musical style
 
 
 Strategies
 
--Which rules to composers like to follow and break
-
--Play with your listeners expectations
-
--Providing surprises makes music interesting
+- Which rules to composers like to follow and break
+- Play with your listeners expectations
+- Providing surprises makes music interesting
 
 
 Tendencies
 
--another word to describe strategies
+- another word to describe strategies
 
 
 What are we really studying?
 
--Function!
+- Function of music
+  - How music is structured is only the first level of understanding
+  - How one structure relates to others is the goal of this course.
 
 <!-- FROM PREVIOUS YEAR
 
