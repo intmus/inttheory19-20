@@ -21,10 +21,9 @@ Counterpoint provides a clear starting point for exploring these diatonic functi
 
 ## Implied harmony in two parts
 
-**Each measure of this first example is a two-voice version of the same two diatonic harmonies.**
+**Each measure of this first example is a two-voice version that implies same two harmonies repeatedly.**
 - Which two harmonies do you think these measures imply? 
-  - Is there more than one option for any of the harmonies?
-- What are the Roman numerals and inversion figures for each measure? 
+  - What are the Roman numerals and inversion figures for each measure?- Is there more than one option for any of the harmonies?
 - Are all the intervals consonant? 
   - If not, to which chords do the dissonant intervals belong?  
 - Do any particular chord members seem more important than the others? 
