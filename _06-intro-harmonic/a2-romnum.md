@@ -11,7 +11,31 @@ Why not just use leadsheet notation?
 
 What information does a roman numeral communicate?
 
+-The case of the roman numeral communicates if the third is major (Uppercase) or minor (lowercase)
 
+-The number of the numeral shows you what scale degree the root is, and you can infer what tonic is
+
+-If we know what the root is, we can figure out all of the other pitches based on the roman numeral
+
+-Exception being viio7 in minor. 7th scale degree must be raised to leading tone.
+
+-We can alter roots by writing full size accidentals to the left of the roman numeral. No Naturals! sharps and flats
+
+-Fifths are default perfect
+
+-Diminished fifths are marked as a degree symbol (o) superscript on the right side of the roman numeral
+
+-Augmented fifths are marked as (+) superscript on the right side of the roman numeral
+
+Seventh Chords
+
+-If there is an inversion figure of 7, 6/5, 4/3, or 4/2, the seventh is accounted for
+
+-Sevenths are default minor, because they are the most common, and because it makes alteration simpler. If we defaulted major 7, it would become the root of the chord if it was raised. Also, a diminished 7 would be doubly flatted, which gets confusing and hard to write.
+
+Why not use the triangle for raised seventh?
+
+-Lead sheet notation and roman numeral analysis do completely different things. They are equally useful, but we must keep them separate to preserve their usefulness.
   
 # Further Reading
 
