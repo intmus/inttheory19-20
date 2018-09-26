@@ -82,14 +82,22 @@ You are likely already familiar with the basics of using Roman numerals to label
 - *Chordal third* - The case (i.e. upper-case versus lower-case) of the Roman numeral denotes the quality of the chordal third.
   - All upper-case Roman numerals have a major third. This includes major triads, augmented triads, major major chords, and major minor chords.
   - All lower-case Roman numerals have a minor third. This includes all minor triads, diminished triads, minor minor chords, diminished minor chords, and diminished diminished chords.
-- *Chordal fifth* - The chordal fifth is altered by adding either a <sup>&oslash;</sup> for lowered fifths or a <sup>+</sup> for raised fifths.
-- *Chordal sevenths* - Simply having an inversion figure that implies a seventh chord (i.e. <sup>7, 6/5, 4/3, or 4/2</sup>) is all that is needed for a seventh chord.
-  - A <sup>M</sup> is added as a courtesy for all major seventh chords, even though they occur naturally. This allows us to differentiate chord qualities clearly once secondary functions and mode mixture are introduced later in the course.
-  - If necessary, the chordal seventh could be raised or lowered by adding a flat or sharp sign respectively in front of the appropriate interval of the inversion figure. This is almost never necessary in diatonic harmony.
+- *Chordal fifth* - The chordal fifth is altered by adding either a <sup>o</sup> (the diminished symbol) for lowered fifths or a <sup>+</sup> for raised fifths.
+- *Chordal sevenths* - To show a chordal seventh is present, you only need to use an inversion figure that implies a seventh chord (i.e. <sup>7, 6/5, 4/3, or 4/2</sup>).
+  - A seventh chord inversion figure with no alteration implies a minor seventh above the root. It may be helpful to think of this as the "default" chordal seventh. 
+    - Having a minor interval as default is different than chordal thirds and fifths, because both of those chord members have "defaults" of a major interval.
+    - We do this for two reasons: 
+      - We cannot raise a M7 above the root; it just becomes the root.
+      - A d7 would be lowered *twice* if we used a M7 as default, and we would have to devise a new system for showing this.
+  - A <sup>M</sup> is added before the inversion figure for all major seventh chords, even though they do occur diatonically. This allows us to differentiate chord qualities clearly once secondary functions and mode mixture are introduced later in the course.
+  - The diminished symbol, <sup>o</sup>, is added before the inversion figure for fully diminished seventh chords. This also shows that the chordal fifth is lowered, the same as in a triad.
+    - If you think of a m7 above the root as the default chordal seventh for inversion figures, then adding <sup>o</sup> lowers the chordal seventh by a half step.
+    - As you know, half diminished seventh chords (diminished minor chords) have a lowered fifth above the root but a *minor* seventh, rather than the diminished seventh of a fully diminished seventh chord. For half diminished chords, we replace the <sup>o</sup> with a <sup>&oslash;</sup> to show that the chordal fifth is lowered but the chordal seventh is a m7 above the root.
 
-When you add an inversion to a seventh chord, you do not need a <sup>7</sup> anymore. The inversion implies the seventh.
 
-By having each part of a Roman numeral describe an isolated chord tone, we are able to accurately describe even borrowed chords.
+Remember that when you add an inversion to a seventh chord, you do not need a <sup>7</sup> anymore. The inversion implies the seventh.
+
+By having each part of a Roman numeral describe an isolated chord tone, we are able to accurately describe any chord that can occur in our tonal harmony system, regardless of whether it has a standard function.
 
 Chordal member | Default implied pitch | To raise by semitone from default | To lower by semitone from default
  --- | --- | --- | ---
