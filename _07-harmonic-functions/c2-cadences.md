@@ -1,29 +1,11 @@
 ---
 layout: chapter
-title: Lesson 7c - Cadences
+title: Discussion 7c - Cadences
 ---
 
 # Class discussion
 
-Because we were short on time for this discussion, I summarized cadences briefly for the class. 
-
-Cadences are the periods at the end of musical sentences. We classify each cadence by their harmonic progressions.
-
-- *Authentic Cadence* - any cadence in which V resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
-    - **Perfect Authentic Cadence (PAC)**
-        - Both the V chord and I chord are in root position
-        - `Do` is in the soprano voice of the I chord 
-    - **Imperfect Authentic Cadence (IAC)**
-        - If any authentic cadence (V to I) does not fill all of the requirements for a PAC, then it is an IAC.
-- **Half Cadence (HC)**
-    - Any phrase that ends on a V chord
-    - There is a special classification of a half-cadence called a **phrygian half cadence (PHC)**
-        - This cadence only occurs in minor and must have a iv<sup>6</sup> resolve to a root-position V chord
-- **Plagal Cadence (PC)**
-    - Any phrase that ends in IV resolving to I
-        - Commonly associated with "Amen" at the end of chorales
-- **Deceptive Cadence (DC)**
-    - Any phrase that ends with V resolving to vi
+TBD
 
 # Further reading
 

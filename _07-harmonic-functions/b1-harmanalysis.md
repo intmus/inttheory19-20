@@ -1,9 +1,69 @@
 ---
 layout: chapter
 title: Lesson 7b - Performing a Harmonic Analysis
+abc: true
 ---
 
-# Class Discussion
+One of the most difficult issues to tackle in harmonic analysis is determining *which pitches are functional*. 
+- Which pitches define how the listener "hears" the music?
+- Which pitches could be removed without changing the basic effect?
+- Which pitches are added to provide variety?
+
+Now that we understand how circle-of-fifths progressions within a key create a basic harmonic "outline", we can use that pattern to begin analyzing harmony. The framework that these progressions provide can be used to help organize any piece of music in this tradition and allows us to ask the two fundamental questions of all harmonic analysis: 
+- How are expectations created in the music?
+- Which pitches are functional in creating these expectations?
+
+Regardless of the complexity or era of a composition, if a theorist can answer these questions about a piece, they can analyze the qualities that define that style of composition.
+
+## Roman numeral analysis
+
+**Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve and that make this difficult.**
+
+{% capture ex1 %}X:1
+T:Old hundredth psalm
+M:4/4
+L:1/4
+Q:1/4=80
+K:G
+V:1
+[GD]| [GD] [FD] [EB,] [DD]| [GB,] [AD] H[BD]
+[BD]| [BD] [BG] [AF] [GG]| [cG] [BG] H[AF]
+[GG]| [AF] [GB] [AF] [DG]| [EE] [FC] H[GB,]
+[dD]| [BD] [GG] [AF] [cA]| [GB] [AF] H[GG]|| [G4C4]| [G4B,4]|]
+V:2 clef=bass
+[G,B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [D,F,] H[G,G,,]
+[G,G,]| [G,G,] [G,D] [DD,] [E,B,]| [C,E] [G,,D] H[DD,]
+[E,B,]| [D,D] [G,D] [D,D] [B,,G]| [C,G,] [D,A,] H[G,E,]
+[G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|| [C,4E,4]| [G,,4D,4]|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+**Before you could even begin, you needed to figure out a number of major concepts.**
+- How often do chords occur?
+    - This idea is called *harmonic rhythm*.
+- Does every note belong to a chord? 
+    - This is differentiating between chord tones and non-chord tones.
+- Are there notes missing from any of the chords?
+
+**As you answered each of these questions, you began understanding how harmony *functions*. Even without much guidance, you can use your knowledge of musical fundamentals -- intervals, chords, melodic lines, Roman numeral labeling, etc. -- to create a sketch of the harmonic underpinnings of this chorale.**
+
+**We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?**
+
+**Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic (Unit 7a). Does the voice-leading -- i.e. how each chordal member resolves -- work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
+
+**There is one more type of cadence classification that is commonly used, although this is more of a sub-category of a half-cadence: the *phrygian half-cadence*. It only occurs in minor, and the approach to the half-cadence is the defining feature. Look at the following cadence and study the final two chords.**
+
+{% capture ex2 %}X:2
+T:Phrygian half cadence
+M:4/4
+L:1
+K:Eb
+V:1
+[GE]| [AE]| [FC]| H[GD]|]
+V:2 clef=bass
+[C,C]| [A,,C]| [CA,,]| [=B,G,,]|]{% endcapture %}
+{% include abc-example.html number="2" abc=ex2 %}
+
+## Conclusion
 
 Students often confuse harmonic analysis with identifying each of the harmonies. While finding chords is a part of harmonic analysis, the actual goal of harmonic analysis is to explain how the listener hears the music. To do this, we must figure out which pitches are functional and which pitches are embellishments. The essential pitches of any harmony are those that if removed, would noticeably alter the way the listener hears the harmony.
 
@@ -49,54 +109,3 @@ Regardless of whether you include the pitch as functional, the NCTs must always 
 ## Omitted tones
 
 This was a brief discussion. Refer to the voicing guidelines under Unit 6b for likely doublings and omissions in four-part writing.
-
-# Further Reading
-
-## The three common-practice harmonic functions
-
-In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *pre-dominant* (**P** — sometimes referred to as *subdominant*, **S**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
-
-If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *pre-dominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.) 
-
-To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common — C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
-
-<a href="{{ site.baseurl }}/images/harmony/circleOfThirds-leadSheet.png"><img src="{{ site.baseurl }}/images/harmony/circleOfThirds-leadSheet.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of C major positioned on the circle of thirds."></a>
-
-Convert these chords to Roman numerals (in C major), and we can see the functions. Since the function is determined by the tendencies of the tones that they share, and since on this graph chords are grouped together by notes they have in common, they are also grouped together by function.
-
-<a href="{{ site.baseurl }}/images/harmony/circleOfThirds-functions.png"><img src="{{ site.baseurl }}/images/harmony/circleOfThirds-functions.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of any major key represented by Roman numerals positioned on the circle of thirds with harmonic functions labeled."></a>
-
-*Triads arranged on the circle of thirds, labeled by harmonic functions.*
-
-Interestingly, in common-practice music, a chord's function can be determined solely by its internal characteristics (the notes that make up the chord). This is not true of all styles. For example, in pop/rock music a **IV** chord can exhibit very different functional tendencies depending on its context. But in classical music, simply knowing the notes in a chord is enough to determine its general harmonic function and the general tendencies of that chord and its individual notes.
-
-The syntactic properties of these functions will be covered elsewhere. What follows simply explains how to determine the function of a chord in common-practice music with greater specificity.
-
-## Finding the function of a chord ##
-
-Each of the three harmonic functions — *tonic* (T), *pre-dominant* (P), and *dominant* (D) — have characteristic scale degrees. Tonic's characteristic scale degrees are 1, 3, 5, 6, and 7. Pre-dominant's characteristic scale degrees are 1, 2, 3, 4, and 6. Dominant's characteristic scale degrees are 2, 4, 5, 6, and 7.
-
-Ian Quinn (a music theorist at Yale University) further distinguishes these scale degrees, using the categories of functional *triggers*, functional *associates*, and functional *dissonances*. These categories help us understand the functional properties of chords whose scale degrees belong to more than one function, as well as how certain notes behave within a chord. They also help us understand which scale degrees are more or less characteristic of a function ― something that will help determine function when a complete chord is not present.
-
-| function 	| triggers 	| associates 	| dissonances 	|
-| :-: | :- | :- | :- |
-| **T**	| 1 and 3	| 5 and 6	| 5 (if 6 is also present) and 7 |
-| **P**	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3 |
-| **D**	| 5 and 7	| 2	| 4 and 6 |
-
-
-In terms of moveable-*do* solfège:
-
-| function 	| triggers 	| associates 	| dissonances 	|
-| :-: | :- | :- | :- |
-| **T**	| *do* and *mi*/*me*	| *sol* and *la*/*le*	| *sol* (if *la*/*le* is also present) and *ti*/*te*
-| **P**	| *fa* and *la*/*le*	| *do* and *re*	| *do* (if *re* is also present) and *mi*/*me*
-| **D**	| *sol* and *ti*/*te*	| *re*	| *fa* and *la*/*le*
-
-To determine the function of a chord, find the function that includes all the scale degrees of a chord (regardless of chromatic alterations ― that is, treat &#9839;4 the same as regular scale-degree 4). If more than one function contains all the scale degrees, take the function with the most triggers in the chord.
-
-There is one exception to this (for now): a chord with scale degrees 6, 1, and 3 is a special kind of tonic chord, called a *destabilized tonic*. Quinn uses the special functional label is **Tx**, rather than simply **T**, for this chord.
-
-Also note that because the III<sup>7</sup> chord's scale-degrees do not wholly belong to any of the three functions, it can behave similar to **T** and **D** chords, depending on context. It is a rare chord in its diatonic form.
-
-[This handout](/images/Handouts/HarmoniesByBassScaleDegree.pdf) will help you determine the function of a chord from the bass scale degree and/or the Roman numeral.

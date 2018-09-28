@@ -1,106 +1,12 @@
 ---
 layout: chapter
-title: Lesson 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
+title: Discussion 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
 abc: true
 ---
 
 # Class discussion
 
-As we looked at implied harmony in two-voice counterpoint, we demonstrated that simple voice-leading is all that is necessary to *imply* diatonic function. If we take that further, we should be able to create the fundamentals of harmonic progression using the voice-leading inherent in diatonic systems.
-
-Beginning theory students often learn two general rules of thumb for voice-leading:
-- `ti` resolves to `do`
-- `fa` resolves to `mi`
-
-This is helpful to get students thinking about voice-leading in the most basic of ways, but it does not accurately reflect common practice harmony. For example, look at the following two-voice outline of one of the most common progressions in tonal music.
-
-{% capture ex1 %}X:1
-T:Implied harmonies from two voices
-M:4/4
-L:1/2
-Q:1/4=80
-K:C
-V:1
-AB| c2|]
-V:2 clef=bass
-F,G,| C,2
-w:IV V I|]{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
-
-In this progression the movement of the bass voice has `fa` moving to `sol`, and this is a normal, acceptable progression. This implies that there is far more detail necessary to understand voice-leading in harmony than general rules of thumb.
-
-## Developing Progressions Based on Voice-leading
-
-By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, the students proposed a couple of rules -- that *do not* rely on scale degrees -- to explain the voice-leading between the two chords.
-- For chords that have roots separated by a P5:
-    - The *seventh* of the first chord resolves to the *third* of the second chord.
-    - the *third* of the first chord resolves to the *root* of the second chord.
-    - If both chords are in root position, the bass voice moves from the *root* of the first chord to the *root* of each chord.
-
-This is the beginning of a *circle-of-fifths progression*: a progression in which each chord root follows the circle of fifths. Using their new rules in combination with the general voicing rules that we discussed in Unit 6b, I then asked the class to create a voicing for the chord that would preceded the V chord in a circle-of-fifths progression. A P5 above `G` is `D`, and the chord built off of that pitch is the ii chord.
-
-The class came up with two voicings that they liked:
-{% capture ex2 %}X:2
-T:Two possible voicings for a ii chord
-M:4/4
-L:1/2
-K:C
-V:1
-[Fd]| [BG]| [c2G2]|| [FA]| [BG]| [c2G2]|]
-V:2 clef=bass
-[D,A,]| [G,D]| [C,2E2]|| [D,D]| [G,D]| [C,2E2]|]
-w:C:ii V I ii V I{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
-
-Some of the class preferred the sound of the first voicing, probably because they found the melodic shape in the soprano more interesting. Unfortunately, this voicing created multiple issues. Not only are the parts more difficult to sing, particularly the tenor voice, but parallel 5ths are created between the tenor and bass voices. 
-
-The second progression has less melodic variety, but it provides the smoothest, easiest voice-leading for each part with no voice-leading errors. I asked the class to add two more chords to the progression, vi and iii, and they were able to create these without much issue by following the pattern that they had created.
-
-From this, we demonstrated the process by which voice-leading creates one of the most fundamental progressions of all diatonic harmony, the circle-of-fifths progression.
-  
-{% capture ex3 %}X:3
-T:Adding the iii chord
-M:4/4
-L:1
-K:C
-V:1
-[EG]| [EA]| [FA]| [BG]| [cG]|]
-V:2 clef=bass
-[E,B,]| [A,,C]| [D,D]| [G,,D]| [C,E]|]
-w:C:iii vi ii V I{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
-
-## Adding IV and vii<sup>o</sup>
-
-It is possible to continue this pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to there two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C` in C major, you are left with a IV chord, `F-A-C` in C major. Likewise, if you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. When we add these to our harmonic progression flowchart, we get our basic outline for harmonic progressions.
-
-| (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
---- | --- | --- | --- | --- |
-| iii | vi | ii | V | I |
-| | | IV | vii<sup>o</sup> | |
-
-Using just this flowchart, you can build basic chordal progressions for a given melody by harmonizing the pitches with the correct progressions. Please note that the I chord can go jump back to anywhere in the progressions.
-
-## Adding in the Common Exceptions
-
-There are a few common exceptions that should be added to this progression flowchart. We will discuss how these are used as we work through their appropriate topics (e.g. cadences, chordal substitutions), but for now, please add them to your list of possible progressions.
-- chords that have the same function can move to each other
-    - ii can move to IV, and IV can move to ii.
-- V can move to vi 
-    - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord, so it must be used correctly. See 7c (later in this unit) for a full explanation of cadences.
-- IV can go to I
-    - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
-- RARE: iii can move to IV
-    - It is difficult to use this without creating multiple voice-leading issues, so in your early attempts at part-writing, do not attempt to use this.
-
-## Changes in Minor
-
-Minor follows all of the same progressions, but the chord qualities change to match the naturally occurring pitches in the key signature. Please remember that minor keys must have a major V chord and diminished vii chord to function diatonically. This means that both of these chords are built using the raised seventh scale degree.
-
-| (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
---- | --- | --- | --- | --- |
-| III | VI | ii<sup>o</sup> | V | i |
-| | | iv | vii<sup>o</sup> | |
+TBD
 
 # Further reading
 
