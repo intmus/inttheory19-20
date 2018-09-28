@@ -55,7 +55,8 @@ Because of the importance of the V-I progression, this is a good point to introd
 ## Non-Chord Tones in Cadential Motion
 
 **The next example contains the same harmonies from the first example, but we now with an additional pitch to each measure.**
-- Are the new intervals consonant or dissonant, and how does this line up with how you are hearing? 
+- Are the new intervals consonant or dissonant?
+  - For each new pitch, do you feel it strengthens or weakens the cadence?
 - Which, if any, of these "new" notes belong to the chords that you assigned in the previous example? 
   - From this, you can label what you consider to be *chord tones* and *non-chord tones*--chord tones are pitches that belong to the harmony, and non-chord tones do not.
 - What do intervals of the non-chord tones have in common? 
