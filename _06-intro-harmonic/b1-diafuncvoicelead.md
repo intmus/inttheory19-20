@@ -23,6 +23,8 @@ Counterpoint provides a clear starting point for exploring these diatonic functi
 
 ## Implied harmony in two parts
 
+<!-- When doing the following example, make sure that the class understands that each measure has the same two harmonies. It doesn't make sense to them otherwise. -->
+
 **Each measure of this first example is a two-voice version that implies the same two harmonies repeatedly.**
 - Which two harmonies do you think these measures imply? 
   - What are the Roman numerals and inversion figures for each measure?
