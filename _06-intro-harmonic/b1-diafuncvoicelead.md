@@ -1,18 +1,20 @@
 ---
 layout: chapter
-title: Lesson 6b - Voice-leading Considerations in Chorale-style Harmony
+title: Lesson 6b - Establishing Diatonic Function through Voice Leading
 abc: true
 ---
 
-If we think back on our progression through the course thus far, we began by studying individual pitches, then moved through combining those pitches into intervals, intervals into chords, and sequential intervals into melodies. Next, we studied a simplified version of counterpoint in order to examine how the combined vertical and horizontal aspects of music interact to create melody and harmony. While this provides a framework for understanding harmony, it does not seek to establish the vertical aspect of music as its own function.
+If we think back on our progression through the course thus far, we began by studying individual pitches, then combined those pitches into intervals, and then assembled those intervals sequentially and simultaneously to create melodies and chords respectively. Next, we studied a simplified version of counterpoint in order to examine how the combined vertical and horizontal aspects of music interact to create basic tonality. While counterpoint provides a framework for understanding harmony, it is primarily a study of how the horizontal aspect of music, melody, combines to produce function; it does not establish the vertical aspect of music, harmony, as its own function.
 
-Because the Roman numeral system allows us to classify and label *context and function*, we can use it explore how harmonies function within a diatonic style.
+Because the Roman numeral system allows us to classify and label *context and function*, we can use it explore how harmonies function within a diatonic style, independent of melody.
+
+## Harmonic functions in diatonic music
 
 In diatonic music, there are three basic categories of harmonic function: *tonic*, *dominant*, and *pre-dominant*. 
 - *Tonic* (**T**) harmonies feel stable and final.
   - This is primarily the I chord, but in rare circumstances, this can include the vi.
 - *Dominant* (**D**) harmonies feel unsettled and have a strong tonal gravity to resolve to the *tonic* harmony*
-  - This includes the V and vii<sup>&oslash;</sup> chords.
+  - This includes the V and vii<sup>o</sup> chords.
 - *Pre-dominant* (**P**) harmonies are harmonies are unstable and have a tonal gravity to resolve to *dominant* harmonies.
   - This includes the ii and IV chords, but can occasionally include the vi chord.
   - Note that there is a difference between the words "pre-dominant" and "predominant".
@@ -21,9 +23,10 @@ Counterpoint provides a clear starting point for exploring these diatonic functi
 
 ## Implied harmony in two parts
 
-**Each measure of this first example is a two-voice version that implies same two harmonies repeatedly.**
+**Each measure of this first example is a two-voice version that implies the same two harmonies repeatedly.**
 - Which two harmonies do you think these measures imply? 
-  - What are the Roman numerals and inversion figures for each measure?- Is there more than one option for any of the harmonies?
+  - What are the Roman numerals and inversion figures for each measure?
+  - Is there more than one option for any of the harmonies?
 - Are all the intervals consonant? 
   - If not, to which chords do the dissonant intervals belong?  
 - Do any particular chord members seem more important than the others? 
@@ -47,7 +50,7 @@ All of the two-voice counterpoints in the first example implied harmonies of V m
 
 #### Cadences
 
-Bass movement is a key factor in determining the strength of a cadence. For example, measures 1 and 3 in the first exercise above likely sound stronger to you than the last measure. The last measure not only lacks `sol` to `do` in the bass, it also does not have a tonic in the final chord. We will return to this idea when discussing cadences in detail in Unit 7c.
+Because of the importance of the V-I progression, this is a good point to introduce an important term in tonality: the *cadence*. We will explore cadences further in the next unit, but for now, you may think of a cadence as a harmonic progression used to conclude a musical phrase. There are many types of cadences, but all of the progressions above are *authentic cadences*--cadences that have a V chord moving to a I chord. Bass movement is a key factor in determining the strength of a cadence. For example, measures 1 and 3 in the examples likely sound stronger to you than the last measure. The last measure not only lacks `sol` to `do` in the bass, it also does not have a tonic in the final chord. We will return to this idea when discussing cadences in detail in Unit 7c.
 
 ## Non-Chord Tones in Cadential Motion
 

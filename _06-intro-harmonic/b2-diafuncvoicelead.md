@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 6b - Voice-leading Considerations in Chorale-style Harmony
+title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 ---
 
 ## Class discussion
