@@ -50,9 +50,9 @@ All of the two-voice counterpoints in the first example implied harmonies of V m
 
 #### Cadences
 
-Because of the importance of the V-I progression, this is a good point to introduce an important term in tonality: the *cadence*. We will explore cadences further in the next unit, but for now, you may think of a cadence as a harmonic progression used to conclude a musical phrase. There are many types of cadences, but all of the progressions above are *authentic cadences*--cadences that have a V chord moving to a I chord. Bass movement is a key factor in determining the strength of a cadence. For example, measures 1 and 3 in the examples likely sound stronger to you than the last measure. The last measure not only lacks `sol` to `do` in the bass, it also does not have a tonic in the final chord. We will return to this idea when discussing cadences in detail in Unit 7c.
+Because of the importance of the V-I progression, this is a good point to introduce an important term in understanding harmony: the *cadence*. We will explore cadences further in the next unit, but for now, you may think of a cadence as a harmonic progression used to conclude a musical phrase. There are many types of cadences, but all of the progressions above are *authentic cadences*--cadences that have a V chord moving to a I chord. Bass movement is a key factor in determining the strength of a cadence. For example, measures 1 and 3 in the examples likely sound stronger to you than the last measure. The last measure not only lacks `sol` to `do` in the bass, it also does not have a tonic in the final chord. We will return to this idea when discussing cadences in detail in Unit 7c.
 
-## Non-Chord Tones in Cadential Motion
+## Embellishing Tones in Cadential Motion
 
 **The next example contains the same harmonies from the first example, but we now with an additional pitch to each measure.**
 - Are the new intervals consonant or dissonant?
