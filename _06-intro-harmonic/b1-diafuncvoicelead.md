@@ -78,13 +78,11 @@ V:2 clef=bass
 
 As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** The first four measures added decorations that were simply part of the V or V<sup>7</sup> chords that were already implied. Of note, all students heard the added `F` in measures 3 and 4 as changing the harmony from V to V<sup>7</sup>, meaning that the harmony was altered rather than embellished.
 
-Measure 5 continued this idea, but for teaching purposes, I asked them to consider this strictly as a triadic V chord. What does that make the `F`? Of course, it becomes a non-chord tone called a *passing tone*. A *passing tone* is *approached by step* and *left by step in the same direction*. 
+Measure 5 technically continues this idea, but for teaching purposes, consider the V chord as triad rather than a seventh chord. This changes the function of the 'F' entirely. Instead of a chordal skip, it becomes a non-chord tone called a *passing tone*. A *passing tone* is a non-chord tone *approached by step* and *left by step in the same direction*. 
 
-One astute student then asked what would happen if we applied the same logic to measures 3 and 4. This was admittedly beyond the scope of what I intended to cover, but because we had briefly discussed the idea of the term *appogiatura* to describe a melodic shape when discussing second species counterpart, I admitted that if the `F` was considered to be a non-chord tone, both measures 3 and 4 would be considered to have a non-chord tone of an *appogiatura*. An *appogiatura* is a non-chord tone that is *approached by leap* and then *left by stepwise motion in the opposite direction*.
+The final measure clearly contains a non-chord tone, because the `A` can not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*--a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
 
-The final measure clearly contained an NCT, because the `A` could not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*: a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
-
-My final reminder to students when looking for non-chord tones: Always make sure that the pitch is not actually a chord tone! This is one of the most common mistakes for beginning analysts.
+A final reminder: always make sure that the pitch is not actually a chord tone! This is one of the most common mistakes for beginning analysts.
 
 ## Suspensions
 
