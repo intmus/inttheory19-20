@@ -11,7 +11,7 @@ Which chords are stronger? (from Implied harmonies from two voices, Lesson 6b)
 
 -Having the movement land on the root! (the arrival is important)
 
--The last one is particularly weak: no root, no leading tone, oblique motion
+-The last example is particularly weak: no root, no leading tone, oblique motion
 
 What is a passing tone?
 
