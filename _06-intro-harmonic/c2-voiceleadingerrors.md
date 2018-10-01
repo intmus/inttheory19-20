@@ -6,7 +6,17 @@ abc: true
 
 ## Class discussion
 
-TBD
+Doubling rules in part writing
+
+-No doubled 3rds in triads
+
+-No doubled 3rds and 7ths in seventh chords
+
+-Doubling roots and fifths are okay!
+
+-Tripling roots is okay!
+
+-The fifth is the least important and may be omitted
 
 # Further reading
 
