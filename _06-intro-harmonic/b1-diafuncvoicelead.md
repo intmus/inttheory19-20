@@ -3,6 +3,7 @@ layout: chapter
 title: Lesson 6b - Establishing Diatonic Function through Voice Leading
 abc: true
 ---
+<!--This should probably be broken into two parts: establishing diatonic function and then embellishing tones. Embellishing tones could be combined with voice-leading errors for its own unit, and then Roman numerals could be moved to the harmonic function unit...maybe? Would need to look at how that would affect the descriptions within function; maybe the Roman numerals are needed first. -->
 
 If we think back on our progression through the course thus far, we began by studying individual pitches, then combined those pitches into intervals, and then assembled those intervals sequentially and simultaneously to create melodies and chords respectively. Next, we studied a simplified version of counterpoint in order to examine how the combined vertical and horizontal aspects of music interact to create basic tonality. While counterpoint provides a framework for understanding harmony, it is primarily a study of how the horizontal aspect of music, melody, combines to produce function; it does not establish the vertical aspect of music, harmony, as its own function.
 
@@ -106,12 +107,14 @@ G,C,| G,C,|| G,C,| G,C,|| D,C,|| D,-"sus2-3"D,/2C,/2|]{% endcapture %}
 
 ### Conclusion
 
-After looking at the examples for suspensions, it may seem that a *suspension* is a pitch that is tied over from the previous chord. This is on the right track, but defining a suspension requires considerably more information. The first and most easily dispelled misconception is that it must be *tied*; the tone can be re-articulated. 
+After looking at the examples for suspensions, it may seem that a *suspension* is a pitch that is tied over from the previous chord. This is on the right track, but defining a suspension requires considerably more information. 
 
 With this in mind, a suspension must have all three of the following qualities to be considered a suspension:
 - It must start as a *chord tone* in the previous chord and then remain unchanged into the new chord.
 - It must create a *non-chord tone* at the beginning of the new chord.
 - It must then resolve down by step to a chord tone of the new chord.
+
+Of note, it is a common misconception among students that a suspension is only present if you see a *tied* note. This is not true; the tone can be re-articulated.
 
 These three rules directly relate to the terminology that we use to describe the three basic components of a suspension:
 - *Preparation* - A chord tone that occurs as part of a chord before the suspension.

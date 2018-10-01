@@ -9,20 +9,21 @@ Before we move on to analyzing harmonic function, we must define the stylistic r
 ## Voice-leading errors
 
 **In the following example, each staff system highlights a different voicing error.**
-- Compare the correct measures to the incorrect measures to come up with descriptions of the first two basic voicing rules of *doubling* and *spacing*. 
+- Compare the "good" chords to the "bad" chords to come up with descriptions of the first two basic voicing rules of *doubling* and *spacing*. 
 - Because *range* is a simple maximum and minimum, I have listed conservative estimates for each voice part. 
   - These can vary widely depending on the skill level of the intended performers but will be sufficient for our early exercises in part-writing.
 
-{% capture ex4 %}X:4
+{% capture ex1 %}X:1
 %%staffsep75%%
 T:Voicing four-part harmony
 M:2/4
 L:1/2
+Q:1/4=80
 K:C
 V:1
-"Doubling"[cE] [GE] [eE] [cE]|| [_BE] [cE] [_BE] [_BE] [_BE]|]
-"Spacing "[cE] "(Range is ignored for this"[cE] "example)"[c'E] [c'e] [c'e]|]
-"Conservative Ranges"[Cg]| [G,d]| x| x|]
+"#1-Doubling"[cE] [GE] [eE] [cE]|| [_BE] [cE] [_BE] [_BE] [_BE]|]
+"#2-Spacing "[cE] "(Range is ignored for this"[cE] "example)"[c'E] [c'e] [c'e]|]
+"#3-Conservative Ranges"[Cg]| [G,d]| x| x|]
 w:soprano alto
 V:2 clef=bass
 [C,G,] [C,G,] [C,G,] [C,C]|| [C,G,] [C,_B,] [C,E,] [C,_B,] [G,,G,]|]
@@ -31,7 +32,7 @@ w:Good Good Bad Good Good Good Bad Bad Bad
 w:Good Good Bad Bad Good
 x| x| [GC,]| [DE,,]|]
 w:tenor bass{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
+{% include abc-example.html number="1" abc=ex1 %}
 
 ### Conclusions 
 
