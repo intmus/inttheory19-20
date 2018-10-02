@@ -17,7 +17,7 @@ Regardless of the complexity or era of a composition, if a theorist can answer t
 
 ## Roman numeral analysis
 
-**Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve and that make this difficult.**
+**Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult.**
 
 {% capture ex1 %}X:1
 T:Old hundredth psalm
