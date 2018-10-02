@@ -8,7 +8,7 @@ We now have the analytical foundation and tools to begin studying harmonic *func
 1. As shown in the two-part examples in [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html), the progression from V to I creates a strong and natural sense of resolution. There are many reasons we hear this progression as a strong cadence, but perhaps the strongest reason is the voice-leading between the V<sup>7</sup> and I chords--meaning the way in which individual pitches naturally pull toward each other. 
 2. When written as a scale, diatonic collections are simply a sequence of five whole steps and two half-steps--major scale, for example, is W-W-H-W-W-W-H--but as we determined in [Unit 2c]({{ site.baseurl }}/02-int-scales-keys/c1-keys.html), you can find all seven pitches in the diatonic collection by altering a a single half-step in a circle-of-fifths. This alteration changes one of the P5 intervals to a d5, and it is these two pitches within the diatonic collection, `ti` and `fa`, that establish the voice leading that pulls V<sup>7</sup> to I and therefore around which tonal harmony is constructed.
 
-As a side note, the significance of cultural conditioning cannot be overlooked. A person raised around *any* style of music will be conditioned to hear the tendencies used in that music as a natural progression, and this holds true for those raised around music descended from the diatonic tradition. This does not change the importance of voice-leading in forming these progressions, but it is worth remembering the difference between laws, rules, and strategies discussed in the first reading from Unit 6.
+As a side note, the significance of cultural conditioning cannot be overlooked. A person who grows up listening to *any* style of music will be conditioned to hear the tendencies used in that music as a natural progression, and this holds true for those raised around music descended from the diatonic tradition. This does not change the importance of voice-leading in forming these progressions, but it is worth remembering the difference between laws, rules, and strategies discussed in the first reading from Unit 6.
 
 ## Dominant to tonic progressions
 
@@ -16,12 +16,17 @@ In the examples below, we will demonstrate how these half-steps create this foun
 
 ### Goals for this topic
 
-**This example has two idealized progressions of a V chord resolving to a I chord: one as triads and the other with a seventh chord. Study how each voice resolves. It is tempting to focus on which scale degree resolves to which scale degree, but this does not provide a complete explanation. Instead focus on how each chordal member resolves as in the progression.**
+**This example has two idealized progressions of a V chord resolving to a I chord: one as triads and the other with a seventh chord.** 
+- Study how each voice resolves. It is tempting to focus on which scale degree resolves to which scale degree, but this does not provide a complete explanation. 
+    - Instead focus on the how each chordal member resolves in the progression. This should include the chordal member to which it resolves and the interval necessary to do so.
+- Do you see any voice-leading errors as described in [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html) in these progressions?
+    - What pitches are doubled? Are any omitted?
 
 {% capture ex1 %}X:1
 T:Basic V to I progressions
 M:4/4
 L:1
+Q:1/4=100
 K:C
 V:1
 [BG]| [cE]|| [BF]| [cE]|]
@@ -36,6 +41,7 @@ w:C:V I V7 I{% endcapture %}
 T:Adding the ii chord
 M:4/4
 L:1
+Q:1/4=100
 K:C
 V:1
 [FA]| [BG]| [cG]|]
@@ -50,6 +56,7 @@ w:C:ii V I{% endcapture %}
 T:Adding the vi chord
 M:4/4
 L:1
+Q:1/4=100
 K:C
 V:1
 [EA]| [FA]| [BG]| [cG]|]
@@ -64,6 +71,7 @@ w:C:vi ii V I{% endcapture %}
 T:Adding the iii chord
 M:4/4
 L:1
+Q:1/4=100
 K:C
 V:1
 [EG]| [EA]| [FA]| [BG]| [cG]|]
@@ -80,6 +88,7 @@ w:C:iii vi ii V I{% endcapture %}
 T:Adding the IV and viio chords
 M:4/4
 L:1
+Q:1/4=100
 K:C
 V:1
 [Fc]| [BF]| [cE]|| [Fc]| [BF]| [cE]|]
@@ -98,7 +107,7 @@ Beginning theory students often learn two general rules of thumb for voice-leadi
 - `ti` resolves to `do`
 - `fa` resolves to `mi`
 
-This is helpful to get students thinking about voice-leading in the most basic of ways, but it only applies to a specific, albeit common, set of circumstances that may arise in common practice harmony. For example, look at the following two-voice outline of one of the most common progressions in tonal music.
+This is helpful to begin thinking about voice-leading in the most basic of ways, but it only applies to a specific, albeit common, set of circumstances that may arise in common practice harmony. For example, look at the following two-voice outline of one of the most common progressions in tonal music.
 
 {% capture ex6 %}X:6
 T:Implied harmonies from two voices
@@ -113,11 +122,11 @@ F,G,| C,2
 w:IV V I|]{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-In this progression the movement of the bass voice has `fa` moving to `sol`, and this is a normal, acceptable progression. This implies that there is far more detail necessary to understand voice-leading in harmony than general rules of thumb.
+In this progression the movement of the bass voice has `fa` moving to `sol`, and this is a common, acceptable progression. From this alone, you should infer that there is far more detail necessary to understand voice-leading in harmony than general rules of thumb.
 
 ## Developing Progressions Based on Voice-leading
 
-By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, the students proposed a couple of rules -- that *do not* rely on scale degrees -- to explain the voice-leading between the two chords.
+By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, you can propose a few rules that *do not* rely on scale degrees, and yet explain the voice-leading between the two chords.
 - For chords that have roots separated by a P5:
     - The *seventh* of the first chord resolves to the *third* of the second chord.
     - the *third* of the first chord resolves to the *root* of the second chord.
@@ -130,6 +139,7 @@ There are two likely voicings for creating this next chord in the progression:
 T:Two possible voicings for a ii chord
 M:4/4
 L:1/2
+Q:1/4=100
 K:C
 V:1
 [Fd]| [BG]| [c2G2]|| [FA]| [BG]| [c2G2]|]
@@ -140,12 +150,12 @@ w:C:ii V I ii V I{% endcapture %}
 
 Some will prefer the sound of the first voicing, probably because they find the melodic shape in the soprano more interesting. Unfortunately, this voicing creates multiple issues. Not only are the parts more difficult to sing, particularly for the tenor voice, but unacceptable parallel perfect 5ths are created between the tenor and bass voices. 
 
-The second progression has less melodic variety, but it provides the smoothest, easiest voice-leading for each part with no voice-leading errors. I asked the class to add two more chords to the progression, vi and iii, and they were able to create these without much issue by following the pattern that they had created.
+The second progression has less melodic variety, but it provides the smoothest, easiest voice-leading for each part with no voice-leading errors. If you add two more chords to the progression by following the circle-of-fifths progression we are creating, you should be able to add vi and then iii without much issue by following the pattern.
 
-From this, we demonstrated the process by which voice-leading creates one of the most fundamental progressions of all diatonic harmony, the circle-of-fifths progression.
+From this, we can demonstrate the process by which voice-leading creates one of the most fundamental progressions of all diatonic harmony, the circle-of-fifths progression.
   
 {% capture ex8 %}X:8
-T:Adding the iii chord
+T:A standard circle-of-fifths progression
 M:4/4
 L:1
 K:C
@@ -173,7 +183,7 @@ There are a few common exceptions that should be added to this progression flowc
 - chords that have the same function can move to each other
     - ii can move to IV, and IV can move to ii.
 - V can move to vi 
-    - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord, so it must be used correctly. See 7c (later in this unit) for a full explanation of cadences.
+    - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord and assuming a tonic function, so it must be used  and voice carefully. See [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) (later in this unit) for a full explanation of cadences.
 - IV can go to I
     - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
 - RARE: iii can move to IV
