@@ -18,6 +18,14 @@ Doubling rules in part writing
 
 -The fifth is the least important and may be omitted
 
+-It is okay to have more than an octave in tenor and bass
+
+-It is NOT okay to have more than an octave in soprano/alto and alto/tenor, Adjacent!
+
+-Octaves are okay, but should bring up red flags
+
+
+
 # Further reading
 
 ## From *Open Music Theory*
