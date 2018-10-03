@@ -113,20 +113,23 @@ This is helpful to begin thinking about voice-leading in the most basic of ways,
 T:Implied harmonies from two voices
 M:4/4
 L:1/2
+Q:1/4T:Implied harmonies from two voices
+M:4/4
+L:1/2
 Q:1/4=80
 K:C
 V:1
-AB| c2|]
+cA| Bc|]
 V:2 clef=bass
-F,G,| C,2
-w:IV V I|]{% endcapture %}
+E,F,| G,C,|]
+w:C:I6 IV V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
-In this progression the movement of the bass voice has `fa` moving to `sol`, and this is a common, acceptable progression. From this alone, you should infer that there is far more detail necessary to understand voice-leading in harmony than general rules of thumb.
+In this common progression, the bass voice moves `fa` to `sol`, and it should sound acceptable to almost anyone's ear. From this alone, you should infer that there is far more detail necessary to understand voice-leading.
 
 ## Developing Progressions Based on Voice-leading
 
-By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, you can propose a few rules that *do not* rely on scale degrees, and yet explain the voice-leading between the two chords.
+By studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, you can propose rules that *do not* rely on scale degrees, and yet explain the voice-leading between the two chords.
 - For chords that have roots separated by a P5:
     - The *seventh* of the first chord resolves to the *third* of the second chord.
     - the *third* of the first chord resolves to the *root* of the second chord.
@@ -185,7 +188,7 @@ There are a few common exceptions that should be added to this progression flowc
 - V can move to vi 
     - This is most commonly used at the end of a phrase. In this case, vi is "replacing" a I chord and assuming a tonic function, so it must be used  and voice carefully. See [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) (later in this unit) for a full explanation of cadences.
 - IV can go to I
-    - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
+    - This is most commonly used at the end of a phrase, and in this case, IV is "replacing" the V chord. This is another cadence, so it must be prepared properly. It is better to avoid using this progression in the middle of a phrase, so in your early attempts at part-writing, do not attempt to use this.
 - RARE: iii can move to IV
     - It is difficult to use this without creating multiple voice-leading issues, so in your early attempts at part-writing, do not attempt to use this.
 

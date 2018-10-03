@@ -56,13 +56,13 @@ B,B, B,B,| CC C,C,| D,D, D,D,| A,,A,, A,,A,,| B,,B, A,B,| CC C,C,| F,2 z2|]
 
 ## Conclusions
 
-A phrase is a complete musical idea.
-- ends with a cadence 
-- often folled by a rest before the next phrase
-- marked with phrase lines over an example of music
+A phrase is a complete musical idea that:
+- has a clear sense of harmonic progression.
+- ends with a cadence.
+- has a melodic structure that creates tension and release.
+- ends with longer rhythmic values to create a sense of slowing.
 
-#### Listening Example: 
-An Die Freude, Mozart
+### Phrase Key to *An Die Freude*
 
 Phrases 
 1. m. 1-4 Deceptive cadence (DC)
@@ -76,4 +76,4 @@ Phrases
 9. m. 33-36 Deceptive Cadence (DC)
 10. m. 37-40 Perfect Authentic Cadence (PAC)
 
-- in the Mozart, each phrase is 4 measures long
+In this piece, each phrase is four measures long, and most musical pieces will establish a "standard" phrase length. This is not a defining feature of phrases, though, because many composers prefer to have varied phrase lengths in their compositions to keep the listener engaged.

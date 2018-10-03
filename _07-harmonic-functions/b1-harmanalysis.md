@@ -9,7 +9,7 @@ One of the most difficult issues to tackle in harmonic analysis is determining *
 - Which pitches could be removed without changing the basic effect?
 - Which pitches are added to provide variety?
 
-Now that we understand how circle-of-fifths progressions within a key create a basic harmonic "outline", we can use that pattern to begin analyzing harmony. The framework that these progressions provide can be used to help organize any piece of music in this tradition and allows us to ask the two fundamental questions of all harmonic analysis: 
+Now that we understand how circle-of-fifths progressions within a key create a basic harmonic "outline", we can use that pattern to begin analyzing harmony. The framework of these progressions can be used to organize any piece of music in this tradition and allows us to ask the two fundamental questions of all harmonic analysis: 
 - How are expectations created in the music?
 - Which pitches are functional in creating these expectations?
 
@@ -48,7 +48,7 @@ V:2 clef=bass
 
 **We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?**
 
-**Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic (Unit 7a). Does the voice-leading -- i.e. how each chordal member resolves -- work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
+**Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading -- i.e. how each chordal member resolves -- work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
 **There is one more type of cadence classification that is commonly used, although this is more of a sub-category of a half-cadence: the *phrygian half-cadence*. It only occurs in minor, and the approach to the half-cadence is the defining feature. Look at the following cadence and study the final two chords.**
 

@@ -49,9 +49,9 @@ When voicing triads in four-part harmony, at least one note must be doubled.
 4. You can triple the root if necessary, but this creates a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
 
 Doubling in a seventh chord is similar, but because you have four notes for four voices, there is less freedom.
-1. There must always be a root, third, and seventh in the chord, because without any of them, the chord is no longer a functioning seventh chord.
+1. There must always be a root, third, and seventh in the chord, because without any of them, the chord is no longer a functional seventh chord.
 2. If necessary, you can omit the fifth.
-3. If the fifth is ommitted, the root is the only chord tone that can be doubled. Never double the third or the seventh.
+3. If the fifth is ommitted, the root is the only chord tone that can be doubled. Do not double the third or the seventh.
 
 #### Spacing
 
