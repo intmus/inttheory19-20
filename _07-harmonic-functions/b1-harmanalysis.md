@@ -17,7 +17,7 @@ Regardless of the complexity or era of a composition, if a theorist can answer t
 
 ## Roman numeral analysis
 
-**Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult.**
+**Look at the following chorale. Provide an analysis of this music by analyzing each chord and writing a Roman numeral and an inversion figure below every new harmony. As you go through this process, keep track of the questions that you solve as well as what makes this difficult. Start by looking at the big picture, and do not get bogged down in trying to figure out every pitch and chord at first glance. If you get stuck, keep moving and return to the difficult sections after you have a feel for the piece as a whole. This is a great opportunity to begin with leadsheet notation, and then return to add Roman numerals once you have some context.**
 
 {% capture ex1 %}X:1
 T:Old hundredth psalm
@@ -37,20 +37,22 @@ V:2 clef=bass
 [G,B,]| [G,G,] [E,B,] [D,D] [A,,E]| [D/2B,,/2]-[D/2C,/2] [D/2D,/2]-[C/2D,/2] H[G,,B,]|| [C,4E,4]| [G,,4D,4]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Before you could even begin, you needed to figure out a number of major concepts.**
+## Beginning a Roman numeral analysis
+
+Before you can even begin to analyze the chords within a piece, you need to figure out a number of major concepts.
 - How often do chords occur?
-    - This idea is called *harmonic rhythm*.
+    - This concept is called *harmonic rhythm*. It is different for every piece; sometimes it will be every beat as in the chorale above, but other pieces will have many measures before changing harmonies.
 - Does every note belong to a chord? 
-    - This is differentiating between chord tones and non-chord tones.
+    - There are many factors that will play into these pitch-level decisions. Which pitches are on the strong beats? Are any pitches repeated? Is one pitch more dissonant against the other chord tones?Differentiating between chord tones and non-chord tones is the key to deciding a chord's function.
 - Are there notes missing from any of the chords?
 
-**As you answered each of these questions, you began understanding how harmony *functions*. Even without much guidance, you can use your knowledge of musical fundamentals -- intervals, chords, melodic lines, Roman numeral labeling, etc. -- to create a sketch of the harmonic underpinnings of this chorale.**
+As you answered each of these questions, you began understanding how harmony *functions*. Even without much guidance, you can use your knowledge of musical fundamentals -- intervals, chords, melodic lines, Roman numeral labeling, etc. -- to create a sketch of the harmonic underpinnings of this chorale.
 
-**We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?**
+We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?
 
 **Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
-**There is one more type of cadence classification that is commonly used, although this is more of a sub-category of a half-cadence: the *phrygian half-cadence*. It only occurs in minor, and the approach to the half-cadence is the defining feature. Look at the following cadence and study the final two chords.**
+There is one more type of cadence classification that is commonly used, although this is more of a sub-category of a half-cadence: the *phrygian half-cadence*. It only occurs in minor, and the approach to the half-cadence is the defining feature. Look at the following cadence and study the final two chords.
 
 {% capture ex2 %}X:2
 T:Phrygian half cadence

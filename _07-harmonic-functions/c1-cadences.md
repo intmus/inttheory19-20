@@ -83,9 +83,9 @@ Cadences close each musical idea and phrase--they are the punctuation at the end
     - **Imperfect Authentic Cadence (IAC)**
         - If any authentic cadence (V to I) does not fill all of the requirements for a PAC, then it is an IAC.
 - **Half Cadence (HC)**
-    - Any phrase that ends on a V chord
-    - There is a special classification of a half-cadence called a **Phrygian Half Cadence (PHC)**
-        - This cadence only occurs in minor and must have a iv<sup>6</sup> resolve to a root-position V chord
+    - Any phrase that ends on a V chord.
+    - **Phrygian Half Cadence (PHC)**
+        - This is a special type of half cadence that only occurs in minor and must have a iv<sup>6</sup> resolve to a root-position V chord
 - **Plagal Cadence (PC)**
     - Any phrase that ends in IV resolving to I
         - Commonly associated with "Amen" at the end of chorales
