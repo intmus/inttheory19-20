@@ -6,7 +6,23 @@ abc: true
 
 # Class discussion
 
-TBD
+Chordal member resolutions
+
+-Smoothness of the upper voices, stepwise is good!
+
+-Bass voice does its own thing
+
+-Least amount of finger movement at the keyboard
+
+-Root in bass resolves to the root in bass
+
+-Chordal third resolves up by step to the root of the next chord
+
+-Chordal seventh resolves down by step to the chordal third of the next chord
+
+Does this have anything to do with any of the voice-leading errors we just studied?
+
+
 
 # Further reading
 
@@ -55,6 +71,7 @@ On a local level (chord-to-chord progressions), we can summarize the tendencies 
 That does not rule out T progressing to D, D progressing to S, etc. But it does mean that those progressions tend to be less common, at least in classical music.
 
 Higher-level musical structures also impact the norms according to which these harmonic functions progress. For now, we will consider one higher-level structure that influences chord-progression tendencies — the phrase — and we will limit our study to isolated, complete, self-sufficient phrases. This is an idealized, oversimplified setting — like strict voice-leading — that is useful for learning the basics. Some such phrases even exist in real music! But most of the time there are a number of competing factors that influence the chord-progression strategies employed by a composer at any given moment. However, the idealized phrase is a helpful starting point. Future study will explore how classical composers employ harmonic progressions in larger musical works that combine multiple phrases (which are not self-sufficient) into larger themes and movements.
+
 
 ## The idealized phrase
 
