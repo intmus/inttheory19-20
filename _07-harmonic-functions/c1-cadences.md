@@ -76,12 +76,13 @@ V:2 clef=bass
 
 Cadences close each musical idea and phrase--they are the punctuation at the end of musical sentences. We classify each cadence by their harmonic progressions.
 
-- **Authentic Cadence** - any cadence in which V resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
+- **Authentic Cadence** - any cadence in which a dominant function harmony (i.e. V or vii<sup>o</sup> resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
     - **Perfect Authentic Cadence (PAC)**
-        - Both the V chord and I chord are in root position
+        - Must be a V chord resolve to a I chord.
+        - Both the V chord and I chord are in root position.
         - `Do` is in the soprano voice of the I chord 
     - **Imperfect Authentic Cadence (IAC)**
-        - If any authentic cadence (V to I) does not fill all of the requirements for a PAC, then it is an IAC.
+        - Any authentic cadence that does not fulfill all of the requirements for a PAC.
 - **Half Cadence (HC)**
     - Any phrase that ends on a V chord.
     - **Phrygian Half Cadence (PHC)**
