@@ -5,7 +5,19 @@ title: Discussion 7b - Performing a Harmonic Analysis
 
 # Class Discussion
 
-TBD
+How do we find the key?
+
+-Key signature!
+
+-Lack of accidentals can rule out minor
+
+Cadences
+
+-The way a phrase ends
+
+-The harmonic structure of how it ends
+
+-Look for V to I or V to i movement in the key you think it is in
 
 # Further Reading
 
