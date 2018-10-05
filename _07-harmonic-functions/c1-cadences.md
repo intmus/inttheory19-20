@@ -15,27 +15,29 @@ These harmonic functions shape every musical phrase, and nowhere is that more ob
 We will study the chords associated with classifying cadences, but it takes far more than a particular harmonic progression to create a cadence. In addition to chord progressions, cadences are affected by melodic shapes, melodic rhythm, harmonic rhythm, contextual clues, meter, and many other elements of music.
 
 For this course, we will study six types of cadences:
-- *perfect authentic cadence*
-- *imperfect authentic cadence*
-- *half cadence*
-- *deceptive cadence*
-- *plagal cadence*
-- *phrygian cadence*
+- *perfect authentic cadence (PAC)*
+- *imperfect authentic cadence (IAC)*
+- *half cadence (HC)*
+- *deceptive cadence (DC)*
+- *plagal cadence (PC)*
+- *phrygian half cadence (PHC)*
+
+*Take special care to remember the abbreviations in parentheses for each cadence type. These will be used repeatedly in your analyses.*
 
 ## Identifying cadences
 
-In the following examples, determine:
+For each cadence in the following examples, determine:
 - what chord progressions are associated with each type of cadence.
     - *perfect authentic cadence*
     - *imperfect authentic cadence*
     - *half cadence*
     - *deceptive cadence*
     - *plagal cadence*
-    - *phrygian cadence*
+    - *phrygian half cadence*
 - what chord functions (i.e. tonic, dominant, pre-dominant) are used in each type of cadence.
 - what chord tones are present in the soprano and bass.
 - what other musical elements affect the phrase ending.
-- 
+
 {% capture ex1 %}X:1
 T:Standard cadences
 T:Old hundredth psalm
@@ -60,7 +62,7 @@ w: _ _ _ _ _ _ _ _ _ PAC _ plagal{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 {% capture ex2 %}X:2
-T:Phrygian cadence
+T:Phrygian half cadence
 M:4/4
 L:1
 K:Eb
@@ -74,7 +76,7 @@ V:2 clef=bass
 
 Cadences close each musical idea and phrase--they are the punctuation at the end of musical sentences. We classify each cadence by their harmonic progressions.
 
-- *Authentic Cadence* - any cadence in which V resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
+- **Authentic Cadence** - any cadence in which V resolves to I. There are two types of authentic cadences, so we always label any authentic cadence as one of these: 
     - **Perfect Authentic Cadence (PAC)**
         - Both the V chord and I chord are in root position
         - `Do` is in the soprano voice of the I chord 
@@ -82,7 +84,7 @@ Cadences close each musical idea and phrase--they are the punctuation at the end
         - If any authentic cadence (V to I) does not fill all of the requirements for a PAC, then it is an IAC.
 - **Half Cadence (HC)**
     - Any phrase that ends on a V chord
-    - There is a special classification of a half-cadence called a **phrygian half cadence (PHC)**
+    - There is a special classification of a half-cadence called a **Phrygian Half Cadence (PHC)**
         - This cadence only occurs in minor and must have a iv<sup>6</sup> resolve to a root-position V chord
 - **Plagal Cadence (PC)**
     - Any phrase that ends in IV resolving to I
