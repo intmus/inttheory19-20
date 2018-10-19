@@ -97,7 +97,7 @@ w: _ _ _ _ 4th 5th 6th 7th 8th 9th 10th 11th
 V:2 clef=bass
 C,,C,G,C x x x x x x x x|]
 w:fund. 1st 2nd 3rd{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 {% capture ex4 %}X:4
 T:The overtone series
@@ -111,7 +111,7 @@ w: _ _ _ _ 5th 6th 7th 8th 9th 10th 11th 12th
 V:2 clef=bass
 C,,C,G,C x x x x x x x x|]
 w:1st 2nd 3rd 4th{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
 The overtone series occurs naturally and can be explained mathematically, so it is one of the few objective ways in which we can discuss the origin of music. Any interval can be viewed as a ratio comparing the frequncies of the two pitches that create the interval. The simplest ratio, other than 1:1, is 2:1. For example, `C2` has a frequency of about 65.4 hertz (hz = vibrations per second), and `C3` has a frequency of about 130.8: a ratio of 2:1. When we hear two frequencies that have a 2:1 ratio, our brains interpret this as "the same pitch separated by an octave" -- an elegant solution to interpreting a physical phenomenon. This example demonstrates that all concepts associated with music, such as pitches, dividing octaves, intonation, etc., are human creations trying to organize and interpret the physical phenomenon of soundwaves entering our ear.
 
