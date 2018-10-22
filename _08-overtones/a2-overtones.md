@@ -16,7 +16,7 @@ How do we remember the pattern?
 
 - Memorize the interval order
 
-- Grouping 3 then 4 then 5. 3 is root and fifth, 4 is a major minor (dominant) seventh chord, 5 is the first notes of a Lydian scale
+- Grouping notes in sets of 3 then 4 then 5. 3 is root and fifth, 4 is a major minor (dominant) seventh chord, 5 is the first notes of a Lydian scale
 
 - Phone number! +8 (543) 332-2222. Or 854-3332 with a lydian scale afterwards.
 
