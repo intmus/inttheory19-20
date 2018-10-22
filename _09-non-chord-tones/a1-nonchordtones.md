@@ -4,7 +4,7 @@ title: 9a Lesson - Non-chord Tones
 abc: true
 ---
 
-NOTE: The full descriptions of each type of non-chord tones on this page are heavily edited versions of the non-chord tone descriptions from the online textbook, *Open Music Theory*. If you have not had a chance to check out this great resource, please do so.
+NOTE: The full descriptions below of each type of non-chord tone are from the online textbook, *Open Music Theory*, although each has been edited to suit this textbook's terminology and purpose. If you have not had a chance to check out *Open Music Theory* in the Further Reading section from the previous units, please take the time to do so. It is a great resource!
 
 ## Non-chord tone recap
 
