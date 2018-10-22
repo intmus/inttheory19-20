@@ -98,7 +98,7 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| "ret"[E/2A/2][F/2A/2] [FD]| [DD] [CE]| "ret"[C/2E/2]H[C/2F/2]|]
+[FA]| [DG] "ret"[D/2B/2][E/2B/2]| [FA] [FD]| [DD] [CE]| "ret"[C/2E/2]H[C/2F/2]|]
 V:2 clef=bass
 [F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,F,,]|]
 w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
