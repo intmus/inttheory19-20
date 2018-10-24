@@ -81,7 +81,7 @@ Like the passing tone, a complete neighbor tone is a melodic embellishment that 
 
 ![][suspension]
 
-A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and occurs simultaneous with a change of harmony. The suspension then proceeds down by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of the syncopation: if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than the syncopation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) Instead of *SUS*, it is more typical to notate the intervallic pattern in the thoroughbass figures.
+A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and occurs simultaneous with a change of harmony. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of a syncopation: if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than the syncopation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) Instead of *SUS*, it is more typical to notate the intervallic pattern in the thoroughbass figures.
 
 ## More non-chord tones
 
@@ -196,7 +196,11 @@ w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 
 ![][anticipation]
 
-An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is typically a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. It is typically found at the ends of phrases and larger formal units.
+An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. It is typically found at the ends of phrases and larger formal units.
+
+![](/images/embellishingTones/syncopatedNote.png)
+
+Some theorist classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label a syncopation.
 
 ### Pedals (PED)
 
@@ -215,21 +219,12 @@ V:2 clef=bass
 w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
-## From *Open Music Theory*
-
-### Adapted by Sean Butterfield
 
 ### Incomplete Neighbor Tone (INT)
 
 ![][INT]
 
 The incomplete neighbor tone is an unaccented embellishing tone that is approached by leap and proceeds by step to an accented stable tone (typically a chord tone). *It is approached by a leap and left by stepwise motion in the same direction.*  Broadly speaking an incomplete neighbor tone is any embellishing tone a step away from a stable tone that proceeds or follows it (and is connected on the other side by leap), but other kinds of incomplete neighbor tones have special names and roles that follow below.
-
-### Syncopation (SYN)
-
-![](/images/embellishingTones/syncopatedNote.png)
-
-[Syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival.
 
 [passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
 [neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
