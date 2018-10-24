@@ -196,7 +196,7 @@ w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 
 ![][anticipation]
 
-An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. It is typically found at the ends of phrases and larger formal units.
+An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. Therefore, it is approached by stepwise motion and left by static motion. The static motion between the NCT and its resolution means that you may consider this related to both suspensions and retardations, although unlike suspensions and retardations, this is an unaccented NCT with static motion occurring *after* the NCT rather than before. It is typically found at the ends of phrases and larger formal units.
 
 ![](/images/embellishingTones/syncopatedNote.png)
 
@@ -207,7 +207,7 @@ Some theorist classify syncopated rhythmic figures as separate from anticipation
 **Pedals, often referred to as pedal points, most often occur in the bass voice but can occur in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.**
 
 {% capture ex8 %}X:8
-T:With added an added pedal point
+T:With an added pedal point
 M:4/4
 L:1/2
 Q:1/4=100
