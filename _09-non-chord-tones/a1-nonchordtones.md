@@ -10,7 +10,7 @@ abc: true
 
 ## Non-chord tone recap
 
-Understanding non-chord tones is critical in increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the chord and progression and which tones are embellishing those functional tones.
+Understanding non-chord tones is critical in increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the chord and progression and which tones are embellishing those functional tones. If you know the shapes that chord tones and their embellishments form, you can separate chord tones from embellishments by simply looking for common patterns.
 
 ## Labeling non-chord tones
 
@@ -34,9 +34,11 @@ As you can see, each definition describes the motion to and from the NCT, so to 
 
 This information provides a methodology and framework through which we can look at all non-chord tones, but we need further language to describe the function and characteristics of any non-chord tone.
 - Accented vs unaccented
-    - An accented NCT occurs in a strong metric position, whereas an unaccented NCT occurs in a weak metric position.
-        - The terms "strong" and "weak" metric positions imply that the difference between accented and unaccented NCTs is solely concerned with what is "on the beat" versus what is "off the beat". However, there is a relationship to the *harmonic* rhythm as well. Usually, harmonic shifts are aligned with the beats, but while it is uncommon, a harmony can change in a weak metric position. In this case, you will need to use your judgement after listening to the piece to determine if the harmonic change is enough ay feel stronger due to the harmonic change.
-    - Most types of NCTs can be either accented or unaccented, but certain NCTs, such as suspensions, can only be one or the other. (For example, suspensions can only be accented.)
+    - An accented NCT occurs in a strong metric position ("on the beat"). 
+    - An unaccented NCT occurs in a weak metric position ("off the beat").
+- On-chord vs off-chord
+    - An on-chord NCT coincides with a change of harmony.
+    - An off-chord NCT does not coincide with a change of harmony.
 - Chromatic vs diatonic
     - Diatonic NCTs use only the notes present in the key-signature whereas chromatic NCTs have an accidental.
     - All types of NCTs can be either chromatic or diatonic, although some are extremely rare (such as a chromatic suspension).
@@ -44,7 +46,7 @@ This information provides a methodology and framework through which we can look 
     - Passing tones can be either ascending or descending.
     - Neighbor tones can be either upper or lower.
 
-**We will use the following simple progression as a template for demonstrating non-chord tones. Start by providing Roman numerals and leadsheet symbols.**
+**We will use the following simple progression as a template for demonstrating non-chord tones. Start by creating a Roman numeral analysis with leadsheet symbols.**
 
 {% capture ex1 %}X:1
 T:A simple phrase
@@ -77,23 +79,23 @@ w:F:I ii6 V7 _ I IV6 ii6 _ V I{% endcapture %}
 
 ![][passing]
 
-A passing tone is a melodic embellishment (typically a non-chord tone) that occurs between two stable tones (typically chord tones), creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart. (*double passing tone*) A passing tone can be either accented (occurring on a strong beat or strong part of the beat) or unaccented (weak beat or weak part of the beat).
+A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart--a *double passing tone*. A passing tone can be either accented or unaccented as well as on-chord or off-chord.
 
 #### Neighbor Tone (NT)
 
 ![][neighbor]
 
-Like the passing tone, a complete neighbor tone is a melodic embellishment that occurs between two stable tones (typically chord tones); however, a complete neighbor tone will occur between two instances of the same stable tone. *It is approached by stepwise motion and left by stepwise motion in the opposite direction.* Also like the passing tone, movement from the stable tone to the neighbor tone and back will always be by step. A complete neighbor can be either accented or unaccented, but unaccented is more common.
+Like the passing tone, a neighbor tone is a melodic embellishment that occurs between two stable tones; however, a neighbor tone occurs between two instances of the same stable tone. *It is approached by stepwise motion and left by stepwise motion in the opposite direction.* Also like the passing tone, movement from the stable tone to the neighbor tone and back will always be by step. A neighbor tone can be either accented or unaccented, but unaccented is more common. It can also be either on-chord or off-chord.
 
 #### Suspension (SUS)
 
 ![][suspension]
 
-A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and occurs simultaneous with a change of harmony. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of a syncopation: if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than the syncopation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) Instead of *SUS*, it is more typical to notate the intervallic pattern in the thoroughbass figures.
+A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of an anticipation (see below); if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than an anticipation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) You should label suspensions by adding the intervallic pattern against the bass to the abbreviation "sus"; if the suspension is in the bass, please label the intervals against the most dissonant voice. (In a four-part harmony, this will almost always result in a 2-3 suspension.)
 
 ## More non-chord tones
 
-There are many other types of NCTs, and we can use our simple progression to demonstrate examples of each of them. Compare the examples below to the original progression to determine what has changed; this change is the NCT. As you do this, use the the three characteristics discussed in the overview -- preparation, NCT, and resolution -- to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (such as upper/lower, ascending/descending, chromatic/diatonic, or accented/non-accented) can be applied to each NCT.
+There are many other types of NCTs, and we can use our simple progression to demonstrate examples of each of them. Compare the examples below to the original progression to determine what has changed; this change is the NCT. As you do this, use the the three characteristics discussed in the overview -- preparation, NCT, and resolution -- to create a definition for each NCT. Once you have a working definition, see if the other other descriptors (such as upper/lower, ascending/descending, chromatic/diatonic, on-chord/off-chord or accented/non-accented) can be applied to each NCT.
 
 ### Retardations (RET)
 
@@ -116,7 +118,7 @@ w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 
 ![][retardation]
 
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example).
+A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may if you wish.
 
 ### Neighbor Groups (NG) - also called "double neighbor tones"
 
@@ -139,11 +141,14 @@ w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ V I{% endcapture %}
 
 ![](/images/embellishingTones/doubleNeighbor.png)
 
-Like neighbor tones, a *neighbor group*, also known as a double neighbor figure, begins and ends on the *same* stable tone (typically a chord tone). Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented.
+Like neighbor tones, a *neighbor group*, also known as a double neighbor figure, begins and ends on the *same* stable tone. Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented and off-chord, although it could be either accented and on-chord.
 
 ### Appoggiaturas (APP)
 
-**The following example includes NCT appoggiaturas as well as appoggiaturas figures. What is the difference? What do they have in common?**
+**In the same way that suspensions and retardations are often grouped together, appoggiaturas and escape tones are as well. The following two examples include NCT appoggiaturas and escape tones as well as appoggiaturas *figures* and escape tone *figures*. Use the example below to answer the following:**
+- What is the definition for both of these non-chord tones?
+- What do they have in common and why are they grouped together?
+- What major difference does the term "figure" imply when used in referencing non-chord tones? Do you think that "figure" could be applied to any of the previous NCTs that we have studied?
 
 {% capture ex5 %}X:5
 T:With added appoggiaturas
@@ -154,13 +159,11 @@ K:F
 V:1
 [FA]| [D/2G/2]"app"[D/2c/2] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[C/2F,/2]"app"[E/2F,/2]| [B,,D] [C/2C,/2]"app fig"[C/2G,/2]| [C/2F,/2]"app fig"[C/2C,/2] [D,B,]| [B,,G,/2][G,C,]| H[A,2F,,2]|]
-w:F:I _ ii6 V7 _ I IV6 ii6 V I{% endcapture %}
+[C/2F,/2]"app"[E/2F,/2]| [B,,D] [C/2C,/2]"app fig"[C/2G,/2]| [CF,] "app"[D,/2A,/2][D,/2B,/2]| [B,,G,/2][G,C,]| H[A,2F,,2]|]
+w:F:I _ ii6 V7 _ I IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
 ### Escape tones (ET)
-
-**Some theorists group appoggiaturas and escape tones into one category: incomplete neighbor tones. How do you think they came to this name?**
 
 {% capture ex6 %}X:6
 T:With added escape tones
@@ -179,11 +182,13 @@ w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 
 ![][appoggiatura]
 
-An appoggiatura is a kind of incomplete neighbor tone that is accented, *approached by leap (usually up), and followed by step (usually down) in the opposite direction*.
+An appoggiatura is a kind of incomplete neighbor tone that is *approached by leap, and followed by step in the opposite direction*.
 
 ![][escape]
 
 An escape tone, or *echappée*, is a kind of incomplete neighbor tone that is unaccented, *approached by stepwise motion (usually up), and left by leap (usually down) in the opposite direction*.
+
+The term "figure" can be used when discussing non-chord tones to imply that the melody follows the *shape* of a particular non-chord tone, but all pitches are actually chord tones. This is very useful in describing melodic shapes. (e.g. A melody can be described as having a passing tone figure if the melody has a stepwise movement continuously in one direction, even if every note belongs to a chord.)
 
 ### Anticipations (ANT)
 
@@ -204,11 +209,11 @@ w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 
 ![][anticipation]
 
-An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. Therefore, it is approached by stepwise motion and left by static motion. The static motion between the NCT and its resolution means that you may consider this related to both suspensions and retardations, although unlike suspensions and retardations, this is an unaccented NCT with static motion occurring *after* the NCT rather than before. It is typically found at the ends of phrases and larger formal units.
+An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. Therefore, it is approached by stepwise motion and left by static motion. The static motion between the NCT and its resolution means that you may consider this related to both suspensions and retardations, although unlike suspensions and retardations, this is an unaccented, off-chord NCT with static motion occurring *after* the NCT rather than before. It is typically found at the ends of phrases and larger formal units.
 
 ![](/images/embellishingTones/syncopatedNote.png)
 
-Some theorist classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label a syncopation.
+Some theorists classify syncopated rhythmic figures as separate from anticipations, but this is more a discussion of re-articulation. For those that classify these differently, [syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord and is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival. Of course, you should consider context when making this decision as this difference is subtle, but if there is a pattern of syncopated rhythms in a passage, you could be more likely to label a syncopation.
 
 ### Pedals (PED)
 
@@ -227,12 +232,17 @@ V:2 clef=bass
 w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
+#### Conclusions
+
+Pedals are *approached by static motion and left by static motion*; essentially, this is just a pitch that refuses to leave regardless of whether it belongs to the chord. Pedals are one of the most interesting non-chord tones because they have a dual nature--they create some of the strongest dissonances in tonal harmony, but their repetitive nature provides a sort of strange stability. As a pedal continues, it will often alternate between acting as a chord tone and non-chord tone, so it can be helpful to label the chord tones as "pedal figures" to show the continuation of the pedal.
+
+## Less common non-chord tones
 
 ### Incomplete Neighbor Tone (INT)
 
 ![][INT]
 
-The incomplete neighbor tone is an unaccented embellishing tone that is approached by leap and proceeds by step to an accented stable tone (typically a chord tone). *It is approached by a leap and left by stepwise motion in the same direction.*  Broadly speaking an incomplete neighbor tone is any embellishing tone a step away from a stable tone that proceeds or follows it (and is connected on the other side by leap), but other kinds of incomplete neighbor tones have special names and roles that follow below.
+It is uncommon, but you will occasionally encounter an unaccented non-chord tone that is approached by leap and left in the *same* direction; this is like an appoggiatura but it does not resolve in the opposite direction. We call this an incomplete neighbor tone. Broadly speaking, you should not seek to use these unless you have exhausted all other options, because it is more likely for this shape to imply a change in harmony, rather than an a non-chord tone. Generally, an incomplete neighbor tone is a step away from a stable tone that proceeds or follows it (and is connected on the other side by leap), but other kinds of incomplete neighbor tones have special names and roles that follow below.
 
 [passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
 [neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
