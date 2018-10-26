@@ -226,10 +226,10 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
+[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| [CF][DF]| H[C2F2]|]
 V:2 clef=bass
-[F,C]| [F,B,] [F,C]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 I IV6 ii6 V I{% endcapture %}
+[F,C]| [F,B,] "ped"[F,C]| [CF,] [D,B,]| [B,,G,] [G,C,]| [A,F,,] "ped fig"[B,F,,]| H[A,2F,,2]|]
+w:F:I ii6 V7 I IV6 ii6 V I IV6/4 I{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
 #### Conclusions
@@ -240,9 +240,7 @@ Pedals are *approached by static motion and left by static motion*; essentially,
 
 ### Incomplete Neighbor Tone (INT)
 
-![][INT]
-
-It is uncommon, but you will occasionally encounter an unaccented non-chord tone that is approached by leap and left in the *same* direction; this is like an appoggiatura but it does not resolve in the opposite direction. We call this an incomplete neighbor tone. Broadly speaking, you should not seek to use these unless you have exhausted all other options, because it is more likely for this shape to imply a change in harmony, rather than an a non-chord tone. Generally, an incomplete neighbor tone is a step away from a stable tone that proceeds or follows it (and is connected on the other side by leap), but other kinds of incomplete neighbor tones have special names and roles that follow below.
+It is uncommon, but you will occasionally encounter an unaccented non-chord tone that is approached by leap and left in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For this course, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely for this shape is part of a chordal skip rather than an NCT.
 
 [passing]: {{ site.baseurl }}/images/embellishingTones/passingTone.png 
 [neighbor]: {{ site.baseurl }}/images/embellishingTones/neighborTone.png
