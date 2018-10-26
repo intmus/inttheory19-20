@@ -186,7 +186,7 @@ An appoggiatura is a kind of incomplete neighbor tone that is *approached by lea
 
 ![][escape]
 
-An escape tone, or *echappée*, is a kind of incomplete neighbor tone that is unaccented, *approached by stepwise motion (usually up), and left by leap (usually down) in the opposite direction*.
+An escape tone, or *echappée*, is *approached by stepwise motion and left by leap in the opposite direction*.
 
 The term "figure" can be used when discussing non-chord tones to imply that the melody follows the *shape* of a particular non-chord tone, but all pitches are actually chord tones. This is very useful in describing melodic shapes. (e.g. A melody can be described as having a passing tone figure if the melody has a stepwise movement continuously in one direction, even if every note belongs to a chord.)
 
