@@ -89,7 +89,9 @@ The first question was obvious to most, but difficult to tackle. How often does 
 
 ## Chord tones versus non-chord tones (NCTs)
 
-Tackling the question of which pitches are functional means determining which pitches belong to the chord (chord tones) and which pitches are decoration for these chord tones. To this point, we have only looked at passing tones, neighbor tones, and suspensions. All of these require stepwise movement only, so any skip in our beginning examples will be a chordal skip. We will expand this as we begin looking at all of the classes of NCTs.
+<!-- If you remove all mention of NCTs from unit 5, you will need to alter this section to better describe these current NCTs-->
+
+Understanding the question of which pitches are functional means determining which pitches belong to the chord (chord tones) and which pitches are decoration for these chord tones. To this point, we have only looked at passing tones, neighbor tones, and suspensions. All of these require stepwise movement only, so any skip in our beginning examples will be a chordal skip. We will expand this as we begin looking at all of the classes of NCTs.
 
 Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires working through all possible combinations of the pitches within a given harmony and then choosing the most likely combination. Even if you know that the harmony includes only two beats, if there are many pitches within those two beats, it can be difficult to sort through all the possible combinations. Fortunately, the same strategies that work for looking at harmonic rhythm work for determining NCTs. Looking at melodic patterns and bass-lines is a great start, but it is also helpful to be aware of whether a note occurs in a strong or weak position. It is unusual for the functional tones to occur only on offbeats, as the ear is drawn to pitches when the occur on the beat. 
 

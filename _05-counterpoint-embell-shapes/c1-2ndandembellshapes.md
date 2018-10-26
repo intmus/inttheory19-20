@@ -3,7 +3,9 @@ layout: chapter
 title: Lesson 5c - 2:1 Counterpoint and Embellishing Shapes
 abc: true
 ---
-<!-- Consider moving all discussion of NCTs below to unit 9. This will affect homework going forward, particularly for units 6 and 7.)
+<!-- You should formalize the section to include a more formal discussion of NCTs that includes passing and neighbor tones via Second Species and also suspensions via Fourth Species. It is difficult to get this all done in a single week, but it will make for a much better cohesion of discussions going through Unit 9.
+
+Although it many be simpler to consider moving all discussion of NCTs below to unit 9. This will affect homework going forward, particularly for units 6 and 7.
 -->
 
 In second-species counterpoint, the counterpoint line moves in half notes against a cantus firmus in whole notes. This 2:1 rhythmic ratio leads to two new "fundamental musical problems" -- one metric and one harmonic: 

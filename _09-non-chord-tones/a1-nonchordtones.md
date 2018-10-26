@@ -4,30 +4,38 @@ title: 9a Lesson - Non-chord Tones
 abc: true
 ---
 
-NOTE: The full descriptions below of each type of non-chord tone are from the online textbook, *Open Music Theory*, although each has been edited to suit this textbook's terminology and purpose. If you have not had a chance to check out *Open Music Theory* in the Further Reading section from the previous units, please take the time to do so. It is a great resource!
+<!-- This opening should be edited to only include the NCTs that you have *actually discussed in Unit 5. Currently, it says that you discussed suspensions--which you likely did in class--but that is not actually included in the textbook by this point. You put notes in both Units 5 and 6 where appropriate editing is needed.-->
+
+*NOTE: The full descriptions below of each type of non-chord tone are from the online textbook, [Open Music Theory](http://www.openmusictheory.net), although each has been edited to suit this textbook's terminology and purpose. If you have not had a chance to check out Open Music Theory in the Further Reading sections from the previous units, please take the time to do so. It is an excellent resource!*
 
 ## Non-chord tone recap
 
-We have already covered three of the most common types of non-chord tones (NCTs): *passing tones*, *neighbor tones*, and *suspensions*. In these discussions, we identified certain characteristics that help to classify each of the non-chord tones.
-- the preparation
-    - type of movement used to approach the NCT
-    - direction from which the NCT is approached
-- the non-chord tone
-    - must not be a member of the chord
-- the resolution
-    - type of movement used to leave the NCT
-    - direction from which the NCT is left *in relation to the preparation*
+Understanding non-chord tones is critical in increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the chord and progression and which tones are embellishing those functional tones.
 
-By describing the motion between these three parts of an NCT, we created definitions:
+## Labeling non-chord tones
+
+When we study non-chord tones we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches, and you can see this in how we defined the three non-chord tones (NCTs) that we studied in our [counterpoint unit]({{ site.baseurl }}/05-counterpoint-embell-shapes/c1-2ndandembellshapes.html):
 - A *passing tone* (PT) is a non-chord tone which is approached by step and left by step in the same direction.
 - A *neighbor tone* (NT) is a non-chord tone which is approached by step and left by step in the opposite direction.
 - A *suspension* (SUS) is a non-chord tone which is approached by static motion and resolves downward by step.
 
-## Describing non-chord tones
+As you can see, each definition describes the motion to and from the NCT, so to facilitate discussions of NCTs, there are formal names for each pitch involved in the creating the "shape" of a non-chord tone:
+- the preparation
+    - The pitch that directly precedes the NCT.
+    - Its relationship to the NCT will define the type of movement used to approach the NCT.
+- the non-chord tone
+    - The NCT must not be a member of the chord. 
+        - This should seem obvious given the name, but this is the most common mistake that students make when looking for NCTs.
+- the resolution
+    - The pitch that directly follows the NCT.
+    - Its relationship to the NCT will define the type of movement used to leave the NCT.
+
+## Further non-chord tone terminology
 
 This information provides a methodology and framework through which we can look at all non-chord tones, but we need further language to describe the function and characteristics of any non-chord tone.
 - Accented vs unaccented
-    - An accented NCT occurs on a beat, and an unaccented NCT occurs on an offbeat.
+    - An accented NCT occurs in a strong metric position, whereas an unaccented NCT occurs in a weak metric position.
+        - The terms "strong" and "weak" metric positions imply that the difference between accented and unaccented NCTs is solely concerned with what is "on the beat" versus what is "off the beat". However, there is a relationship to the *harmonic* rhythm as well. Usually, harmonic shifts are aligned with the beats, but while it is uncommon, a harmony can change in a weak metric position. In this case, you will need to use your judgement after listening to the piece to determine if the harmonic change is enough ay feel stronger due to the harmonic change.
     - Most types of NCTs can be either accented or unaccented, but certain NCTs, such as suspensions, can only be one or the other. (For example, suspensions can only be accented.)
 - Chromatic vs diatonic
     - Diatonic NCTs use only the notes present in the key-signature whereas chromatic NCTs have an accidental.
@@ -50,7 +58,7 @@ V:2 clef=bass
 [F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,G,] [G,C,]| H[A,2F,,2]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Using this framework we can add some of the NCTs that we have already studied. The following example incorporate multiple examples of each of these to create an (overly) embellished example. Identify each of the non-chord tones.**
+**Using this framework we can add some of the NCTs that we have already studied. The following exercise incorporates multiple examples of each type of NCT to create an (overly) embellished example. Identify each of the non-chord tones.**
 
 {% capture ex2 %}X:2
 T:With added suspensions, passing tones, and neighbor tones
@@ -121,17 +129,17 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
+[FA]| [DG] [EB]| [FA] [FD]| [DD] [CE]| [C/2F/2]"ng"[C/4G2/4][C/4E/4]H[CF]|]
 V:2 clef=bass
-[F,C]| [B,,D] "ng"[C/4C,/4][D/4C,/4][C/4C,/4][B,/4C,/4]| [CF,] [D,B,]| "ng"[B,,/4G,/4][B,,/4F,/4][B,,/4G,/4][B,,/4A,/4] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ _ V I{% endcapture %}
+[F,C]| [B,,D] "ng"[C/4C,/4][D/4C,/4][C/4C,/4][B,/4C,/4]| [CF,] [D,B,]| [B,,/2G,/2]"ng"[B,,/4F,/4][B,,/4A,/4] [G,C,]| H[A,2F,,2]|]
+w:F:I ii6 V7 _ _ _ I IV6 ii6 _ _ V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 #### Conclusions
 
 ![](/images/embellishingTones/doubleNeighbor.png)
 
-Like the neighbor tones, a neighbor group, also known as a double neighbor figure begins and ends on the *same* stable tone (typically a chord tone). Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbors (below), working together in the double-neighbor figure they balance each other out and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented.
+Like neighbor tones, a *neighbor group*, also known as a double neighbor figure, begins and ends on the *same* stable tone (typically a chord tone). Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, working together in the double-neighbor figure, they balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented.
 
 ### Appoggiaturas (APP)
 
@@ -146,8 +154,8 @@ K:F
 V:1
 [FA]| [D/2G/2]"app"[D/2c/2] [EB]| [FA] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[C/2F,/2]"app"[E/2F,/2]| [B,,D] [CC,]| [C/2F,/2]"app fig"[C/2C,/2] [D,B,]| "app"[B,,/2F,/2][B,,/2G,/2][G,C,]| H[A,2F,,2]|]
-w:F:I _ ii6 V7 I _ IV6 ii6 _ V I{% endcapture %}
+[C/2F,/2]"app"[E/2F,/2]| [B,,D] [C/2C,/2]"app fig"[C/2G,/2]| [C/2F,/2]"app fig"[C/2C,/2] [D,B,]| [B,,G,/2][G,C,]| H[A,2F,,2]|]
+w:F:I _ ii6 V7 _ I IV6 ii6 V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
 ### Escape tones (ET)
@@ -161,10 +169,10 @@ L:1/2
 Q:1/4=100
 K:F
 V:1
-[FA]| [DG] [E/2B/2]"et"[E/2c/2]| [F/2A/2]"et"[F/2B/2] [FD]| [DD] [CE]| H[C2F2]|]
+[FA]| [DG] [E/2B/2]"et fig"[E/2c/2]| [F/2A/2]"et"[F/2B/2] [FD]| [DD] [CE]| H[C2F2]|]
 V:2 clef=bass
-[F,C]| [B,,D] [CC,]| [CF,] [D,B,]| [B,,/2G,/2]"et"[A,,/2G,/2] [G,C,]| H[A,2F,,2]|]
-w:F:I ii6 V7 I IV6 ii6 _ V I{% endcapture %}
+[F,C]| [B,,D] [CC,]| [CF,] [D,/2B,/2]"et"[D,/2C/2]| [B,,G,] [G,C,]| H[A,2F,,2]|]
+w:F:I ii6 V7 I IV6 _ ii6 V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
 #### Conclusions
