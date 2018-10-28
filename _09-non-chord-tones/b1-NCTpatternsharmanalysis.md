@@ -12,4 +12,13 @@ In short, creating harmony from stacked thirds produces a limited number of func
 
 ## Examples
 
-Use real musical excerpts in various textures to develop a method for differentiating between chord tones and NCTs. (e.g. finding a pedal in an arpeggiated texture.)
+TBD
+
+<!-- Use real musical excerpts in various textures to develop a method for differentiating between chord tones and NCTs. (e.g. finding a pedal in an arpeggiated texture.)
+
+Links to some good examples:
+http://musictheoryexamples.com/17RE/REf.html
+http://musictheoryexamples.com/17RE/REg2.html
+http://musictheoryexamples.com/17RE/REd.html
+
+-->
