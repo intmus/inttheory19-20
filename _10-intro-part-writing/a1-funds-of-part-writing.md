@@ -4,6 +4,35 @@ title: Lesson 10a - Fundamentals of Part-writing
 abc: true
 ---
 
+## Introduction
+
+How would you go about harmonizing the following melody?
+
+Without actually attempting it, make a list of all the things you would need to do to harmonize the melody.
+
+{% capture ex1 %}X:1
+T:Melody
+M:4/4
+L:1/4
+K:C
+V:1
+cedf| gfed| c4|]
+V:2 clef=bass
+xxxx| xxxx| x4|]{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+In no particular order, you would need to determine: 
+- Harmonies
+- Harmonic rhythm
+- Cadences
+- Bass lines
+- Inner voices
+- Texture
+
+To this point in the course, we have discussed each of these, but you have spent most of your assignments analyzing existing examples rather than creating your own music. Fortunately, everything we have learned will allow you to begin creating your own music in this style by following some basic guidelines that we will call *part-writing*.  
+
+## Part-writing
+
 The term "part-writing" implies many things, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
 
 By applying the various rules and techniques that we have studied thus far, we can:
@@ -15,6 +44,16 @@ By applying the various rules and techniques that we have studied thus far, we c
 Units 10 and 11 will help you solidify this process, beginning with a demonstration of the fundamentals of part-writing using only our basic knowledge, then exploring the stylistic errors of four-part chorale writing, and finally fully applying part-writing in a chorale style.
 
 We will be referring to this handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out.
+
+## Why part-writing?
+
+Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing, particularly in a strict style that is not performed regularly by modern musicians?
+
+There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most straightforward way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and every other aspect of how music functions.
+
+We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is complex and would require tremendous study, you would need to learn basic harmony before beginning to understand any of them. And each of these musics has its roots in diatonic harmony, so an understanding of basic chorale style part-writing will allow you to study and analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
+
+In short, you may never use this directly, but a knowledge and understanding of these basic tenets will greatly enhance your ability to function as a musician, regardless of your career path.
 
 ## A first attempt
 
@@ -32,7 +71,7 @@ We will be referring to this handout, [Part-Writing Error Checklist and Guide](h
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 
-{% capture ex1 %}X:1
+{% capture ex2 %}X:2
 T:A first attempt at part-writing
 M:4/4
 L:1/2
@@ -42,46 +81,17 @@ V:1
 V:2 clef=bass
 x x| x x|]
 w:C:{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="2" abc=ex2 %}
 
 ## Conclusions
 
-After we discussed the idea of how part-writing will work, we briefly discussed "why." Why do we study part-writing when it is a style in which most students and music professionals will not perform or teach.
+The first steps in harmonizing any melody should involve figuring out which cadences would make this a complete musical phrase, and then which chords would work with the melody to fill in the gaps on our way to the cadence. 
 
-There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel fifths), this is the most straightforward way to study every aspect of how music functions: voice-leaeding, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and every other aspect of how music functions.
+With a four note melody such as this, we have little room for development, so it is easiest to stick with a simple idea. For example, the melody ends on the tonic, so this eliminates a half cadence. The penultimate note is the seventh scale degree, so this eliminates a plagal cadence, leaving us with either an authentic cadence or a deceptive cadence.
 
-In short, you may never use this directly, but a knowledge and understanding of these basic tenets will greatly enhance your ability to function as a musician, regardless of your career path.
+To keep this simple, let's choose a perfect authentic cadence. This locks in the bass line for our last two notes, because we know that a PAC has a root position V and I chords at the end of the phrase. It is hopefully clear that the first pitch should start on the tonic chord to establish the key in our ear, which leaves only the second chord undetermined.
 
-## The Handout
-
-We will be referring to Dr. Butterfield's handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so it may be helpful to have this printed out and available.
-
-## Harmonizing a melody
-
-I started by writing a simple melody on the board:
-
-{% capture ex2 %}X:2
-T:Melody
-M:4/4
-L:1/4
-K:C
-V:1
-cedf| gfed| c4|]
-V:2 clef=bass
-x| x|]{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
-
-I asked the students how they would harmonize it, and two different approaches were given:
-- Every pitch could get its own harmony OR
-- We could look for patterns to create extended harmonies
-
-I chose to explore the second option, so I asked the students how they would group the melody into harmonies. One student suggested that the first two pitches outline a I chord chord, so we decided to consider that all a tonic harmony. Because the next two pitches (beats 3 and 4) followed the same shape, we used the same logic and labeled these as a ii chord. From here, we refered to our circle-of-fifths progressions to determine that a ii chord has a pre-dominant function, so we needed a dominant harmony for the following chord. The next measure contains `sol`, `fa`, and `re`, so the entire measure is likely a V<sup>7</sup> chord with a non-chord tone of `mi`. The V<sup>7</sup> chord wants to resolve to a tonic harmony, so we ended the harmonization on a I chord.
-
-Using only a simple understanding of diatonic progressions, we harmonized a melody with a standard tonic - pre-dominant - dominant - tonic progression. 
-
-## Part-writing
-
-Because we were short on time, I chose to simplify the melody and then added a suggested bass line based on our progression. This created:
+Because the following chord is a dominant chord, it makes sense to use a pre-dominant chord, and the `A` in the melody would allow for either a ii chord or a IV chord. Let's choose an inverted ii chord to provide some variety.
 
 {% capture ex3 %}X:3
 T:A first attempt at part-writing
@@ -96,12 +106,12 @@ w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-From here, we began referring to the handout to see if we had met the criteria:
+You now can refer to the handout to see if we met some basic criteria:
 - Our chords follow a standard progression.
 - It establishes a key and then cadences in that key.
 - The lines emphasize smooth voice-leading.
 
-We were now ready to add inner voices, so I let the class suggest a voicing of the first chord based on our voicing and doubling rules from Unit 6b. They chose:
+We are now ready to add inner voices, and we can use our voicing and doubling rules from Unit 6b to establish a first chord.
 
 {% capture ex4 %}X:4
 T:A first attempt at part-writing
@@ -116,11 +126,11 @@ w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-Lastly, I asked them to create the alto and tenor lines while observing the melodic guidelines from the handout.
+And lastly, we can create the alto and tenor lines while observing the melodic guidelines from the handout.
 - Individual lines should create smooth voice-leading using primarily stepwise motion.
 - Resolve tendency tones as we studied in our voice-leading discussions (Unit 6b.)
 
-This led them to create:
+Leading to...
 
 {% capture ex5 %}X:5
 T:A first attempt at part-writing
@@ -135,6 +145,6 @@ w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-Of note, they first suggested jumping up to a `D` for the first beat of the second measure in the tenor line, but this created an unnecessarily disjunct tenor part. As we studied in Unit 6b, the chordal fifth can be ommitted on a seventh chord if the root is doubled.
+Of note, you may have tried to jump to a `D` for the first beat of the second measure in the tenor line, but this creates an unnecessarily disjunct tenor part. As we studied in Unit 6b, the chordal fifth can be ommitted on a seventh chord if the root is doubled.
 
-This demonstrated that if we use only the tools that we have learned thus far in the course, we can already create a simple four-part chorale.
+Therefore, if we use only the tools that we have developed thus far in the course, we can already create a simple four-part chorale.
