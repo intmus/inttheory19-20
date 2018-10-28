@@ -4,7 +4,46 @@ title: Lesson 10a - Fundamentals of Part-writing
 abc: true
 ---
 
-# Class discussion
+The term "part-writing" implies many things, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
+
+By simply applying the various skills and techniques that we have studied thus far, we can:
+- Harmonize a melody
+- Compose a melody given a harmony
+- Fully voice chords
+- Create independent melodic lines that function harmonically together
+
+The goal of Units 10 and 11 are to solidify this process, beginning with a demonstration of the fundamentals of part-writing using only our basic knowledge, then exploring the stylistic errors of four-part chorale writing, and finally exploring the full application of part-writing in a chorale style.
+
+We will be referring to Dr. Butterfield's handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out.
+
+## Examples
+
+**Harmonize the following melody in a four-part chorale style:**
+- **Choose a cadence** for the end.
+    - Refer to Unit 7c to review the types of cadences.
+- **Create the rest of the diatonic progression** that begins on tonic and ends with your cadence. (If not already provided.)
+    - This will establish your key center. Refer to Unit 6b for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+- **Compose a bass line** based on your harmonization.
+    - This will resemble 1:1 counterpoint, so refer to Unit 5b.
+    - Contrary motion against the soprano line is preferred.
+- **Fill in the alto and tenor voices.**
+    - Refer to the rules for voicing, range, and doubling in Unit 6b.
+- When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
+    - Bass lines are the exception and will often have more leaps, especially when using root-position chords.
+
+{% capture ex1 %}X:1
+T:A first attempt at part-writing
+M:4/4
+L:1/2
+K:C
+V:1
+[c] [A]| [B] [c]|]
+V:2 clef=bass
+x x| x x|]
+w:C:{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
+## Conclusions
 
 After we discussed the idea of how part-writing will work, we briefly discussed "why." Why do we study part-writing when it is a style in which most students and music professionals will not perform or teach.
 
@@ -19,7 +58,8 @@ We will be referring to Dr. Butterfield's handout, [Part-Writing Error Checklist
 ## Harmonizing a melody
 
 I started by writing a simple melody on the board:
-{% capture ex1 %}X:1
+
+{% capture ex2 %}X:2
 T:Melody
 M:4/4
 L:1/4
@@ -28,7 +68,7 @@ V:1
 cedf| gfed| c4|]
 V:2 clef=bass
 x| x|]{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="2" abc=ex2 %}
 
 I asked the students how they would harmonize it, and two different approaches were given:
 - Every pitch could get its own harmony OR
@@ -42,7 +82,7 @@ Using only a simple understanding of diatonic progressions, we harmonized a melo
 
 Because we were short on time, I chose to simplify the melody and then added a suggested bass line based on our progression. This created:
 
-{% capture ex2 %}X:2
+{% capture ex3 %}X:3
 T:A first attempt at part-writing
 M:4/4
 L:1/2
@@ -53,7 +93,7 @@ V:2 clef=bass
 [C,] [F,] | [G,] [C,]|]
 w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="3" abc=ex3 %}
 
 From here, we began referring to the handout to see if we had met the criteria:
 - Our chords follow a standard progression.
@@ -62,7 +102,7 @@ From here, we began referring to the handout to see if we had met the criteria:
 
 We were now ready to add inner voices, so I let the class suggest a voicing of the first chord based on our voicing and doubling rules from Unit 6b. They chose:
 
-{% capture ex3 %}X:3
+{% capture ex4 %}X:4
 T:A first attempt at part-writing
 M:4/4
 L:1/2
@@ -73,7 +113,7 @@ V:2 clef=bass
 [C,G,] [F,] | [G,] [C,]|]
 w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="4" abc=ex4 %}
 
 Lastly, I asked them to create the alto and tenor lines while observing the melodic guidelines from the handout.
 - Individual lines should create smooth voice-leading using primarily stepwise motion.
@@ -81,7 +121,7 @@ Lastly, I asked them to create the alto and tenor lines while observing the melo
 
 This led them to create:
 
-{% capture ex4 %}X:4
+{% capture ex5 %}X:5
 T:A first attempt at part-writing
 M:4/4
 L:1/2
@@ -92,7 +132,7 @@ V:2 clef=bass
 [C,G,] [F,A,] | [G,G,] [C,G,]|]
 w:C:I ii6 V7 I
 w:T P D T{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
+{% include abc-example.html number="5" abc=ex5 %}
 
 Of note, they first suggested jumping up to a `D` for the first beat of the second measure in the tenor line, but this created an unnecessarily disjunct tenor part. As we studied in Unit 6b, the chordal fifth can be ommitted on a seventh chord if the root is doubled.
 
