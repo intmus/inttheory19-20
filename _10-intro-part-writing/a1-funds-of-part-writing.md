@@ -6,30 +6,31 @@ abc: true
 
 The term "part-writing" implies many things, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
 
-By simply applying the various skills and techniques that we have studied thus far, we can:
+By applying the various rules and techniques that we have studied thus far, we can:
 - Harmonize a melody
 - Compose a melody given a harmony
 - Fully voice chords
 - Create independent melodic lines that function harmonically together
 
-The goal of Units 10 and 11 are to solidify this process, beginning with a demonstration of the fundamentals of part-writing using only our basic knowledge, then exploring the stylistic errors of four-part chorale writing, and finally exploring the full application of part-writing in a chorale style.
+Units 10 and 11 will help you solidify this process, beginning with a demonstration of the fundamentals of part-writing using only our basic knowledge, then exploring the stylistic errors of four-part chorale writing, and finally fully applying part-writing in a chorale style.
 
-We will be referring to Dr. Butterfield's handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out.
+We will be referring to this handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out.
 
-## Examples
+## A first attempt
 
 **Harmonize the following melody in a four-part chorale style:**
 - **Choose a cadence** for the end.
-    - Refer to Unit 7c to review the types of cadences.
+    - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/cadences.html) to review the types of cadences.
 - **Create the rest of the diatonic progression** that begins on tonic and ends with your cadence. (If not already provided.)
-    - This will establish your key center. Refer to Unit 6b for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+    - This will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
 - **Compose a bass line** based on your harmonization.
-    - This will resemble 1:1 counterpoint, so refer to Unit 5b.
+    - This will resemble 1:1 counterpoint, so refer to [Unit 5b]({{ site.baseurl }}/05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
+    - It is okay for the bass line to be more disjunct than the other voices, so feel free to leave your chords in root position to make doubling simpler.
     - Contrary motion against the soprano line is preferred.
 - **Fill in the alto and tenor voices.**
-    - Refer to the rules for voicing, range, and doubling in Unit 6b.
+    - Refer to the rules for voicing, range, and doubling in [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html).
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
-    - Bass lines are the exception and will often have more leaps, especially when using root-position chords.
+    - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 
 {% capture ex1 %}X:1
 T:A first attempt at part-writing
