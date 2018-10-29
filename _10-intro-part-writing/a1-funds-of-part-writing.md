@@ -59,9 +59,10 @@ In short, you may never use this directly, but a knowledge and understanding of 
 
 **Harmonize the following melody in a four-part chorale style:**
 - **Choose a cadence** for the end.
-    - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/cadences.html) to review the types of cadences.
+    - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) to review the types of cadences.
 - **Create the rest of the diatonic progression** that begins on tonic and ends with your cadence. (If not already provided.)
     - This will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+    - Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
 - **Compose a bass line** based on your harmonization.
     - This will resemble 1:1 counterpoint, so refer to [Unit 5b]({{ site.baseurl }}/05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
     - It is okay for the bass line to be more disjunct than the other voices, so feel free to leave your chords in root position to make doubling simpler.
@@ -85,13 +86,20 @@ w:C:{% endcapture %}
 
 ## Conclusions
 
-The first steps in harmonizing any melody should involve figuring out which cadences would make this a complete musical phrase, and then which chords would work with the melody to fill in the gaps on our way to the cadence. 
+The first steps in harmonizing any melody should involve: 
+1. Developing an ending--which cadences would make this a complete musical phrase? 
+2. Determine a harmonic rhythm and chords that both works with the melody and fills in the gaps on our way to the cadence. 
+    1. Will you have non-chord tones or are all notes part of the harmonic structure? 
+    2. Will you prolong a certain tonal function such as the dominant harmony, or is it interesting enough to move quickly through your progression?
+    3. Does your phrase sound convincing when played? If not, restructure your harmony and try again. 
+    
+Please do not be afraid of failing! Your first attempts will likely sound clunky and unconvincing. This is a normal and important part of the learning process, so rather than be disappointed, try focusing on the parts that you do not like, and then analyze them for errors. You should be able to use the analytical tools that you have developed thus far to find mistakes, and then you can correct those. Iteration is key.
 
 With a four note melody such as this, we have little room for development, so it is easiest to stick with a simple idea. For example, the melody ends on the tonic, so this eliminates a half cadence. The penultimate note is the seventh scale degree, so this eliminates a plagal cadence, leaving us with either an authentic cadence or a deceptive cadence.
 
 To keep this simple, let's choose a perfect authentic cadence. This locks in the bass line for our last two notes, because we know that a PAC has a root position V and I chords at the end of the phrase. It is hopefully clear that the first pitch should start on the tonic chord to establish the key in our ear, which leaves only the second chord undetermined.
 
-Because the following chord is a dominant chord, it makes sense to use a pre-dominant chord, and the `A` in the melody would allow for either a ii chord or a IV chord. Let's choose an inverted ii chord to provide some variety.
+Because the chord that *follows* our undetermined chord is a dominant chord, it makes sense to use a pre-dominant chord, and the `A` in the melody would allow for either a ii chord or a IV chord. (If you are struggling to remember the standard diatonic chord progressions, please refer to Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html).)Let's choose an inverted ii chord to provide some variety.
 
 {% capture ex3 %}X:3
 T:A first attempt at part-writing
