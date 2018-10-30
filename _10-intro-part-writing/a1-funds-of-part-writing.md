@@ -8,7 +8,7 @@ abc: true
 
 How would you go about harmonizing the following melody?
 
-Without actually attempting it, make a list of all the things you would need to do to harmonize the melody.
+Without actually doing so, look at the following example and make a list of all the things you would need to do to harmonize this melody.
 
 {% capture ex1 %}X:1
 T:Melody

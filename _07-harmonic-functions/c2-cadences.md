@@ -7,8 +7,6 @@ title: Discussion 7c - Cadences
 
 Add in viio to imperfect authentic cadences
 
-
-
 # Further reading
 
 ## From *Open Music Theory*

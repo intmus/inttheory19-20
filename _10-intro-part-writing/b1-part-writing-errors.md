@@ -4,12 +4,12 @@ title: Lesson 10b - Part-writing Errors
 abc: true
 ---
 
-In Unit 6b, we first looked at some basic rules for voicing a chord in a four-part style. These rules included:
+In [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
 - Voice-crossing
     - In this style, voices should generally not cross
     - Exception: alto and tenor may cross briefly if musically necessary
 - Spacing
-    - In a this style, the top three voices, soprano, alto, and tenor, should always be within an octave of the adjacent voices. To be more specific, there can never be more than an octave between *soprano* and *alto*. There can never be more than an octave bteween *alto* and *tenor*. 
+    - In this style, the top three voices--soprano, alto, and tenor--should always be within an octave of the adjacent voices. To be more specific, there can never be more than an octave between *soprano* and *alto*, and there can never be more than an octave bteween *alto* and *tenor*. 
     - There **can** be more than an octave between *bass* and *tenor*.
     - There **can** be more than an octave between *soprano* and *tenor*, and this creates two different types of voicings.
         - A *closed voicing* has **less** than an octave between *soprano* and *tenor*. 
@@ -17,30 +17,33 @@ In Unit 6b, we first looked at some basic rules for voicing a chord in a four-pa
 - Range
     - Each part must stay within the typical range for that voice/instrument?
 - Doubling
-    - **Do** double the root of a chord when possible
-    - For triads, **do** double the fifth if necessary.
-        - This is even preferable if the triad is in second inversion.
-    - **Do not** double the third because it is a tendency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves.
-    - **Do not** double the seventh because it is a tencency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves.
+    - You can double the root of a chord when possible.
+    - For triads, you may double the fifth instead of the root if necessary.
+        - This is actually more preferable if the triad is in second inversion.
+    - **Do not** double the third because it is a tendency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves. Also, the third should also be least present chord tone in the balance for the chord to sound best.
+    - **Do not** double the seventh because it is a tendency tone. If this is doubled, it will force you to choose between the incorrect resolution of a tendency tone or unacceptable parallel octaves.
     - **Do not** double the fifth of a seventh chord. This would require omitting the root, third, or seventh, and none of these are expendable.
 
 ## Part-writing errors
 
 In addition to the voicing rules, there are a number of standard part-writing errors that should be avoided as well:
-1. Parallel perfect octaves or perfect fifths
+1. Parallel perfect octaves or perfect fifths 
 2. Similar octaves or fifths (sometimes referred to as "direct", "hidden", or "exposed")
 3. Unacceptable unequal fifths
 4. Contrary perfect octaves or perfect fifths
+
+Please note that these errors *must be within the same two voices* across both chords. Due to the nature of consistently doubling roots when possible, there will almost always be parallel perfect octaves, parallel perfect fifths, and/or contrary perfect octaves and perfect fifths if you consider every voice possible, but this is not what these errors are looking for. For example, a root position C major triad moving to a root position G triad will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
 
 Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing.
 
 ## Parallel perfect fifths and perfect octaves (PP5, PP8)
 
-**Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel octaves*. Once you have found it, look to see if a voicing rule has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?**
+Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel perfect octaves* (PP8). Once you have found it, look to see if a voicing rule has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
 
 {% capture ex1 %}X:1
 T:Parallel perfect octaves (PP8)
 M:4/4
+Q:1/4=80
 L:1/2
 K:C
 V:1
@@ -50,12 +53,13 @@ V:2 clef=bass
 w:C:I ii6 V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Parallel octaves and fifths undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts.**
+Parallel perfect octaves and perfect fifths undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts.
 
 {% capture ex2 %}X:2
 T:Parallel perfect fifths (PP5)
 M:4/4
 L:1/2
+Q:1/4=80
 K:C
 V:1
 [cE] [AF]| [BF] [cE]|]
@@ -64,11 +68,11 @@ V:2 clef=bass
 w:C:I ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**Once you have identified the voice that contains the PP5s, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?**
+Once you have identified the voice that contains the PP5s, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
 
 ## Contrary perfect fifths and octaves (CP5, CP8)
 
-**Our next part-writing error, *contrary perfect fifths and perfect octaves* are simply an attempt to cover up parallel perfect fifths and perfect octaves by displacing one voice by an octave. The next two examples attempt to fix the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts!**
+Our next part-writing error, *contrary perfect fifths and perfect octaves* (CP5 or CP8) are simply an attempt to cover up parallel perfect fifths and perfect octaves by displacing one voice by an octave. The next two examples attempt to fix the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts!
 
 {% capture ex3 %}X:3
 T:Contrary perfect octaves (CP8)
@@ -97,7 +101,7 @@ w:C:I ii V7 I{% endcapture %}
 
 ## Unacceptable unequal fifths (UU5)
 
-**The last two common part-writing errors have specific clauses tied to them that specify which voices are acceptable and unacceptable. The first, *unacceptable unequal fifths*, must occur between the bass voice and one of the upper voices. In the following example, find the *unacceptable unequal fifths* where a d5 moves to a P5. What is wrong with the voice-leading here?**
+The last two common part-writing errors have specific clauses tied to them that specify which voices are acceptable and unacceptable. The first, *unacceptable unequal fifths* (UU5), must occur between the bass voice and one of the upper voices. In the following example, find the *unacceptable unequal fifths* where a d5 moves to a P5. What is wrong with the voice-leading here?
 
 {% capture ex5 %}X:5
 T:Unacceptable unequal fifths (UU5)
@@ -111,17 +115,17 @@ V:2 clef=bass
 w:C:I ii V6/5 I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-**Note that we will consider a P5 moving to a d5 as *acceptable* unequal fifths, because a P5 to a d5 does not require incorrect resolutions of tendency tones. There are some stricter versions of chorale part-writing that do not allow any form of unequal fifths.**
+So for this course, we will consider a d5 moving to a P5 *unacceptable* unequal fifths, but we will consider a P5 moving to a d5 as *acceptable*--a P5 to a d5 does not require incorrect resolutions of tendency tones. Remember that these errors are best thought of as symptoms of the actual problem. In this case, the real issue is that the only two notes in a diatonic key that can form a d5 are `ti` and `fa`, and as discussed many times in this course, these two notes will imply a dominant harmony that wants to resolve inward with `ti` moving to `do` and `fa` moving to `mi`. For a d5 to be followed by a P5, it would mean that `fa` must resolve to `sol` which is poor voice-leading and therefore the error we are trying to avoid. There are some stricter versions of chorale part-writing that do not allow any form of unequal fifths.
 
 ## Unacceptable similar fifths or octaves (US5, US8)
 
-**The final common part-writing has many names, but we will use the term *unacceptable similar fifths or octaves*. This error can also be called "direct", "hidden", or "exposed". I prefer to use *similar* because it implies the motion like the other categories, but I also think that *exposed* does a fine job describing the effect. (I dislike the term *hidden* because students often confuse this with contrary fifths (or octaves), because the goal of contrary fifths is to "hide" parallel fifths.) *Unacceptable similar fifths or octaves* have the most restrictions. The conditions are:**
+The final common part-writing has many names, but we will use the term *unacceptable similar fifths or octaves*. This error can also be called "direct", "hidden", or "exposed". I prefer to use *similar* because it implies the motion like the other categories, but I also think that *exposed* does a fine job describing the effect. (I dislike the term *hidden* because students often confuse this with contrary fifths (or octaves), because the goal of contrary fifths is to "hide" parallel fifths.) *Unacceptable similar fifths or octaves* have the most restrictions. The conditions are:
 - They can only occur between the soprano and the bass voices.
 - They require a skip of a third or more in the soprano voice.
 - The two voices must move in similar (not parallel) motion.
 - The second interval must be a P5 or P8.
 
-**If any one of these conditions are not met, then there is not a part-writing error. Look at the following example to find an example of *similar octaves*. Once you have found it, look at the voice-leading around it. What does it do to spacing? Does it create more errors? Unacceptable similar octaves and fifths also often create melodies that imply different harmonies. To demonstrate, sing the melody alone. Do you hear it as C major or a different key?**
+If any one of these conditions are not met, then there is not a part-writing error. Look at the following example to find an example of *similar octaves*. Once you have found it, look at the voice-leading around it. What does it do to spacing? Does it create more errors? Unacceptable similar octaves and fifths also often create melodies that imply different harmonies. To demonstrate, sing the melody alone. Do you hear it as C major or a different key?
 
 {% capture ex6 %}X:6
 T:Similar octaves (S8)

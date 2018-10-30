@@ -9,7 +9,7 @@ title: 9a Discussion - Non-chord Tones
 
 **Review definition of anticipation. Usually approached by step but not always**
 
-Retardaton- the upwards suspension
+Retardation- the upwards suspension
 
 Double Neighbor Tones- Decorates a single pitch, has to come back to the original pitch
 
