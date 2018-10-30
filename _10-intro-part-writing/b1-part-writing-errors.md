@@ -145,7 +145,7 @@ w:C:I vi IV V7 I{% endcapture %}
 
 ## Parallel Perfect Fifths and Octaves
 
-{% capture ex1 %}X:1
+{% capture ex7 %}X:7
 T:Parallel perfect octaves (PP8)
 M:4/4
 L:1/2
@@ -155,7 +155,7 @@ V:1
 V:2 clef=bass
 [C,G,] [F,A,] | [B,G,] [C,C]|]
 w:C:I ii6 V7 I{% endcapture %}
-{% include abc-example.html number="1" abc=ex1 %}
+{% include abc-example.html number="7" abc=ex7 %}
 
 The class found two examples of parallel perfect octaves in this example.
 - between the soprano and tenor moving from ii<sup>6</sup> to V<sup>7</sup>
@@ -163,7 +163,7 @@ The class found two examples of parallel perfect octaves in this example.
 
 Almost all unacceptable examples of parallel octaves and fifths are due to poor voice-leading and voicings. In this case, the third of the five chord is doubled. This third is a tendency tone that should resolve upward by step, but in doing so, it creates parallel perfect octaves. The third never should have been doubled.
 
-{% capture ex2 %}X:2
+{% capture ex8 %}X:8
 T:Parallel perfect fifths (PP5)
 M:4/4
 L:1/2
@@ -173,7 +173,7 @@ V:1
 V:2 clef=bass
 [C,G,] [D,A,] | [DG,] [C,C]|]
 w:C:I ii V7 I{% endcapture %}
-{% include abc-example.html number="2" abc=ex2 %}
+{% include abc-example.html number="8" abc=ex8 %}
 
 In this example, the class found two examples of parallel perfect fifths:
 - between the bass and tenor from I to ii
@@ -188,7 +188,7 @@ Parallel perfect fifths and octaves undermine the independence of the individual
   
 ## Contrary Octaves and Fifths
 
-{% capture ex3 %}X:3
+{% capture ex9 %}X:9
 T:Contrary perfect fifths (CP5)
 M:4/4
 L:1/2
@@ -198,7 +198,7 @@ V:1
 V:2 clef=bass
 [C,G,] [D,,A,] | [D,G,,] [C,C]|]
 w:C:I ii V7 I{% endcapture %}
-{% include abc-example.html number="3" abc=ex3 %}
+{% include abc-example.html number="9" abc=ex9 %}
 
 Contrary fifths and octaves occur when trying to mask parallel perfect fifths and octaves. In the example above, the class identified the CP5s between bass and tenor voices between:
 - the I chord and ii chord
@@ -211,7 +211,7 @@ From this, we decided that the definition of a contrary perfect fifths/octaves i
 
 ## Unacceptable Unequal Fifths
 
-{% capture ex4 %}X:4
+{% capture ex10 %}X:10
 T:Unacceptable unequal fifths (UU5)
 M:4/4
 L:1/2
@@ -221,7 +221,7 @@ V:1
 V:2 clef=bass
 [C,C] [D,A,] | [B,,G,] [E,C,]|]
 w:C:I ii V6/5 I{% endcapture %}
-{% include abc-example.html number="4" abc=ex4 %}
+{% include abc-example.html number="10" abc=ex10 %}
 
 Unacceptable unequal fifths are one of the easier part-writing errors to understand, because we are actually focusing on only one voice-leading issue. We defined a UUF as any time a d5 between the bass voice and another voice moves to a P5. Because it has to fill all of these conditions, it is relatively easy to find compared to parallel and contrary fifths/octaves which are not acceptable between any voices.
 
@@ -231,7 +231,7 @@ The voice-leading issue that causes UU5 centers around the one naturally occurri
 
 Similar fifths/octaves occur when 1) the soprano and bass voices 2) move in similar motion to a 3) perfect fifth/octave, and 4) the soprano voice has a skip of a third or larger. You can see an example of this between the first two chords in this example.
 
-{% capture ex5 %}X:5
+{% capture ex11 %}X:11
 T:Similar octaves (S8)
 M:4/4
 L:1/2
@@ -241,6 +241,6 @@ V:1
 V:2 clef=bass
 [C,C] [CA,,]| [F,,C] [DG,,]| [C2C,2]|]
 w:C:I vi IV V7 I{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
+{% include abc-example.html number="11" abc=ex11 %}
 
 Similar fifths/octaves are sometimes called "exposed" fifths/octaves, and both of these terms demonstrate a key feature about the part-writing error. Obviously, they must move in similar motion, but the term "exposed" highlights the fact that these must occur between the outer voices. By having similar motion to a perfect interval in the outer voices, it creates the impression of a parallel perfect interval. Most importantly, the leap in the soprano typically creates a poor soprano line in which the melody outlines/implies an unintentional harmony. In the example above, if you sing the melody line without the harmony it outlines A minor instead of C major.
