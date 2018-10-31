@@ -38,7 +38,7 @@ Each of the four primary categories of part-writing errors are *symptoms* of voi
 
 ## Parallel perfect fifths and perfect octaves (PP5, PP8)
 
-Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel perfect octaves* (PP8). Once you have found it, look to see if a voicing rule has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
+Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel perfect octaves* (PP8). Once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
 
 {% capture ex1 %}X:1
 T:Parallel perfect octaves (PP8)
@@ -53,7 +53,7 @@ V:2 clef=bass
 w:C:I ii6 V7 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-Parallel perfect octaves and perfect fifths undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts.
+Parallel perfect octaves and perfect fifths undermine the independence of lines, so you should always avoid them in this style. Listen to the following example, and try to locate the parallel perfect fifths aurally before you look through the parts. Once you have identified the voices that contain the PP5, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
 
 {% capture ex2 %}X:2
 T:Parallel perfect fifths (PP5)
@@ -68,11 +68,11 @@ V:2 clef=bass
 w:C:I ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-Once you have identified the voice that contains the PP5s, try singing the upper of the two voices, and then listen to the example again. Do you have a difficult time differentiating the upper voice from the lower of these two voices?
+In summary, you may never have parallel perfect octaves or parallel perfect fifths in this style of music. Please note that for an interval to be considered *parallel*, the interval must occur consecutively in the *same* two voices. For example, if your first P8 is between the bass and alto, the second P8 must also be in the bass and alto. If you find a P8 between the bass and tenor on the second chord, this is acceptable because it does not undermine the independence of the voices.
 
 ## Contrary perfect fifths and octaves (CP5, CP8)
 
-Our next part-writing error, *contrary perfect fifths and perfect octaves* (CP5 or CP8) are simply an attempt to cover up parallel perfect fifths and perfect octaves by displacing one voice by an octave. The next two examples attempt to fix the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts!
+Our next part-writing error, *contrary perfect fifths* and *contrary perfect octaves* (CP5 or CP8) are simply an attempt to cover up parallel perfect fifths and parallel perfect octaves by displacing one voice by an octave. The next two examples attempt to fix the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts!
 
 {% capture ex3 %}X:3
 T:Contrary perfect octaves (CP8)
@@ -98,6 +98,8 @@ V:2 clef=bass
 [C,G,] [D,,A,] | [D,G,,] [C,C]|]
 w:C:I ii V7 I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
+
+Again, remember that for this to be considered an error, the contrary perfect octaves/fifths must be in the same two voices. If the interval changes voices, it does not undermine the independence of the voices.
 
 ## Unacceptable unequal fifths (UU5)
 
