@@ -75,7 +75,7 @@ w:C:I vi IV V7 I{% endcapture %}
        - P8s must come from doubled voices moving to doubled voices
     - If there are two consecutive P5s or P8s, those are parallel 5ths or 8ves.
 
-**Practice these steps on the following two examples, even though it is farily easy to find the parallelisms in these two examples visually.**
+**Practice these steps on the following two examples, even though it is fairly easy to find the parallel motion in these two examples visually.**
 
 {% capture ex2 %}X:2
 T:Parallel perfect octaves (PP8)
@@ -178,10 +178,6 @@ w:E:{% endcapture %}
 
 ## Conclusions
 
-This class discussion was mostly a traditional-style lecture in which practiced the error detection method as detailed on this handout:
-
 [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing)
 
-When we discuss voice-leading, we are talking about melodic intervals, the horizonatal aspect of music. And because all part-writing errors are symptoms of poor voice-leading, this method finds part-writing errors by systematically comparing at the melodic intervals within each voice. It can be difficult at first to understand the method when only reading about it, but the class had no difficulty once they saw it demonstrated as discussed in the previous page (Examples 10c).
-
-If you are struggling to implement this method while only looking at the handout, I encourage to go through the walkthrough in Examples 10c to practice finding the individual errors before working larger examples.
+When we practice voice-leading, we are really studying melodic intervals, the horizontal aspect of music. And because all part-writing errors are symptoms of poor voice-leading, this method finds part-writing errors by systematically comparing at the melodic intervals within each voice. It can be difficult at first to understand the method when only reading about it, but if you take the time to walk through each step above, you should be able to understand the process. It should not only teach you to identify the motion and tendencies behind the errors, but it also ensures that you will have a way to consistently double-check your work.
