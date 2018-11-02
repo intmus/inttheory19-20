@@ -60,6 +60,8 @@ In short, you may never use this directly, but a knowledge and understanding of 
 Let's try to harmonize the simple melody below with one harmony per pitch.
 
 **To harmonize a melody in a four-part chorale style, you should:**
+- **Identify the key**
+    - Look for melodic patterns, starting pitches, and ending pitches for clues as to an implied key. 
 - **Identify your phrase**
     - For the excerpt below, you have little room for decision making, but for a larger melody, try singing the phrase repeatedly and listen to your natural inclination for breaths or pauses. 
     - It can also be helpful to look for spots in which the rhythm slows naturally.

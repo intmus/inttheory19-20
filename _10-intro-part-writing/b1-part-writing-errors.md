@@ -32,7 +32,7 @@ In addition to the voicing rules, there are a number of standard part-writing er
 3. Unacceptable unequal fifths
 4. Contrary perfect octaves or perfect fifths
 
-Please note that these errors *must be within the same two voices* across both chords. Due to the nature of consistently doubling roots when possible, there will almost always be parallel perfect octaves, parallel perfect fifths, and/or contrary perfect octaves and perfect fifths if you consider every voice possible, but this is not what these errors are looking for. For example, a root position C major triad moving to a root position G triad will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
+Please note that these errors *must be within the same two voices* across both chords. Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
 
 Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing.
 
