@@ -62,12 +62,12 @@ Let's try to harmonize the simple melody below with one harmony per pitch.
 **To harmonize a melody in a four-part chorale style, you should:**
 - **Identify the key**
     - Look for melodic patterns, starting pitches, and ending pitches for clues as to an implied key. 
-- **Identify your phrase**
+- **Determine your phrase**
     - For the excerpt below, you have little room for decision making, but for a larger melody, try singing the phrase repeatedly and listen to your natural inclination for breaths or pauses. 
     - It can also be helpful to look for spots in which the rhythm slows naturally.
 - **Choose a cadence** to complete your phrase.
     - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) to review the types of cadences.
-- **Create the rest of the diatonic progression** that begins on tonic and ends with your cadence. (If not already provided.)
+- **Create the rest of the diatonic progression** beginning on tonic and ending with your cadence. (If not already provided.)
     - This will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
     - Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
 - **Compose a bass line** based on your harmonization.
