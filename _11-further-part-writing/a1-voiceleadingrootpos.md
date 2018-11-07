@@ -145,10 +145,11 @@ V:2 clef=bass
 w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-## Function over form (Part 1)
+### Conclusions
 
 When you were harmonizing these short progressions, which chord progression presented the most issues? For most, it will likely be when the progressions that have root-movement by 2nd, particularly a progression like IV-V-vi. Let's start by isolating a common example of this movement, V moving to vi. In this progression, the V is acting according to its standard dominant function, but the vi chord has replaced the I chord in the position where a tonic function should occur. This progression represents a *functional substitution* in which vi is now acting as the tonic function. (This concept has application within the dominant and pre-dominant functions as well, but we need to explore first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
-- When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
+
+#### Function over Form (Part 1)
 
 A *functional substitution* can, and often should, inform your voice-leading. When a root-position V chord precedes a root-position vi chord, we must choose to prioritize either our *doubling* conventions or our *part-writing conventions*. More specifically, do we want to double the third or do we want to end up with parallel perfect 8ves/5ths? With this in mind, harmonize the following two progressions; first with the standard tonic function (i.e. V to I) and then with the functional substitution (i.e. V to vi.) How does the standard function influence your decision on which conventions to employ on the functional substitution.
 
@@ -166,8 +167,9 @@ w:C:I V I I V vi{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
 Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention for doubling and double the chordal third of the vi chord. This doubling should now be your permanent convention for deceptive cadences.
+- When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
 
-## Root movement by 2nd
+### Root movement by 2nd
 
 The other difficult resolution in the previous example was when the root position IV chord moved to the V chord. We do not have a *functional substitution* to provide a doubling exception here, so instead you must be careful about how you resolve the voices. Harmonize the following progression without altering the given pitches, and pay particular attention to the direction that the upper voices resolve as you avoid part-writing errors.
 
