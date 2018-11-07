@@ -214,7 +214,7 @@ V:2 clef=bass
 w:C:I V7 I I V7 vi{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
-## Conclusions
+## Overall conclusions for root-position part-writing
 
 When first asked to compose a simple chorale, it is easy to feel paralyzed as you consider all of the rules and guidelines that you have learned. Luckily, if you develop an order to process the guidelines, they greatly simplify the part-writing process. It is much simpler to write a melody when you only have one or two options for the next pitch!
 
@@ -223,7 +223,7 @@ As stated above, you should use smooth voice-leading when possible--making it a 
 You should also understand that while there are some general guidelines for resolving tendency tones, there are no simple rules that are unbreakable. At its most basic, `ti` resolves up by step, and `fa` resolves down by step. When part-writing, however, this is too simplistic a view. For example, `fa` often moves upward by step to `sol`, either as part of an ascending scalar melodic line or in the bass line when a pre-dominant chord (i.e. IV or ii<sup>6</sup> moves to a root-position V chord. A more advanced part-writer may think that `ti` and `fa` are tendency tones when they are part of a V<sup>7</sup> chord, so therefore, the rule for tendency tones should be that *chordal thirds* resolve up by step and *chordal sevenths* resolve down by step. This is a better rule, but it also falls apart when we leave circle-of-fifths progressions (chords with roots separated by a descending P5). When a IV chord moves to a V chord, it is impossible for the third to move *up by step* to the root of the V chord. For now, the easiest rule for tendency tones is:
 - *Chordal thirds* resolve up by step and *chordal sevenths* resolve down by step *when part of a circle-of-fifths progression*.
 
-## Part-writing
+### Our part-writing process
 
 As a review, here are our finalized methods for part-writing in a four-part chorale style:
 
