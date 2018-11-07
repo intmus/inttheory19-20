@@ -22,6 +22,25 @@ Seventh Chords! next progression: I, vi7, ii, V7, I  (Bass notes from root posit
 Soprano: C, C, D, D, C  Alto: E, G, F, F, E  Tenor: G, A, A, B, G
 
 
+Chord Progression: I, IV, V7, I (Bass notes from root position chords)
+
+Soprano: C, C, B, C
+
+Alto: E, F, F, E
+
+Tenor: G, A, B, C
+
+The B in soprano and tenor voice creates parallel perfect octaves. Possible solutions: Frustrate the leading tone (still leaves the chord overly "thirdy"), Move the Tenor line to G, A, G, G, or move the soprano line to C, C, D, C (this creates parallel fifths between soprano and bass). The best option, in this case, becomes moving the tenor line.
+
+Chord Progression: I, IV, V, vi (Bass notes from root position chords, keep in mind there is no 7th in the V chord)
+
+Soprano: C, C, B, C
+
+Alto: E, F, D, E
+
+Tenor: G, A, B, A
+
+The soprano and tenor voices are doubling a third on the note B as part of the V chord. Possible solution: Move the tenor voice down to a G as the root of the V chord (this causes parallel fifths and octaves), Change the last chord so that the also is down to C and tenor is down to E, although this causes a doubled third (which is how you are supposed to voice deceptive cadences).
 
 # Further reading
 
