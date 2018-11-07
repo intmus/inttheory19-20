@@ -56,9 +56,29 @@ w:C:I vi ii V I{% endcapture %}
 
 After you have completed your harmonization, make sure to double-check it for part-writing errors. If you feel good about your attempt, try changing your melody and trying again.
 
+### Conclusion
+
+After attempting this for the first time, most students are surprised at how relatively simple this process is once you get started. Your first harmonization from above was probably similar to this:
+
+{% capture ex8 %}X:8
+T:Circle-of-fifths triadic progression
+M:4/4
+L:1
+K:C
+V:1
+[cE]| [cE]| [dF]| [dG]| [cE]|]
+V:2 clef=bass
+[C,G,]| [A,,A,]|[D,A,]| [G,,B,]| [C,C]|]
+w:C:I vi ii V I{% endcapture %}
+{% include abc-example.html number="8" abc=ex8 %}
+
+Because the chord progression provides a vertical framework and the focus on smooth voice-leading provides a horizontal framework, most of the process is simply following a pattern. This example is admittedly straightforward, because it relies entirely on root-position triads in a circle-of-fifths progression.
+
 ## Adding the seventh
 
-As a theory teacher, I often feel that I spend more time talking about the exceptions to rules than the actual rule itself. Luckily, turning a triad into a seventh chord creates one of the most reliable rules: *Typically, the seventh of a chord resolves down by step.* There will be instances where you are forced to break this rule (e.g. pre-determined melodies, sequences, etc.), but generally, it will hold true. Try adding the following two seventh chords to our circle-of-fifths progression, making sure to pay attention to how your chordal thirds and sevenths are resolving.
+In studying music theory, we will often spend more time discussing the exceptions to rules than the actual rule itself. And even though the general rule for resolving chordal sevenths--*Chordal sevenths resolve down by step*--is fairly consistent, there are common situtations in which you will be forced to break this rule (e.g. pre-determined melodies, sequences, etc.) Make downward stepwise resolution your default until you are forced to choose otherwise. 
+
+Try adding the following two seventh chords to our circle-of-fifths progression, making sure to pay attention to how your chordal thirds and sevenths are resolving.
 
 {% capture ex2 %}X:2
 T:Root-position part-writing with
@@ -72,6 +92,41 @@ V:2 clef=bass
 [C,]| [A,,]|[D,]| [G,,]| [C,]|]
 w:C:I vi7 ii V7 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+### Conclusion
+
+These slight alterations create more issues in dealing with the resolutions of tendency tones. The first arises between the second and third chords. If you simply choose the smoothest voice-leading possible for each voice going into the second chord, vi<sup>7</sup>, you will place the chordal seventh in the tenor voice. This locks the voice-leading of the tenor voice into resolving downward by step to the third of the following ii chord, and in turn, that chordal third has its own tendencies and should resolve upward by step to the the root of the next chord. This means that the initial placement on the vi<sup>7</sup> effectively locks the entire tenor voice into place. From there, our alto voice is predetermined, because we do not want to double the third of the ii chord, leaving us with only the closest D or A. If we were to move to the A, that would create parallel perfect 5ths with the bass voice, so we can only choose the D for the alto voice. To move to the next chord, if we do not alter our soprano voice, we are then forced to place a B in the tenor voice which creates a less melodic tenor line.
+
+{% capture ex10 %}X:10
+T:Root-position part-writing with
+T:seventh chords and root movement by P4/P5
+M:4/4
+L:1
+K:C
+V:1
+[cE]| [cE]| [dD]| [dF]| [cE]|]
+V:2 clef=bass
+[C,G,]| [A,,G,]|[D,F,]| [G,,B,]| [C,C]|]
+w:C:I vi7 ii V7 I{% endcapture %}
+{% include abc-example.html number="10" abc=ex10 %}
+
+
+While this works, it leaves many strange voicings, such as the tripled roots of the ii and I chords as well as the unmelodic tenor line. There is a simpler option. It is easier to have the alto voice jump slightly to the the chordal seventh on the vi<sup>7</sup> which leads to the following progression.
+
+{% capture ex9 %}X:9
+T:Root-position part-writing with
+T:seventh chords and root movement by P4/P5
+M:4/4
+L:1
+K:C
+V:1
+[cE]| [cG]| [dF]| [dF]| [cE]|]
+V:2 clef=bass
+[C,G,]| [A,,A,]|[D,A,]| [G,,B,]| [C,C]|]
+w:C:I vi7 ii V7 I{% endcapture %}
+{% include abc-example.html number="9" abc=ex9 %}
+
+Notice that the chordal third in the alto voice of the ii chord defies its tendency to resolve upwards to the root, and instead, uses static motion to become the chordal seventh of the V<sup>7</sup>. This is our first example of having to make a choice between two guidelines; in this case, we are forced to choose to prioritize voice leading over tendency tones.
 
 ## Exploring options
 
@@ -213,40 +268,9 @@ As a review, here are our finalized methods for part-writing in a four-part chor
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 
-With this in mind, your first harmonization from above may look like this:
+ I next asked them to add two seventh chords along with the rule that the *chordal seventh should resolve down by step*.
 
-{% capture ex8 %}X:8
-T:Circle-of-fifths triadic progression
-M:4/4
-L:1
-K:C
-V:1
-[cE]| [cE]| [dF]| [dG]| [eG]|]
-V:2 clef=bass
-[C,G,]| [A,,A,]|[D,A,]| [G,,B,]| [C,C]|]
-w:C:I vi ii V I{% endcapture %}
-{% include abc-example.html number="8" abc=ex8 %}
 
-The students were surprised by two things:
-- How similar almost every groups answer was.
-- That this is not as difficult as it first seems.
-
-Because the chord progression provides a vertical framework and smooth voice-leading provides a horizontal framework, most of the work is simply following a pattern. This example is admittedly straightforward because it relies entirely on root-position triads in a circle-of-fifths progression. I next asked them to add two seventh chords along with the rule that the *chordal seventh should resolve down by step*.
-
-{% capture ex9 %}X:9
-T:Root-position part-writing with
-T:seventh chords and root movement by P4/P5
-M:4/4
-L:1
-K:C
-V:1
-c| x| x| x| x|]
-V:2 clef=bass
-[C,]| [A,,]|[D,]| [G,,]| [C,]|]
-w:C:I vi7 ii V7 I{% endcapture %}
-{% include abc-example.html number="9" abc=ex9 %}
-
-This single new wrinkle created considerably more issues. The first arose between the second and third chords. By placing a chordal seventh in the tenor voice on the vi<sup>7</sup> chord, it locked the voice-leading of that voice into resolving downard by step to the third of the following chord. Because we did not want to double the third on that chord, we could only choose to move to the closest D or A in the alto voice. If we were to move to the A, that would create parallel perfect 5ths with the bass voice, so we could only choose the D for the alto voice.
 
 Example: "Short Chord Progressions"
 
