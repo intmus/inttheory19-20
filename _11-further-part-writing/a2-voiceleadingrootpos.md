@@ -6,7 +6,22 @@ abc: true
 
 # Class discussion 
 
-TBD
+Chord progression: C: I, vi, ii, V, I  (Bass notes from root position chords)
+
+Generated soprano lines: -C, C, D, D, C  -C, C, D, B, C  -C, C, D, D, E
+
+Alto line to fit the first soprano line: -E, E, F, G, E
+
+Tenor line to fit the first soprano line: -G, A, A, B, C
+
+New soprano: C, E, F, G, E   Alto: G, C, A, B, C   Tenor: E, E, D, D, C
+
+
+Seventh Chords! next progression: I, vi7, ii, V7, I  (Bass notes from root position chords)
+
+Soprano: C, C, D, D, C  Alto: E, G, F, F, E  Tenor: G, A, A, B, G
+
+
 
 # Further reading
 
