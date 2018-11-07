@@ -8,7 +8,7 @@ abc: true
 
 Chord progression: C: I, vi, ii, V, I  (Bass notes from root position chords)
 
-Generated soprano lines: -C, C, D, D, C  -C, C, D, B, C  -C, C, D, D, E
+Generated soprano lines: -C, C, D, D, C;   -C, C, D, B, C;   -C, C, D, D, E
 
 Alto line to fit the first soprano line: -E, E, F, G, E
 
