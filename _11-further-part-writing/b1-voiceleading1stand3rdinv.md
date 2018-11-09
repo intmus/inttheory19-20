@@ -81,16 +81,16 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 ## Passing chords
 
-When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. First- and third-inversion chords often function in this way. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. In the following example, notice that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. In this case, the IV<sup>6</sup> chord in no longer strictly a pre-dominant function, because it's primary role in this case is to extend the dominant function to allow the V<sup>6</sup> to fix its doubling before resolving to a tonic chord. Harmonize the following progression to practice using a passing chord.
+When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. To this point, when we have discussed a chord's function we have only discussed tonic, dominant, and pre-dominant. We now add *passing* to that list. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. Any inversion of a chord could act as a passing chord, but first- and third-inversion chords often function in this way. In the following example, notice that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. In this case, the IV<sup>6</sup> chord in no longer strictly a pre-dominant function, because it's primary role in this case is to extend the dominant function to allow the V<sup>6</sup> to fix its doubling before resolving to a tonic chord. Harmonize the following progression to practice using a passing chord.
 
 {% capture ex4 %}X:4
-T:A passing chord
+T:Passing chords
 M:3/4
 L:1/4
 K:C
 V:1
-[DG] [A] [B]|]
+[Ge] [d] [e]|| [DG] [A] [B]|]
 V:2 clef=bass
-[B,,B,] [A,,] [G,,]|]
-w:C:V6 IV6 V{% endcapture %}
+[C,C] [D,] [E,]|| [B,,B,] [A,,] [G,,]|]
+w:C:I V6 I6 V6 IV6 V{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
