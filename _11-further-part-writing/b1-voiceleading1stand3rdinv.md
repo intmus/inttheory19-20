@@ -81,16 +81,23 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 ## Passing chords
 
-When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. To this point, when we have discussed a chord's function we have only discussed tonic, dominant, and pre-dominant. We now add *passing* to that list. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. Any inversion of a chord could act as a passing chord, but first- and third-inversion chords often function in this way. In the following example, notice that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. In this case, the IV<sup>6</sup> chord in no longer strictly a pre-dominant function, because it's primary role in this case is to extend the dominant function to allow the V<sup>6</sup> to fix its doubling before resolving to a tonic chord. Harmonize the following progression to practice using a passing chord.
+When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. To this point, when we have discussed a chord's function we have only discussed tonic, dominant, and pre-dominant. We now add *passing* to that list. You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. Harmonize the following progression that uses the IV<sup>6</sup> as a passing function. What does this say about the function of the IV chord--is it still a pre-dominant? Does it change the function of the first V chord?
 
 {% capture ex4 %}X:4
 T:Passing chords
 M:3/4
 L:1/4
+Q:1/4=60
 K:C
 V:1
-[Ge] [d] [e]|| [DG] [A] [B]|]
+[dG]xx|]
 V:2 clef=bass
-[C,C] [D,] [E,]|| [B,,B,] [A,,] [G,,]|]
-w:C:I V6 I6 V6 IV6 V{% endcapture %}
+[B,,B,][A,,][G,,]|]
+w:C:V6 IV6 V{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
+
+## Conclusions
+
+Your first thought about this progression is probably along the line of "V doesn't go to IV." And you would be right, because V to IV would technically be a *re*gression, not a *pro*gression. However, in this case, the IV chord is not functioning as a pre-dominant chord that connects the two inversions of the V chord with smooth voice-leading. A listener will hear this progression as an extension of the dominant color, not as an alternating dominant - pre-dominant - dominant pattern.
+
+Any inversion of a chord can act as a passing chord as long as it creates stepwise motion in the bass voice, and many first- and third-inversion chords consistently function this way. In the example above, notice that the V<sup>6</sup> chord has a doubled third, and if it were to resolve directly to a I chord, it would create parallel octaves. In this case, the IV<sup>6</sup> chord bridges the gap allowing the V<sup>6</sup> to fix its doubling issue before resolving to a tonic chord.
