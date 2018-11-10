@@ -4,13 +4,51 @@ title: Lesson 11c - Voice-leading for Second Inversion Chords
 abc: true
 ---
 
-In diatonic harmony, second inversion chords cannot be used as their normal diatonic functions. For example, a I<sup>6/4</sup> will never function as the tonic in a cadence. Instead, second inversion triads introduce four alternate functions:
+In diatonic harmony, second-inversion chords do not function in the same way as other inversions. Whereas root-position chords are stable, and first- and third-inversion chords create momentum by placing tendency tones in the bass, second-inversion chords are generally considered "weaker". For example, listen to the following sonority repeatedly. It contains both a P4 and P5 above the a root. Because there is a dissonance between the upper two voices, you will likely hear this as wanting to resolve in some way. Isolate the voice that you would like to resolve and then figure out how you are naturally resolving it by singing it.
+
+{% capture ex6 %}X:6
+T:Perfect 4th versus perfect 5th
+M:4/4
+L:1/2
+Q:1/4=80
+K:C
+V:1
+[C2FG]| [C2FG]| [C2FG]|]{% endcapture %}
+{% include abc-example.html number="6" abc=ex6 %}
+
+Most people will resolve this sonority as if it were a root position major triad that has a suspended third, although some might hear this as a minor triad instead. The P5 seems more stable as opposed to the P4. These resolutions would sound like this:
+
+{% capture ex7 %}X:7
+T:Resolving the perfect 4th
+M:4/4
+L:1/2
+Q:1/4=80
+K:C
+V:1
+[CFG]"major"[CEG]| [CFG]"minor"[C_EG]|]{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
+
+Conversely, if you were to hear the P4 as the more stable interval, you would resolve the P5 upward to create a second-inversion triad in either major or minor.
+
+{% capture ex8 %}X:8
+T:Resolving the perfect 5th
+M:4/4
+L:1/2
+Q:1/4=80
+K:C
+V:1
+[CFG]"major"[CFA]| [CFG]"minor"[CF_A]|]{% endcapture %}
+{% include abc-example.html number="8" abc=ex8 %}
+
+## Alternate functions
+
+Because second-inversion triads are not as stable as the other inversions, they must be used differently in your part-writing. Instead of fulfilling a primary function such as tonic, dominant, or pre-dominant, they will have one of four alternate functions:
 - cadential
 - passing
 - pedal
 - arpeggiated
 
-For each of these functions, the chord will be extending the function -- tonic, dominant, pre-dominant -- of another chord rather than defining its own.
+For each of these functions, the chord will be extending the primary function of another chord rather than defining its own.
 
 ## Doubling
 
@@ -18,14 +56,14 @@ As a general rule, 6/4 chords function best when the bass voice is doubled. As y
 
 ## Cadential 6/4s
 
-**A cadential 6/4 chord is the most straightforward usage of second inversion chord, because it has the most specific rules.**
+A cadential 6/4 chord is the most straightforward usage of second inversion chord, because it has the most specific rules.
 - It occurs when a I<sup>6/4</sup> chord precedes a *root-position* V or V<sup>7</sup> chord. 
     - It cannot move to an inversion of a V chord or any version of a vii<sup>o</sup> chord.
 - The I<sup>6/4</sup> loses its tonic function and instead acts as an extension of the dominant function. 
-    - You can consider it an anticipation of the arrival of the dominant chord.
+    - Some consider this chord a suspension of some of the chord tones of the dominant chord.
 - It always occurs as part of the cadence for a phrase, hence the name.
 
-**Harmonize the following three examples to see how well the voice-leading works for a cadential 6/4 chord.**
+Harmonize the following three examples to see how well the voice-leading works for a cadential 6/4 chord.
 
 {% capture ex1 %}X:1
 T:Cadential 6/4 chords
@@ -40,20 +78,22 @@ V:2 clef=bass
 w:C:I I6/4 V I I I6/4 V7 I I IV I6/4 V{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-**Cadential 6/4 chords are often used to correct part-writing difficulties in apparoaching the V chord. Look at the third progression that you just harmonized. If the cadential 6/4 were removed, it would create parallel perfect 5ths between the soprano and bass.**
+## Conclusions
 
-**Some theory methods teach that a cadential 6/4 should not be labeled as a I<sup>6/4</sup>; instead, they label it as a V<sup>6/4 - 5/3</sup>. The reasoning behind this is twofold:**
+Cadential 6/4 progressions are often used to correct part-writing errors in approaching the V chord. Look at the third progression that you just harmonized. If the cadential 6/4 were removed, it would create parallel perfect 5ths between the soprano and bass.
+
+Some theory methods teach that a cadential 6/4 should not be labeled as a I<sup>6/4</sup>; instead, they label it as a V<sup>6/4 - 5/3</sup>. The reasoning behind this is twofold:
 - The I chord does not have a tonic function.
-- The cadential 6/4 often strongly resembles a 4-3 suspension and a 6-5 suspension occurring at the same time.
+- The cadential 6/4 chord resembles a 4-3 suspension and a 6-5 suspension occurring at the same time.
 
-**These are both certainly good reasons and enforce an understanding of the true nature of the cadential 6/4. I prefer to label it as a I<sup>6/4</sup> chord, however, because:**
+These reasons enforce an understanding of the true nature of the cadential 6/4. I prefer to label it as a I<sup>6/4</sup> chord, however, because:
 - We do not create special usage cases in our Roman numeral system for any other chord. It creates an unnecessary exception for students to learn and often confuses students on the difference between inversion figures and true figured bass.
-- By having two different chords labeled as a V<sup>6/4</sup>, it is easy for beginning theorits to confuse a cadential 6/4 with an actual V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the *passing 6/4* section.)
+- By having two different chords labeled as a V<sup>6/4</sup>, it is easy for students to confuse a cadential 6/4 with an actual V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the *passing 6/4* section.)
 - When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four alternate categories (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
 
 ## Passing 6/4s - function over form (Part 4)
 
-**Passing chords are the second standard usage for second-inversion chords,and they function identically to the description of how first- and third- inversion chords are used as passing chords -- a second-inversion chord inserted between two other chords to create a bass line with stepwise motion. *Passing* is a function that replaces a chord's standard function (i.e. tonic, dominant,and predominant), and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.** 
+Passing chords are the second alternate function for second-inversion chords, and they function identically to the description of how first- and third-inversion chords are used as passing chords--a chord inserted between two other chords to create a bass line with stepwise motion. As before, *passing* is a function that replaces a chord's primary function, and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.
 
 {% capture ex2 %}X:2
 T:Passing 6/4 chords
@@ -67,7 +107,7 @@ V:2 clef=bass
 w:C:I V ii6/4 V6 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-**Understanding that the ii chord in this example acts as a passing chord rather than a pre-dominant chord also explains how a V chord moves convincingly to a ii chord. When a chord resolves against the normal flow of a circle-of-fifths flowchart (see Unit 7a), we call that a *regression*. In the example above, the first V chord *should* resolve to a tonic chord but instead regresses to a ii chord. This works because of the strength of the bass line, so it is the *passing function* that extends the dominant harmony through a stepwise bass line.**
+Understanding that the ii chord in this example acts as a passing chord rather than a pre-dominant chord also explains how a V chord moves convincingly to a ii chord. When a chord resolves against the normal flow of a circle-of-fifths flowchart (see [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html)), we call that a *regression*. In the example above, the first V chord *should* resolve to a tonic chord but instead regresses to a ii chord. This works because of the strength of the bass line, so it is the *passing function* that extends the dominant harmony through a stepwise bass line.**
 
 **Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords (Unit 11b), we discussed two important ideas regarding vii<sup>o</sup> chords:**
 - The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from the V<sup>7</sup> chord.
