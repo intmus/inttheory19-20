@@ -40,6 +40,8 @@ V:1
 [CFG]"major"[CFA]| [CFG]"minor"[CF_A]|]{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
+Not only are these examples effective in demonstrating your ear's natural inclination toward root position, but they also show the basic diatonic underpinning of for limiting the use of second-inversion chords. In the above example that resolved the original sonority to an F major/minor chord, you can see how closely-related any key is to the key of its subdominant. Therefore, if used incorrectly, second-inversion chords can destabilize your part-writing by pushing toward a different key.
+
 ## Alternate functions
 
 Because second-inversion triads are not as stable as the other inversions, they must be used differently in your part-writing. Instead of fulfilling a primary function such as tonic, dominant, or pre-dominant, they will have one of four alternate functions:
@@ -91,9 +93,9 @@ These reasons enforce an understanding of the true nature of the cadential 6/4. 
 - By having two different chords labeled as a V<sup>6/4</sup>, it is easy for students to confuse a cadential 6/4 with an actual V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the *passing 6/4* section.)
 - When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four alternate categories (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
 
-## Passing 6/4s - function over form (Part 4)
+## Passing 6/4s
 
-Passing chords are the second alternate function for second-inversion chords, and they function identically to the description of how first- and third-inversion chords are used as passing chords--a chord inserted between two other chords to create a bass line with stepwise motion. As before, *passing* is a function that replaces a chord's primary function, and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.
+Passing chords are the second alternate function for second-inversion chords, and they function identically to our description of how [first- and third-inversion chords are used as passing chords]({{ site.baseurl }}/11-further-part-writing/b1-voiceleading1stand3rdinv.html)--a chord inserted between two other chords to create a bass line with stepwise motion. As before, *passing* is a function that replaces a chord's primary function, and instead extends the function of the chords on either side. Harmonize the following example of a passing 6/4.
 
 {% capture ex2 %}X:2
 T:Passing 6/4 chords
@@ -107,13 +109,17 @@ V:2 clef=bass
 w:C:I V ii6/4 V6 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
+### Conclusions
+
 Understanding that the ii chord in this example acts as a passing chord rather than a pre-dominant chord also explains how a V chord moves convincingly to a ii chord. When a chord resolves against the normal flow of a circle-of-fifths flowchart (see [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html)), we call that a *regression*. In the example above, the first V chord *should* resolve to a tonic chord but instead regresses to a ii chord. This works because of the strength of the bass line, so it is the *passing function* that extends the dominant harmony through a stepwise bass line.**
 
-**Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords (Unit 11b), we discussed two important ideas regarding vii<sup>o</sup> chords:**
+## Function over form (Part 4)
+
+Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords [Unit 11b]]({{ site.baseurl }}/11-further-part-writing/b1-voiceleading1stand3rdinv.html), we discussed two important ideas regarding vii<sup>o</sup> chords:
 - The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from the V<sup>7</sup> chord.
 - The vii<sup>o6</sup> is often employed as a passing chord between I and I<sup>6</sup> to create a bass line with stepwise motion.
 
-**This explains why a vii<sup>o6</sup> chord functions as a passing chord; it is actually a functional substitution for a passing V<sup>6/4</sup> chord. Harmonize the following two progressions to see how similar these two chords are.**
+This explains why a vii<sup>o6</sup> chord functions as a passing chord; it is actually a functional substitution for a passing V<sup>6/4</sup> chord. Harmonize the following two progressions to see how similar these two chords are.
 
 {% capture ex3 %}X:3
 T:V6/4 and viio6
@@ -129,7 +135,7 @@ w:C:I V6/4 I6 I viio6 I6{% endcapture %}
 
 ## Pedal
 
-**Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates in the bass line. A pedal 6/4 occurs when the bass line remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.**
+Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates in the bass line. A pedal 6/4 occurs when the bass line remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.
 
 {% capture ex4 %}X:4
 T:Pedal 6/4 chords
@@ -145,7 +151,7 @@ w:C:I IV6/4 I V ii6/4 V{% endcapture %}
 
 ## Arpeggiated
 
-**The fourth and final acceptable usage of 6/4 chords occurs when the bass line creates arpeggiates through a chord. Depending on the harmonic rhythm of the piece, an arpeggiated 6/4 may be viewed as a melodic bass line that does not change inversion rather than a new inversion.**
+The fourth and final acceptable usage of 6/4 chords occurs when the bass line creates arpeggiates through a chord. Depending on the harmonic rhythm of the piece, an arpeggiated 6/4 may be viewed as a melodic bass line that does not change inversion rather than a new inversion.
 
 {% capture ex5 %}X:5
 T:Arpeggiated 6/4 chords
