@@ -151,7 +151,7 @@ w:C:I IV6/4 I V ii6/4 V{% endcapture %}
 
 ## Arpeggiated
 
-The fourth and final acceptable usage of 6/4 chords occurs when the bass line arpeggiates through a chord. Depending on the harmonic rhythm of the piece, an arpeggiated 6/4 may be viewed as a melodic bass line that does not change inversion rather than a new inversion.
+The fourth and final acceptable usage of 6/4 chords occurs when the bass line arpeggiates through a chord. When part-writing arpeggiated chords, you will not have stepwise motion unless you use non-chord tones, because the chord tones will either remain static or skip between chord tones. Try the following example, and you will see how this requires voices to jump between chord tones.
 
 {% capture ex5 %}X:5
 T:Arpeggiated 6/4 chords
@@ -168,6 +168,9 @@ w:C:I I6/4 I6 V I{% endcapture %}
 
 ### Conclusions
 
-When part-writing arpeggiated chords, you will not have stepwise motion unless you use non-chord tones, because the chord tones will either remain static or skip between chord tones. While this aspect is relatively easy to understand, the most common question regarding arpeggiated chords regards their place in analysis. 
+The most common question regarding arpeggiated chords is how to handle them in your analyses. Depending on the harmonic rhythm of the piece, an arpeggiated chord may be viewed as either a melodic bass line that does not change inversion or an entirely new instance of the chord in a different inversion.
 
-When should you label arpeggiated inversions and when should you consider it just a melodic bass line?
+Your decision should ultimately reflect how you hear the piece. If you have a repeated harmony but each reiteration of the harmony sounds like a new phrase or statement, then you should label each inversion of the chord according to its bass note. On the other hand, if it sounds like one continuous harmony, particularly if a melody and phrasing implies this, then you do not need to mark every inversion of the chord. 
+
+Regardless, you should label the chord's inversion by the *strongest* note in the bass. This will often be the lowest note in the arpeggiation, but your perception can shift depending on the order in which you hear the arpeggiation as well as which pitches are in the strongest metric position. Take time to listen to the passage carefully, and choose the pitch that most closely reflects your perception.
+
