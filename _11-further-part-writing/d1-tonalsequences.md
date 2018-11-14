@@ -12,14 +12,20 @@ In music, a sequence occurs when a musical pattern is established then repeated 
 
 Sequences work because they rely on one of the most fundamental human characteristics: our ability to identify patterns. All music relies on a listener's familiarity with the tendencies within a style, but these tendencies can be broken if a composer is able to create a new pattern to guide the listener. Once a musical pattern is established, it will sound "right" to a listener, even if this pattern defies standard tonal conventions.
 
+## Terminology of a sequence
+
+For our discussions, we must differentiate between the overall pattern of the sequence and the individual segments within the sequence. We will use the term *sequence* to refer the whole, but we will use the word *iteration* to discuss an individual segment within the sequence. You can think of the iteration as one complete "building block" that is transposed repeatedly to create the sequence.
+
 ## Melodic sequences
 
-We will begin studying sequences by looking at melodic sequences because they demonstrate the basic principles without the complications of multiple voices. Look at the following melodic patterns; each one is the beginning of a melodic sequence. Complete the pattern through the designated ending pitch and then discuss the repetition using the following terms:
+We will begin studying sequences by looking at melodic sequences because they demonstrate the basic principles without the complications of multiple voices. Look at the following melodic patterns; each one contains a few iterations at the beginning of a melodic sequence. Complete the pattern through the designated ending pitch and then discuss the repetition using the following terms:
 - ascending or descending
 - diatonic or chromatic
 - intervals of transposition
 - length of pattern
 - single or multiple parts within each repetition
+
+Of note, when describing melodic sequences to another person, you can assume that the reader is looking at the music and therefore can see the entire first iteration. This means that you should not have to describe pattern of the iteration.  Instead, we focus our description on *how the pattern is transposed*, not on describing the intervals within the *initial* segment.
 
 {% capture ex1 %}X:1
 T:Melodic sequences
@@ -36,8 +42,6 @@ cBcG AGAE| dcdA BABF| x8| x8| g8||{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ### Conclusions
-
-When describing melodic sequences to another person, we do not usually define the overall pattern itself. We assume that the reader is looking at the music and therefore can see the entire first iteration. Instead, we focus our description on *how the pattern is transposed*, not on describing the intervals within the *initial* segment.
 
 With this in mind, it should be fairly easy to incorporate the terms abovein your description of the pattern because each term is used in a similar manner to previous units.
 - Ascending and descending describes the direction of the transpositions, not necessarily each interval within the pattern.
