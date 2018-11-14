@@ -43,10 +43,10 @@ cBcG AGAE| dcdA BABF| x8| x8| g8||{% endcapture %}
 
 ### Conclusions
 
-With this in mind, it should be fairly easy to incorporate the terms abovein your description of the pattern because each term is used in a similar manner to previous units.
-- Ascending and descending describes the direction of the transpositions, not necessarily each interval within the pattern.
-- The interval(s) of transposition are most easily found by looking at the relationship between the first pitch of each pattern. Remember that as long as you know the starting pitch, you can extract all of the intervals within an iteration by using the intervals from the *first* iteration.
-- The length of the pattern is described by using the smallest common identifier for one iteration, not the entirety of the sequence. For example, if the first iteration lasts an entire measure or more, you will describe it using a number of measures (e.g. one measures, two measures, etc.), but if a single iteration does not last a full measure, you will describe it by the number of beats it lasts.
+The terminology for describing sequences should be familiar because each term is used in a similar manner across all aspects of music, however, each term has some specific connotations when applied to sequences.
+- Ascending or descending describe the direction of the transpositions, not necessarily each interval within the pattern.
+- The interval(s) of transposition are most easily found by looking at the relationship between the first pitch of each iteration. Remember that as long as you know the starting pitch, you can extract all of the intervals within an iteration by using the intervals from the *first* iteration.
+- The length of the sequence should be obvious simply by looking at the music, however, so it is more helpful to focus on the length of the iterations. You should use the smallest common identifier for one iteration. For example, if the first iteration lasts an entire measure or more, you will describe it using a number of measures (e.g. one measures, two measures, etc.), but if a single iteration does not last a full measure, you will describe it by the number of beats it lasts.
 - Some iterations may have multiple parts, so you will need to look closely at the entire pattern to make sure that you do not have more than one transposition. For example, if your pattern is transposed down by a third then up by second, you will need to describe both parts in your description.
 
 The discussion of chromatic and diatonic sequences, however, requires clarification.
