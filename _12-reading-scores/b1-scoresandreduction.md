@@ -4,7 +4,9 @@ title: 12b Examples - Score Reading and Reduction
 abc: true
 ---
 
-When one begins reading transposed scores, it can be daunting to try to process the information, however, the best score readers are able to mentally "condense" the information into a score that contains all of the important parts to make sense of the most important information. To practice this, we will continue using simple four-part phrases. While a complete score in most styles will be considerably more complex, a chorale will allow you to practice the transpositions and then use your analysis skills to make sure that your transpositions worked correctly.
+When one begins reading transposed scores, it can be daunting to try to process the information, however, the best score readers are able to mentally "condense" the information into a score that contains all of the important parts to make sense of the most important information. To practice this, we will continue using simple four-part chorales. While a complete score in most styles will be considerably more complex, a chorale will allow you to practice the transpositions and then use your analysis skills to make sure that your transpositions worked correctly.
+
+# Examples
 
 Practice your transposition on the following two examples by condensing the top four voices into an SATB score on the grand staff at the bottom two staves. Each upper voice is written in the standard transposition for the listed instrument, so you will need to transpose each of these parts to concert pitch before placing it on the grand staff. You may want to open Unit 12a in a separate window/tab in order to refer to the transposition guidelines.
 
