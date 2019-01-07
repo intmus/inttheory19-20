@@ -102,3 +102,15 @@ a.sidebar-nav-item:focus {
     border: solid 1px #cccccc;
     border-radius: 5px;
 }
+/* assignments */ 
+.assignments { 
+    border: solid 1px $theme-color; 
+    border-radius: 5px;
+    padding: 2px 15px;
+    margin-bottom: 15px; 
+    h2 { 
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    ul { display: none; }
+}
