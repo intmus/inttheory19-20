@@ -10,7 +10,7 @@ Homework assignments:
 
 <div id="fallSemester" class="assignments">
 <h2>Fall Semester Homework</h2>
-{% assign fall = site.assignments | where_exp: "item","item.relative_path contains 'fall-semester'" %}
+{% assign fall = site.assignments | where_exp: "item","item.relative_path contains 'Fall-semester'" %}
 <ul id="fallSemesterList">
 {% for item in fall %}
 <li>{{ item.due }}: <a href="{{ item.url | absolute_url }}">{{ item.title }}</a> (<a href="{{ item.url | absolute_url }}#disqus_thread">0 Comments</a>)</li>{% endfor %}
@@ -19,7 +19,7 @@ Homework assignments:
 
 <div id="springSemester" class="assignments">
 <h2>Spring Semester Homework</h2>
-{% assign spring = site.assignments | where_exp: "item","item.relative_path contains 'spring-semester'" %}
+{% assign spring = site.assignments | where_exp: "item","item.relative_path contains 'Spring-semester'" %}
 <ul id="springSemesterList">
 {% for item in spring %}
 <li>{{ item.due }}: <a href="{{ item.url | absolute_url }}">{{ item.title }}</a> (<a href="{{ item.url | absolute_url }}#disqus_thread">0 Comments</a>)</li>{% endfor %}
