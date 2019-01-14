@@ -20,11 +20,13 @@ We raise the third to become the leading tone in G. F becomes F#
 
 It is called secondary dominant because it is the dominant chord of a different key. We use these chords to emphasize and decorate chords. A secondary dominant that leads to a V chord would be a V in the key of V (V/V). A secondary dominant that leads to a ii chord would be a V in the key of ii (V/ii).
  
- In review: Primary function of chords: tonic, dominant, pre-dominant, vi chord thing
+ In review: 
  
- Alternate function: cadential, arpeggiated, passing, pedal
+ -Primary function of chords: tonic, dominant, pre-dominant, vi chord thing
  
- And now we are entering secondary function with secondary dominants.
+-Alternate function: cadential, arpeggiated, passing, pedal
+ 
+ -Now we are beginning secondary function with secondary dominants.
  
  Harmonization of "Changing ii into a dominant seventh chord"
  
