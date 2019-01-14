@@ -34,7 +34,7 @@ K:C
 V:1
 [dF] [dG]|| [K:G] [dF] [dG]||
 V:2 clef=bass
-[D,A,] [G,,B,]|| [K:G] [D,A,] [G,,B,]||
+[K:C] [D,A,] [G,,B,]|| [K:G] [D,A,] [G,,B,]||
 w:C:ii V G:? ?{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
@@ -54,11 +54,15 @@ w:C:I vi ii V I{% endcapture %}
 
 In this case, the progression is momentarily acting as if a non-tonic chord -- in this case, the V chord -- *has become* the tonic. We call this *tonicization*. It is the process of borrowing the dominant function from a non-tonic chord's key to provide emphasis and prolong a chord's function. 
 
-Tonicization is a *secondary function*, because it brings the function of a second key into our progressions. To denote this in our Roman numerals, we use two Roman numerals separated by a backslash. Once the sharp is added to the ii chord above, it becomes a major chord, so it is no longer a ii chord. Instead, we call it a V/V. In this labeling, the Roman numeral before the backslash is the chord's function as if it were *in the key of* the Roman numeral after the backslash. In our example above, the D minor chord becomes a D major chord, so it now acts as the V chord in the key of G major: a "five of five". 
+Tonicization is a *secondary function*. When studying function in diatonic contexts we discussed the primary functions of tonic, dominant, and pre-dominant, as well as alternate functions such as cadential, passing, pedal, and arpeggiated. Secondary function are yet another category of functions in which the primary functions--i.e. the tonic and dominant relationship--*of a second key* are used in our original key. 
 
-Because we label secondary functions in Roman numerals using slashes, students often confuse the function of the slash with leadsheet symbols. In leadsheet symbols, a slash denotes an inversion to the chord by denoting which pitch is in the bass voice, where in Roman numerals, we use *inversion figures* to denote the bass note. A slash in Roman numerals implies a seondary function and tells you what key is being tonicized. While both systems are useful for theorists, you must be careful not to let the nomenclature mix together.
+In the example above, the ii chord becomes a major chord once the sharp is added, so it is no longer a ii chord. To denote this in our Roman numerals, we use two Roman numerals separated by a slash: V/V. We read this as "five of five". In this labeling, the Roman numeral before the backslash is the chord's function as if it were *in the key of* the Roman numeral after the slash. In our example above, the D minor chord becomes a D major chord, so it now acts as the V chord in the key of G major: a "five of five".
 
-In our progression above, what would happen if we had decided to use a ii7 chord instead of a ii chord? Try it on the following staff. Start by harmonizing the ii7-V-I progression below while making sure that you resolve your chordal thirds and sevenths correctly. Once you have a voicing that you like, alter the ii7 chord using accidentals to create a V7 in the key of G major -- a V7/V (pronounced: "five seven of five")
+One important note, standard practice for secondary function chords allows you to tonicize any chord that is *not* a diminished triad. This means that vii<sup>o</sup> in major and minor as well as ii<sup>o</sup> in minor should not be tonicized.
+
+Because we label secondary functions in Roman numerals using slashes, students often confuse the function of the slash with leadsheet symbols. In leadsheet symbols, a slash denotes an inversion to the chord by denoting which pitch is in the bass voice, where in Roman numerals, we use *inversion figures* to denote the bass note. A slash in Roman numerals implies a secondary function and tells you what key is being tonicized. While both systems are useful for theorists, you must be careful not to let the nomenclature mix together.
+
+In our progression above, what would happen if we had decided to use a ii7 chord instead of a ii chord? Try it on the following staff. Start by harmonizing the ii7-V-I progression below while making sure that you resolve your chordal thirds and sevenths correctly. Once you have a voicing that you like, alter the ii7 chord using accidentals to create a V7 in the key of G major -- a V7/V (read: "five seven of five")
 
 {% capture ex4 %}X:4
 T:Changing ii into a dominant seventh chord
@@ -72,4 +76,4 @@ V:2 clef=bass
 w:C:I vi ii7 V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-Tonicization works for any chord that is not a diminished triad. Instead of altering the ii chord in the above progression, try altering the vi chord. What chord will it tonicize? Which accidentals will need to be borrowed? What will you call it once you have altered it? 
+Instead of altering the ii chord in the above progression, try altering the vi chord. What chord will it tonicize? Which accidentals will need to be borrowed? What will you call it once you have altered it?
