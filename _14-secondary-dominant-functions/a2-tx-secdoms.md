@@ -19,13 +19,6 @@ What do we change to make a ii V in C major become a V I in G major?
 We raise the third to become the leading tone in G. F becomes F#
 
 It is called secondary dominant because it is the dominant chord of a different key. We use these chords to emphasize and decorate chords. A secondary dominant that leads to a V chord would be a V in the key of V (V/V). A secondary dominant that leads to a ii chord would be a V in the key of ii (V/ii).
-
-
-What is a secondary dominant?
-- a false tonicization to lead to a chord and extend its function
-Instead of a ii7 - V, you can use a V7/V - V.
- - in C, the V7/V is spelled DF#AC, as opposed to ii7 DFAC.
- - this creates a tonicization to the V chord
  
  In review: Primary function of chords: tonic, dominant, pre-dominant, vi chord thing
  
@@ -37,6 +30,14 @@ Instead of a ii7 - V, you can use a V7/V - V.
  
  Soprano (given), Bass notes found from chord inversions. Alto: E, E, F#, G, E Tenor: G, A, C, B, C
  
+
+
+What is a secondary dominant?
+- a false tonicization to lead to a chord and extend its function
+Instead of a ii7 - V, you can use a V7/V - V.
+ - in C, the V7/V is spelled DF#AC, as opposed to ii7 DFAC.
+ - this creates a tonicization to the V chord
+
 
 #### Example 1 in C
 Soprano: C5 - C5 - D5 - D5 - C5
