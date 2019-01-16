@@ -11,9 +11,8 @@ abc: true
 What is the difference between dominant chord and dominant function?
 A dominant chord is the V or V7, and brings us back to the tonic. 
 Function is the reason the dominant chord goes back to the tonic. 
-When things that aren't the dominant function as a dominant, that is a functional substitution.
 Dominant function includes other chords.
-A viio is the most simple example of a chord that shares dominant function with the V7, but we can have other chords that function as a dominant. 
+A viio is the simplest example of a chord that shares dominant function with the V7, but we can have other chords that function as a dominant. 
 A viio chord shares a dominant fuction with the V7, because it is the upper structure of a V7 chord. 
 
 ### Changing ii7 to a dominant seventh chord
