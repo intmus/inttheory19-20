@@ -10,7 +10,9 @@ Just as we can tonicize non-tonic chords by borrowing their dominant chords, we 
 
 There are two different ways to explore the relationship between a secondary dominant chord (V/x) and a secondary leading-tone chord (vii<sup>o</sup>/x). 
 
-1) In Unit 11b, we introduced the idea of functional substitution as a way to explore how chords with similar functions are related. To better understand the voice-leading of vii<sup>o</sup> chords, I asked you to think of them as V<sup>7</sup> chords without the root. This explains why vii<sup>o</sup> breaks many of standard part-writing doubling conventions.
+## Secondary leading-tone chords through functional substitution
+
+In Unit 11b, we introduced the idea of functional substitution as a way to explore how chords with similar functions are related. To better understand the voice-leading of vii<sup>o</sup> chords, I asked you to think of them as V<sup>7</sup> chords without the root. This explains why vii<sup>o</sup> breaks many of standard part-writing doubling conventions.
 - You *should not* double the root, because it's a tendency tone...like the third of the V<sup>7</sup> chord.
 - You *should* double the chordal third, because it is not a tendency tone...like the fifth of the V<sup>7</sup> chord.
 
@@ -28,9 +30,38 @@ V:2 clef=bass
 w:C:I vi ii7 V I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-In doing this, you have created a well-voiced secondary dominant chord, V<sup>7</sup>/V. To turn this into a secondary *leading-tone* chord, you need to replace the root -- in this case, the pitch D -- with a note from vii<sup>o</sup>/V. While this is a simple statement, I hope that you remember our discussions of the difficulties in voicing a vii<sup>o</sup> triad. You do not want to double the tendency tones, because one of them will need to resolve incorrectly to avoid objectionable parallels with each other. And because they're are so many tendency tones, you need to be careful of where each voice is placed to avoid parallelisms, poor resolutions, and spacing errors. What note do you end doubling? How do you have to re-voice the chord? What inversion does this create for your vii<sup>o</sup>/V chord?
+In doing this, you have created a well-voiced secondary dominant seventh chord, V<sup>7</sup>/V. It should look something like this:
 
-2) The second way to approach secondary leading-tone chords is to study the relationships between functionally similar chords. Notice the intervallic relationship between the roots of dominant function chords -- V and vii<sup>o</sup> -- and the roots of pre-dominant chords -- ii and IV. Both of these functional sets have roots that are separated by a third. If we add this observation to the idea that a V/V chord is a functional substitution for a ii chord, it reasons that a vii<sup>o</sup> chord is therefore a functional substitution for a IV chord. They share a function and have a root that is a third higher than their counterpart.
+{% capture ex3 %}X:3
+T:Changing ii7 into a dominant seventh chord
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [cE]| [c^F] [BG]| [c2E]|]
+V:2 clef=bass
+[C,G,] [A,,A,]| [D,A,] [G,,G,]| [C,2G,]|]
+w:C:I vi V7/V V I{% endcapture %}
+{% include abc-example.html number="3" abc=ex3 %}
+
+To turn this into a secondary *leading-tone* chord, you need to replace the root -- in this case, the pitch D -- with a note from vii<sup>o</sup>/V. While this is a simple statement, I hope that you remember our discussions of the difficulties in voicing a vii<sup>o</sup> triad. You do not want to double the tendency tones, because one of them will need to resolve incorrectly to avoid objectionable parallels with each other. And because there are so many tendency tones, you need to be careful of where each voice is placed to avoid parallelisms, poor resolutions, and spacing errors. What note should you double? How do you have to re-voice the chord? What inversion does this create for your vii<sup>o</sup>/V chord? Try it using the following voicing.
+
+{% capture ex4 %}X:4
+M:4/4
+L:1/2
+K:C
+V:1
+[cE] [cE]| [c^F] [BG]| [c2E]|]
+V:2 clef=bass
+[C,G,] [A,,A,]| [D,A,] [G,,G,]| [C,2G,]|]
+w:C:I vi V7/V V I{% endcapture %}
+{% include abc-example.html number="4" abc=ex4 %}
+
+You hopefully noticed that you immediately ran into issues in trying to eliminate the D from the bass chord.
+
+## Secondary leading-tone chords through similar chords
+
+The second way to approach secondary leading-tone chords is to study the relationships between functionally similar chords. Notice the intervallic relationship between the roots of dominant function chords -- V and vii<sup>o</sup> -- and the roots of pre-dominant chords -- ii and IV. Both of these functional sets have roots that are separated by a third. If we add this observation to the idea that a V/V chord is a functional substitution for a ii chord, it reasons that a vii<sup>o</sup> chord is therefore a functional substitution for a IV chord. They share a function and have a root that is a third higher than their counterpart.
 
 Try this by harmonizing the following diatonic progression. Once you have a harmonization with good voice-leading, alter the IV<sup>6</sup> chord to become the vii<sup>o7</sup> chord from the key of the chord you will be tonicizing -- in this case, the vii<sup>o7</sup> from G major. (Make sure to match the correct chord quality for a diminshed seventh chord in a *major* key. Hint: it's not fully diminished!) What note(s) do you have to alter to achieve this? How do these notes relate to a V<sup>7</sup>/V? Did you have to re-voice this to accommodate the alterations? You should also try making it a triad rather than a seventh chord; you will find this creates many more voice-leading difficulties.
 
