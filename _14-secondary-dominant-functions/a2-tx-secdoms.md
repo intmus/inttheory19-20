@@ -32,6 +32,7 @@ It is called secondary dominant because it is the dominant chord of a different 
  
  Soprano (given), Bass notes found from chord inversions. Alto: E, E, F#, G, E Tenor: G, A, C, B, C
  
+ 
 
 
 What is a secondary dominant?
