@@ -6,6 +6,20 @@ abc: true
 
 # Class discussion
 
+Harmonization of "Using a secondary leading-tone seventh chord"
+
+Progression: C: I vi viio7/V V I
+
+Soprano: C, C, C, B, C  Alto: E, E, Eb, D, E  Tenor: G, A, A, G, G  Bass notes found from roman numerals and inversions.
+
+Creating a viio7/ii and viio6/5 of ii in C Major
+
+viio7/ii to ii: Soprano: E, D Alto: G, F Tenor: Bb, A Bass: C#, D
+
+viio6/5 of ii to ii: Soprano: C#, D Alto: G, F Tenor: Bb, A Bass: E, D
+
+Utilize tendency tones to work backwards from the target chord. In this case, a D minor chord. Since E is not a tendency tone in this example, figure it last to ensure that the tendency tones resolve properly. There are not many options due to voice leading rules.
+
 ## Chord vs. Function
 
 What is the difference between dominant chord and dominant function?
