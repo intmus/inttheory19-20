@@ -6,7 +6,7 @@ abc: true
 
 ## Voice-leading exceptions for secondary dominants
 
-In Unit 11, we discussed how repeated patterns and sequences in voice-leading can override standard voice-leading practices. One such example was how a sequence of seventh chords can require "incorrectly" resolved chordal thirds and sevenths. To demonstrate this, harmonize the excerpt below paying attention to the chordal resolutions between the ii<sup>7</sup> and V<sup>4/3</sup> chords.
+In Unit 11, we discussed how repeated patterns and sequences in voice-leading can override standard voice-leading practices. One such example was how a sequence of seventh chords can require "incorrectly" resolved chordal thirds and sevenths. To demonstrate this, harmonize the excerpt below paying attention to the chordal resolutions between the ii<sup>7</sup> and V<sup>4/3</sup> chords. Which voices must use non-standard resolutions to accommodate the progression?
 
 {% capture ex1 %}X:1
 T:Harmonizing consecutive seventh chords
@@ -20,7 +20,27 @@ V:2 clef=bass
 w:C:ii7 V4/3 I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-What chordal resolution changes? Because secondary dominant chords are so closely related to diatonic circle-of-fifths progressions, you may apply the same principle to repeated series of secondary dominant seventh chords. Try the same voice-leading on the following example. What changes? How does this affect accidentals within the bar.
+### Conclusion
+
+In order to use complete chords, the chordal third of the ii<sup>7</sup> chord must remain static to become the chordal seventh of the V<sup>7</sup> like so:
+
+{% capture ex5 %}X:5
+T:Harmonizing consecutive seventh chords
+M:4/4
+L:1/2
+Q:1/4=90
+K:C
+V:1
+[cF] [BF]| [c2E]|]
+V:2 clef=bass
+[D,A,] [D,G,]| [C,2G,]|]
+w:C:ii7 V4/3 I{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
+
+## Secondary dominant chord cycles
+
+Because secondary dominant chords are so closely related to diatonic circle-of-fifths progressions, you may apply the same principle to repeated series of secondary dominant seventh chords. Try the same voice-leading on the following example. What changes? How does this affect accidentals within the bar.
 
 {% capture ex2 %}X:2
 T:Harmonizing consecutive seventh chords
@@ -34,6 +54,24 @@ V:2 clef=bass
 [D,] [D,]| [C,2]|]
 w:C:V7/V V4/3 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+### Conclusion
+
+You may keep the same resolutions that you used in the diatonic example above--the chordal third of the first chord becomes the chordal seventh of the following chord. There static motion in this voice is eliminated though, because you must resolve down by half-step now that the chordal third has been raised.
+
+{% capture ex6 %}X:6
+T:Harmonizing consecutive seventh chords
+T:with a secondary dominant chord
+M:4/4
+L:1/2
+Q:1/4=90
+K:C
+V:1
+[c^F] [B=F]| [c2E]|]
+V:2 clef=bass
+[D,A,] [D,G,]| [C,2G,]|]
+w:C:V7/V V4/3 I{% endcapture %}
+{% include abc-example.html number="6" abc=ex6 %}
 
 ## Series of secondary dominants
 
