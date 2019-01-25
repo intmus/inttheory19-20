@@ -89,9 +89,26 @@ V:2 clef=bass
 w:C:I vi ii V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-We used this progression in Unit 14 to introduce secondary dominant chords by altering the ii chord. We then altered the vi chord from the same progression in Unit 15a in order to demonstrate how to tonicize chords other than V. Because the voice-leading is so similar, secondary dominant functions can lead into *each other* creating series of secondary dominant chords. In the example above, alter your voicing of the ii chord to create a V/V chord and alter the vi chord to create a V/ii. This creates a progression of:
+We used this progression in Unit 14 to introduce secondary dominant chords by altering the ii chord. We then altered the vi chord from the same progression in Unit 15a in order to demonstrate how to tonicize chords other than V. Because the voice-leading is so similar, secondary dominant functions can lead into *each other* creating series of secondary dominant chords. In the example above, alter your voicing of the ii chord to create a V/V chord and alter the vi chord to create a V/ii creating a progression of:
 
 I - V/ii - V/V - V - I
+
+### Conclusions
+
+This progression now simply extends your seventh chord resolutions from the examples above.
+
+{% capture ex7 %}X:7
+T:Consecutive secondary dominant chords
+M:4/4
+L:1/2
+Q:1/4=80
+K:C
+V:1
+[cE] [^cG]| [d^F] [d=F]| [c2E]|]
+V:2 clef=bass
+[C,G,] [A,,A,]| [D,C] [G,,B,]| [C,2C]|]
+w:C:I V7/ii V7/V V I{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
 
 Therefore, secondary dominant chords can be substituted freely within a circle-of-fifths progression.
 
