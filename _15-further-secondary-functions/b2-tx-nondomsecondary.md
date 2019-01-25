@@ -6,6 +6,20 @@ abc: true
 # Class discussion
 ## Non-dominant Function Secondary Chords
 
+Roman Numeral analysis of "Other secondary functions"
+
+C: I, V4/3, I, iv of ii, V4/2 of ii, ii6, V7, I
+
+Why is iv of ii not a minor v chord? Minor v chords really only function as passing or pedal chords, but this iv of ii clearly functions as the beginning of a progression that moves toward a ii chord.
+
+Roman numeral analysis of "Ambiguous secondary functions"
+
+C: I, vi, V6/5 of V, V7, I
+
+Should vi be labeled as ii of V? Maybe not because you haven't heard the transition to V yet because I to vi is a common sound. This is subjective, though, and open for argument. 
+
+
+
 #### Example in C: Non-Secondary Dominant Functions (15b.)
 What is the chord progression?
 - we find chords that are unusual but still have secondary function
