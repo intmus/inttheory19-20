@@ -6,6 +6,20 @@ abc: true
 
 # Class discussion
 
+Harmonization of "Harmonizing consecutive seventh chords"
+
+Progression, C: ii7, V4/3, I
+
+Soprano (given) Alto: F, G, G Tenor: A, B, C Bass notes found from roman numerals and inversions.
+
+Some issues with this: The final I chord has no third, could move the alto voice down to E. Our V4/3 chord is missing its seventh, could move the alto down to F and tenor voice down to G because moving the alto voice got rid of the root of the chord. ii7 chord's third and seventh are not resolving according to traditional circle of fifths progression rules. Keeping these consecutive seventh chords complete means you have to break some rules. ii7 could be redone as V7 of V by raising the third a half step. 
+
+Harmonization of "Consecutive secondary dominant chords"
+
+Progression, C: I, V7 of ii, V7 of V, V7, I
+
+Soprano (given), Alto: E, G, F#, F (natural), E Tenor: G, A, C, B, G Bass notes found from roman numerals and inversions
+
 ## Irregular Usage of Secondary Chords
 
 ### Deceptive Resolutions of Secondary Dominant Functions
