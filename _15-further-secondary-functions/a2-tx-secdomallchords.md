@@ -6,6 +6,14 @@ abc: true
 
 # Class discussion
 
+Harmonization of "Inserting secondary dominant functions into various root movement patterns"
+
+Progression I, V7/vi, vi, V7/IV, IV, V7/V, V7, I
+
+Soprano: C, D, C, C, D, D, C Alto: E, E, E, E, F, F#, F, E Tenor: G, G#, A, Bb, A, C, B, G
+
+Bass notes (found from inversion): C, E, A, C, F, D, G, C
+
 (Following to be used for example 3 on previous page - DO NOT ALTER)
 
 {% capture ex1 %}X:1
