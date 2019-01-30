@@ -6,7 +6,9 @@ abc: true
 
 # Class discussion
 
-this is how you put in information
+What is a pivot chord? A chord that is shared by two keys and has strong function in both keys.
+
+Do NOT write I7 please and thank you.
 
 ## Pivot Chords
 
