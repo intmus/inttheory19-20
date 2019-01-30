@@ -5,6 +5,15 @@ abc: true
 ---
 
 # Class discussion
+From 1/28/2019
+
+Closely related keys: keys that are within one accidental of each other, for example C and F (0 accidentals and 1 flat)
+
+Closely related keys (Major keys in capitals minor keys in lowercase) a minor: the same as C major (G, F, C, e, d) C# major: F#, G# (Ab), a# (b-flat), d#, e# (f) Eb minor: Gb (F#), Db, Cb (B), b-flat, a-flat
+
+Anything outside of the change of one accidental would be considered a distantly related key.
+
+From Before:
 
 ## Defining Modulation
 
