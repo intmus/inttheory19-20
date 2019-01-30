@@ -13,6 +13,10 @@ Closely related keys (Major keys in capitals minor keys in lowercase) a minor: t
 
 Anything outside of the change of one accidental would be considered a distantly related key.
 
+What is modulation? The changing of tonic.
+
+
+
 From Before:
 
 ## Defining Modulation
