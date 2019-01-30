@@ -5,6 +5,9 @@ abc: true
 ---
 
 # Class discussion
+
+this is how you put in information
+
 ## Pivot Chords
 
 Pivot chords are a way to modulate.
