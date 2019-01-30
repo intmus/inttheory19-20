@@ -6,18 +6,18 @@ abc: true
 
 ## The benefit of using leadsheet symbols in analysis
 
-As we leave strict diatonic function and begin to explore chromatic alterations, one of the most difficult challenges in analysis is discerning what tonic is implied at any given moment. Roman numeral analysis shows function -- tonic, dominant, etc., -- but a chord's function is determined by its relationship to tonic. Simply put, you cannot write a Roman numeral if you do not know your tonic.
+As we leave strict diatonic function and begin to explore chromatic alterations, one of the most difficult challenges in analysis is discerning what tonic is implied at any given moment. Roman numeral analysis shows function--tonic, dominant, etc.,--but a chord's function can only be *defined* by its relationship to tonic. Simply put, you cannot write a Roman numeral if you do not know your tonic.
 
-Leadsheet notation solves this issue by providing a way to begin analyzing music that is independent of key or tonic. An F major chord could be a I chord in F major, a IV chord in C major, a III chord in D-flat major, and many others, but it will always be an F major chord. Leadsheet notation does not rely on any pre-existing knowledge of the piece, so I strongly urge you to begin analyzing music by writing the leadsheet symbols first. This will allow you to look for patterns within chord progressions rather than having to repeatedly analyze the same chord only to change each time that you discover something new.
+Leadsheet notation solves this issue by providing a way to begin analyzing music that is independent of key or tonic. An F major chord could be a I chord in F major, a IV chord in C major, a III chord in D-flat major, and many others, but it will always be an F major chord. Leadsheet notation does not rely on any pre-existing knowledge of the piece, so I strongly urge you to begin analyzing music by writing the leadsheet symbols first. This will allow you to look for patterns within chord progressions rather than having to repeatedly re-examine every chord each time that you discover something new.
 
 ## Simple modulations and common chords
 
-The simplest modulation is one that uses the expectations of the listener and produces modulations through slight changes. Analyze the following excerpt from a Haydn piano sonata using leadsheet symbols. Even though there is only one altered note, it clearly ends in a different key than the beginning. To begin understanding how this modulation works, ask these key questions:
+The simplest modulation is one that uses standard functional progressions and produces modulations through slight changes. Analyze the following excerpt from a Haydn piano sonata using leadsheet symbols. Even though there is only one altered note, it clearly ends in a different key than the key in which it starts. To begin understanding how this modulation works, ask these key questions:
 1. Where do you first *hear* something changing?
 2. How is the change prepared?
 3. What harmonies transition into and out of the modulation? 
 
-Once you have answered these, create Roman numerals for *both beginning key and ending key*. (This will require secondary function chords.) When looking at the Roman numeral progressions, you can see where the progressions function diatonically and where they emphasize non-tonic chords such as the subdominant.
+Once you have answered these, create Roman numerals for *both the beginning key and the ending key*. (This will require secondary function chords.) When looking at the Roman numeral progressions, you can see where the progressions function diatonically and where they emphasize non-tonic chords such as the subdominant.
 
 {% capture ex1 %}X:1
 T:Haydn - Piano Sonata in G Major, mvt. 3
@@ -33,6 +33,10 @@ z| zG, B,C DD, DC| B,G, A,D, G,D,/2B,,/2 G,,2|
 w:G:
 zG, B,G, zG ^CE| DF, G,A, D,A,, D,,:|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
+
+### Conclusion
+
+
 
 ## Common chords between keys
 

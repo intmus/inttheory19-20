@@ -23,10 +23,10 @@ When determining closely-related keys, it is helpful to think of the *relative* 
 
 The biggest difficulty regarding modulation is differentiating between modulation and tonicization. Some modulations will be obvious, but others can be contentious. Because a modulation is defined by a change in the tonic, it is necessary to consider how music establishes tonic in the listener's ear. In earlier units, we discussed the importance of phrasing and cadences, but the following exercise will further clarify their importance.
 
-On a scratch piece of paper, do the following instructions for each of the examples below:
+On a scratch piece of paper, do the following for each of the examples below:
 1. Listen to the entire excerpt, and at the end, sing the tonic (`do`). Use your ear-training while looking at the final chord to determine which pitch you sang. Write this on your scratch paper.
   - If you are struggling to identify your tonic, try singing along with the soprano line. Once you arrive at the cadence, sing up and down the scale until you arrive at something that feels completely stable. You should then be able to count the scale degrees through which you must move to arrive at `do`.
-2. Listen to the excerpt again, but pause each time you come to the end of a phrase. Each time you pause the excerpt, sing your current `do`. This may require you to find a pitch that is not present in the chord because some of the phrase endings do not have `do` in the chord. (i.e. if there is a half cadence)
+2. Listen to the excerpt again, but pause each time you come to the end of a phrase. Most of the phrases in the excerpts below are marked by fermatas, but you should be able to identify cadences as aurally as well. Each time you pause the excerpt, sing your current `do`. This may require you to find a pitch that is not present in the chord because some of the phrase endings do not have `do` in the chord. (i.e. if there is a half cadence)
 3. Compare your tonics from each phrase. Does it change throughout the excerpt? If so, you should be able to pinpoint the phrase in which it modulated.
 
 Some of these examples modulate, yet some are only tonicizations. What do all of the modulations have in common? What about the tonicizations? How does this change your perception of modulation? Is there some commonality among the modulations that will help you visually identify a modulation if you do not have access to playback or a recording?
