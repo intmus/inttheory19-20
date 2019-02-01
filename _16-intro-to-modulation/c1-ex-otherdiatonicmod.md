@@ -24,18 +24,21 @@ w:Bb:
 [F,A,] [D,=B,] [C,C] [E,C]| [F,C] [G,=B,] H[C,2G,]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-We first hear the modulation on the second beat of the fifth measure. This B diminished triad is not diatonic to the original key of B-flat major but becomes the vii<sup>o</sup> chord of the new key of C minor. If you try to find a common chord pivot by looking at the chord before the modulation point (the place where you first hear the modulation), you will notice that the F major chord works in B-flat major, but not in the new key of C minor in which F minor is the diatonic iv chord. 
+### Conclusions
 
-Even though there is no common chord pivot available, this excerpt still relies on the voice-leading and a functional progression to modulate. The listener expects the F major triad (m.5, beat 1) to resolve to a B-flat triad. Instead, Bach alters one pitch from the B-flat triad turning the B-flat triad into a B diminshed triad, and thereby creates a pivot on a secondary function. This is a *secondary function pivot modulation*.
+We first hear the modulation on the second beat of the fifth measure. The B diminished triad is not diatonic to the original key of B-flat major but becomes the vii<sup>o</sup> chord of the new key of C minor. If you try to find a common chord pivot by looking at the chord before the modulation point (the place where you first hear the modulation), you will notice that the F major chord works in B-flat major, but not in the new key of C minor in which F minor is the diatonic iv chord. 
 
-We label these using the same bracket system that we use for common chord pivot modulations, but one or both of the chords will be a secondary function. In this case, the top part of the bracket will contain "vii<sup>o6</sup>/ii", and the bottom part will containg "c:vii<sup>o6</sup>".
+Even though there is no common chord pivot available, this excerpt still relies on the voice-leading and a functional progression to modulate. The listener expects the F major triad (m.5, beat 1) to resolve to a B-flat triad. Instead, Bach alters one pitch from the B-flat triad turning the B-flat triad into a B diminished triad, and thereby creates a pivot on a secondary function. This is a *secondary function pivot modulation*.
+
+We label these using the same bracket system that we use for common chord pivot modulations, but one or both of the chords will be a secondary function. In this case, the top part of the bracket will contain "vii<sup>o6</sup>/ii", and the bottom part will containing "c: vii<sup>o6</sup>".
 
 #### Secondary function pivot modulation principles
+
 - Functions like all pivot modulations in that it relies on a functional progression on both sides of the pivot chord.
 - Unlike common chord pivot modulations, there will not be a chord that is common to both keys before the modulation point. This then necessitates pivoting on a secondary chord.
 - Typically occurs mid-phrase because of its reliance on a functional progression on both sides of the pivot.
 
-## Direct modulation
+## Direct modulation (or phrase modulation)
 
 Analyze the following chorale excerpt. While you should be able to find a common chord pivot, how strong are the progressions on either side of the pivot? What aspect of the music mitigates the strangeness of these progressions? In other words, why doesn't this sound like a "bad" progression leading into the modulation point? (Hint: Even though our MIDI playback does not play the fermatas, you should consider that the choir would breathe after the natural resolution of that phrase. Play it on piano if you are able to simulate this.)
 
@@ -53,13 +56,18 @@ V:2 clef=bass
 w:E:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-Because you first hear the modulation on beat 4 of the measure 2, it would make sense to pivot on the previous chord (the fermata), an E major triad. Pivoting on this chord would give you a modulation bracket with a I on top and c#:III on bottom. The problem is that the modulation point is a B-sharp diminshed triad, the ii<sup>o6</sup> in the key of C-sharp minor. Is III-ii a functional progression? Of course not, so this is not a pivot modulation.
+### Conclusions
 
-The key to this modulation is that it occurs at across two phrases. The first phrase clearly ends on an IAC in E major, and the following chord immediately begins the new key. A modulation that relies on the phrase is called a *direct modulation* or sometimes a *phrase modulation*.
+Because you first hear the modulation on beat 4 of the measure 2, it would make sense to pivot on the previous chord (the fermata), an E major triad. Pivoting on this chord would give you a modulation bracket with a "I" on top and "c#: III" on bottom. The issue is that the modulation point is a B-sharp diminished triad, which is the ii<sup>o6</sup> in the key of C-sharp minor. III-ii not a diatonically functional progression, so this is not a pivot chord modulation.
 
-Because there is no pivot in these types of modulations, we label direct modulations without a bracket. Simply put the upper- or lower-case letter for the new key followed by a colon and the first chord in the new key. For this excerpt, the Roman numeral for beat 4 of the measure 2 would be: *c#:ii<sup>o6</sup>*.
+The crucial factor for this modulation is that it occurs across two phrases. The first phrase clearly ends on an IAC in E major, and the following chord immediately begins the new key. A modulation that relies on the phrase is called a *direct modulation* or *phrase modulation*.
+
+Because there is no pivot chord in these types of modulations, we label direct modulations without a bracket. Simply put the upper- or lower-case letter for the new key followed by a colon and the first chord in the new key. For this excerpt, the Roman numeral for beat 4 of the measure 2 would be: *c#:ii<sup>o6</sup>*. 
+
+Because direct modulations are the only modulations we label without a bracket, you should know that if you choose to label a modulation that is not a direct modulation without using a modulation bracket, someone reading your analysis will assume that you misunderstood the modulation.
 
 #### Direct modulation principles
+
 - Occurs when a modulation begins abruptly after a phrase ending.
 - May or may not have a possible pivot chord, but it will create a non-functional progression between the last chord of the first phrase and the first chord of second phrase.
 
@@ -85,6 +93,8 @@ w:d:
 [A,,2A,,,][A,,2A,,,]| [A,,2A,,,][^G,,2^G,,,]| [^F,,2^F,,,] [^C,2^C,,]| [^F,,3^F,,,] z|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
+### Conclusions
+
 The excerpt begins in D minor but modulates to F-sharp major by the end. These are distantly related keys, so a common chord pivot modulation would be difficult. Instead, Schubert emphasizes a particular common tone in the melody and upper voice of the piano: the C-sharp. This pitch is the seventh scale degree in D minor and the fifth scale degree in F-sharp major.
 
 By accentuating a particular pitch that is common to two keys, a composer can bridge seemingly impossible gaps in the tonal language. In this particular example, the C-sharp was accentuated by placing prominently in the melody, but composers will often take this a step further and completely isolate the pitch without any accompaniment. Regardless of texture, a common-tone modulation functions by emphasizing a particular pitch.
@@ -92,9 +102,10 @@ By accentuating a particular pitch that is common to two keys, a composer can br
 **To label a common-tone modulation**, we use a bracket similar to a pivot modulation. Instead of using chord symbols, however, we use scale degrees. For the Schubert common-tone modulation above, the top of the bracket would contain "^7", and the bottom of the bracket would contain "F#:^5". (Remember that when writing the scale degree "caret mark", you should place the caret *above* the numeral, not beside it as shown in an online text such as this.)
 
 #### Common-tone modulation principles
+
 - Functions by accentuating a particular pitch that is common to both keys.
 - The pitch may be isolated entirely or just accentuated through normal musical means such as register, doubling, voicing, dynamics, etc.
 
-## Summary
+## Final note
 
-Many modulations may fall into more than one of these categories. In these cases, let your ear be the deciding factor. Focus on the basic premise of each modulation and decide which most closely describes your perception of the composer's intent. 
+Some modulations may fall into more than one of these categories. In these cases, let your ear be the deciding factor. Focus on the basic premise of each modulation and decide which most closely describes your perception of the composer's intent. 
