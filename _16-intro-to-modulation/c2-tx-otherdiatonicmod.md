@@ -5,6 +5,9 @@ abc: true
 ---
 
 # Class discussion
+
+tbd
+
 ## Alternate Modulatory Methods
 ### Direct Modulation (Phrase Modulation)
  #### Ex: Bach Chorale Erkenne mich mein Huter
