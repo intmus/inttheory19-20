@@ -6,17 +6,22 @@ abc: true
 
 # Class discussion
 
-tbd
+TBD
+
+# Old class discussion notes
 
 ## Alternate Modulatory Methods
+
 ### Direct Modulation (Phrase Modulation)
- #### Ex: Bach Chorale Erkenne mich mein Huter
- Lead sheet: B - E (on fermata) - B#o/D#
- In E: V - I - x
- In c#min: x - III - viio6
- - why does this not work?
-  - the III to viio is not a functional progression
- - it modulates to the relative minor
+
+#### Ex: Bach Chorale Erkenne mich mein Huter
+
+Lead sheet: B - E (on fermata) - B#o/D#
+In E: V - I - x
+In c#min: x - III - viio6
+- why does this not work?
+    - the III to viio is not a functional progression
+- it modulates to the relative minor
  
  BUT because we have the fermata and the end of a phrase, we have a direct modulation (or phrase modulation) and it's okay!
  This is a direct (or phrase) modulation.
@@ -29,7 +34,8 @@ tbd
  2. Secondary Function Pivot Modulations
  3. Direct Modulation (Phrase Modulation)
  
- ### Common Tone Modulation
+### Common Tone Modulation
+
 Common tone modulations occur when a modulation happens through one note being common in both keys. 
 - this note *has* to be emphasized
   - in D minor, the C# can be used to modulate to F# major. 
