@@ -4,7 +4,11 @@ title: 17a Examples - An introduction to mode mixture
 abc: true
 ---
 
-Tonal harmony is easiest to study when when it follows strict rules, and because of this, we have studied harmonic function thus far through the lens of major and minor keys. In real music however, the relationship between modes is more fluid. Look at the following chart of the chords of parallel major and minor keys. How many common chords are there? Are these closely- or distantly-related keys?
+Tonal harmony is easiest to study when when it follows strict rules, and because of this, we have studied harmonic function thus far through the lens of major and minor keys. In real music however, the relationship between modes is more fluid. 
+
+## Mode mixture (modal interchange)
+
+Look at the following chart of the chords of parallel major and minor keys. How many common chords are there? Does you answer fit with your perception of two keys that are distantly-related by the definition we used in when studying modulation?
 
 C major | Chord | Chord | C minor
  --- | --- | --- | ---
@@ -25,20 +29,24 @@ L:1/2
 Q:1/2=60
 K:C
 V:1
-[cE] [cE]| [dF] [dF]| [c2E]|]
-[K:Eb] [cE] [cE]| [dF] [dF]| [c2E]|]
+[cE] [cE]| [dF] [BF]| [c2E]|]
+[K:Eb] [cE] [cE]| [dF] [=BF]| [c2E]|]
 V:2 clef=bass
-[K:C] [C,G,] [A,,A,]| [D,A,] [G,,B,]| [G,2C,2]|]
+[K:C] [C,G,] [A,,A,]| [D,A,] [G,,G,]| [G,2C,2]|]
 w:C:I vi ii V7 I
-[K:Eb] [C,G,] [A,,A,]| [D,A,] [G,,=B,]| [G,2C,2]|]
+[K:Eb] [C,G,] [A,,A,]| [D,A,] [G,,G,]| [G,2C,2]|]
 w:c:i VI iio V7 i{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
+
+### Conclusion
+
+Even at a glance, you can see that the voice-leading in these two progressions are nearly identical. The only differences between the two are due to the differences in key signature. In particular, the resolution between la and sol is strengthened in minor, because the resolution becomes a half-step between le and sol.
 
 ## Borrowing from the parallel minor
 
 When studying the voice-leading of these two parallel modes, they seem almost interchangeable.
 
-So try it.
+So let's try it.
 
 Alter the following progression in C major to "borrow" the VI and ii<sup>o</sup> chords from minor. What chordal members do you have to alter for each chord? What scale degrees are these? When you play it back does it sound acceptable? What if you only alter the vi chord? Or the ii chord?
 
@@ -49,9 +57,9 @@ L:1/2
 Q:1/2=60
 K:C
 V:1
-[cE] [cE]| [dF] [dF]| [c2E]|]
+[cE] [cE]| [dF] [BF]| [c2E]|]
 V:2 clef=bass
-[C,G,] [A,,A,]| [D,A,] [G,,B,]| [G,2C,2]|]
+[K:C] [C,G,] [A,,A,]| [D,A,] [G,,G,]| [G,2C,2]|]
 w:C:I vi>VI ii>iio V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
