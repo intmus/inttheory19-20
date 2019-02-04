@@ -33,6 +33,8 @@ Some of these examples modulate, yet some are only tonicizations. What do all of
 
 Above all else, you will notice that we are not beginning our discussion of modulation by looking at this from a theoretical perspective. Modulation is determined by the listener, and you will often find yourself disagreeing with others. In many cases, modulation is subjective, but this becomes more concrete with experience.
 
+After you have finished listening to each of these and feel that you have an opinion on whether each modulated, go on to the next unit to begin studying the most common methods that composers use to modulate.
+
 {% capture ex1 %}X:1
 T:Bach - Chorale - Erkenne mich, mein Huter
 T:(simplified)
