@@ -5,6 +5,37 @@ abc: true
 ---
 
 # Class discussion
+
+From the video!
+
+- I, vi, iv, I = not weird. Plagal, but not weird
+
+- I, vi, iv, II half-diminished, I. This functions as a dominant chord because you can find the chord tones if you extend, in thirds, the V chord and borrow the b9 (le) from minor. 
+
+From not the video:
+
+Which notes do we need to change to get from vi to the borrowed VI and from ii to the borrowed iio?
+
+- vi needs the root and fifth to be lowered, in this case A to Ab and E to Eb
+
+- ii needs the fifth to be lowered, in this case A to Ab
+
+When pitches are raised, they tend to resolve up. When they are lowered they tend to resolve down. The borrowed VI chord in isolation (I, VI, ii, V, I) creates lowered tones that resolve up and makes the voice leading feel strange. The tenor voice becomes strong and interesting, but weak against the other voices. Adding in the iio gives some smoother voice leading. 
+
+Voice leading informs your decision making when using borrowed chords. Make sure that the chords you borrow have the same function as the diatonic progression.
+
+Borrowing from parallel minor (let's break harmony)
+
+We use Le a lot, me sometimes, and Te rarely
+
+- given progression (diatonic to major): I, ii6, V7, vi, IV6, vii%7, I
+
+- Possible progressions with borrowed chords: I, ii6, V7, vi, **iv6**, vii%7, I
+
+- I, ii6, V7, vi, **iv6**, **viio7**, I
+
+- I, ii6, V7, **VI**, IV6, vii%7, I
+
 ## Mode Mixture 
 Mode mixture makes almost any chord viable.
 Mode mixture allows you to share chords from different modes when you're in one of the modes. 
