@@ -36,6 +36,18 @@ We use Le a lot, me sometimes, and Te rarely
 
 - I, ii6, V7, **VI**, IV6, vii%7, I
 
+-You can also borrow iio6, vmin7, i (this one is the most jarring and "worst")
+
+Remember! vi and iii chords have altered roots when borrowed from minor. For example, bVI and bIII. Without the notation of the flats, you may unintentionally claim that these are major chords built on diatonic roots. Ab major and A major are different, so you must label them as bVI and VI respectively (although VI wouldn't function and would likely be V/ii).
+
+If you want to alter the root, place a flat or sharp **in front of** the roman numeral. For example, C: ii%6/5 is D%7/F, bii%6/5 is Db%7/Fb and #ii%6/5 is D#%7/F#
+
+Upper and lowercase roman numerals showcase the quality of third you have in the chord
+
+Fifths are assumed perfect, but we have + for augmented and o for diminished.
+
+C: #IV+M4/3 = Cx, E#, F#, A#
+
 ## Mode Mixture 
 Mode mixture makes almost any chord viable.
 Mode mixture allows you to share chords from different modes when you're in one of the modes. 
