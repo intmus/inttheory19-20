@@ -8,7 +8,7 @@ Tonal harmony is easiest to study when when it follows strict rules, and because
 
 ## Mode mixture (modal interchange)
 
-Look at the following chart of the chords of parallel major and minor keys. How many common chords are there? Does you answer fit with your perception of two keys that are distantly-related by the definition we used in when studying modulation?
+Look at the following chart of the chords of parallel major and minor keys. Compare the chords built off each diatonic scale degree. (e.g. I to i, ii to ii<sup>o</sup> How many of these chord match qualities? Does your answer fit with your perception of two keys that are distantly-related?
 
 C major | Chord | Chord | C minor
  --- | --- | --- | ---
@@ -20,7 +20,7 @@ C major | Chord | Chord | C minor
  vi | A min | A-flat maj | VI
  vii<sup>o</sup> | B<sup>o</sup> | B<sup>o</sup> | vii<sup>o</sup>
 
-You will notice that the only common chords are the dominant function chords, and even these *require* alteration to share function. So if we think about this as we did when discussing modulations, these keys should have little in common. On the other hand look at the following basic progressions in both keys. Do these look unrelated? How does the voice-leading differ between the two? How many chromatic pitches are required to make the second progression function?
+You will notice that the only common chords are the dominant function chords, and even these *require* alteration in minor to share function and qualities. So if we think about this as we did when discussing modulations, these keys should have little in common. On the other hand look at the following basic progressions in both keys. Do these look unrelated? How does the voice-leading differ between the two? How many chromatic pitches are required to make the second progression function?
 
 {% capture ex1 %}X:1
 T:Variations between parallel major and minor
@@ -40,7 +40,7 @@ w:c:i VI iio V7 i{% endcapture %}
 
 ### Conclusion
 
-Even at a glance, you can see that the voice-leading in these two progressions are nearly identical. The only differences between the two are due to the differences in key signature. In particular, the resolution between la and sol is strengthened in minor, because the resolution becomes a half-step between le and sol.
+Even at a glance, you can see that the voice-leading in these two progressions are nearly identical. The only differences between the two are due to the differences in key signature. In particular, the resolution between from the sixth scale degree to the fifth scale degree is strengthened in minor, because the resolution becomes a half-step between le and sol.
 
 ## Borrowing from the parallel minor
 
@@ -48,7 +48,7 @@ When studying the voice-leading of these two parallel modes, they seem almost in
 
 So let's try it.
 
-Alter the following progression in C major to "borrow" the VI and ii<sup>o</sup> chords from minor. What chordal members do you have to alter for each chord? What scale degrees are these? When you play it back does it sound acceptable? What if you only alter the vi chord? Or the ii chord?
+Alter the following progression in C major to "borrow" either the VI or ii<sup>o</sup> chords from minor. What chordal members do you have to alter for each chord? What scale degrees are these? When you play it back does it sound acceptable? What if you only alter both chords? Does this make it more or less jarring?
 
 {% capture ex2 %}X:2
 T:Borrowing chords from the parallel minor
@@ -63,20 +63,32 @@ V:2 clef=bass
 w:C:I vi>VI ii>iio V I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-The next progression is a longer example containing multiple cadences. What could you alter here to borrow chords from the parallel minor?
+### Conclusions
+
+To borrow either ii<sup>o</sup> or VI from minor, you must alter the sixth scale degree, although the VI also requires an altered third scale degree. Regardless of which chord you alter--or both--the progression is fairly convincing. Borrowing from the minor mode greatly darkens the progression without changing any of the voice-leading functions. Also, take note of how the roots of chords are affected. Our ii chord has a root of `re` in either the major or minor mode and changes only in quality from a D minor to a D diminished chord. The vi chord undergoes a larger change, because not only does its quality change from minor to major, but it does this by changing the actual root of the chord from `la` to `le`. Forgetting to change the root correctly is one of the most common mistakes that students make when studying borrowed chords in mode mixture, so always check your roots before building the chord.
+
+Perhaps more importantly than even understanding which chords can be borrowed, you must look at how they function. In this example, we are borrowing chords directly from a circle-of-fifths progression. *They are still fulfilling their diatonic function, because the voice-leading is tendencies are the same regardless of mode.* As with all Roman numeral analysis, its purpose is to explain the function and provide context for a progression. So even though the quality of this ii chord has changed and is no longer diatonic, the meaning of the Roman numeral doesn't change unless you alter it with further information such as labeling it as a passing or pedal chord. If you put `ii<sup>o</sup>` without further explanation, you are saying that it still has a pre-dominant function in this context.
+
+## Further borrowing from the parallel minor
+
+The next progression is a longer example containing multiple cadences. Try borrowing each chord individually from the parallel minor. Which chords work and which don't? Once you have an idea of which chords function best, try combining these into a single progression. How many chords can you borrow before it simply sounds as if its in minor? 
 
 {% capture ex3 %}X:3
 T:More borrowing from the parallel minor
 M:4/4
 L:1/2
-Q:1/2=60
+Q:1/4=90
 K:C
 V:1
-[c2E]| [dF] [dF]| [c2E]| [cF] [dF]| [c2E]|]
+[c2E]| [dF] [BF]| [c2E]| [cF] [dF]| [c2E]|]
 V:2 clef=bass
-[C,2G,]| [F,,A,] [G,,B,]| [A,,2C]| [A,,A,] [B,,A,]| [C,2G,]|]
+[C,2G,]| [F,,A,] [G,,G,]| [A,,2C]| [A,,A,] [B,,A,]| [C,2G,]|]
 w:C:I ii6 V7 vi IV6 vii%7 I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
+
+### Conclusions
+
+TBD
 
 ## Borrowing from the parallel major
 
