@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18a Examples - Neapolitan chords (bII)
+title: 18a Examples - bII chords (Neapolitan)
 abc: true
 ---
 
@@ -44,18 +44,20 @@ w:c:
 w:c:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
+### Conclusions
+
+As you labeled the chords, you probably noticed that you had a chord that could only be explained as the borrowed II chord from the Phrygian mode. In each case, it was acting as a pre-dominant chord and followed the rules of a standard ii chord. This bII chord is used often enough that it earned a special name: the Neapolitan chord. The origin of the chord's moniker (Neapolitan) is disputed, but recently, one could make a case for calling this the "Batman" chord; it has been featured prominently in almost every modern Batman theme. Composers love to use this chord to add darkness to a progression.
+
 ## Neapolitan chords (bII)
 
-This bII chord is used often enough that it earned a special name: the Neapolitan chord. Although one could make a case for calling this the "Batman" chord, because it has been featured prominently in almost every modern Batman theme. Composers love to use this chord to add darkness to any progression.
-
-You may label the Neapolitan chord using standard Roman numeral notation (bII) as discussed in the mode mixture unit (Unit 17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals. For voice-leading purposes, the chord may sometimes have an enharmonically equivalent pitch such as the `G#` shown in the third and sixth progressions, but we still always analyze this as a bII chord.
+You may label the Neapolitan chord using standard Roman numeral notation (bII) as discussed in the mode mixture unit (Unit 17a), but it is also common to substitute an upper-case "N" -- short for Neapolitan -- in your Roman numerals. For voice-leading purposes, the chord may sometimes have an enharmonically equivalent pitch--such as the `G#` shown in the third and sixth progressions--but we still always analyze this as a bII chord.
 
 The above examples are three of the most common ways in which you should approach and leave a Neapolitan chord:
 - Directly to the V chord, most often the V<sup>7</sup>
 - Into a cadential 6/4 progression
 - Into a vii<sup>o</sup>/V
 
-Hopefully, you found that it typically serves a pre-dominant function. You may have decided that it is most similar to a pre-dominant ii chord, because it has the same scale degrees of ^2, ^4, and ^6, with a lowered ^2 and ^6. While this is true, if you look at the common doubling and inversion of the Neapolitan chord -- first inversion with a doubled third -- it may be easier for you to consider the Neapolitan as a functional substitution for a minor iv chord. This ensures correct doubling and voice-leading tendencies. Look at the chords side-by-side in below, and you will notice there is only a half-step difference between the two chords.
+As you observed in the example, the bII chord is most commonly used as a pre-dominant function. In this case, you can make the argument that it is most similar to a pre-dominant ii chord, because it has the same scale degrees of ^2, ^4, and ^6, with a lowered ^2 and ^6. While this is true, if you look at the common doubling and inversion of the Neapolitan chord -- first inversion with a doubled third -- it may be easier for you to consider the Neapolitan as a functional substitution for a borrowed iv chord. This ensures correct doubling and voice-leading tendencies. Look at the chords side-by-side in below, and you will notice there is only a half-step difference between the two chords.
 
 {% capture ex3 %}X:3
 T:bII and iv
@@ -89,8 +91,10 @@ V:2 clef=bass
 (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 C,/2z/2 [B,,D,F,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| (3C,/2G,,/2C,/2 (3C,/2G,,/2C,/2 [C,2E,G,]| [C,,4C,]|]{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-As we discussed in 17b, in this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>.
+### Conclusions
 
-Please note: While the Neapolitan is a commonly used chord, it is far more common to use it as a predominant function rather than as a functional substitution for dominant.
+As we discussed in 17b, in this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>. When it is used to resolve to a I chord, the voice-leading issues are difficult to overcome, so you must be thoughtful in your approach and resolution. 
+
+Please note: While the Neapolitan is a commonly used chord, it is far more common to use it as a predominant function rather than as a functional substitution for dominant. Remember that if you ignore the standard tonic/dominant relationship too often, the listener will begin to lose the sense of diatonic progression. This can be good or bad depending on your desired outcome.
 
 As always, if you study a chord's voice-leading, you can use this to deduce its function.
