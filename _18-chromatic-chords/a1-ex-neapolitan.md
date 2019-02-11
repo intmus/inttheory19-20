@@ -55,7 +55,7 @@ You may label the Neapolitan chord using standard Roman numeral notation (bII) a
 The above examples are three of the most common ways in which you should approach and leave a Neapolitan chord:
 - Directly to the V chord, most often the V<sup>7</sup>
 - Into a cadential 6/4 progression
-- Into a vii<sup>o</sup>/V
+- Into a vii<sup>o7</sup>/V
 
 As you observed in the example, the bII chord is most commonly used as a pre-dominant function. In this case, you can make the argument that it is most similar to a pre-dominant ii chord, because it has the same scale degrees of ^2, ^4, and ^6, with a lowered ^2 and ^6. While this is true, if you look at the common doubling and inversion of the Neapolitan chord -- first inversion with a doubled third -- it may be easier for you to consider the Neapolitan as a functional substitution for a borrowed iv chord. This ensures correct doubling and voice-leading tendencies. Look at the chords side-by-side in below, and you will notice there is only a half-step difference between the two chords.
 
@@ -70,7 +70,11 @@ V:1
 w:c:bII6 iv{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-You may use a Neapolitan chord in any position where you could use a minor iv chord. In minor, there is only one chromatic pitch (^b2), but in major, you will need to lower both ^2 and ^6.
+Perhaps the most important reason for this doubling is that it avoids two major part writing errors that occur for bII chords:
+1. The root and fifth of the bII chord are tendency tones and should not be doubled. The flatted second scale degree is a strong tendency that wants to resolve downward. When going directly to a V chord, this means that it ususally creates an interval of a diminished 3rd as it resolves down to the third of the V chord. If it passes through either a cadential 6/4 or a vii<sup>o7</sup>/V, it will go through ^1 before continuing downward to the leading-tone.
+2. Because root and chordal fifth of this chord want to resolve downward, they will create unacceptable parallel fifths if the both resolve by stepwise motion. By placing the chordal third in the bass, you are free to move the root above the chordal fifth in your voicing.
+
+You may use a Neapolitan chord in any position in which you could use a minor iv chord. In minor, there is only one chromatic pitch (^b2), but in major, you will need to lower both ^2 and ^6.
 
 ## Neapolitan chords as dominant chords
 
