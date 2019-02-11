@@ -6,6 +6,26 @@ abc: true
 
 # Class discussion
 
+What strategies are you using to voice these progressions with modal mixture?
+
+-Try to find stepwise motion in each voice. Voice leading!
+
+-Write parts chord by chord? or write parts one voice at a time?
+
+-Keep in mind our traditional voice leading rules. We want to keep our voices independent. 
+
+-Start from the beginning? (maybe not) The voice leading can be easier to manage if you start from the end and work backwards.
+
+-In a weird kind of way, smooth voice leading trumps function and can make these progressions with modal mixture sound convincing. ii should not go to I by our traditional rules, but ii%7 sure can because it has such good voice leading.
+
+Modal Mixture or non-chord tone?
+
+-Look for whether or not it is on or off the beat. This can determine the strength of the chromatic pitch
+
+-Is it in the melody? If so, it can be heard as a passing tone.
+
+-Look at the duration of the pitch. A longer note could more easily be argued into being a chord tone of modal mixture.
+
 ## Harmonizations demonstrated in class
 
 *Poor voice leading*
