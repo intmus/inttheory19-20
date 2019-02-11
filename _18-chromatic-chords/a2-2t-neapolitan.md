@@ -5,6 +5,13 @@ abc: true
 ---
 
 # Class discussion
+
+New chord! bII! The Neapolitan chord (not to be confused with the tri-colored and tri-flavored ice cream).
+
+In major, the bII had two chromatic pitches. In minor, the bII has only one chormatic pitch (thanks le).
+
+You can treat the bII chord as a iv chord with a different fifth. In this way, you double the third of the bII chord as you would the root of the iv chord. 
+
 ## Neapolitan 6 chord
 A neapolitan 6 chord is a flat major II in first inversion. 
 In C, spelled Db, F, Ab, but with F in the bass. 
