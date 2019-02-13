@@ -38,7 +38,7 @@ I think of Italian as the vanilla, unchanged version with ^b6, ^#4, and ^1. The 
 
 Augmented sixth chords resolving to a non-dominant harmony
 
-
+It+6/^1, Ger+6/^6 etc. The slash notates what pitch the augmented sixth chord is emphasizing. Roman numerals under the slash puts you in a weird place that doesn't really make sense.
 
 ## Augmented Sixth Chords
 
