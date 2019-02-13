@@ -10,35 +10,35 @@ Augmented Sixth chords! Keep in mind the semantics from earlier: the Neapolitan 
 
 How would you describe its construction?
 
-All three had ^b6 (making carats go above numbers is hard sorry), ^#4, ^1
+-All three had ^b6 (making carats go above numbers is hard sorry), ^#4, ^1
 
-Italian stays with the common tones: ^b6, ^#4, ^1
+-Italian stays with the common tones: ^b6, ^#4, ^1
 
-German adds a ^b3: ^b6, ^b3, ^#4, ^1
+-German adds a ^b3: ^b6, ^b3, ^#4, ^1
 
-French adds a ^2, but not the ^b3 from the German augmented sixth chord: ^b6, ^#4, ^2, ^1
+-French adds a ^2, but not the ^b3 from the German augmented sixth chord: ^b6, ^#4, ^2, ^1
 
-These chords are no longer constructed using tertian harmony. No amount of stacking (major and minor) thirds will get you these sounds. These are called Augmented Sixth chords because of the relationship of the sixth against the bass note. For example, an Italian augmented sixth chord consisting of Ab, C, F# contains an augmented sixth between Ab (the bass note) and F#. With the exception of the doubled tonic in the Italian augmented sixth chord, you must have all 4 tones to get these chords to sound like these chords. Do these have inversions? This chord isn't in thirds! It is all about the voice leading and bass note.
+-These chords are no longer constructed using tertian harmony. No amount of stacking (major and minor) thirds will get you these sounds. These are called Augmented Sixth chords because of the relationship of the sixth against the bass note. For example, an Italian augmented sixth chord consisting of Ab, C, F# contains an augmented sixth between Ab (the bass note) and F#. With the exception of the doubled tonic in the Italian augmented sixth chord, you must have all 4 tones to get these chords to sound like these chords. Do these have inversions? This chord isn't in thirds! It is all about the voice leading and bass note.
 
 Function?
 
-Pre-Dominant! As we get more into these different sounds, note that many of these are pre-dominant. 
+-Pre-Dominant! As we get more into these different sounds, note that many of these are pre-dominant. 
 
 Tendency tones and resolutions?
 
-The ^b6 and ^#4(11 if you must relate it to stacked thirds)! ^b6 resolves down and ^#4 resolves up; these both arrive at ^5. 
+-The ^b6 and ^#4(11 if you must relate it to stacked thirds)! ^b6 resolves down and ^#4 resolves up; these both arrive at ^5. 
 
-German augmented sixths almost never go to V, they want to go to V7 to ensure that the near-guaranteed parallel perfect fifth as ^b6 and ^b3 resolve to ^5 and ^2.
+-German augmented sixths almost never go to V, they want to go to V7 to ensure that the near-guaranteed parallel perfect fifth as ^b6 and ^b3 resolve to ^5 and ^2.
 
-This chord's whole purpose is to highlight a single pitch, often the root of the next chord. Both notes of the augmented sixth will likely resolve to the same pitch.
+-This chord's whole purpose is to highlight a single pitch, often the root of the next chord. Both notes of the augmented sixth will likely resolve to the same pitch.
 
 How does Zach remember the differences?
 
-I think of Italian as the vanilla, unchanged version with ^b6, ^#4, and ^1. The French one has ^2, or in the way I remember it, it has re. French has re in the word. F**re**nch. The German one has ^b3 in it, or in my way, it has me. In a bit of a strech of the word I pronounce German as Ger-mayn. Then it really does have me in it. 
+-I think of Italian as the vanilla, unchanged version with ^b6, ^#4, and ^1. The French one has ^2, or in the way I remember it, it has re. French has re in the word. F**re**nch. The German one has ^b3 in it, or in my way, it has me. In a bit of a strech of the word I pronounce German as Ger-mayn. Then it really does have me in it. 
 
 Augmented sixth chords resolving to a non-dominant harmony
 
-It+6/^1, Ger+6/^6 etc. The slash notates what pitch the augmented sixth chord is emphasizing. Roman numerals under the slash puts you in a weird place that doesn't really make sense.
+-It+6/^1, Ger+6/^6 etc. The slash notates what pitch the augmented sixth chord is emphasizing. Roman numerals under the slash puts you in a weird place that doesn't really make sense.
 
 ## Augmented Sixth Chords
 
