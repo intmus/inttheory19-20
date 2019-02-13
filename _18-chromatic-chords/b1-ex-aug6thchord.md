@@ -96,7 +96,7 @@ w:C:It+6 V I It+6 V I Ger+6 V I Ger+6 V I Fr+6 V I Fr+6 V I
 
 ### Conclusions
 
-#### The defining resolution of augmented sixth chords
+#### A defining resolution
 
 As you can see, the tendency tones of the augmented sixth -- ^b6 and ^#4 -- will always resolve by a half-step. If the ^b6 is in a lower voice than the ^#4, they will resolve outward by half-step to an octave. If the ^#4 is in a lower voice than the ^b6, they will resolve inward by half-step to create an octave. The resolution of this interval is the entire reason for the existence of these augmented sixth chords, so you can consider this resolution of the defining characteristic of these chords.
 
