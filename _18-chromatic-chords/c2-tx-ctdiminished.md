@@ -4,6 +4,9 @@ title: 18c Lesson - Common-tone diminished chords
 abc: true
 ---
 # Class Discussion
+
+
+
 ## Common tone diminished chords
 If you have a C chord, voiced C,G,E,G; and it moves to a series of pitches, voiced C,F#,D#,A. 
 It moves back to the same voicing of C. 
