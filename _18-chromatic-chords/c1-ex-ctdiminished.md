@@ -34,6 +34,13 @@ w:C:
 w:C:{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
+### Conclusions
+
+Each of these three examples contains one chord which does not function like any chord that we have studied thus far. 
+- The first example is mostly straight-forward; it establishes the key through a I-V-I progression and then begins arpeggiating the I chord. On the downbeat of the the third measure, however, a diminished seventh chord appears that does not function as any diminished seventh chord we have seen. Usually, a diminished seventh chord is a dominant function of the chord that it precedes. In this case, we have D#<sup>o7</sup>, which, if it were a secondary leading-tone chord, would resolve to a chord with the root of an E--in this key, it would likely be a vii<sup>o7</sup>/iii. Instead, it goes back to the I chord. The notable features of this resolution though, are that three of the pitches resolve smoothly by step-wise motion to the pitches of the I chord while the last pitch is a common-tone between the two chords. You could analyze this as an entire chord that functions as both neighbor tones and a pedal tone, but that does not truly describe its function. So what is this #ii<sup>o7</sup>?
+- In the second example, we find the same chord on the downbeat of the third measure, but in this example, it is embellishing the V chord instead of the I chord. It shares the same voice-leading principles as the previous example did with the I chord--three neighbor tones and one common tone--as the previous example, but instead of being built as #ii<sup>o7</sup>, it is now a #vi<sup>o7</sup> that decorates a V chord.
+- The last example is the most complicated. The progression begins with a I chord moving to a vi chord, but instead of going to a diatonic predominant, it moves to a V<sup>6</sup>/V. This does not go directly to a V chord, however, and instead passes through a strange diminished seventh chord on the beat 3 of the second measure, an E#<sup>o7</sup>. While the neighbor tones of the previous example are slightly altered in this case in that they all of our neighbor tones are now passing tones. The chord still has many commonalities to the previous examples, though, in that it is still a diminished seventh chord that is surrounded by the same harmony on both sides and it shares a common-tone with those chords. 
+
 ## Common-tone diminished chords
 
 Each of the chromatic chords above is an example of *common-tone diminished chord*. You will label these chords as **ct<sup>o7</sup>**. 
