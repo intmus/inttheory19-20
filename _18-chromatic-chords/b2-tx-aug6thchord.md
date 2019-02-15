@@ -34,7 +34,7 @@ Tendency tones and resolutions?
 
 How does Zach remember the differences?
 
--I think of Italian as the vanilla, unchanged version with ^b6, ^#4, and ^1. The French one has ^2, or in the way I remember it, it has re. French has re in the word. F**re**nch. The German one has ^b3 in it, or in my way, it has me. In a bit of a strech of the word I pronounce German as Ger-mayn. Then it really does have me in it. 
+-I think of Italian as the vanilla, unchanged version with ^b6, ^#4, and ^1. The French one has ^2, or in the way I remember it, it has re. French has re in the word. F**re**nch. The German one has ^b3 in it, or in my way, it has me. In a bit of a strech of the word, I pronounce German as Ger-mayn. Then it really does have me in it. 
 
 Augmented sixth chords resolving to a non-dominant harmony
 
