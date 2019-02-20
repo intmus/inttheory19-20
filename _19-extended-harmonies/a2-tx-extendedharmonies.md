@@ -4,6 +4,17 @@ title: 19a Lesson - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
 # Class discussion
+
+How do we know if a note is a non-chord tone?
+
+Rhythms and placement in the bar. If the notes are on the downbeat or repeated many times, it is likely a chord tone.
+
+Do the notes fit if we stack thirds?
+
+Function!
+
+Look for non-chord tone patterns and how they move. Think neighbor tones or suspensions etc. 
+
 ## Extended Tertian Harmony and Non-chord tones
 Extended harmony is anything beyond the seventh in a triadic chord.
 This includes 9ths, 11ths, and 13ths. 
