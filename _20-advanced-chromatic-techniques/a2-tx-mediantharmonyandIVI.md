@@ -8,6 +8,8 @@ abc: true
 
 
 
+
+
 ## Mediant Harmony and Idealized Voice Leading Intervals
 
 
