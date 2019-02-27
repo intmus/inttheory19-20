@@ -9,7 +9,7 @@ In Unit 16, we looked at the most common methods used in music to modulate from 
 - common-tone modulations
 - direct (phrase) modulations
 
-In the majority of those examples, the modulation was to a closely related key, so the modulatory methods were straightforward because the majority of pitches were common to both keys. When music modulates to a distant key without passing through multiple intermediary keys, the methods for modulation require methods that bridge the many differences between the keys.
+In the majority of those examples, the modulation was to a closely related key, allowing the modulatory methods to rely on the number of pitches and chords that were common to both keys. When music modulates to a distant key--without passing through multiple intermediary keys--the methods for modulation require more complicated techniques.
 
 The following examples demonstrate advanced modulatory methods in simplistic renditions of a four-part chorale. They are written in such a way to highlight a particular modulatory technique and are grouped in pairs to give you multiple examples of the same idea. Listen to each pair of examples, and identify the commonalities within each pair. For each example:
 - Write the leadsheet symbols above each chord.

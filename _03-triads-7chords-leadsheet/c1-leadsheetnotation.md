@@ -100,13 +100,21 @@ Some forms of tertian harmony use chords that have extensions beyond the seventh
 
 As with standard leadsheet notation for seventh chords, if you have a number alone, it always implies a dominant seventh chord with extensions. A C<sup>13</sup> is a dominant seventh chord with extensions up to the thirteenth. (One notable exception is the C<sup>6/9</sup> chord. This chord implies a major seventh.)
 
+## *Sus* chords
+
+As we move into studying the ways that composers embellish their music later in the course, we will study *suspensions*--a note that does not belong to a chord, but instead adds extra tension and color before resolving downward by step. There are many different possible suspensions, but in leadsheet notation, there is an assumed suspension that will always be used.
+
+Csus
+
+Any time that you see the abbreviation *sus* added to a chord, this implies that there is no chordal third. Instead, you will use the diatonic pitch that is a fourth above the root. So for a Csus, you will replace the E that would normally be present in that chord with an F. This would not change even if the bass note was altered; it will always be the chordal third.
+
 ## *Sub* and *Add*
 
 The two commands *sub* and *add* are useful when writing leadsheet notation of non-standard chords. Admittedly, these will not be used much in diatonic harmony, but understanding their usage now will help when we move into chromatic harmonies.
 
 Because triads and seventh chords are built in thirds, every third above the root has a predetermined quality based on the chord quality and root. If you would like to alter one of those chordal members, you can use the *sub* followed by an altered chordal member to imply that you are *replacing* that chordal member. For example, the alternate method for half-diminished seventh chords comes from this. Because a diminished triad is a minor triad with a lowered fifth chordal member, you could use the leadsheet notation for a minor seventh chord and substitute a lowered 5th. This would look like:
 
-Cmin<sup>7(sub&flat;11)</sup>
+Cmin<sup>7(sub b5)</sup>
 
 Admittedly, this method for notating half-diminished seventh chords is common enough that it is not required to use "sub" in this particular example, but this is still an excellent example of the proper way to use the sub command.
 
