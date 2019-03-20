@@ -109,7 +109,7 @@ cG cGG| [M:6/8]cGG cGG| [M:3/4]cG cG cG| [M:4/4]cG cG cG cG|]{% endcapture %}
 {% capture ex7 %}X:7
 T:Polymeter
 M:3/4
-L:1/8
+L:1/4
 Q:1/4=90
 K:C
 V:1
@@ -121,7 +121,7 @@ V:2
 {% capture ex8 %}X:8
 T:Implied polymeter
 M:3/4
-L:1/8
+L:1/4
 Q:1/4=90
 K:C
 V:1
@@ -132,12 +132,12 @@ C E G| c C E| G c C| E G c|]{% endcapture %}
 
 {% capture ex9 %}X:9
 T:Polyrhythm
-M:3/4
+M:2/4
 L:1/8
 Q:1/4=110
 K:C
 V:1
-cG cG cG| cG cG cG| cG cG cG|]
+cG cG| cG cG| cG cG|]
 V:2
 (3EGG (3EGG| (3EGG (3EGG| (3EGG (3EGG|]{% endcapture %}
 {% include abc-example.html number="9" abc=ex9 %}
