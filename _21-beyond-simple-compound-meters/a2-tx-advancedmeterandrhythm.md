@@ -8,6 +8,18 @@ abc: true
 
 ## Advanced Rhythm and Meters
 
+What is polymeter?
+
+Two or more meters happening simultaneously 
+
+What is implied polymeter?
+
+Two or more identical meters happening at the same time, but one line is written to sound as if it is in a different meter
+
+What is polyrhythm?
+
+Two or more rhythmic divisions occuring at the same time
+
 ### Asymmetric Meter
 
 An asymmetric meter is a time signature in which the beats are not devided equally. 
