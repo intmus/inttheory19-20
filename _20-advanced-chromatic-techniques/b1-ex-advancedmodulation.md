@@ -7,7 +7,7 @@ abc: true
 In Unit 16, we looked at the most common methods used in music to modulate from one key center to another.
 - pivot chord modulations
 - common-tone modulations
-- direct (phrase) modulations
+- phrase (direct) modulations
 
 In the majority of those examples, the modulation was to a closely related key, allowing the modulatory methods to rely on the number of pitches and chords that were common to both keys. When music modulates to a distant key--without passing through multiple intermediary keys--the methods for modulation require more complicated techniques.
 
