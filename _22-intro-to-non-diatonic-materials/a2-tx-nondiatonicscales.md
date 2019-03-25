@@ -6,7 +6,6 @@ abc: true
 
 # Class discussion
 
-
 ## Modes 
 
 Modes use every tone in a 7 degree scale.
