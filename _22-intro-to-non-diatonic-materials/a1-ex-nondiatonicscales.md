@@ -6,12 +6,11 @@ abc: true
 
 Near the beginning of the course, we familiarized ourselves with the common scales necessary for learning diatonic function: major, natural minor, melodic minor, harmonic minor, major pentatonic, minor pentatonic, and chromatic scales. If you need to refresh your memory of those scales, please review Unit 2.
 
-## Non-diatonic scales 
-### (Introduction from *Open Music Theory*)
+## Non-diatonic scales
 
-Folk, pop, classical, and modern composers often organize pitch materials using scales other than major and minor. Some of these scales, like the various diatonic *modes* and the pentatonic collection, are relatively familiar to most listeners. Others — such as octatonic and whole-tone collections/scales — are more novel, and usually (but not always) found in twentieth- and twenty-first-century compositions.
+Most music--whether folk, pop, jazz, classical, etc.--can organize the pitches into what you would identify as a scale, but in most of these styles, rarely do these scales conform to a simple major or minor scale. Some of these scales, like the various diatonic *modes* and the pentatonic collection, are relatively familiar to most listeners. Others--such as octatonic and whole-tone collections/scales--are more novel, and most often associated with compositions of the last 100 years.
 
-When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes — usually five or more. Imagine a collection as a source from which a composer can draw musical material — a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a *scale*. 
+When characterizing scales, the word “collection” is often more appropriate than "scale." A *collection* is any group of notes--usually five or more--that can be ordered in an ascending and repeating fashion. Imagine a collection as a source from which a composer can draw musical material--a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition, a composer may establish a tonal center by privileging one note of the collection, which we then call a *scale*. 
 
 **Use the following arrangements of *Happy Birthday* to determine the intervallic pattern of each of these scales/collections. After discussing this with your group and writing the scale/collection out in standard ascending form, practice transposing the scale into various keys to ensure that you understand its structure. Finally, please read through the descriptions on the following page for background and the common usage for each of these scales/collections.**
 
@@ -85,7 +84,47 @@ Q:1/4=90
 K:Ab
 D/2>D/2| E D G| F2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| F E c/2>c/2| B G A| G2|]{% endcapture %}
-{% include abc-example.html number="7" abc=ex7 %}
+{% include abc-example.html number="7" abc=ex7 %}\
+
+### Conclusion
+
+Most students consider modes a simple extension of their major scale. This is good way to memorize their construction, because each one has the same number of pitches and intervallic pattern. If you can remember the intervals of one scale, you can then use this to construct every related mode.
+
+Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ --- | --- | --- | --- | --- | --- | --- | ---
+ Ionian | C | D | E | F | G | A | B
+ Dorian | D | E | F | G | A | B | C
+ Phyrgian | E | F | G | A | B | C | D
+ Lydian | F | G | A | B | C | D | E
+ Mixolydian | G | A | B | C | D | E | F
+ Aeolian | A | B | C | D | E | F | G
+ Locrian | B | C | D | E | F | G | A
+
+As with all things in theory though, there are other ways to memorize these. The most obvious is memorize the intervallic pattern from the tonic note. The table below shows the intervals necessary to reach the next scale degree of each mode.
+
+Intervallic patterns of modes | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ --- | --- | --- | --- | --- | --- | --- | ---
+ Ionian | W | W | H | W | W | W | H
+ Dorian | W | H | W | W | W | H | W
+ Phyrgian | H | W | W | W | H | W | W
+ Lydian | W | W | W | H | W | W | H
+ Mixolydian | W | W | H | W | W | H | W
+ Aeolian | W | H | W | W | H | W | W
+ Locrian | H | W | W | H | W | W | W
+
+And finally, some prefer to remember the scale degrees as how they relate to a major scale:
+
+Modes as related to Ionian (major) scale degrees | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ --- | --- | --- | --- | --- | --- | --- | ---
+ Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
+ Dorian | ^1 | ^2 | ^b3 | ^4 | ^5 | ^6 | ^b7
+ Phyrgian | ^1 | ^b2 | ^b3 | ^4 | ^5 | ^b6 | ^b7
+ Lydian | ^1 | ^2 | ^3 | ^#4 | ^5 | ^6 | ^7
+ Mixolydian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^b7
+ Aeolian | ^1 | ^2 | ^b3 | ^4 | ^5 | ^b6 | ^b7
+ Locrian | ^1 | ^b2 | ^b3 | ^4 | ^b5 | ^b6 | ^b7
+
+Yet understanding construction does nothing to further your understanding of their function. You should spend time exploring each of these modes to learn why one pitch can sound "tonicized" without a traditional `ti` to `do` relationship. With very few exceptions, every piece of music contains a harmonic method for creating tension and release, and music written in these modes is no different. Discovering how each mode creates this is paramount to understanding modal usage, and will help you create a framework for any scale--including those below.
 
 ## 5-, 6-, and 8-note Collections
 
