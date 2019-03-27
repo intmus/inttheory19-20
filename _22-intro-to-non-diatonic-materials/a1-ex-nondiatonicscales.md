@@ -237,3 +237,20 @@ K:C
 ^D/2>^D/2| E ^D G| ^F2 ^D/2>^D/2| E ^D A| G2 ^D/2>^D/2|
 ^c _B G| ^F E c/2>c/2| _B G A| G2|]{% endcapture %}
 {% include abc-example.html number="13" abc=ex13 %}
+
+The two variants of the octatonic scale, the half-whole and whole-half, are similar to the 1+3/3+1 hexatonic scales in almost every way. Both:
+- consist of an alternating pattern of two intervals
+- contain two standard, symmetrical chords separated by a half-step
+- can be transformed into another version of the octatonic scale by reassigning tonic to any pitch in the collection
+
+The primary difference is the interval pattern. The octatonic scale alternates between minor seconds and major seconds, as opposed to the 1+3/3+1 hexatonic scales' minor seconds and minor thirds. The slightly smaller interval pattern of the octatonic creates a collection of eight pitches with many symmetrical properties. And like hexatonic scales, we will always label an octatonic scale starting from its first interval *in its ascending form*, because in its descending form the pattern will be reversed. If the first interval of your ocatonic scale is a minor second, you will label this as a half-whole (HW) octatonic scale; if the first interval is a major second, you will label this a whole-half (WH) octatonic scale.
+
+You can divide any octatonic collection into two fully diminished seventh chords, as demonstrated in the C Half-whole (HW) scale written out here.
+
+C-C#-Eb-E-F#-G-A-Bb-C
+
+You can see that this collection can be separated into a C<sup>o7</sup> and a C#<sup>o7</sup> (If you do not see this, make sure to consider all of the enharmonic equivalents). And because a fully diminished seventh chord is symmetrical--as we discussed when studying them for enharmonic modulations in Unit 20b--we can then infer that this scale would have an identical interval pattern if we started on any of the pitches of that diminished seventh chord. For example, if you rearrange the collection to ascend from Eb, F#, or A--the other members of the C<sup>o7</sup>--you will find that the resulting scale is still alternating between minor seconds and major seconds, just with a different tonic. 
+
+Also like the 1+3/3+1 hexatonic scales, if we start the scale from the other pitches--for the C HW listed above, these would be the pitches of the other diminished seventh chord, C#, E, G, and Bb of the C#<sup>o7</sup>--you create a scale based on the *other* octatonic scale pattern, the WH. Therefore, every octatonic collection contains four HW octatonic scales and four WH octatonic scales, which means that there are only three unique octatonic collections.
+
+The octatonic scale has long been a favorite of modern composers, because it not only has the tonal fluidity and symmetry of a hexatonic scales, but it also contains many of standard tonal structures such as triads and seventh chords. In a HW octatonic scale, you can create a major triad, minor triad, diminished triad, minor seventh chord, dominant seventh chord, and fully diminished seventh triad off of four of different pitches within the collection. This gives composers an amazing flexibility to use tonally familiar structures in a non-standard manner.
