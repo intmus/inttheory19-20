@@ -14,6 +14,8 @@ Modes as they relate to major scales: What key does this mode belong to? G phryg
 
 Solfege! See how modes are altered from their relative major. G phrygian has b2, b3, b6, and b7 so you can start with G major and alter pitches from there. Major: Do, re, me, fa, sol, la, ti, do  Phrygian: Do, ra, me, fa, sol, le, te, Do.
 
+Where do the names 3+1 hexatonic and 1+3 hexatonic come from? Alternating minor seconds and minor thirds! Or.. 1 half step then 3 half steps. 
+
 ## Modes 
 
 Modes use every tone in a 7 degree scale.
