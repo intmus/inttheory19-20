@@ -253,4 +253,11 @@ You can see that this collection can be separated into a C<sup>o7</sup> and a C#
 
 Also like the 1+3/3+1 hexatonic scales, if we start the scale from the other pitches--for the C HW listed above, these would be the pitches of the other diminished seventh chord, C#, E, G, and Bb of the C#<sup>o7</sup>--you create a scale based on the *other* octatonic scale pattern, the WH. Therefore, every octatonic collection contains four HW octatonic scales and four WH octatonic scales, which means that there are only three unique octatonic collections.
 
+The three octatonic collections | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+ --- | --- | --- | --- | --- | --- | --- | --- | ---
+ 1 | C | Db | Eb | E | F# | G | A | Bb
+ 2 | C# | D | E | F | G | Ab | Bb | B
+ 3 | D | Eb | F | Gb | Ab | A | B | C
+ 4 | Eb | E | F# | G | A | Bb | C | Db
+
 The octatonic scale has long been a favorite of modern composers, because it not only has the tonal fluidity and symmetry of a hexatonic scales, but it also contains many of standard tonal structures such as triads and seventh chords. In a HW octatonic scale, you can create a major triad, minor triad, diminished triad, minor seventh chord, dominant seventh chord, and fully diminished seventh triad off of four of different pitches within the collection. This gives composers an amazing flexibility to use tonally familiar structures in a non-standard manner.
