@@ -28,6 +28,12 @@ Pitch class can be abbreviated as pc and is collection of all enharmonic equival
 
 Pitch class **set** can be abbreviated as pcs and is a collection of pitch classes. For example [e, 0, 1]
 
+What is the difference between chords and scales? Nothing. It is us as musicians that separate them as concepts to practice, but in this post-tonal context, there is no difference. 
+
+The cardinality of a pitch class set is the number of pitch classes in a pitch class set! Easy right?
+
+
+
 ## Pitch-class Integer Notation
 Pitch class integer notation was created to analyze non-diatonic music. 
 As music evolved in the beginning of the 20th century, theory had to evolve with it. 
