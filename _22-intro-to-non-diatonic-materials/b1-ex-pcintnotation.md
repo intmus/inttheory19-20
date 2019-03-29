@@ -18,13 +18,13 @@ V:2 clef=bass
 G,^F,|| z2||G, _A,|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-In a tonal context, it is clear that there is an important difference between enharmonically equivalent pitches such as D-flat and C-sharp. In the example above, the interval the A4 between G and C-sharp wants to resolve outward implying a V<sup>4/2</sup> to I<sup>6</sup> in the key of D major. In the second progression, simply changing the C-sharp to a D-flat creates a d5 that should resolve inward to imply a V<sup>6/5</sup> to I in the key of A-flat major. Clearly, the pitch notation system we use is designed to show harmonic movement in a tonal setting.
+In a tonal context, it is clear that there is an important difference between enharmonically equivalent pitches such as D-flat and C-sharp. In the example above, the interval the A4 between G and C-sharp implies the outward resolution of a V<sup>4/2</sup> to I<sup>6</sup> in the key of D major. In the second progression, changing the C-sharp to a D-flat creates a d5 that implies an inward resolution of a V<sup>6/5</sup> to I in the key of A-flat major. Clearly, the pitch notation system we use is designed to show harmonic movement in a tonal setting.
 
 ## Leaving tonality
 
-As we move toward music that no longer relies on tonal harmony, the tools with which we notate analysis reflect the lack of a tonal center. If a piece does not rely on the tonic and dominant relationship to provide tension and release, the importance of Roman numerals, scale degrees, and even pitch names becomes less useful. Instead, we need methods for demonstrating the relationships between twelve pitches rather than seven, and so we use a different system. 
+As we move toward music that no longer relies on tonal harmony, the tools with which we notate analysis reflect the lack of a traditional tonal center. If a piece does not rely on the tonic and dominant relationship to provide tension and release, the importance of Roman numerals, scale degrees, and even pitch names becomes less useful. They come from a system designed to prioritize seven pitches at a given time, so instead, we need a method for demonstrating the relationships between all twelve chromatic pitches. 
 
-Look at the following ornamented melody. The numbers below the staff denote the *pitch class* for each pitch. (Note that `t` = 10, `e` = 11) Each number is considered a *pitch class* (abbrev.: pc), and the system itself is called *pitch-class (pc) integer notation*. After studying this example, what can you determine about the pitch classes? How do you determine which pitches are in a pitch-class? Is this numbering built around a key center or just a particular pitch? While it should be obviously that this system would not be good for analyzing a piece around a tonal centers, but what kinds of information *does* this system relay quickly?
+Look at the following ornamented melody. The numbers below the staff denote the *pitch class* for each pitch. (Note that `t` = 10, `e` = 11) Each number is considered a *pitch class* (abbrev.: pc), and the system itself is called *pitch-class (pc) integer notation*. After studying this example, what can you determine about the pitch classes? How do you determine which pitches are in a pitch-class? Is this numbering built around a key center or just a particular pitch? While it should be obviously that this system would not be helpful for analyzing a piece constructed around traditional tonic and dominant centers, what kinds of information *does* this system demonstrate?
 
 {% capture ex2 %}X:2
 T:Happy Birthday in G major (a la R. Strauss)
@@ -37,6 +37,8 @@ w:2 3 4 3 2 7 5 6 2 1 2 4 2 9 6 7 2 2
 d/2_d/4c/4 B/2_B/4A/4 G| F/2=F/2 HE c/2>c/2| (3B/2^A/2B/2 G/2^G/2 =A/2_A/2| G2|]
 w:2 1 0 e t 9 7 6 5 4 0 0 e t e 7 8 9 8 7{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
+
+### Conclusion
 
 As you can see, pitch-class integer notation assigns a unique integer to all enharmonically equivalent pitches. This particular example is labeled in *fixed zero*, meaning that C=0, and every pitch is counted as half-steps from that point. This system is wonderful for showing intervals quickly, because each number is actually counting the number of half-steps away from zero. For fixed zero, D is two half steps away from zero, A is nine half steps away, and so on. Therefore, when you look at the numbers, you know that if the difference between two numbers is small, it is a small interval. Large distances equate to large intervals.
 
