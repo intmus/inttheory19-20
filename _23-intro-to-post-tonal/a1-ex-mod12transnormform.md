@@ -4,11 +4,11 @@ title: 23a Examples - Basic PC Set Manipulation
 abc: true
 ---
 
-In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, because standard analytical methods do not work when the music leaves traditional tonality. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and the other pitches. 
+In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, creating a broad analytical framework to compensate for tonal analytical methods inadequacy when music leaves tonality. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and others. 
 
 ## Scratching the surface
 
-*Set theory* is a deep field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further -- and if you intend to go beyond the undergraduate level of music study, you should -- I highly recommend that you read the some of the many fine textbooks written on the subject. My favorites include:
+*Set theory* is a broad field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further -- and if you intend to go beyond the undergraduate level of music study, you should -- I highly recommend that you read the some of the many fine textbooks written on the subject. My favorites include:
 - *The Structure of Atonal Music* - Allen Forte
 - *Introduction to Post-tonal Theory* - Joseph Straus
 - *Basic Atonal Theory* - John Rahn
@@ -45,6 +45,10 @@ Pitch-class integer | First equivalency | Second equivalency
  9 | -- | --
  t (10) | -- | --
  e (11) | 23 | --
+
+### Conclusion
+
+Of course, the obvious answer is that
 
 ## Transposition using integer notation
 
@@ -127,14 +131,15 @@ Just as you must reduce any number greater that 11 to an integer between 0 and 1
 
 T<sub>-5</sub>(4,5,7,t) = (e,0,2,5)
 
-## Normal form
+## Normal form (normal order)
 
 In order to make comparing pc sets more useful, we need to use standardized orders to create consistent comparisons. You can imagine how difficult it would be to make sense of a series of pc sets if each set was in a random order. For this, we use *normal form*.
 
 Normal form is similar to the way in which we analyze standard tonal harmony. For example, how would you condense the following open voicing of a seventh chord in its simplest form while retaining its inversion?
 
 {% capture ex1 %}X: 1
-T:C major seven
+T:C major seventh chord
+T:in an open voicing
 M:4/4
 L:1
 K:C
@@ -144,10 +149,11 @@ V:2 clef=bass
 [E,C]|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-Most people will reduce this to a closed-position chord such as the following, because it shows every pitch and the inversion, but it does it in the smallest space possible. This makes it easy to see the intervals and construction of the chord:
+Most people will reduce this to a closed-position chord such as the following, because it shows every pitch and the inversion in the smallest space possible. This makes it easy to see the intervals and construction of the chord:
 
 {% capture ex2 %}X: 2
-T:C major seven
+T:C major seventh chord
+T:in a closed voicing
 M:4/4
 L:1
 K:C
@@ -155,7 +161,7 @@ V:1
 [EBGc]|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-*Normal order* follows the same principles for pc sets. For example, take the following pc set and arrange it so it fill the smallest space possible. Or to put it more precisely, you must find the ascending arrangement that has the smallest interval between the outside pitch classes. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through, consider the speed and efficacy of each method that you try.
+*Normal form* (or *normal order*) follows the same principles for pc sets. **Normal form is an ascending arrangement of a pc set in which the outside interval is smallest.** For example, take the following pc set and arrange it so it fill the smallest space possible. Or to put it more precisely, you must find the ascending arrangement that has the smallest interval between the outside pitch classes. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through, consider the speed and efficacy of each method that you try.
 
 (1,7,t)
 
@@ -186,8 +192,37 @@ V:1
 [CFG]| [FGc]| [Gcf]|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-From this, it is obvious that you can eliminate the last arrangement, but how do you choose between the first two which both have an outer interval of 7 (P5)? In this case, we go to the first tie-breaker of looking at the distance between the lowest pitch and the second highest pitch. In the above example, the second interval for the first arrangement is 5 (P4), but the second interval for the second arrangement is only 2(M2). In this case the normal form this trichord is [0,2,7].
+### Conclusion
 
-Try using this on a more difficult example. The following pentachord has multiple ties and will require you to work through multiple levels. Remember that each tie is broken by measuring the first pitch against the next closest pitch. While working through this, how many permutations in ascending order are there for a this set? How does that number relate to the cardinality for any set?
+After looking at this on the staff, it is obvious that you can eliminate the last arrangement, but how do you choose between the first two which both have an outer interval of 7 (P5)? In pcs theory, the first tie-breaker is looking at the distance between the lowest pitch and the second highest pitch. In the above example, the second interval for the first arrangement is 5 (P4), but the second interval for the second arrangement is only 2 (M2). In this case the normal form this trichord is [0,2,7].
 
-(2,3,5,8,e)
+## Developing a method for normal form
+
+Let's try to create a step-by-step process for finding normal form by using a more difficult example. The following pentachord has multiple ties and will require you to work through multiple levels. Try to develop this method without using a staff or clock faces. While working through this, how many permutations in ascending order are there for a this set? How does that number relate to the cardinality for any set? Remember that each tie is broken by measuring the first pitch against the next closest pitch.
+
+(3,e,5,2,8)
+
+### Conclusion
+
+With a large set such as this pentachord, it is difficult to quickly parse the normal form.
+
+1. **Put the pcs in an ascending form.** It does not matter on which pitch you start, only that the pitches are ascending. You can imagine this using a clock face--each pitch class must go in the order it would if you were moving clockwise around the clock without skipping any pitch classes. For this pentachord, let's start with:
+    1. (2,3,5,8,e)
+2. **List every possible ascending arrangements of the pc set.** There will always be the same number of arrangements as their are members of the pc set, because each integer will have *one* ascending arrangement with it as a starting pitch class. For a pentachord, there will always be five possibilities, and for this particular pc set, they are:
+    1. (2,3,5,8,e)
+    2. (3,5,8,e,2)
+    3. (5,8,e,2,3)
+    4. (8,e,2,3,5)
+    5. (e,2,3,5,8)
+3. **Subtract the first number *from* the last number for each ascending arrangement.** This will give you the interval between the outer pitch classes expressed as a number of half-steps. If the last number is smaller than the first number, you must use mod12 to convert it. For most students, it is easiest to add 12 to the smaller number before subtracting, but after you have practiced, you can apply this to the result if you'd like. For example above: 
+    e-2 = 11-2 = *9*
+    2. (3,5,8,e,2) | 2-3 (requires mod 12) = 14-3 = *11*
+    3. (5,8,e,2,3) | 3-5 (requires mod 12) = 15-5 = *10*
+    4. (8,e,2,3,5) | 5-8 (requires mod 12) = 17-8 = *9*
+    5. (e,2,3,5,8) | 8-e (requires mod 12) = 20-11 = *9*
+4. **The normal form is the ascending arrangement with the smallest outer interval. If you have multiple arrangements with the same outer interval, you must proceed to the first tie-breaker.** In our above example, we have three options with an outer interval of 9 (M6). (At this point, we have eliminated the two arrangements that had the larger outer intervals of 10 and 11.) We must compare each of the tied arrangements against each other to determine which example has the *next* smallest outer interval. You can do this easily by subtracting the second-to-last number from the first number, so for our remaining three with the outer interval of 9, we get:
+    1. (2,3,5,8,e) | 8-2 = *6*
+    4. (8,e,2,3,5) | 3-8 (requires mod12) = 15-8 = *7*
+    5. (e,2,3,5,8) | 5-e (requires mod12) = 17-8 = *9*
+5. **After tie-breakers, you choose the arrangement with the smallest outside intervals.** Sometimes, this can move through multiple tie-breakers, so just continue moving inward through the arrangements. For our example above, our normal form is:
+    1. [2,3,5,8,e]

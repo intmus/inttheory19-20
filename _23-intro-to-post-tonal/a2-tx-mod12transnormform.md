@@ -5,6 +5,7 @@ abc: true
 ---
 
 # Class discussion
+
 ## Basic PC Set Manipulation
 
 Vocabulary:
@@ -12,9 +13,9 @@ Vocabulary:
 2. Twelve-tone music: music that doesn't value any pitch over another; all pitches are of equal importance
 3. Serial music: music created from a mathematical process
 4. Pitch class: a note and all of its enharmonic equivilants
-5. Interger notation: numbers assigned to each pitch class
-  - fixed zero interger notation: a system of interget notation where C is always 0, and every pitch class interger is assigned according to that.
-  - movable zero interger notation: a system of interger notation where 0 is set to whatever pitch class a musical example somewhat revolves around
+5. Integer notation: numbers assigned to each pitch class
+  - fixed zero integer notation: a system of interget notation where C is always 0, and every pitch class integer is assigned according to that.
+  - movable zero integer notation: a system of integer notation where 0 is set to whatever pitch class a musical example somewhat revolves around
 6. PC Collection: a scale for a non-diatonic group of pitches
 7. PC Set: a group of pitches in order
   - a PC set can be a PC collection, but a PC collection CANNOT be a PC set.
