@@ -223,6 +223,11 @@ With a large set such as this pentachord, it is difficult to quickly parse the n
 4. **The normal form is the ascending arrangement with the smallest outer interval. If you have multiple arrangements with the same outer interval, you must proceed to the first tie-breaker.** In our above example, we have three options with an outer interval of 9 (M6). (At this point, we have eliminated the two arrangements that had the larger outer intervals of 10 and 11.) We must compare each of the tied arrangements against each other to determine which example has the *next* smallest outer interval. You can do this easily by subtracting the second-to-last number from the first number, so for our remaining three with the outer interval of 9, we get:
     1. (2,3,5,8,e) | 8-2 = *6*
     4. (8,e,2,3,5) | 3-8 (requires mod12) = 15-8 = *7*
-    5. (e,2,3,5,8) | 5-e (requires mod12) = 17-8 = *9*
-5. **After tie-breakers, you choose the arrangement with the smallest outside intervals.** Sometimes, this can move through multiple tie-breakers, so just continue moving inward through the arrangements. For our example above, our normal form is:
+    5. (e,2,3,5,8) | 5-e (requires mod12) = 17-11 = *6*
+5. **If there is still a tie, repeat the process for the remaining ascending orders, but using the third-to-last pitch class for your subtraction.** Sometimes, this can move through multiple tie-breakers, so just continue moving inward through the arrangements. The previous example still had a tie between the first and last arrangement, so we have to go one last round:
+    1. (2,3,5,8,e) | 5-2 = *3*
+    5. (e,2,3,5,8) | 3-e (requires mod12) = 15-11 = *4*
+6. **Once you have only one smallest interval, you have found the normal form for that pc set.** Remember that you must change your notation to include square brackets once you have determined normal form. For our example above, our normal form is:
     1. [2,3,5,8,e]
+
+Note that there cannot be a definitive normal form for symmetrical sets such as diminished seventh chords, augmented triads, and whole-tone scales. For these, it is simplest to list the lowest integer first.
