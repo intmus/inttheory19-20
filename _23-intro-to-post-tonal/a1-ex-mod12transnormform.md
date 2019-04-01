@@ -215,7 +215,7 @@ With a large set such as this pentachord, it is difficult to quickly parse the n
     4. (8,e,2,3,5)
     5. (e,2,3,5,8)
 3. **Subtract the first number *from* the last number for each ascending arrangement.** This will give you the interval between the outer pitch classes expressed as a number of half-steps. If the last number is smaller than the first number, you must use mod12 to convert it. For most students, it is easiest to add 12 to the smaller number before subtracting, but after you have practiced, you can apply this to the result if you'd like. For example above: 
-    1. e-2 = 11-2 = *9*
+    1. (2,3,5,8,e) | e-2 = 11-2 = *9*
     2. (3,5,8,e,2) | 2-3 (requires mod 12) = 14-3 = *11*
     3. (5,8,e,2,3) | 3-5 (requires mod 12) = 15-5 = *10*
     4. (8,e,2,3,5) | 5-8 (requires mod 12) = 17-8 = *9*
