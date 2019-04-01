@@ -5,15 +5,44 @@ abc: true
 ---
 
 # Class discussion
-## Pitch-class Interger Notation
-Pitch class interger notation was created to analyze non-diatonic music. 
+
+What do all these numbers mean?
+
+The numbers indicate how many half steps you are away from a central point, in this example, C
+
+Fixed Zero: C=0 (similar to fixed do)
+
+What is the difference between Db and C#? Nothing! they are both a 1
+
+What are e and t? and why do we use them?
+
+They are eleven and ten; it is so that there is no numbers with two integers to clutter and confuse during analysis. for example B, C, Db might look like 1101` which can get confusing. Let's clear it up by writing e 0 1 with enough space between to read it
+
+To get single syllable pitches using inteer notation, say oh instead of zero, also, e and t can be said instead of eleven and ten
+
+Movable zero: When zero can be whatever note you want. For example, if we set zero as E, then F# would be 2. Every other pitch is determined by the number of half-steps away from zero
+
+As you study and become more familiar with integers, you can use the integer relationships to denote interval size and quality. 
+
+Pitch class can be abbreviated as pc and is collection of all enharmonic equivalents. For example, C#, Db are part of the same pitch class.
+
+Pitch class **set** can be abbreviated as pcs and is a collection of pitch classes. For example [e, 0, 1]
+
+What is the difference between chords and scales? Nothing. It is us as musicians that separate them as concepts to practice, but in this post-tonal context, there is no difference. 
+
+The cardinality of a pitch class set is the number of pitch classes in a pitch class set! Easy right?
+
+
+
+## Pitch-class Integer Notation
+Pitch class integer notation was created to analyze non-diatonic music. 
 As music evolved in the beginning of the 20th century, theory had to evolve with it. 
 
 Pitch classes are our way of naming a note in non-diatonic harmony.
 - this includes the notes enharmonic equivilants. 
 - Ex: Db/C# are in the same pitch class.
 
-### Fixed interger notation
+### Fixed integer notation
 Each note has an assigned number that indicates its pitch class:
 - C is 0
 - C#/Db is 1
