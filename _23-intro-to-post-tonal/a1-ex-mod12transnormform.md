@@ -206,16 +206,16 @@ Let's try to create a step-by-step process for finding normal form by using a mo
 
 With a large set such as this pentachord, it is difficult to quickly parse the normal form.
 
-1. **Put the pcs in an ascending form.** It does not matter on which pitch you start, only that the pitches are ascending. You can imagine this using a clock face--each pitch class must go in the order it would if you were moving clockwise around the clock without skipping any pitch classes. For this pentachord, let's start with:
+1. **Put the pcs in an ascending form.** It does not matter on which pitch you start, only that the pitches are ascending. You can imagine this using a clock face--each pitch class must go in the order it would if you move clockwise around the clock without skipping any pitch classes. For this pentachord, let's start with:
     1. (2,3,5,8,e)
-2. **List every possible ascending arrangements of the pc set.** There will always be the same number of arrangements as their are members of the pc set, because each integer will have *one* ascending arrangement with it as a starting pitch class. For a pentachord, there will always be five possibilities, and for this particular pc set, they are:
+2. **List every possible ascending arrangements of the pc set.** There will always be the same number of arrangements as there are members of the pc set, because each integer will have *one* ascending arrangement with it as a starting pitch class. For a pentachord, there will always be five possibilities, and for this particular pc set, they are:
     1. (2,3,5,8,e)
     2. (3,5,8,e,2)
     3. (5,8,e,2,3)
     4. (8,e,2,3,5)
     5. (e,2,3,5,8)
 3. **Subtract the first number *from* the last number for each ascending arrangement.** This will give you the interval between the outer pitch classes expressed as a number of half-steps. If the last number is smaller than the first number, you must use mod12 to convert it. For most students, it is easiest to add 12 to the smaller number before subtracting, but after you have practiced, you can apply this to the result if you'd like. For example above: 
-    e-2 = 11-2 = *9*
+    1. e-2 = 11-2 = *9*
     2. (3,5,8,e,2) | 2-3 (requires mod 12) = 14-3 = *11*
     3. (5,8,e,2,3) | 3-5 (requires mod 12) = 15-5 = *10*
     4. (8,e,2,3,5) | 5-8 (requires mod 12) = 17-8 = *9*
