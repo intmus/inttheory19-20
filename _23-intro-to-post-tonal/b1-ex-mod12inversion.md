@@ -16,7 +16,7 @@ In set theory, we can perform this same operation using intervals (i.e. numbers 
 
 Depending on the central pitch used to invert, pitch-class integer notation can make inversion relatively easy. It does not require you to understand a specialized pitch and interval system like traditional notation. Instead, it only requires basic mathematical functions. 
 
-Before tackling the mathematical approach to inverting pitch-class integers, let's visually explore inversion using the pitch class continuum below. For simplicity's sake, let's start by centering our inversions around C/0. To visually find an inversion, pick a letter/integer on the chart below. Count the number of steps it takes to reach C/0, and then continue past C/0 for the same number of steps. (You can think of it as balancing the scale.) Create a chart showing all inversion pairs in **both** pitch letter notation and pitch-class integer notation. What is the inversion for C/0? Why?
+Before tackling the mathematical approach to inverting pitch-class integers, let's visually explore inversion using the pitch class continuum below. For simplicity's sake, let's start by centering our inversions around C/0. To visually find an inversion, pick a letter/integer on the chart below. Count the number of steps it takes to reach C/0, and then continue past C/0 for the same number of steps. (You can think of it as balancing the scale.) Of course, you will find that each positive integer is paired with its negative integer; 5 becomes -5, 8 becomes -8, etc. If you were to create a chart showing all inversion pairs as letter names, what patterns do you notice about the pairings? For example, how does the 7/-7 pair compare to the 5/-5 pair? Also, what is the inversion for C/0? Why?
 
 -e | -t | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | t | e
  --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -26,7 +26,7 @@ Your first chart should have 12 pc sets, although two of them are technically on
 
 ## Applying Mod12
 
-As you hopefully can see, there are only six *unique* inversion pairs when you eliminate duplicates when looking at the pitch letters. However, when we instead look at the pitch-class integers, you still have 12 unique pc sets because negative numbers differentiate the sets. You have just demonstrated the importance of using Mod12 to simplify all pc sets to only include integers between 0 and 11. (This is also a visual demonstration of how *octave equivalency* works.) If you look at the chart below, you can see what happens when we apply Mod12 to a series of integers; it creates a continuously repeating set of integers between 0 and 11, which means that you inversion is simple when using fixed zero.
+As you hopefully can see, there are only six *unique* inversion pairs once you eliminate duplicates by examining pitch letters. However, when we instead look at the pitch-class integers, you still have 12 unique pc sets because negative numbers differentiate the sets. You have just demonstrated the importance of using Mod12 to simplify all pc sets to only include integers between 0 and 11. (This is also a visual demonstration of how *octave equivalency* works.) If you look at the chart below, you can see what happens when we apply Mod12 to a series of integers; it creates a continuously repeating set of integers between 0 and 11, which means that inversion is as simple as memorizing six pairs...as long as you are using fixed zero/six as your inversion axis. If you decide to invert around a different pitch class, you will  end up with six different pairs.
 
 -e | -t | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | t | e
  --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -75,3 +75,17 @@ T<sub>5</sub>I(2,6,7) = (3,e,t)
 T<sub>9</sub>I(2,6,7) = (7,3,2)
 
 T<sub>0</sub>I(2,6,7) = (t,6,5)
+
+### Conclusion
+
+To quickly invert and transpose, just subtract each member of your pitch class from `n` in the formula `T<sub>n</sub>I`. So in the first example above, n = t.
+
+T<sub>t</sub>I(2,6,7) = (8,4,3)
+
+If you subtract each pitch class from 10, you will get the resulting set.
+
+10-2 = 8
+10-6 = 4
+10-7 = 3
+
+You should get in the habit of putting these into normal form after inversion. If you transpose a pc set in normal form, it will still be in normal form. If you invert a pc set in normal form, you will have to find normal form again. Usually, the normal form of an inverted set the reverse order, but there are certain situations in which this will not be the case. You should always double-check your normal form to be sure.
