@@ -10,17 +10,15 @@ Prime form process
 
 1. Put the pitch class set into normal form
 
-2. (Optional) Transpose the normal form of the pitch class set to begin on 0
+2. Transpose the normal form of the pitch class set to begin on 0
 
 3. Invert your normal form pitch class set
 
 4. Find normal form of this inverted pitch class set
 
-5. If you decided not to transpose your normal forms to 0 earlier, do so now to make comparison easier
+5. Compare the two normal forms as you would ascending forms to find which normal form has the smallest outside interval. The tie breaker process is the same
 
-6. Compare the two normal forms as you would ascending forms to find which normal form has the smallest outside interval. The tie breaker process is the same
-
-7. The smaller of the two outside intervals is prime form and is written in parenthesis and without commas
+6. The smaller of the two outside intervals is prime form and is written in parenthesis and without commas
 
 Prime form is useful for making pitch class sets compact and easy to compare with other pitch class sets. 
 
