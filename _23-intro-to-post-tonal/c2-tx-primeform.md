@@ -12,7 +12,7 @@ Prime form process
 
 2. Transpose the normal form of the pitch class set to begin on 0
 
-3. Invert your normal form pitch class set
+3. Invert your transposed normal form pitch class set
 
 4. Find normal form of this inverted pitch class set
 
