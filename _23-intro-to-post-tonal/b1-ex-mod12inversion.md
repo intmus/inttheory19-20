@@ -82,10 +82,10 @@ To quickly invert and transpose, just subtract each member of your pitch class f
 
 T<sub>t</sub>I(2,6,7) = (8,4,3)
 
-If you subtract each pitch class from 10, you will get the resulting set.
+If you subtract each pitch class from the inversion interval, which is t (or 10) in this case, you will get the resulting set.
 
-10-2 = 8
-10-6 = 4
-10-7 = 3
+- 10-2 = 8
+- 10-6 = 4
+- 10-7 = 3
 
 You should get in the habit of putting these into normal form after inversion. If you transpose a pc set in normal form, it will still be in normal form. If you invert a pc set in normal form, you will have to find normal form again. Usually, the normal form of an inverted set the reverse order, but there are certain situations in which this will not be the case. You should always double-check your normal form to be sure.
