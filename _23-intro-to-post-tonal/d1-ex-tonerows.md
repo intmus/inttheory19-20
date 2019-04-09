@@ -117,20 +117,20 @@ This grid is a called a *matrix*. We could then fill in each *row* of our matrix
 
 Because the top row is the original, prime version of this pc set and the column is its inversion, it makes sense to place the next pc sets, T<sub>1</sub> and T<sub>1</sub>I, in the row and column respectively that begin with the pitch class "1". It would look like this:
 
--- | T<sub>0</sub>I |  |  |  |  |  |  |  |  |  |  
+-- | T<sub>0</sub>I |  |  |  |  |  |  |  |  |  | T<sub>1</sub> |  
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 T<sub>0</sub> | 0 | e | 6 | 7 | t | 9 | 4 | 3 | 5 | 8 | 1 | 2
 T<sub>1</sub> | 1 | 0 | 7 | 8 | e | t | 5 | 4 | 6 | 9 | 2 | 3 
--- | 6 |  |  |  |  |  |  |  |  | 7 |  |  
--- | 5 |  |  |  |  |  |  |  |  | 6 |  |  
--- | 2 |  |  |  |  |  |  |  |  | 3 |  |  
--- | 3 |  |  |  |  |  |  |  |  | 4 |  |  
--- | 8 |  |  |  |  |  |  |  |  | 9 |  |  
--- | 9 |  |  |  |  |  |  |  |  | t |  |  
--- | 7 |  |  |  |  |  |  |  |  | 8 |  |  
--- | 4 |  |  |  |  |  |  |  |  | 5 |  |  
--- | e |  |  |  |  |  |  |  |  | 0 |  |  
--- | t |  |  |  |  |  |  |  |  | e |  |  
+-- | 6 |  |  |  |  |  |  |  |  |  | 7 |  
+-- | 5 |  |  |  |  |  |  |  |  |  | 6 |  
+-- | 2 |  |  |  |  |  |  |  |  |  | 3 |  
+-- | 3 |  |  |  |  |  |  |  |  |  | 4 |  
+-- | 8 |  |  |  |  |  |  |  |  |  | 9 |  
+-- | 9 |  |  |  |  |  |  |  |  |  | t |  
+-- | 7 |  |  |  |  |  |  |  |  |  | 8 |  
+-- | 4 |  |  |  |  |  |  |  |  |  | 5 |  
+-- | e |  |  |  |  |  |  |  |  |  | 0 |  
+-- | t |  |  |  |  |  |  |  |  |  | e |  
 
 Because we have done this correctly, you'll notice the pitch classes T<sub>1</sub> and T<sub>1</sub>I perfectly with the pitch classes in the old columns.
 
