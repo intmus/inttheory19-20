@@ -7,7 +7,7 @@ abc: true
 # Class discussion
 
 
-Prime form is useful for making pitch class sets compact and easy to compare with other pitch class sets. 
+Prime form is useful for making pitch class sets easy to compare with other pitch class sets. 
 
 Prime form is also another way we can say that pitch class sets are related. Now we can say they are related by transposition, inversion, and/or same prime form. 
 
