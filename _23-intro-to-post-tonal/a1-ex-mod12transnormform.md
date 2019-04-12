@@ -8,7 +8,7 @@ In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte fi
 
 ## Scratching the surface
 
-*Set theory* is a broad field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further -- and if you intend to go beyond the undergraduate level of music study, you should -- I highly recommend that you read the some of the many fine textbooks written on the subject. My favorites include:
+*Set theory* is a broad field of theoretical study, and we will only introduce a few basic concepts in this unit. If you would like to explore this topic further--and if you intend to go beyond the undergraduate level of music study, you should--I highly recommend that you read some of the many fine books written on the subject. My favorites include:
 - *The Structure of Atonal Music* - Allen Forte
 - *Introduction to Post-tonal Theory* - Joseph Straus
 - *Basic Atonal Theory* - John Rahn
@@ -29,7 +29,7 @@ When we introduced pc sets in Unit 22, we did not formalize their notation, howe
 
 Before we begin using integer notation to study pitch classes and pitch-class sets, we must establish the mathematical method necessary for manipulating pitches. Because music uses twelve equally-spaced pitches but our standard counting system is based around tens, we must create a specific equivalency around the number 12. For this, we use modulo 12 (mod12) arithmetic. You already use modulo 12 arithmetic every time you count time in hours, assuming that you use a 12-hour system. For example, if it is 11:00 and you have a meeting in three hours, what time is your meeting? From experience, you understand that when you reach 12, you must reset your counting to find the meeting's start time at 2:00 -- not 14:00. (Again, this assumes that you are not using a 12-hour clock cycle, not 24-hour.)
 
-This is exactly how pitch-class integer notation works, although the system begins numbering on 0 instead of 12. In this system, each time you pass 11, you begin again at zero, therefore making every multiple of 12 equal to zero. Complete the following chart to show the first two equivalencies for every number in this system. Can you create a method to quickly find any level of equivalency?
+This is exactly how pitch-class integer notation works, although the system begins numbering on 0 instead of 12. In this system, each time you pass 11, you begin again at zero, therefore making every multiple of 12 equal to zero. Complete the following chart to show the first two equivalencies for every number in this system. Can you create a method to quickly find any level of equivalency? What would happen if you crossed below zero?
 
 Pitch-class integer | First equivalency | Second equivalency
  --- | --- | ---
@@ -48,7 +48,28 @@ Pitch-class integer | First equivalency | Second equivalency
 
 ### Conclusion
 
-Of course, the obvious answer is that
+It is simple to complete this chart using sequential counting within the column, but this is useful in that it demonstrates the continuum that is mod12 arithmetic. All whole integers can be represented by an integer between 0 and 11, giving us exactly one integer for every possible pitch class in the chromatic system.
+
+Pitch-class integer | First equivalency | Second equivalency
+ --- | --- | ---
+ 0 | 12 | 24
+ 1 | 13 | 25
+ 2 | 14 | 26
+ 3 | 15 | 27
+ 4 | 16 | 28
+ 5 | 17 | 29
+ 6 | 18 | 30
+ 7 | 19 | 31
+ 8 | 20 | 32
+ 9 | 21 | 33
+ t (10) | 22 | 34
+ e (11) | 23 | 35
+
+This also works in moving backward. Using basic arithmetic, it is easy to understand that 12 - 5 = 7. But because 12 is equivalent to 0 in mod12, this also means that 0 - 5 = 7. This is correct, but it skips an step in demonstrating how. 
+- 0 - 5 = -5
+- You must then convert -5 into an integer between 0 and 11 using multiples of 12. Therefore, -5 + 12 = 7.
+
+This shows that any whole integer, whether positive or negative, can be converted to an integer between 0 and 11.
 
 ## Transposition using integer notation
 
