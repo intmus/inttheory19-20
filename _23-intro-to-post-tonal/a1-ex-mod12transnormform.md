@@ -69,7 +69,22 @@ This also works in moving backward. Using basic arithmetic, it is easy to unders
 - 0 - 5 = -5
 - You must then convert -5 into an integer between 0 and 11 using multiples of 12. Therefore, -5 + 12 = 7.
 
-This shows that any whole integer, whether positive or negative, can be converted to an integer between 0 and 11.
+This shows that any whole integer, whether positive or negative, can be converted to an integer between 0 and 11. You could create a similar chart to the one above for negative integers.
+
+Pitch-class integer | First negative equivalency | Second negative equivalency
+ --- | --- | ---
+ 0 | -12 | -24
+ 1 | -11 | -23
+ 2 | -10 | -22
+ 3 | -9 | -21
+ 4 | -8 | -20
+ 5 | -7 | -19
+ 6 | -6 | -18
+ 7 | -5 | -17
+ 8 | -4 | -16
+ 9 | -3 | -15
+ t (10) | -2 | -14
+ e (11) | -1 | -13
 
 ## Transposition using integer notation
 
