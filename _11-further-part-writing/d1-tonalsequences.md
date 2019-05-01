@@ -175,9 +175,9 @@ V:2 clef=bass
 w:C:I iii vi ii V I{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
-#### Parallel 6th chords
+#### Parallel 6 chords
 
-Sequences can also be used to explain how non-diatonic progressions function in a diatonic context. One common sequence occurs when first-inversion chords are used in succession to create a stepwise bass line. A *parallel 6 chord* is any sequence with repeated first-inversion triads. Notice that this does not create objectional parallel voices as long as the root of the chord stays above the chordal fifth. If these two voices are inverted, this will result in parallel perfect fifths.
+Sequences can also be used to explain how non-diatonic progressions function in a diatonic context. One common sequence occurs when first-inversion chords are used in succession to create a stepwise bass line. A *parallel 6 sequence* is any sequence with repeated first-inversion triads, most commonly moving downward by step. Notice that this does not create objectional parallel voices as long as the root of the chord stays above the chordal fifth. If these two voices are inverted, the result will contain parallel perfect fifths. To label a sequence of parallel six chords, label each chord with its Roman numeral and inversion figure and then place a bracket under the entire sequence with a label of "parallel six sequence."
 
 {% capture ex8 %}X:8
 T:Parallel 6 chords
