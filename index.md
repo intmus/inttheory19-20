@@ -3,7 +3,7 @@ layout: page
 title: "Integrated Musicianship: Theory"
 ---
 
-*Integrated Musicianship: Theory* is an [open-source]({{ site.github-repo }}), interactive, online textbook for college-level music theory courses written by Sean Butterfield. A companion text [*Integrated Musicianship: Aural Skills*](https://intmus.github.io/intas18-19/) provides a parallel ear training course.
+*Integrated Musicianship: Theory* is an [open-source]({{ site.github-repo }}), interactive, online textbook for college-level music theory courses written by Sean Butterfield. A companion text [*Integrated Musicianship: Aural Skills*](https://intmus.github.io/intas19-20/) provides a parallel ear training course.
 It was developed with support of the [Think Open Fellowship](https://open.lib.uidaho.edu/) and Evan Williamson from the [University of Idaho Library](https://www.lib.uidaho.edu/). 
 
 <ul class="index-buttons">
@@ -11,7 +11,7 @@ It was developed with support of the [Think Open Fellowship](https://open.lib.ui
 <li><a href="{{ "/toc.html" | absolute_url }}">Table of contents</a></li>
 <li><a href="{{ "/forum/index.html" | absolute_url }}">Assignments &amp; Forum</a></li>
 <li><a href="{{ "/abc-playground.html" | absolute_url }}">ABC Playground</a></li>
-<li><a href="https://intmus.github.io/intas18-19/">IntMus: Aural Skills</a></li>
+<li><a href="https://intmus.github.io/intas19-20/">IntMus: Aural Skills</a></li>
 <li><a href="https://intmus.github.io/">IntMus Home</a></li>
 </ul>
 
