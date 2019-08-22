@@ -6,12 +6,6 @@
 
   <nav class="sidebar-nav">
     <div class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"><a href="https://intmus.github.io/">IntMus:</a> <a class="active-page"href="{{ '/' | absolute_url }}">Theory</a> | <a href="https://intmus.github.io/intas19-20/">Aural Skills</a></div>
-    <!-- Discord forum -->
-    <div class="sidebar-nav-item chapter" onclick="toggleChapter(this);">Discord Forum &amp; Assignments
-      <div class="chapter-contents">
-        {% include discord.html %}
-      </div>
-    </div>
     <a class="sidebar-nav-item{% if page.url == '/toc.html' %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
 
     {% for chapter in site.collections %}
@@ -25,33 +19,10 @@
     </div>
     {% endif %}
     {% endfor %}
-    <div class="sidebar-nav-item chapter{% if page.collection == 'assignments' %} active active-chapter{% endif %}" onclick="toggleChapter(this);">Fall Assignments
-      <ul class="chapter-contents">
-        {% assign fall = site.assignments | where_exp: "item","item.relative_path contains 'Fall-semester'" %}
-        {% for lesson in fall %}
-        <li><a class="{% if page.url == lesson.url %}active-page{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="sidebar-nav-item chapter{% if page.collection == 'assignments' %} active active-chapter{% endif %}" onclick="toggleChapter(this);">Spring Assignments
-      <ul class="chapter-contents">
-        {% assign spring = site.assignments | where_exp: "item","item.relative_path contains 'Spring-semester'" %}
-        {% for lesson in spring %}
-        <li><a class="{% if page.url == lesson.url %}active-page{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="sidebar-nav-item chapter{% if page.collection == 'final-project' %} active active-chapter{% endif %}" onclick="toggleChapter(this);">Final Project
-      <ul class="chapter-contents">
-        {% for lesson in site.final-project %}
-        <li><a class="{% if page.url == lesson.url %}active-page{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
 
+    <a class="sidebar-nav-item{% if page.url == '/forum/index.html' %} active{% endif %}" href="{{ site.baseurl }}/forum/index.html">Forum &amp; Assignments </a>    
     <a class="sidebar-nav-item{% if page.url == '/about.html' %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
     <a class="sidebar-nav-item{% if page.url == '/search/' %} active{% endif %}" href="{{ site.baseurl }}/search/index.html">Search</a>
-    <a class="sidebar-nav-item{% if page.url == '/forum/index.html' %} active{% endif %}" href="{{ site.baseurl }}/forum/index.html">Forum Info</a>
     <a class="sidebar-nav-item{% if page.url == '/abc-tutorial.html' %} active{% endif %}" href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>
     <a class="sidebar-nav-item{% if page.url == '/abc-playground.html' %} active{% endif %}" href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a>
     <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
