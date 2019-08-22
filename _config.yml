@@ -91,12 +91,12 @@ collections:
   23-intro-to-post-tonal:
     output: true
     name: 23) An Introduction to Post-Tonal Analysis
-  final-project:
-    output: true
-    name: Final Project Notes and Discussion
-  assignments:
-    output: true
-    name: Assignments
+#  final-project:
+#    output: true
+#    name: Final Project Notes and Discussion
+#  assignments:
+#    output: true
+#    name: Assignments
 
 # ignore stuff
 exclude: [docs]
