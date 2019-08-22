@@ -1,7 +1,5 @@
 /* apply theme following lanyon method */
-.sidebar,
-.sidebar-toggle:active,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
+.sidebar {
   background-color: $theme-color;
 }
 .container a,
@@ -12,7 +10,7 @@
 /* fix theme background color bug */
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #555; 
+  background-color: #0d0d0d;
 }
 /* index page link buttons */
 .index-buttons {
@@ -115,31 +113,55 @@ a.sidebar-nav-item:focus {
     ul { display: none; }
 }
 
-/* style chat button */ 
-/* Style the `label` that we use to target the `.sidebar-checkbox` */
-#chatbox {
-    position: absolute;
-    top:  1rem;
-    left: 4rem;
+/* chat dropdown */
+#chat-button {
     display: block;
     color: #505050;
-    background-color: #fff;
+    //background-color: #fff;
     border: none;
     cursor: pointer;
+    margin: 1px;
+    padding-left: 5px;
     img {
         height: 1.5rem;
         margin: 0;
     }
 }
-
+#chat-box {
+    position: absolute;
+    top:  1rem;
+    left: 3.5rem;
+    display: block;
+}
 @media (min-width: 30.1em) {
-    #chatbox {
+    #chat-box {
         position: fixed;
     }
 }
-  
 @media print {
-    #chatbox {
+    #chat-box {
         display: none;
     }
+}
+/* hide checkbox */
+#chat-trigger {
+    display: none;
+}
+/* use css to hide or show menu via checkbox */
+#chat-drop {
+    display: none;
+}
+
+#chat-trigger:checked ~ #chat-box { 
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: #fff;
+}
+#chat-trigger:checked ~ #chat-box > #chat-drop {
+    //transition: all 0.5s ease-in;
+    display: block;
+    padding: .25rem;
+    //border: 1px solid grey;
+    //border-radius: 5px;
+    //background-color: #fff;
 }

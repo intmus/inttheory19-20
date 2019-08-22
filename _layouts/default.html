@@ -25,7 +25,8 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-    <button id="chatbox" type="button"><img src="{{ '/assets/chat-alt-double-outline.svg' | relative_url }}"></button>
+    
+    {% include chatdropdown.html %}
 
     <script>
       function toggleChapter(e) {
