@@ -114,3 +114,32 @@ a.sidebar-nav-item:focus {
     }
     ul { display: none; }
 }
+
+/* style chat button */ 
+/* Style the `label` that we use to target the `.sidebar-checkbox` */
+#chatbox {
+    position: absolute;
+    top:  1rem;
+    left: 4rem;
+    display: block;
+    color: #505050;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+    img {
+        height: 1.5rem;
+        margin: 0;
+    }
+}
+
+@media (min-width: 30.1em) {
+    #chatbox {
+        position: fixed;
+    }
+}
+  
+@media print {
+    #chatbox {
+        display: none;
+    }
+}
