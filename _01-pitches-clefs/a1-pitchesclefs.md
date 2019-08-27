@@ -6,9 +6,9 @@ abc: true
 
 ### A Starting Place
 
-Most beginning music theorists are familiar with basic music notation -- treble and bass clefs, staves, ledger lines, and accidentals -- due to time spent performing as an instrumentalist or vocalist. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html). 
+By the time musicians begin formally exploring music theory, they likely are familiar with basic music notation--treble and bass clefs, staves, ledger lines, and accidentals--due to time spent performing. If you are uncomfortable with any of aspect of these concepts, you can review by reading the explanations under the *Further Reading* section of [Discussion 1a]({{ site.baseurl }}/01-pitches-clefs/a2-pitchesclefs.html). 
 
-## **Clefs**
+## Clefs
 
 Even though most college music students are familiar with reading music, they are usually far more comfortable when working in the clef most associated with their primary instrument or voice-part. It is vital that musicians be fluent in not only the two most common clefs -- treble and bass -- but also with two additional clefs: alto clef and tenor clef. These clefs are commonly used by instruments such as viola, cello, trombone, and bassoon. They alleviate the use of ledger lines in the extreme registers of an instrument, so it is imperative that you become comfortable reading music in all of the most common clefs.
 
@@ -17,17 +17,16 @@ Alto and tenor clefs are known as *C-clefs*.
 
 ### Goals for this topic
 
-Use the examples below to find:
+In the examples below, the treble and alto clefs are in unison, and the tenor and bass clefs are in unison. The treble and bass clefs are separated by one octave. You can find middle C on the first line below the treble clef staff.
+
+Knowing this, use these examples to find:
 - the order of pitch names for each clef's lines and spaces.
 - why treble clef is a G-clef, why bass clef is an F-clef, and why alto and tenor clefs are C-clefs.
-- where middle C is on each clef
+- where middle C is on each clef.
 - any tips or tricks that may help in differentiating and reading clefs.
 
 {% capture ex1 %}X: 1
 T: Pitches and Clefs
-T: The treble and alto clefs are in unison.
-T: The tenor and bass clefs are in unison.
-T: The treble and bass clefs are separated by one octave.
 M: 4/4
 L:1/4
 K:C

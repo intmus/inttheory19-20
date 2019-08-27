@@ -6,24 +6,10 @@ abc: true
 
 ## Class Discussion
 
--Clefs limit the excessive use of ledger lines; they also save publishers money on ink
-
-**Clef reading tips:**
-
-  -Find the note the clef encircles and work from there, this is safe but slow
-
-  -Figure out the first note and read melodic lines based on intervals, this can be derailed by one mistake
-
-  -Relate the unfamiliar clef to the one you know best and then rely on your visual prowess
- 
-  -Transpose! This may be more relevant for instrumentalists that practice this
-
-  -Tenor and Alto clefs can be thought of as opposites. Tenor clef is lower sounding, but read as if it is higher than treble clef, Alto    Clef is higher sounding, but is read lower than treble clef
-
-  -Imagine your familiar clef as if it is encircling a new line and read it as you know it from there
+TBD
 
 
-Further Reading
+## Further Reading
 ======
 
 ## From *Open Music Theory*
