@@ -6,6 +6,8 @@ abc: true
 
 ## Class Discussion
 
+Change to TBD
+
 ### Explaining ISO to "non-musicians"
 
 - Use science to explain how wavelength and frequency influence our perception of pitch
