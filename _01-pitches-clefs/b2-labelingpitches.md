@@ -7,6 +7,10 @@ abc: true
 ## Class Discussion
 
 Change to TBD
+Demonstrating formatting principles
+
+This creates a space
+This won't
 
 ### Explaining ISO to "non-musicians"
 
