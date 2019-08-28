@@ -6,13 +6,13 @@ abc: true
 
 ## Class Discussion
 
-Change to TBD
-Demonstrating formatting principles
+- this is test
+- inwhich I make a list
 
-**D&flat;**
+And then some 
+other stuff
 
-This creates a space
-This won't
+with a space
 
 ### Explaining ISO to "non-musicians"
 
