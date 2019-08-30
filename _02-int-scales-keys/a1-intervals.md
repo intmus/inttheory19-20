@@ -4,7 +4,7 @@ title: Lesson 2a - Identifying and Labeling Intervals
 abc: true
 ---
 
-Now that we have formalized our notation of the most basic level of music notation, a single pitch, we must find a method to measure the distance between two pitches. 
+Now that we have formalized our notation at the fundamental level of music notation--a single pitch--we need a method to measure the distance between two pitches. 
 
 ## **Intervals**
 
@@ -12,8 +12,8 @@ Any two-note combination is called a *dyad*, and the distance between the two pi
 
 ### Goals for this topic
 
-In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important relationship to the measures above and below it. Using these, develop a simple explanation for how we find each of the following:
-- the *size* of the interval between two pitches as represented by a numeral
+In the example below, each interval represents the concept stated at the beginning of its staff, but each measure *also* has an important intervallic relationship to the measures above and below it. Using these, develop explanations for how we find each of the following:
+- the *size* of the interval between two pitches as represented by an Arabic numeral
 - the *quality* of the interval as represented by the labels *perfect, major, minor, diminshed, and augmented*
 - which *sizes* can use which *qualities* as well as the hierarchy of *qualities* for each *size*
 - *chromatic* versus *diatonic* intervals
@@ -68,15 +68,15 @@ Interval *size* can be determined by considering either:
 - lines and spaces
 - letter names
 
-Both these methods will correctly identify interval size, although counting letter names yields results without requiring the presence (or visualization) of a staff. Do not forget that you must include the both letters when counting. (e.g. The ascending interval from A to C is a third, because you must count A (1), B (2), and C (3).)
+Both these methods will correctly identify interval size, although counting letter names yields results without requiring the presence (or visualization) of a staff. Do not forget that you must include both letters when counting. (e.g. The ascending interval from A to C is a third, because you must count A (1), B (2), and C (3).)
 
-This means that any interval that has the same two letters, regardless of accidentals or key signatures, will always have the same *size*. Using our previous example, the *size* of the interval between `G` and `D-flat` is a fifth. We can change the bottom note to any other `G` (`G-sharp, G-flat`, etc.) and the top note to any other `D` (`D-sharp, D-natural`, etc.), but the *size* of that interval will **always** be a fifth. Yet if we exchange the `D-flat` for its enharmonic equivalent, `C-sharp`, we alter the letters and turn the *size* of the interval into a fourth.
+This means that any interval that has the same two letters, regardless of accidentals or key signatures, will always have the same *size*. Using our previous example, the *size* of the interval between `G` and `D-flat` is a fifth: G (1), A (2), B (3), C (4), and D (5). We can change the bottom note to any other `G` (`G-sharp, G-flat`, etc.) and the top note to any other `D` (`D-sharp, D-natural`, etc.), but the *size* of that interval will **always** be a fifth. Yet if we exchange the `D-flat` for its enharmonic equivalent, `C-sharp`, we alter the letters and turn the *size* of the interval into a fourth.
 
 ### Interval quality
 
-- If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales]({{ site.baseurl }}/02-int-scales-keys/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. For a method that does not rely on knowledge of major scales, you can also go to the [Further Reading]({{ site.baseurl }}/02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
+- It is easiest to understand *qualities* of intervals by comparing them to the major scale. If you are completely unfamiliar with scales, you may want to skip one topic ahead to [scales]({{ site.baseurl }}/02-int-scales-keys/b1-scales.html), and then return to this after beginning to understand the construction of the major scale. Or, for a method that does not rely on knowledge of major scales, you can also go to the [Further Reading]({{ site.baseurl }}/02-int-scales-keys/a2-intervals.html) of this topic to find a useful method from the writers of *Open Music Theory*.
 
-Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
+Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
 
 **Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
 1. When looking at an interval, consider the bottom pitch of the interval as `do` of a major scale.

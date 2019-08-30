@@ -10,7 +10,7 @@ This course assumes that you have a basic knowledge of how to raise and lower pi
 
 ## Enharmonic Equivalence and Pitch Classes
 
-When studying tonal harmony, C&sharp; and D&flat; have unique functions and are *not* interchangeable, however, when considering their physical  properties, there is no difference between these two pitches meaning that we consider these two pitches to be *enharmonically equivalent*. At its core, enharmonic equivalence is an easy concept: When two pitches sound the same--meaning that they share identical [frequencies](https://amazing-space.stsci.edu/resources/explorations/groundup/lesson/glossary/term-full.php?t=wavelength_and_frequency)--but have different note names (i.e. letters), we consider them to be enharmonically equivalent. If you were to group all pitches that are enharmonic equivalents, you create a *pitch class*; such as C&sharp;, D&flat;, and B&Cross; (B-double-sharp). There are twelve pitch classes in traditional Western tonality. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Note that all but one pitch class has at least three enharmonic equivalents when using the five most common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
+When studying tonal harmony, C-sharp and D-flat have unique functions and are *not* interchangeable, however, when considering their physical  properties, there is no difference between these two pitches meaning that we consider these two pitches to be *enharmonically equivalent*. At its core, enharmonic equivalence is an easy concept: When two pitches sound the same--meaning that they share identical [frequencies](https://amazing-space.stsci.edu/resources/explorations/groundup/lesson/glossary/term-full.php?t=wavelength_and_frequency)--but have different note names (i.e. letters), we consider them to be enharmonically equivalent. If you were to group all pitches that are enharmonic equivalents, you create a *pitch class*; such as C-sharp, D-flat, and B-double-sharp. There are twelve pitch classes in traditional Western tonality. Every pitch has multiple enharmonic equivalents, but some are used less frequently due to the necessity for uncommon accidentals such as double-sharps and double-flats. Note that all but one pitch class has at least three enharmonic equivalents when using the five most common accidentals: *naturals, flats, sharps, double-flats, and double-sharps*. (The remaining pitch class only has two possible enharmonic equivalents without creating accidentals that exist only in theory such as triple-sharps or triple-flats.)
 
 ### Goals for this topic
 
@@ -40,8 +40,8 @@ _D, ^C, |^B,, C, |D, __E,|]{% endcapture %}
 Using the example above, you can extrapolate which pitch classes have three enharmonic equivalents and which have two.
 
 Two examples of complete enharmonic equivalent groups would be:
-- A, B&flat;&flat;, G&Cross;
-- B, C&flat;, A&Cross;
+- A, B-double-flat, G-double-sharp
+- B, C-flat, A-double-sharp
 
 Each pitch in these groups belong to the same pitch class, because they share an identical frequency. Yet they function differently within the context of music, so we have multiple ways of labeling the same frequency.
 
