@@ -8,7 +8,6 @@ abc: true
 
 TBD
 
-
 ## Further Reading
 ======
 

@@ -6,28 +6,7 @@ abc: true
 
 ## Class Discussion
 
-- this is test
-- inwhich I make a list
-
-And then some 
-other stuff
-
-with a space
-
-### Explaining ISO to "non-musicians"
-
-- Use science to explain how wavelength and frequency influence our perception of pitch
-- Use a keyboard to demonstrate how a note can sound the same, but higher or lower
-- Use simple terms such as higher and lower
-- Make sure they know that the alphabet goes back to A after G in music
-
-### Prevalence of the pentatonic scale (and dividing the octave into 12 parts)
-
-Western musical tradition is based on a seven note scale, although this requires dividing the octave into twelve pitches. 
-We will explore this more fully when we get discuss the overtone series and its effect on tonal harmony, but in the meantime, watch this video as Bobby McFerrin quickly demonstrates how pervasive the pentatonic scale--and therefore the 12-pitch octave--is to a human mind.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+TBD
 
 ## Further Reading
 
