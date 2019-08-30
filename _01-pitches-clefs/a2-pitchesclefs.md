@@ -6,7 +6,15 @@ abc: true
 
 ## Class Discussion
 
-TBD
+###**Clef reading tips/tricks**
+- FACE: thinking in thirds; the spaces on the staff are organized in thirds. Applied to an unfamiliar clef, you can find notes quickly by knowing one note and thinking in/around thirds to get to the mystery note. However, this generally doesn't go quickly and ledger lines can be an issue
+- Transposition: If you know the concert pitch for whatever note you play, you can instantly "read" other clefs (Ex.: playing trumpet = "playing in tenor clef" despite reading treble clef)
+- Creating extra steps almost always = mistakes--try and come up with a method that adds very little to the reading process
+- **Whatever you're best at + whatever clef you're most familiar with = success!** For example, if you're used to reading treble clef, use that as a baseline comparison to the other clefs.
+
+###**Additional tips**
+- Bass clef = F clef and "points" to F, so you will always know where F is in bass clef. This is the same for C in alto and tenor clefs, and G in treble clef.
+
 
 ## Further Reading
 ======
