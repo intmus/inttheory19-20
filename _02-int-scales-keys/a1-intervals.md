@@ -78,7 +78,7 @@ This means that any interval that has the same two letters, regardless of accide
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
 
-**Please remember that each of the following steps only works if you consider `do` as the bottom pitch of the interval.**
+**Please remember that each of the following steps only works if you use a "relative" (as opposed to "absolute") pitch labeling system such as the moveable-do solfege system as described in [Unit 1b]({{ site.baseurl }}/01-pitches-clefs/b1-labelingpitches.html).**
 1. When looking at an interval, consider the bottom pitch of the interval as `do` of a major scale.
 1. If the top pitch of the interval is a note that naturally exists in that major scale, it is either a major or perfect interval. Whether major or perfect depends on the *size*.
   - Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
@@ -92,27 +92,32 @@ Interval *quality* is difficult to examine without beginning to think about our 
     - Lowering the interval by a half-step creates a *minor* interval.
     - Lowering the interval by a 2 half-steps creates a *diminished* interval.
 
-From this, our interval hierarchies were grouped as:
-- Interval *sizes* of 1, 4, 5, and 8 can only have the *qualities* of perfect, augmented, or diminished.
-- Interval *sizes* of 2, 3, 6, and 7 can only have the *qualities* of major, minor, augmented, or diminished.
+#### Quality hierarchies
 
-Some examples using this method:
+From this, our interval hierarchies can be grouped into two distinct hierarchies:
+- The "Perfect" intervals - Interval *sizes* of 1, 4, 5, and 8 can only have the *qualities* of perfect (P), augmented (A), or diminished (d).
+- The "Major/minor" intervals - Interval *sizes* of 2, 3, 6, and 7 can only have the *qualities* of major (M), minor (m), augmented (A), or diminished (d).
+
+Note that even though *perfect* intervals use a different hierarchy than *major/minor* intervals, both hierarchies share the terms *diminished* and *augmented*. 
+
+#### Interval quality practice
+
+Let's practice some examples using this method:
 - `C` to `E`:
-  - Counting the letter names confirmed that the *size* is a third (C, D, E = 3)
-  - By using the lower pitch, `C`, as `do`, we know that the naturally occurring `E` in the key of C major is `E-natural`.
-  - Because this is a third, we know that the naturally occurring note must use the *major* hierarchy, so therefore, `E-natural` would be a **major third *(M3)** above C.
+  - Counting the letter names confirms that the *size* is a third - C (1), D (2), E (3)
+  - If we consider the lower pitch, `C`, as the tonic (or *do*) of a major scale, we can use the C-major scale to find that the naturally occurring `E` in the key of C major is `E-natural`.
+  - Because this is an interval size of a third, we must use the *major* hierarchy, so therefore, `E-natural` would be a **major third *(M3)** above C.
 - `D` to `G-sharp`
-  - Counting the letter names confirmed that the *size* is a fourth (D, E, F, G = 4)
-  - By using the lower pitch, `D`, as `do`, we know that the naturally occurring `G` in the key of D major is `G-natural`.
-  - Because this is a fourth, we know that the naturally occurring note must use the *perfect* hierarchy, so therefore, `G-natural` would be a P4 above D.
-  - Because `G-sharp` is one half-step above the *perfect* interval, we know that this interval is an **augmented fourth (A4)**.
+  - Counting the letter names confirms that the *size* is a fourth - D (1), E (2), F (3), G (4)
+  - By using the lower pitch, `D`, as *do*, we can use the D-major scale to see that the naturally occurring `G` in the key of D major is `G-natural`.
+  - Because this is a fourth, we must use the *perfect* hierarchy, so therefore, `G-natural` would be a P4 above D.
+  - Because `G-sharp` is one half-step above the *perfect* interval, we go one step up the major hierarchy to find that this interval is an **augmented fourth (A4)**.
 - `F` to `E-double-flat`
-  - Counting the letter names confirmed that the *size* is a seventh (F, G, A, B C, D, E = 7)
-  - By using the lower pitch, `F`, as `do`, we know that the naturally occurring `E` in the key of F major is `E-natural`.
-  - Because this is a seventh, we know that the naturally occurring note must use the *major* hierarchy, so therefore, `E-natural` would be a M7 above F.
-  - Because `E-double-flat` is two half-steps below the *major* interval, we know that this interval is an **diminished seventh (d7)**.
+  - Counting the letter names confirms that the *size* is a seventh (F, G, A, B C, D, E = 7)
+  - By using the lower pitch, `F`, as `do`, we can use the F-major scale to find that the naturally occurring `E` in the key of F major is `E-natural`.
+  - Because this is a seventh, we must use the *major* hierarchy, so therefore, `E-natural` would be a M7 above F.
+  - Because `E-double-flat` is two half-steps below the *major* interval, we go two steps down the major hierarchy to find that this interval is an **diminished seventh (d7)**.
 
-Note that even though *perfect* intervals use a different hierarchy than *major/minor* intervals, but both hierarchies share the terms *diminished* and *augmented*. 
 
 ### Melodic vs. Harmonic
 
