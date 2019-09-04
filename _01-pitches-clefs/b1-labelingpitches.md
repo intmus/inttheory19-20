@@ -4,6 +4,26 @@ title: Lesson 1b - Labeling Pitches
 abc: true
 ---
 
+## Pitch systems and an introduction to solfege
+
+There are many methods for labeling pitches, and these vary based on language of origin, style of music, pedagogical purposes, and analytical purposes. In this textbook, we will usually reference the standard English-language notation system that employs seven letter names and accidentals. This system is discussed below and is sufficient for differentiating between pitches in a diatonic tonality system. (If the terms *diatonic* and *tonality* don't mean anything to you yet, don't worry; we'll cover those terms in later units.)
+
+There are times, however, in which we want to discuss the *concept* of a tonal structure without tying ourselves to a particular tonal center. In this case, we need a system that demonstrates *relative* distance without having to refer to the letter system. For example, most people can sing a simple melody--e.g. *Happy Birthday*--even if they do not know a starting pitch. Instead, they start singing and their voice finds a comfortable key. They do this by intuiting the relative distance between pitches rather than using a predetermined set of pitches. 
+
+It is often helpful to be able to speak in these relative terms, and there are multiple pre-existing systems that allow us to do this. For this textbook, we will use *moveable-"do" solfege*, a system that evolved from some of the earliest methods of notation. In this system, we assign the most important note of a scale to `do`, and then we assign each note above that pitch a similar Latin name. (For those of you familiar with the classic musical *The Sound of Music*, you probably already know all of these terms.)
+
+We will discuss this system in detail in the unit on scales, but until then, it will be helpful for you to refer to the following chart when necessary.
+
+Scale degree | Solfege syllable | Raised | Lowered
+ --- | --- | --- | ---
+ ^1 | do | di | N/A
+ ^2 | re | ri | ra
+ ^3 | mi | N/A | me
+ ^4 | fa | fi | N/A
+ ^5 | sol | si | se
+ ^6 | la | li | le
+ ^7 | ti | N/A | te
+
 ### Accidentals
 
 This course assumes that you have a basic knowledge of how to raise and lower pitches in standard music notation. If you need to review proper usage of accidentals, please refer to the *Further Reading* section under [Discussion 1b]({{ site.baseurl }}/01-pitches-clefs//b2-labelingpitches.html).
