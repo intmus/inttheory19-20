@@ -78,11 +78,15 @@ This means that any interval that has the same two letters, regardless of accide
 
 Interval *quality* is difficult to examine without beginning to think about our concept of tonality and keys, because it is designed to describe tonal intervals. One of the most common and straightforward methods for finding interval *quality* requires a strong familiarity with the twelve major scales:
 
-**Please remember that each of the following steps only works if you use a "relative" (as opposed to "absolute") pitch labeling system such as the moveable-do solfege system as described in [Unit 1b]({{ site.baseurl }}/01-pitches-clefs/b1-labelingpitches.html).**
-1. When looking at an interval, consider the bottom pitch of the interval as `do` of a major scale.
-1. If the top pitch of the interval is a note that naturally exists in that major scale, it is either a major or perfect interval. Whether major or perfect depends on the *size*.
-  - Unisons, fourths, fifths, and octaves occur naturally as *perfect* intervals within the major scale.
-  - Seconds, thirds, sixths, and sevenths occur naturally as *major* intervals within the major scale.
+### Finding an interval
+
+1. Find the size of the interval by counting through the letter between the two pitches. 
+  - Remember that you must include the starting and ending pitches in your counting.
+  - Remember that size is independent of quality, so none of the following steps will affect the interval size.
+1. To being finding the quality of the interval, consider the bottom pitch of the interval as the tonic of a major scale.
+1. If the top pitch of the interval is a note that naturally exists in the major scale built off the lower pitch, it is either a major or perfect interval, depending on the *size* of the interval.
+  - Unisons, fourths, fifths, and octaves occur naturally in the major scale as *perfect* intervals.
+  - Seconds, thirds, sixths, and sevenths occur naturally in the major scale as *major* intervals.
 1. Any alteration from the basic major and perfect intervals can then be labeled by looking at the direction of alteration and the number of half-steps that the interval was altered.
   - If the original interval is *perfect*:
     - Raising the interval by a half-step creates an *augmented* interval.
@@ -105,13 +109,12 @@ Note that even though *perfect* intervals use a different hierarchy than *major/
 Let's practice some examples using this method:
 - `C` to `E`:
   - Counting the letter names confirms that the *size* is a third - C (1), D (2), E (3)
-  - If we consider the lower pitch, `C`, as the tonic (or *do*) of a major scale, we can use the C-major scale to find that the naturally occurring `E` in the key of C major is `E-natural`.
+  - If we consider the lower pitch, `C`, as the tonic of a major scale, we can use the C-major scale to find that the naturally occurring `E` in the key of C major is `E-natural`.
   - Because this is an interval size of a third, we must use the *major* hierarchy, so therefore, `E-natural` would be a **major third *(M3)** above C.
 - `D` to `G-sharp`
   - Counting the letter names confirms that the *size* is a fourth - D (1), E (2), F (3), G (4)
-  - By using the lower pitch, `D`, as *do*, we can use the D-major scale to see that the naturally occurring `G` in the key of D major is `G-natural`.
-  - Because this is a fourth, we must use the *perfect* hierarchy, so therefore, `G-natural` would be a P4 above D.
-  - Because `G-sharp` is one half-step above the *perfect* interval, we go one step up the major hierarchy to find that this interval is an **augmented fourth (A4)**.
+  - By setting the lower pitch, `D`, as a tonic, we can use the D-major scale to find that the naturally occurring `G` in the key of D major is `G-natural`. Therefore, `G-natural` is a perfect 4th above D, because all naturally occurring intervals in a major scale are either perfect or major depending on their size.
+    - Because `G-sharp` is one half-step above the *perfect* interval, we go one step up the "perfect" hierarchy to find that this interval is an **augmented fourth (A4)**.
 - `F` to `E-double-flat`
   - Counting the letter names confirms that the *size* is a seventh (F, G, A, B C, D, E = 7)
   - By using the lower pitch, `F`, as `do`, we can use the F-major scale to find that the naturally occurring `E` in the key of F major is `E-natural`.
@@ -139,21 +142,29 @@ You may ask why we don't add eight considering that we are adding an octave. The
 
 ### Chromatic vs. Diatonic
 
-The difference between chromatic and diatonic is probably the most straightforward of the classifications. Simply put, *diatonic* intervals use only the notes of the given key signature, while *chromatic* intervals have accidentals that alter one of both of the pitches.
+The difference between chromatic and diatonic is probably the most straightforward of interval classifications in usage, but it has a level of nuance that students often miss and causes confusion later. Simply put, *diatonic* intervals contain only pitches that belong to the **current** tonality, whereas *chromatic* intervals contain at least one pitch that does not belong to the current tonality. 
+
+Of course, this relies on you knowing what the current tonality is. In many situations, this means that you can find chromatic pitches, and therefore chromatic interals, wherever you find a note with an accidental. So if the key signature matches the current tonality--for example, the key signature has two sharps and the tonality is D major--any pitch that does not have an accidental is a *chromatic* pitch and all intervals formed with that pitch would be chromatic intervals.
 
 ### Inversions
 
-For this discussion, we are considering an inversion to be an interval in which one pitch is fixed and the other is displaced by an octave toward the fixed pitch.
+An easy way to think of inverted intervals is to consider an inversion to be an interval in which one pitch is fixed and the other is transposed by one octave toward the fixed pitch.
 
-To determine the *size* of an inverted interval, the first student pointed out that you could create a grid of size pairs, so:
-- 4 inverts to 5
-- 3 inverts to 6
-- 2 inverts to 7
-- 1 inverts to 8
+#### Inverting size
 
-Each of these pairs adds up to nine, so if you would prefer to not memorize this grid, you can find an inversion by simply subtracting the size from 9. For example, if there is a written 3rd, subtract 3 from 9 to find that the inversion of a 3rd is a 6th. Note that for compound intervals, you must use subtract from 16 or use negative numbers and absolute values. Because of this, it is easier to reduce compound intervals to a simple interval before inverting.
+To determine the *size* of an inverted interval, it is easiest to simply memorize the interval pairs, so:
+- 4 inverts to 5 and vice versa
+- 3 inverts to 6 and vice versa
+- 2 inverts to 7 and vice versa
+- 1 inverts to 8 and vice versa
 
-To find the qualities of inverted intervals, the students agreed that memorizing three pairs is the easiest method:
-- diminished becomes augmented
-- major becomes minor 
-- perfect becomes perfect
+Each of these pairs adds up to nine, so if you ever forget or doubt your memorization, you can find an inversion by simply subtracting the interval size from 9. For example, if there is a written 3rd, subtract 3 from 9 to find that the inversion of a 3rd is a 6th. Note that for compound intervals, you must use subtract from 16 or use negative numbers and absolute values. Because of this, it is easier to reduce compound intervals to a simple interval before inverting.
+
+#### Inverting quality
+
+To find the qualities of inverted intervals, you simply need to memorize three pairs:
+- diminished becomes augmented and vice versa
+- major becomes minor and vice versa
+- perfect becomes perfect and vice versa
+
+We will explore the mathematical underpinnings of why inversions form these pairs in Unit 23.
