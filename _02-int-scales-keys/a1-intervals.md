@@ -20,6 +20,7 @@ In the example below, each interval represents the concept stated at the beginni
 - *simple* versus *compound* intervals and how this affects classifying of *quality* and *size*
 - how the *size* and *quality* change when the upper and lower pitches of an interval are inverted
 
+<!-- Alter the musical examples below to consider the boundary of whether a unison is the simple interval and an octave a compound interval. Also, inversion of P8 is not a P8 in the inversion line. -->
 ### Important concepts
 
 - _**Qualities**_: P = perfect, M = major, m = minor, A = augmented, d = diminished

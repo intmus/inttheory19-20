@@ -290,9 +290,9 @@ Even though they do not function diatonically, there are two general concepts of
 
 ### Chromatic scale
 
-The chromatic scale is not a tonality, because it has no tonic. It is however, the ultimate pitch collection and functions as a useful way to familiarize a musician with all twelve pitch-classes.
+The chromatic scale is not a tonality, because it has no tonic. It is however, the aggregate pitch collection and functions as a useful way to familiarize a musician with all twelve pitch-classes.
 
-The final "Happy Birthday" version on the previous page uses every possible scale degree in order to demonstrate resolution in a diatonic key, but it is not a "chromatic" tonality. That example is still in G major, but it is heavily embellished using chromatic tones.
+The final "Happy Birthday" version above uses every possible scale degree in order to demonstrate resolution in a diatonic key, but it is not a "chromatic" tonality. That example is still in G major, but it is heavily embellished using chromatic tones.
 
 Of particular note, the example demonstrates the importance of considering resolution when choosing which chromatic pitch to use. Generally, if a pitch is raised, it should resolve upward; if a pitch is lowered, it should resolve downward. For example, `li` and `te` are enharmonically equivalent, but they function differently because their accidentals imply specific resolutions. `Li` should resolve to `ti`, but `te` should resolve to `la`. This is not only important in simplifying notation for harmonic analysis, but it also makes it easier for performers when reading heavily chromatic music.
 
