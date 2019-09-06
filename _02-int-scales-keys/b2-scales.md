@@ -6,7 +6,7 @@ abc: true
 
 ## Class discussion
 
-What is the definition of a scale?
+**What is the definition of a scale?**
 - A series of whole steps and half steps, 7 pitches not including the octave, defined by a key signature
 - Sequence of pitches that have a specific tone (specific tonality?)
 - Any # of pitches (includes pentatonic and chromatic scales)
@@ -18,7 +18,7 @@ What is the definition of a scale?
 - Ordered in ascending or descending fashion
 - Contains only unique pitches
 
-Theoretical fancy professional definition of a scale
+**Theoretical fancy professional definition of a scale**
 - More than one pitch = a pitch collection. Put the pitch collection in ascending order up to an octave and you have a scale! Arpeggios are technically scales
 - Needs tonality, which means it needs a tonic aka a note around which the rest of the scale is organized
 - Additional note: must contain unique pitches and no enharmonics
