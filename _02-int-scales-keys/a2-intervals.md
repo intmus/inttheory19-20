@@ -5,46 +5,46 @@ title: Discussion 2a - Identifying and Labeling Intervals
 
 ## Class Discussion
 
-How would you define interval size?
+**How would you define interval size?**
 - By the spacing between intervals (How is this different than quality?)
 - By how many notes you can fit between x note and y note (How would you define a note?): count up from the bottom of interval, counting the line/space occupied by the bottom note. Otherwise the interval ID will be incorrect
 - If the bottom note is on a line and the next is also on a line, the interval number will be odd while opposite placements will be even
 
-How would you define interval size *without* lines and spaces?
+**How would you define interval size *without* lines and spaces?**
 - Note names! Just like the lines and spaces you have to count the note you start on. Can be used with last lesson's "there are only 7 note names" idea
 - Even if there's no clef, students with basic music knowledge will default to thinking in their main clef--this is something you can use
 
-How would you define interval quality?
+**How would you define interval quality?**
 - Why is quality harder to define than interval?
   - Requires familiarity with tonal system
 - Do enharmonically equivalent notes = the same interval?
   - No--they will be different distances apart from the other note
 
-Chromatic vs diatonic intervals
+**Chromatic vs diatonic intervals**
 - If the top note belongs to the scale of the bottom note the interval is diatonic. Otherwise it is chromatic
 - Chromatic interval =/= "there's an accidental"
 
-What are our interval hierarchies?
+**What are our interval hierarchies?**
 - One built around P, one built around M/m
 - Both had A/d
 - P used on 1, 4, 5, 8 only
 - M/m used for 2, 3, 6, 7 only
 
-Difference between simple and compound?
+**Difference between simple and compound?**
 - Range of the interval. Within an octave = simple interval, but anything exceeding an octave is a compound interval
 - Is there a shortcut for connecting simple and compound intervals?
   - Subtracting 7 from the compound interval, not 8 or 9. 8 is an octave, and 9 is important for inversions. If this is breaking your brain, think of reducing an octave to a unison: P8 - 7 = P1
 - Do simple and compound care about quality?
   - No, only size. Look solely at the number for simple vs compound
   
-Harmonic vs melodic intervals
+**Harmonic vs melodic intervals**
 - Harmonic = two pitches that sound at the same time
 - Melodic = two pitches sounding sequentially
 - Is there a difference between the harmonic and melodic interval of a unison?
   - Yes! Depends on how they are written in your part
   - Augmented unisons also exist and that's where things get a little confusing and very strict
   
-Inversions
+**Inversions**
 - How to invert?
   - Take either of the notes and drop them down?: Not quite, but you *can* take either note and move it an octave in the direction of the other note (ex. G4 and D5 to D5 and G5 OR D4 and G4)
 - How do we get our inversions number?
