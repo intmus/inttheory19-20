@@ -5,19 +5,18 @@ title: Discussion 3a - Triads
 
 # Class Discussion
 
-What is the root?
+Using all the terminology we've learned so far, tell us how to...
 
--The tonal center of the chord
+**ID Triads?**
+- x
 
--It is where we begin stacking thirds
+**ID inversions?**
+- x
 
--Where the chord starts, what the chord is built around
+**ID closed vs open voicing?**
+- x
 
-What is the bass?
-
-- The lowest note of the chord
-
-Figured bass comes from the Baroque era, keyboardists used this to create harmony based on the bass notes.
+WIP
 
 # Further Reading
 
