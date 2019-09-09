@@ -8,7 +8,7 @@ abc: true
 
 TBD
 
-Further reading
+## Further reading
 ======
 
 ## From *Open Music Theory*

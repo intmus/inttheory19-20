@@ -4,7 +4,7 @@ title: Lesson 3a - Triads
 abc: true
 ---
 
-In discussing key signatures, we found that repeatedly ascending intervals of a perfect 5th cycles through all twelve pitch classes before repeating. And if we alter a particular one of those perfect 5ths by a half step--creating a diminished 5th after moving through the first seven letter names--the cycle repeats back on itself and creates the diatonic collection of seven pitches that we associate with Western diatonic tonality. 
+In discussing key signatures, we found that repeated ascending P5 intervals cycles through all twelve pitch classes before repeating. And if we alter a particular one of those perfect 5ths by a half step--creating a diminished 5th after moving through the first seven letter names--the cycle repeats back on itself and creates the diatonic collection of seven pitches that we associate with Western diatonic tonality. 
 
 This effect can be further demonstrated by stacking intervals of a diatonic 5th on the major scale.
 
@@ -18,7 +18,7 @@ K:C
 w:P5 P5 P5 P5 P5 P5 d5 P5{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-If the study of the evolution of music, you will find that early harmony focused on perfect intervals, but diatonic harmony as we know it did not truly begin until composers began adding a third chordal member. This *chordal third* created two stacked intervals of a 3rd called a *triad*. Any harmonic system which relies on stacking thirds is called *tertian harmony*.
+If the study of the evolution of music, you will find that early harmony focused on perfect intervals similar to this example, but diatonic harmony as we know did not truly begin until music began regularly featuring a third chordal member. By stacking two intervals of a third, we create a *triad*, which contains not only the two thirds, but also the interval of a fifth between the outer pitches. Any harmonic system which relies on stacking thirds is called *tertian harmony*.
 
 {% capture ex2 %}X:2
 %%staffsep 100%
@@ -153,17 +153,20 @@ Of note, there are six different possible intervals in a triad, depending on the
 
 This information is all important, but it assumes that you already know which chordal member of an inverted triad is the root. To develop a method for finding the root of an unnamed chord, we must first understand how the *inversion* interacts with the chord's *voicing*. 
 
-Using the examples of open and closed voicings, students often work through the following process:
-- open voicing is spread out
+Using the examples of open and closed voicings, students often work through a process that includes the following ideas:
+- Attempt #1: Open voicing is spread out.
   - True, but this is a subjective measure. What constitutes "spread out"?
-- closed positions use simple intervals and open positions use compound intervals
-  - This is interesting in that it works if the chord only has four notes, but does not hold up if there are five or more chord members.
-- open position skips one of the voices
-  - This definition is basically correct, but the term "voices" is problematic because "voices" does not relate directly to the chord.
+- Attempt #2: Closed voicings use only simple intervals and open positions have compound intervals.
+  - This is interesting in that it works if the chord only has no repeated pitches, but does not hold up if a chord has repeated notes or more than four distinct pitches.
+- Attempt #3: - Closed voicings contain all chord members within one octave. 
+    - This is almost there , but does not explain how a chord with more than four pitches can be in closed position.
+- Attempt #4: Open voicing skips one of the voices.
+  - This definition is almost there, but the term "voices" is problematic because "voices" does not relate directly to a chord.
 
-The final definition combined these three ideas.
-- Closed voicings contain all chord members within one octave.
-- Open voicings can have chord members stacked in any order, skip chord members, and cover more than one octave.
+A complete definition combines these ideas.
+- Closed voicing stacks all pitches of a chord in an ascending order that does not skip a chordal member.
+- Open voicings can have chord members stacked in any order, skip chord members. 
+    - All open voicings will cover more than one octave because of this.
 
 ### *Root* versus *bass*
 
