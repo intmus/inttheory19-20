@@ -19,7 +19,7 @@ abc: true
 - Key signature acts as a shorthand in reference to the notes organized *around* the tonic (like a legend on a map)
 
 **Tricks (other than memorization) for figuring out what key signature you're in**
-- Sharps: last sharp + up a half step = they key
+- Sharps: last sharp + up a half step = the key
 - Flats: second to last flat = the name of the key 
 
 ## Further reading
