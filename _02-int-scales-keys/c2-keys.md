@@ -6,7 +6,21 @@ abc: true
 
 ## Class Discussion
 
-TBD
+**What is a key signature?**
+- A set of sharps or flats defining the scale that you're playing in?
+  - Close: the wording implies a key signature where sharps and flats occur together, which isn't the standard key signature we're trying to come up with a definition for
+
+**What is a key?**
+- A pattern that results in a tonal center?
+  - Yes, though the "tonal center" part is what we are especially concerned with!
+  
+**For diatonic purposes:**
+- Key is defined by a tonic
+- Key signature acts as a shorthand in reference to the notes organized *around* the tonic (like a legend on a map)
+
+**Tricks (other than memorization) for figuring out what key signature you're in**
+- Sharps: last sharp + up a half step = they key
+- Flats: second to last flat = the name of the key 
 
 ## Further reading
 ======
