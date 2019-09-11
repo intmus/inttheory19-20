@@ -8,15 +8,30 @@ title: Discussion 3a - Triads
 Using all the terminology we've learned so far, tell us how to...
 
 **ID Triads?**
-- x
+- M: M3 + m3 (P5 outside)
+- m: m3 + M3 (P5 outside)
+- d: m3 + m3 (d5 outside)
+- A: M3 + M3 (A5 outside)
+
+Note that all 3rds are either major or minor! Don't even worry about diminished thirds.
+
+Additional tips:
+- Knowing your scales can help identify triads, especially in a key with lots of sharps or flats where many of the possible altered notes are double sharps or flats.
+- Possible groupings for memorization
+  - M and A both "start" with a M3, m and d both start with a m3
+  - M and m are more familiar whereas A and d are newer and "weirder," have altered 5ths
 
 **ID inversions?**
-- x
+- Root position = "a stack of thirds"
+- Labeled using the intervals between the notes (not specific enough: what really matters?)
+  - Eliminating duplicates, extra octaves--what matters most is the bass/bottom note of the triad
 
 **ID closed vs open voicing?**
-- x
+- Closed voicing = closest notes can be notated together on a staff, open = spread out? (No: "spread out" is not specific enough)
+- Closed voicing = voices within a 4th, open = voices larger apart than a 4th? (On the right track, but not quite!)
+- Closed voicing = within an octave, open voicing = greater than an octave?
 
-WIP
+These are all good guesses, but closed voicing means stacking all chord members in ascending order without skipping over any of them. Open voicing is anything *but* that.
 
 # Further Reading
 
