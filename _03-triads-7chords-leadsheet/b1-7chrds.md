@@ -24,7 +24,7 @@ Because they are stacked thirds, seventh chords are still considered tertian har
 
 ### Seventh chord inversions
 
-All seventh chords have exactly four notes, although certain chord members can occasionally be omitted (and therefore implied) depending on the context. With four pitches, there are four possible configurations that depend on which note of the triad is in the lowest voice. Like triads, we call these *inversions*, and we use the same shorthand system to label inversions that we used with triads.
+All seventh chords have exactly four unique notes, although certain chord members can occasionally be omitted (and therefore implied) depending on the context. With four pitches, there are four possible configurations that depend on which note of the triad is in the lowest voice. Like triads, we call these *inversions*, and we use the same shorthand system to label inversions that we used with triads.
 
 ## Goals for this topic
 
@@ -58,7 +58,7 @@ K:C
 
 ### Seventh chord inversions
 
-Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use custom notation software, you would notate all inversion figures using superscript. For example, a dominant seventh chord would be written as Mm<sup>7</sup>
+Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use custom notation software, you would notate all inversion figures using superscript. For example, a dominant seventh chord with C as a root would be written as C<sup>7</sup>
 
 {% capture ex3 %}X:3
 T:Seventh chord inversions

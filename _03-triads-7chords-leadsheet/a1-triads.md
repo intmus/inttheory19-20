@@ -104,7 +104,7 @@ V:2 clef=bass
 
 ## Conclusions
 
-Your first goal should be to come up with a way to define each triad quality. To begin, you may classify triadic qualities by dividing them into two groups based on the defining chord members of the triads.
+Your first goal should be to come up with a way to define each triad's *quality*. To begin, you may classify triadic qualities by dividing them into two groups based on the defining chord members of the triads.
 
 When looking at a diatonic triad in root position:
 - If the chordal fifth is either a diminished or augmented fifth, then the triad is labeled as *diminished* or *augmented* respectively.
@@ -132,7 +132,14 @@ Therefore, if a triad is in root position, you can determine triad qualities by 
 
 ### Inversions and their labels
 
-Having identified the intervallic structures of each triad, we can look at the various *inversions* of these triad. This entails knowing the naming conventions of inversions, the shorthand method for labeling them, and a method for determining the chord quality of a triad that is not presented in root position (stacked as two thirds on top of each other.) From the simple presentation of the above example, you should be able to identify that it is not necessary to know each interval within a triad to determine the inversion, but instead, you only need to identify the chordal member in the bass.
+Having identified the intervallic structures of each triad, we can look at the various *inversions* of these triad. This entails knowing:
+- the naming conventions of inversions
+- the shorthand method for labeling inversions
+- a method for determining the chord quality of a triad that is not presented in root position (stacked as two thirds on top of each other.) 
+
+From the simple presentation of the above example, you should have realized that you cannot identify the inversion of the chord until you know the root. The simplest method for finding the root for any triad is to re-arrange the pitches until you have a triad that is stacked using only thirds. To be clear, this means no fourths, no sixths, and everything within a octave. You can even eliminate any duplicate pitches. Once you have this simplified arrangement of pitches, you can easily determine the root and quality of the chord using the method above. 
+
+For inversions, it is not necessary to know each interval within a triad, but instead, you only need to identify the chordal member in the bass.
 
 - Root position: 5/3
   - the root of the chord is in the bass
@@ -144,10 +151,10 @@ Having identified the intervallic structures of each triad, we can look at the v
   - the 5th of the chord is in the bass- The `6` and `4` refer to the simple intervals above the bass
 
 Of note, there are six different possible intervals in a triad, depending on the inversion: two 3rds, two sixths, one fourth, and one fifth. These intervals always exist between the same two chord members.
-- The thirds exist between the root-third and third-fifth
-- The sixths come when you invert these either of the thirds, so between the third-root and fifth-third
-- The fifth always exists between root-fifth
-- The fourth is the inversion of the fifth, so between fifth-root
+- The thirds exist between the root/third and third/fifth
+- The sixths come when you invert these either of the thirds, so between the third/root and fifth/third
+- The fifth always exists between root/fifth
+- The fourth is the inversion of the fifth, so between fifth/root
 
 ### Chordal voicings
 
@@ -165,7 +172,7 @@ Using the examples of open and closed voicings, students often work through a pr
 
 A complete definition combines these ideas.
 - Closed voicing stacks all pitches of a chord in an ascending order that does not skip a chordal member.
-- Open voicings can have chord members stacked in any order, skip chord members. 
+- Open voicings can have chord members stacked in any order and skip chord members. 
     - All open voicings will cover more than one octave because of this.
 
 ### *Root* versus *bass*
