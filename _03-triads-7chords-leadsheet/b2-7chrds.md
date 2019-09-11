@@ -6,7 +6,17 @@ abc: true
 
 ## Class Discussion
 
-TBD
+**How do we determine seventh chord quality?**
+
+The first letter gives the quality of the triad, while the second letter gives the quality of the seventh. For example, Mm7 = a major triad + a minor seventh.
+
+**How do we determine and label seventh chord inversions?**
+
+Seventh chords add third inversion because they have an additional note compared to triads. Their inversion figures are as such:
+- Root position: 7
+- First inversion: 6/5
+- Second inversion: 4/3
+- Third inversion: 4/2
 
 # Further Reading
 
