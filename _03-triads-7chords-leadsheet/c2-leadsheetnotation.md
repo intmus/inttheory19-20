@@ -5,7 +5,9 @@ title: Discussion 3c - Leadsheet Notation
 
 ### Class Discussion
 
-TBD
+**Definitions of new/unfamiliar terms for leadsheet notation:**
+- Sub: taking one note out of the chord and replacing it with another. Ex. D11 (sub #11)
+- Add: adding extra notes to the chord. Ex. Ab7 (add 4)
 
 ## Further Reading
 
