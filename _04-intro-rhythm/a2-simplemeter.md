@@ -5,39 +5,7 @@ title: Discussion 4a - Simple Meters
 
 ## Class Discussion
 
-What is Meter?
-
--How we organize the beats in the music
-
--How we organize time in music
-
--It is a repeatble pattern
-
--A pattern of emphasis
-
--Helps us write music down
-
-Hierarchy of meter
-
--Meter is split into beats, split into divisions, split into subdivisions
-
-What characteristic do all simple meters share?
-
--They divide the beat in two equal parts
-
-Describe top and bottom numbers of time signatures.
-
--The top number is the number of beats in a measure; the bottom number shows which rhythmic value gets the beat
-
-Discuss beaming.
-
--I can see where each beat starts and the divisions and subdivisions
-
--Beats are beamed together
-
-What does duple, triple, quadruple, etc. describe?
-
--Duple: two beats, Triple: three beats, Quadruple: four beats, Quintuple: five beats etc. 
+TBD
 
 # Further Reading
 
