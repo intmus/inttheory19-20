@@ -5,7 +5,30 @@ title: Discussion 4a - Simple Meters
 
 ## Class Discussion
 
-TBD
+**What is rhythm?**
+- A division of the beat. (What's a beat? A division of time...etc etc forever and ever)
+- *Rhythm is the temporal aspect of music*
+
+**What does rhythm communicate?**
+- "When you play what"
+- "How long you play what when you play it"
+- "When and when not"...sound and silence...when things start and stop (*especially* the "and stop" part)
+
+**What do time signatures represent?**
+- Meter!
+  - Meter -> Beats -> Division -> Subdivision
+
+**What's a measure?**
+- A defined space that can only hold as many beats as the meter allows
+  - A meter is defined by the beats!
+  
+**What is a regular meter?**
+- Can be divided into two? (Nope, too specific)
+- Beats are divided evenly? *Something* is divided evenly?
+- *All the beats are the same length*
+  - Examples: 4/4 and 3/4 are regular, whereas 5/8 is irregular...unless the tempo is eighth note = whatever
+  
+  WIP/MORE TO COME!
 
 # Further Reading
 
