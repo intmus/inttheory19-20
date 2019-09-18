@@ -5,31 +5,17 @@ title: Discussion 4b - Compound Meters
 
 ## Class discussion
 
-What characteristic do all compound meters share?
+**What is a compound meter?**
+- Beats divided into 3
 
--Compound meters have beats that are divided into three equal parts
+**Duple triple, and quadruple all mean the same thing they do in simple meters. As for examples:**
+- Duple: 6/8, 6/4, 6/2
 
-Describe top and bottom numbers of time signatures
+**What do the top and bottom numbers of compound time signatures mean?**
+- Top = if you divide by 3, that's how many beats there are? (Yes, but this doesn't tell us what the numbers mean)
+- *Top = how many of the note in the bottom there are, bottom = the note value of the division*
 
--Top number shows the number of divisions in a measure
-
--Bottom number shows the rhythmic value of divisions
-
-What does duple, triple, quadruple, etc. describe?
-
--It shows how many beats are in a measure
-
-Beaming
-
--It shows the beat
-
-Be careful with blanket statements and giving beginners too much information
-
-Perception
-
--Tempo can affect how you hear meter
-
--Simple triple can sound like compound single at a faster tempo
+WIP/MORE TO COME!
 
 # Further reading
 
