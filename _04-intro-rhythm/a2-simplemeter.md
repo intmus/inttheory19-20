@@ -28,7 +28,33 @@ title: Discussion 4a - Simple Meters
 - *All the beats are the same length*
   - Examples: 4/4 and 3/4 are regular, whereas 5/8 is irregular...unless the tempo is eighth note = whatever
   
-  WIP/MORE TO COME!
+**What is a simple meter?**
+- Any time signature that has a 2, 3, or 4 in the denominator? (No: on the right track, though!)
+- Beats hold equal value (No: this is a regular meter)
+- Number of beats in measure = numerator? (Not quite: getting into the top/bottom number meanings, though)
+- *Basic division of a beat is 2*
+
+**What do the top and bottom numbers mean in a simple time signature?**
+- Top = number of beats in a measure
+- Bottom = note value that "gets" the beat
+- What do we mean by "get"? How do we explain this to beginning musicians?
+  - "How many" (top) and "what kind" (bottom)
+  - Think of it as an actual fraction. Replace the top number with a 1 and it will reveal what kind of note is the beat
+  
+**What do duple, triple, and quadruple mean when describing a meter?**
+- *How many beats are in a measure.* Duple has 2, triple as 3, etc. Phrasing is "simple x," for example 4/4 is simple quadruple.
+
+**What is the "theoretically ideal" rhythmic notation of beaming in simple meters?**
+- Ideal: show where the beats are, common: easier to sight read? (Yes...though the second part's subjective)
+- Why is this helpful in a theory class with a lot of analysis?
+  - Can clearly see every beat, makes it easier to discuss
+  
+**A list of common meters in simple duple, triple, and quadruple:**
+- Quadruple: 4/32, 4/1
+- Basicaly: you can have "simple x-uple" for any numbers of beat! Simple quintuple, simple octuple, etc.
+
+**The common beat-counting system that we'll be using in this course:**
+- 1 e &amp; a  2 e &amp; a ...
 
 # Further Reading
 
