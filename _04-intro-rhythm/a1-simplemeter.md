@@ -30,7 +30,7 @@ Using the following examples, determine:
 - the characteristic that all *simple* meters have in common
 - what the top and bottom numbers mean in a simple time signature
 - what *duple*, *triple*, and *quadruple* mean when describing a meter
-- "theoretically ideal" beaming in simple meters 
+- "theoretically ideal" rhythmic notation of beaming in simple meters 
 - a list of common meters in *simple duple*, *simple triple*, and *simple quadruple*
 - the common beat-counting system that we'll be using in this course (written in the "Simple Quadruple" example)
 
@@ -126,11 +126,11 @@ While this system can blend together aurally if said quickly, its primary benefi
 
 ### Theoretically ideal beaming versus common practice
 
-The two examples above demonstrate something I term "theoretically ideal" beaming versus two counterparts of the same rhythm beamed in a more commonly used manner. For these:
-- "Theoretically ideal" beaming shows where each beat occurs in an effort not to obscure the beat
-  - Half notes and whole notes are obvious exceptions.
-  - This focuses more on eighth notes, sixteenth notes, and further subdivisions.
+The two examples above demonstrate something I term "theoretically ideal" rhythmic notation versus two counterparts of the same rhythm beamed in a more commonly used manner. For these:
+- *Theoretically ideal* rhythmic notation never hides a beat under a note length longer than the beat, and instead uses tied notes to represent longer note values.
+  - There are many common exceptions, most notably half notes and whole notes in relatively short measures, but this depends on the meter and context.
+  - Theoretically ideal *beaming* applies to any note length that can be connected by beams--eighth notes, sixteenth notes, and further subdivisions.
 
-This is very much inline with my general intention. Well-engraved music is meant to look pleasing, but it also should be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* beaming would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its strictest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
+This is very much inline with with this text's general intention. Well-engraved music is meant to look pleasing, but it also should be easy for a performer to read. This often leads to grouping rhythmic patterns according to non-rhythmic ideas: lyrics, spacing measures across the page, phrasing, a limited number of systems, etc. *Theoretically ideal* rhythmic notation would never obscure a beat in order to provide the easiest reading of harmony within a score. Of course, no musician will ever use this in its strictest form because it would become difficult to read in many situations; imagine not using a whole note in 4/4 time and instead using four tied quarter notes. 
 
-That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to help students to begin demonstrating mastery of meters and rhythmic values.
+That being said, it is important for students of music to begin trying to understand how grouping and beaming decisions are made, because in harmonic analysis, it is easy to sometimes miss voices because of obscured beats. It is also an excellent thought exercise to help students begin demonstrating mastery of meters and rhythmic values.
