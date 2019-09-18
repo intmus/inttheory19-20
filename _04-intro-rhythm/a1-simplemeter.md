@@ -124,7 +124,7 @@ It seems that for every unique syllable, there is a beat-counting system for aff
 
 While this system can blend together aurally if said quickly, its primary benefit is that it has a unique syllable for each level through the first subdivision, and this makes communicating easier with higher specificity. For example, it is specific to ask, "Is the G4 on the 'e' of beat four a non-chord tone?", and this does not require further information.
 
-### Theoretically ideal beaming versus common practice
+### Theoretically ideal rhythmic notation versus common practice
 
 The two examples above demonstrate something I term "theoretically ideal" rhythmic notation versus two counterparts of the same rhythm beamed in a more commonly used manner. For these:
 - *Theoretically ideal* rhythmic notation never hides a beat under a note length longer than the beat, and instead uses tied notes to represent longer note values.
