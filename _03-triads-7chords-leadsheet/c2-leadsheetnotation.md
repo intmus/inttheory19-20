@@ -9,6 +9,21 @@ title: Discussion 3c - Leadsheet Notation
 - Sub: taking one note out of the chord and replacing it with another. Ex. D11 (sub #11)
 - Add: adding extra notes to the chord. Ex. Ab7 (add 4)
 
+How we're "supposed" to interpret leadsheet notation can change depending on the composer. One might not care whether you interpret C^11 as adding an 11th or a 4th, whereas others will *specifically* want an 11th because of how its sound differs from a 4th
+
+**What is the difference beteen an add 6 chord and an inverted minor seventh chord? (Ex: C^6 and Am7/C?)**
+- This is the point where roman numeral analysis becomes more useful! Leadsheet notation = construction, roman numeral analysis = finding function. The two chords have vastly different functions even though they contain the same notes and are shaped in the same way
+
+**What do we sub out in a sub chord?**
+- Whatever is closest! Ex: C (sub 6) replaces the 5th with the 6th
+
+**Why is leadsheet notation important for our class?**
+- Another way of organization?
+- Understanding a chord can be more than one thing?
+- Figured bass purposes?
+- Easily understandable without having to bring tonality into it
+  - Yes! Roman numerals rely on context, but leadsheet notation doesn't.
+
 ## Further Reading
 
 ### From *Open Music Theory*
