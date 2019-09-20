@@ -10,7 +10,7 @@ The examples on the following page will help you explore a few of the many ways 
 
 ## Syncopation
 
-*Syncopation* occurs when a note emphasizes the "weak" beats of a measure, but as discussed in Overview 4c, meter is based on perception and is therefore a subjective phenomenon. The very idea of strong and weak beats relies on a steady pulse to be established. Take the first three bars of the following example. Even though they are clearly written in a syncopated pattern that begins on the & of 1, most listeners would hear the first pitch as the downbeat because it is the first pitch they hear. However, when the top line is added in the fourth measure, it becomes easy to hear the bottom line as syncopated because a stronger reference has been established.
+*Syncopation* occurs when a note emphasizes the "weak" beats of a measure, but as discussed in Topic 4b, meter is based on our perception and is therefore a subjective phenomenon. Listen to the first three bars of the following example without looking at the music. Try tapping your perceived pulse until the end of the excerpt, and then see if your mental construction of the rhythm matches the piece.
 
 {% capture ex1 %}X:1
 T:Syncopation
@@ -26,9 +26,15 @@ z/2 G G G G/2-| G/2G/2 G G c/2G/4F/4| G4||
 z/2 G G G G/2-| G/2G/2 G G c/2G/4F/4| G4|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
+### Conclusions
+
+The very idea of strong and weak beats relies on a recognizable, steady pulse. Even though the first line above is clearly written in a syncopated pattern that begins on the & of 1, most listeners hear the first pitch as the downbeat because it is the first pitch they hear. However, when the top line is added in the fourth measure, it becomes possible to hear the bottom line as syncopated because an earlier reference has been established. In general, a listener will hear the first sound of a piece of music as a downbeat unless other contextual clues--such as melodic shape, note shape, or accents--lead them to think otherwise.
+
+Syncopation occurs when emphasis is put on the "weak" beats of the meter, but the above example shows the subjectivity of this. If a listener listens to the example without looking at the notation, it would be impossible to know that the example starts on an offbeat. It is therefore worth noting that strong and weak beats are determined by *context*, not by meter. Once the top line is added to the excerpt, the listener may still hear the bottom line as taking place on the beat if they listened to it without looking at the notation, while some may "switch" the beat in their mind to make the bottom line a strongly syncopated rhythm. Syncopation can occur within a single line if the beat is established first and then weak beat rhythms are introduced, but this is still an example of establishing the strong beats for the listener before syncopation can begin.
+
 ## Meters with different beat lengths but identical numbers of divisions
 
-The example contains a rhythmic pattern scored in two different meters. Discuss the differences between the two ways of notating the examples and which one best reflects your perception of the excerpt. Are there other methods of which you can think that could alter a listener's perception of meter?
+The next example contains a rhythmic pattern scored in two different meters. Discuss the differences between the two ways of notating the examples and which one best reflects your perception of the excerpt. Are there other methods of which you can think that could alter a listener's perception of meter?
 
 After you hit play, do not follow the part in order to allow your ear to determine how it hears the meter.
 
@@ -40,6 +46,12 @@ Q:1/4=100
 K:C
 EA eB df| EA eB df:| [M:6/8] EAe Bdf| EAe Bdf:|]{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
+
+### Written time signatures versus aural perception
+
+This excerpt demonstrated how a variation--in this example, melodic shape--can affect listener perception. Aurally, both parts sounded identical regardless of the meter, but when listening and not looking at the excerpt, most listeners feel that the piece is in a compound duple meter. This demonstrates that even though a pattern can be written in various meters, there are other factors that can strongly pull toward a particular meter. In this case, the motif is melodically grouped into two groups of three, so it pulls most of the listeners toward a 6/8 feel. One may hear this in 3/4, but this would require other factors such as accents, silence, and tempo to affect how the listener perceives the passage.
+
+It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous to say that meter is *entirely* subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*), so a good performer is aware of what the meter is trying to tell them.
 
 ## How previous material affects perception
 
@@ -55,21 +67,7 @@ The final clip starts in the introduction of this piece. This is clearly in a di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=47" frameborder="0" allowfullscreen></iframe>
 
-## Conclusions
-
-### Syncopation
-
-Syncopation occurs when emphasis is put on the weak beats of the meter, but the first example shows the subjectivity of this. When the class listened to the bottom line of the first example without the top line, every person heard it as starting on the beat. This may be obvious, but it is worth stating that strong and weak beats are determined by *context*, not by meter. Once the top line is added to the excerpt, the bottom line becomes a strongly syncopated rhythm. Syncopation can occur within a single line if the beat is established first and then off-beat rhythms are introduced, but this is still an example of establishing the strong beats for the listener before syncopation can begin.
-
-### Written time signatures versus aural perception
-
-The second excerpt demonstrated how a variation -- in this example, melodic shape -- can affect listener perception. Aurally, both parts sounded identical regardless of the meter, but when listening and not looking at the excerpt, most students felt that the piece was in a compound duple meter. This demonstrates that even though a pattern can be written in various meters, there are other factors that can strongly pull toward a particular meter. In this case, the motif is melodically grouped into two groups of three, so it pull most of the listeners toward a 6/8 feel. The one student that heard it in 3/4, heard it as heavily syncopated.
-
-The class noted that other factors such as accents, silence, and tempo can all have a strong effect on how a listener perceives a particular passage.
-
-It should be noted that many composers rely on using meters to evoke particular rhythmic biases in the performer, so it is disingenuous to say that meter is *entirely* subjective. Stravinsky was well-known to write the same passage in various meters (e.g. *Rite of Spring*, *L'histoire du Soldat*), so a good performer is aware of what the meter is trying to tell them.
-
-### Previous material affecting perception
+### Conclusions
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=138" frameborder="0" allowfullscreen></iframe>
 
