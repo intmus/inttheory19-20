@@ -5,7 +5,11 @@ title: Discussion 4c - Metric perception
 
 # Class discussion
 
-TBD
+For those that heard the measure in the syncopation example as a bar of 7/8: what pulls your ear that way?
+- The notes within the piece sound as if they could be in 7/8 in context--higher notes sound like they should be downbeats
+
+Factors that changed how we heard the melodic shape example?
+- Made of ascending lines--melodic contour creates an accent
 
 # Further Reading
 
