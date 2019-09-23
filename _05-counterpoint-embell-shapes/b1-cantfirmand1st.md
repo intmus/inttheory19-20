@@ -11,7 +11,7 @@ Exercises in strict voice-leading, or species counterpoint, begin with a single,
 - variety  
 - motion towards a goal
 
-The "rules" of counterpoint are compiled from the important writings and treatises of the eighteenth century, most notably Johann Joseph Fux. As with all historical studies, especially those that are spread across a continent over decades, there are inconsistencies between systems and styles. We will be looking at a simplified version of contrapuntal writing to focus our thoughts on melodic interaction, however I urge you to complete a full study of counterpoint at some point in your musical development in order to properly explore this critical facet of music. Our discussion of this topic, however, will be relatively brief, so do your best to absorb the methodology of good counterpoint (voice-leading).
+The "rules" of the style of counterpoint that we will study are compiled from important writings and treatises of the eighteenth century, most notably Johann Joseph Fux, so this style of counterpoint is typically referred to as *eighteenth century counterpoint*. As with all historical studies, especially those that are spread across a continent over decades, there are inconsistencies between systems and styles. We will look at a simplified version of contrapuntal writing to focus our thoughts on melodic interaction, however I urge you to complete a full study of counterpoint at some point in your musical development in order to properly explore this critical facet of music. Our discussion of this topic, however brief, aims to help you absorb the methodology of good counterpoint (voice-leading).
 
 ### Terms useful for discussing counterpoint
 
@@ -27,8 +27,7 @@ We use the terms *stepwise*, *skip*, and *leap* exclusively to describe melodic 
 
 ### 1:1 Counterpoint (first species)
 
-In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line—called the *counterpoint*—above or below the cantus firmus. That new line contains one note for every note in the cantus--both the cantus firmus and the counterpoint will consist of only whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.
-
+In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line--called the *counterpoint*--above or below the cantus firmus. That new line contains one note for every note in the cantus; both the cantus firmus and the counterpoint will consist of only whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.
 
 ## Goals for this topic
 
@@ -83,10 +82,12 @@ C,| E,| F,| A,| G,| F,| G,| F,| E,| D,| C,|]{% endcapture %}
 
 ## Conclusions
 
-As you develop your counterpoint rules, your observations will naturally separate into three categories: 
+As you develop your counterpoint rules, your observations will naturally separate into three categories mentioned above: 
 - rules within a single melody (the horizontal aspect of the music)
 - rules for comparing the intervals between the two melodies (the vertical aspect of the music)
-- and rules for studying the motion between the line. Or put simply, melodic, harmonic, and voice-leading.
+- and rules for studying the motion between the line. 
+
+To plut this simply, there are rules for melody, harmony, and voice-leading.
 
 ### Melodic intervals and structure
 

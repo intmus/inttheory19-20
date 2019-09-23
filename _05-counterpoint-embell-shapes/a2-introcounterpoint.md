@@ -5,57 +5,7 @@ title: Discussion 5a - Introduction to Counterpoint
 
 # Class discussion
 
-Class Discussion
-
-Textbook needs a definition of the word counterpoint.
-
-Why do we study counterpoint in a general music theory course?
-
--We have to understand why we hear music the way we do.
-
--It goes along with Aural Skills
-
--It informs our performance practice
-
--It’s like learning a new language, counterpoint is putting words together.
-
-These lines are built with the others in mind, but still are intentional and functional as one line
-
-Consonant intervals: Sounds stable on its own, for example major chord.
-
-Imperfect- M3, m3, M6, m6
-
-Perfect- P1, P5, P8
-
-Dissonant intervals: Sounds like it needs to resolve, for example a diminished chord
-
-P4, M2, m2, M7, m7, A4, d5
-
-Why are fourths dissonant?
-
--They sound like they still need to resolve
-
-What are the different kinds of contrapuntal motion?
-
-Static: Lines that do not move
-
-Contrary: Movement in opposite direction
-
-Similar: Lines moving in the same direction, and arrive at different interval sizes
-
-Oblique: One line moves while the other(s) remain the same
-
-Parallel: Lines moving the in same direction and arrives at same interval size
-
-What is counterpoint
-
--smooth voice leading
-
--different lines of music or melodies moving together
-
-What is the value of counterpoint
-
--one of the big concepts of music, voice leading!
+TBD
 
 # Further reading
 
