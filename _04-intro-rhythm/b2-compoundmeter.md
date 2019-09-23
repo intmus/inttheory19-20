@@ -15,8 +15,6 @@ title: Discussion 4b - Compound Meters
 - Top = if you divide by 3, that's how many beats there are? (Yes, but this doesn't tell us what the numbers mean)
 - *Top = how many of the note in the bottom there are, bottom = the note value of the division*
 
-WIP/MORE TO COME!
-
 # Further reading
 
 ## From *Open Music Theory*
