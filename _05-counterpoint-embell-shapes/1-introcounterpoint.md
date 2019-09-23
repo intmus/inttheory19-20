@@ -3,9 +3,9 @@ layout: chapter
 title: Overview 5a - Introduction to Counterpoint
 ---
 
-# Class reading from *Open Music Theory*
+**As you read the following excerpt from Kris Shaffer's *Open Music Theory*, try to find the value in developing a basic understanding of counterpoint in a tonal harmony--two very different styles of composition. We will only discuss strict counterpoint briefly, but it can provide a good deal of insight into our studies.**
 
-**As you read this, try to answer the question, "What is the value in developing a basic understanding of counterpoint in a tonal harmony course?"**
+# Class reading from *Open Music Theory*
 
 The study of the theory of Western music involves three main components: voice-leading, harmony, and form. *Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea. *Harmony* addresses the rules or norms for combining chords into successions. *Form* addresses the rules or norms for the combination of phrases and other small musical units into larger units—including whole movements and works. 
 
@@ -39,15 +39,15 @@ The specific method we will use is called *species counterpoint*—so called bec
 
 Any lesson could begin with the question, "Why study this it all?", and the discussion of counterpoint is no different. Why should we study counterpoint in a tonal harmony class when there are entire courses in later semesters dedicated to this specific subject?
 
-First, you should try to conceptualize what counterpoint is in a musical context. Re-read the second sentence of the passage above.
+First, you should try to conceptualize what counterpoint is in a musical context. Notice the second sentence of the passage above:
 
 >"*Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea."
 
-And then read the second paragraph.
+And then, from the second paragraph:
 
 >However, of the three [aspects of music], voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*.
 
-A brief study of counterpoint is the next step for us as we work through increasing levels of musical complexity. We began with a single pitch, then combined pitches to create intervals. We must then combine intervals to create melodies and combine melodies to create counterpoint. Studying counterpoint allows us to strip away many of the complicating factors of musical harmony and begin to understand the origin of tonality. 
+A brief study of counterpoint is the next step as we work through increasing levels of musical complexity. We began with a single pitch, then combined pitches to create intervals. We then combine intervals to create melodies and combine melodies to create counterpoint. Studying counterpoint allows us to strip away many of the complicating factors of musical harmony and begin to understand the origin of tonality. 
 
 In the next topic, we will establish some basic rules for constructing a simple melody and then look at what happens when we create a second melody that works with the original. It is from these interactions that harmony evolved as we know it, so to study counterpoint is to study the fundamental of Western music. 
 
@@ -57,4 +57,4 @@ Finally, consider these two further takeaways from the reading:
 - Music is a built upon tension and release.
 - Music is structured to create expectations for the listener and then either fulfill or deny those expectations. 
 
-These observations consider the nature of musical composition in general, because they also demonstrate the fundamentals of counterpoint. Tension, release, and expectations are based on two primary functions: intervals and melodic motion, and we will begin looking at these for the rest of this unit.
+These observations consider the nature of musical composition in general, because they also demonstrate the fundamentals of counterpoint. Tension, release, and expectations are based on two primary functions: intervals and melodic motion, and we will study these for the rest of this unit.
