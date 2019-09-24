@@ -5,7 +5,16 @@ title: Discussion 5a - Introduction to Counterpoint
 
 # Class discussion
 
-TBD
+**Define counterpoint:**
+- Strict voice leading; lots of rules to follow? (On the right track: it's definitely a very strict system)
+- *Studying melody*
+
+**Consonant and dissonant intervals**
+- Perfect consonances: P1, P5, P8
+- Imperfect consonances: M3, m3, M6, m6
+
+**Types of contrapuntal motion**
+- TBD
 
 # Further reading
 
