@@ -31,9 +31,9 @@ In first species counterpoint, we begin with a *cantus firmus* (new or existing)
 
 ## Goals for this topic
 
-Use the following examples of first-species (1:1) counterpoint to develop guidelines for writing in this style. Each of the following examples is in the major mode and has the counterpoint above the cantus firmus, but be aware that these two characteristics are not indicative of all counterpoint; we are using a simplified structure as an introduction. 
+Use the following examples of first-species (1:1) counterpoint to develop guidelines for writing in this style. Each of the following examples is in the major mode and has the counterpoint above the cantus firmus, but be aware that not all counterpoint is written this way; it is common to have the cantus firmus above the counterpoint or to compose in the minor mode. We are using a simplified structure as an introduction to the concepts.
 
-**As you develop your rules for first-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line was written by following the stylistic rules.**
+**As you develop your rules for first-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line was written by following the stylistic rules, not the cantus firmus.**
 
 Generally, your rules should be divided into three categories:
 - Constructing a *melodic line*
@@ -92,7 +92,7 @@ To plut this simply, there are rules for melody, harmony, and voice-leading.
 ### Melodic intervals and structure
 
 These are some general guidelines for each of the *melodic* aspects of 1:1 counterpoint.
-- Your first species counterpoint will have typically 8 to 14 pitches.
+- First species counterpoint typically has 8 to 14 pitches.
 - As a general rule, use stepwise motion as much as possible.
     - Thirds or other leaps can form triads, and this can create a non-functional implied harmony. 
 - The final note should be approached by stepwise contrary motion.
@@ -100,7 +100,7 @@ These are some general guidelines for each of the *melodic* aspects of 1:1 count
 - There are generally no repeated pitches
     - Meaning that static and oblique motion do not occur in first species because they both require at least one voice to repeat pitches
 - The line should have a clear high (or low) point.
-    - Repeating the highest or lowest pitch undermines the climax.
+    - Repeating the highest pitch--or lowest if the contour arcs downward--undermines the climax. A strong melody will have a clear beginning, middle, and end, so having multiple climaxes muddies this journey.
 - Leaps should be used sparingly, because too many leaps imply certain types of harmony that were not common in this style.
     - Leaps should always be aproached and left by step, preferably in contrary motion.
     - You may sometimes leap to or from the climax. 
@@ -108,10 +108,10 @@ These are some general guidelines for each of the *melodic* aspects of 1:1 count
 ### Harmonic intervals and structure
 
 - 1:1 counterpoint will likely start and end on a perfect octave (or unison) of the tonic pitch, although a perfect fifth can be used to begin the counterpoint if necessary.
-- In counterpoint, perfect intervals should only be approached by oblique or contrary motion, although oblique motion is not allowed in first species.
+- In this style of counterpoint, perfect intervals should only be approached by contrary or oblique motion, although oblique motion is not allowed in first species. (You can use oblique in the later species.)
 - You should only use consonant intervals in first species, which you can review from [the previous topic]({{ site.baseurl }} /05-counterpoint-embell-shapes/a2-introcounterpoint.html).
 
-For quick reference, this means that the acceptable consonant intervals in first species are:
+To be clear, this means that the acceptable consonant intervals in first species are:
 - **Perfect**: Perfect fifths and octaves
 - **Imperfect**: Major and minor thirds and sixths
 

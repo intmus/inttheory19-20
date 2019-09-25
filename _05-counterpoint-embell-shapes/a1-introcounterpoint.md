@@ -101,11 +101,11 @@ Students familiar with modern music are often surprised to find that a perfect 4
 ### Contrapuntal motion
 
 At its most basic, classifying contrapuntal motion is fairly simple to understand. When we compare two melodic lines, there are five types of possible motion:
-- parallel - two lines that move in the same direction and have the same interval *size*
-- similar - both lines move in the same direction but have different interval sizes
-- contrary - two lines that move in opposite directions
-- oblique - one line stays the same and the other line moves in any direction
-- static: neither line moves 
+- **parallel** - two lines that move in the same direction and have the same interval *size*
+- **similar** - both lines move in the same direction but have different interval sizes
+- **contrary** - two lines that move in opposite directions
+- **oblique** - one line stays the same and the other line moves in any direction
+- **static** - neither line moves 
   - static motion supercedes parallel motion
 
 Each of these types of motion compares the direction of each line (i.e. ascending and descending) and the size of the interval. 
