@@ -36,7 +36,7 @@ Use the following examples of first-species (1:1) counterpoint to develop guidel
 **As you develop your rules for first-species counterpoint, look only at the *counterpoint (CP)* line; the *cantus firmus (CF)* was provided, so the counterpoint line was written by following the stylistic rules, not the cantus firmus.**
 
 Generally, your rules should be divided into three categories:
-- Constructing a *melodic line*
+- Constructing a *melodic line* and *melodic intervals*
     - Length
     - Starting and ending pitches
     - Approaching the final note
@@ -46,7 +46,7 @@ Generally, your rules should be divided into three categories:
         - Resolutions following leaps
     - Range
     - Climax (position in melody and frequency)
-- Acceptable *intervals between lines*
+- Acceptable *harmonic intervals*
     - Valid harmonic intervals
         - Particularly starting and ending intervals
     - Approaching perfect intervals
