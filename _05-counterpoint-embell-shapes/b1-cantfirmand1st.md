@@ -72,7 +72,7 @@ w:P8 M6 P5 m3 m3 M6 m3 P8 m6 M6 P8
 c| d| c| d| A| B| d| f| e| d| c|]
 w:P8 m3 m6 P8 M3 M3 M6 m3 M3 m3(m10) P8
 c| g| f| c| d| a| g| d| e| B| c|]
-w:P8 m3 m6 P8 P5 M3 M6 m6 M3 M6 P8
+w:P8 m3 m6 m3 P5 M3 M6 m6 M3 M6 P8
 V:2 clef=bass name=CF
 C,| D,| F,| C| B,| C| A,| E| D| C|]
 C,| D,| F,| D,| E,| C,| D,| E,| E| D| C|]
