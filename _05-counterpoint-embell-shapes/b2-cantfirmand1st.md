@@ -6,36 +6,50 @@ title: Discussion 5b - Cantus Firmus and 1:1 Counterpoint
 ## Class discussion
 
 Constructing a *melodic line* and *melodic intervals*
+  
   Length?
   - 10-12 bars is average for 1:1 counterpoint, but the full range is 8-14
+  
   Starting and ending pitches (key?)
   - The tonic of whatever key we're in
+  
   Approaching the final note
   - Contrary stepwise motion. Ex: re in one voice and ti in another, both will move to do
+  
   Repeated pitches...yay or nay?
   - NAY. You cannot repeat pitches in your line
+  
   Melodic intervals
   - Stepwise, skips, and leaps are all ok!
+    
     Leaps? Approach and resolution of leaps?
     - Approached and followed by stepwise motion in the opposite direction of the leap. Ex: step up, leap down, step up. Think of a sine wave!
+   
    Range
    - tbd
+   
    Climax
    - tbd
  
 Accpetable *harmonic intervals*
+  
   Starting and ending harmonic intervals?
   - P8
+  
   Approaching perfect intervals
   - tbd
+  
   Approaching the final pitch
   - tbd
+  
   Number of times an interval size can be used consecutively?
     - tbd
+      
       Difference between perfect and imperfect consonances?
       - tbd
       
 Accpetable *motion between lines*
+  
   Acceptable types of motion
   - Parallel, similar, and contrary
 
