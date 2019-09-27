@@ -7,14 +7,19 @@ title: Discussion 5a - Introduction to Counterpoint
 
 **Define counterpoint:**
 - Strict voice leading; lots of rules to follow? (On the right track: it's definitely a very strict system)
-- *Studying melody*
+- *Studying melody*, specifically studying melody that is *two melodies happening at the same time*
 
 **Consonant and dissonant intervals**
 - Perfect consonances: P1, P5, P8
 - Imperfect consonances: M3, m3, M6, m6
+- A note: "consonant" and "dissonant" in this style = "allowed" and "not allowed." P5s, P8s, M3s, etc. are allowed, whereas P4s are not.
 
 **Types of contrapuntal motion**
-- TBD
+- Parallel: same direction of melodic interval, same size harmonic interval (not necessarily the same *quality*)
+- Contrary: opposite direction of motion, intervals don't matter
+- Oblique: one voice is stationary, the other moves
+- Static: no movement in either voice
+- Similar: same direction, different harmonic interval sizes
 
 # Further reading
 
