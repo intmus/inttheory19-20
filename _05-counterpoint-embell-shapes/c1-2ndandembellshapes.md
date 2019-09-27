@@ -95,11 +95,13 @@ Perfect Intervals
 
 ### Motion Between Lines
 
-passing motion (P): motion approached by step and left by step in the same direction
+In discussing counterpoint, you may have noticed that the restricted melodic options create a variety of "standard" melodic shapes. We can describe a few of these here, and this will be explored fully when we begin studying non-chord tones in diatonic harmony in Unit 9.
 
-neighbor motion (N): motion approached by step and left by step in the opposite direction
+**passing motion** (P): motion approached by step and left by step in the same direction
 
-- these two types of motion are the only way you can use dissonant intervals in a line of counterpoint in 2nd species
-- neighbor motion is only allowed for dissonances as lower neighbor motion
+**neighbor motion** (N): motion approached by step and left by step in the opposite direction
 
-appoggiatura (APP): motion approached by leap and left by step in the opposite direction
+- Note that these two types of motion are the only way you can use dissonant intervals in a line of counterpoint in 2nd species.
+- Neighbor motion is only allowed for dissonances as lower neighbor motion.
+
+**appoggiatura** (APP): motion approached by leap and left by step in the opposite direction
