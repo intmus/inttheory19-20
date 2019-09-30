@@ -7,7 +7,7 @@ title: Class reading - An introduction to basso continuo keyboard-style voice-le
 
 ## From *Open Music Theory*
 
-### Edited by Sean Butterfield
+### Modified for this website by Sean Butterfield
 
 *Basso continuo* emerged in the seventeenth century as a shorthand notation for keyboardists (typically church organists) who were accompanying a soloist or small ensemble performing a work originally composed for a larger group. For example, if two or three singers were tasked with performing an eight-voice choral work, they could select the most prominent parts to sing, while an organist could cover the rest. Performing five or six lines of contrapuntal choral music could be a significant challenge, so organists needed a way to condense the texture while still preserving the core musical structure to support the vocalists.
 

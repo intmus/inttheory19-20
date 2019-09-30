@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Overview 5a - Introduction to Counterpoint
+title: Class reading - Introduction to Counterpoint
 ---
 
 **As you read the following excerpt from Kris Shaffer's *Open Music Theory*, try to find the value in developing a basic understanding of counterpoint in a tonal harmony--two very different styles of composition. We will only discuss strict counterpoint briefly, but it can provide a good deal of insight into our studies.**

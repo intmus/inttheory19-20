@@ -1,13 +1,13 @@
 ---
 layout: chapter
-title: Class Reading - Style and Tendency
+title: Class reading - Style and Tendency
 ---
 
 # Class reading
 
 ## From *Open Music Theory* by Kris Shaffer
 
-In explaining musical styles, [Leonard Meyer](https://openlibrary.org/works/OL3267613W/Style_and_music) divides musical characteristics into three categories: *laws*, *rules*, and *strategies*. Laws are characteristics of music that are based on human biology and psychology, and as a result laws are more-or-less universal. Rules are culturally conditioned. They are hallmarks of a particular style that are more-or-less universal within the style, but differ from style to style and culture to culture. Finally, strategies are specific ways in which composers work within a style — the things that make one composer's work sound different from another's, even if they compose in the same style.
+In explaining musical styles, [Leonard Meyer](https://openlibrary.org/works/OL3267613W/Style_and_music) divides musical characteristics into three categories: *laws*, *rules*, and *strategies*. Laws are characteristics of music that are based on human biology and psychology, and as a result laws are more-or-less universal. Rules are culturally conditioned. They are hallmarks of a particular style that are more-or-less universal within the style, but differ from style to style and culture to culture. Finally, strategies are specific ways in which composers work within a style—the things that make one composer's work sound different from another's, even if they compose in the same style.
 
 For the most part, principles of voice-leading or harmonic progression are "rules" according to Meyer's definitions. They are specific to a style. Or, in some cases, they are shared among a few styles of Western music, but are far from universal. Thus, it can be helpful to think of them as collective traits of some music(s) we seek to understand and emulate, rather than hard-and-fast *it-must-be-done-this-way* strictures for all musical practice.
 
