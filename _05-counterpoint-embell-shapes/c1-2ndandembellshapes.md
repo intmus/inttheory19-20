@@ -99,9 +99,9 @@ In discussing counterpoint, you may have noticed that the restricted melodic opt
 
 **passing motion** (P): motion approached by step and left by step in the same direction
 
-**neighbor motion** (N): motion approached by step and left by step in the opposite direction
+**neighboring motion** (N): motion approached by step and left by step in the opposite direction
 
-- Note that these two types of motion are the only way you can use dissonant intervals in a line of counterpoint in 2nd species.
-- Neighbor motion is only allowed for dissonances as lower neighbor motion.
+- Note that these neighboring and passing motion are the only types of motion that allow you to use dissonant intervals in second species counterpoint.
+    - Dissonance using neighboring motion is only allowed using a lower neighbor, never an upper neighbor.
 
 **appoggiatura** (APP): motion approached by leap and left by step in the opposite direction
