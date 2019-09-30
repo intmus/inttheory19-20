@@ -5,47 +5,7 @@ title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 
 ## Class discussion
 
-Which chords are stronger? (from Implied harmonies from two voices, Lesson 6b)
-
--The tri tone (augmented fourth) resolution! (the journey is important)
-
--Having the movement land on the root! (the arrival is important)
-
--The last example is particularly weak: no root, no leading tone, oblique motion
-
-What is a passing tone?
-
--a NON-chord tone
-
--Stepwise motion
-
--The tones move in one direction
-
--Approached by stepwise motion, and left in the same direction
-
-Neighbor tones
-
--non-chord tones
-
-Approached by stepwise motion and left in the opposite direction
-
-Suspensions
-
-How do we define suspensions?
-
--Approached by static motion
-
--The note resolves downward by step during the second chord
-
-What are the three parts of a suspension?
-
--*Preparation*: The note before they become non-chord tones, *Suspension*: The note that hangs out at the party for too long, *Resolution*: The stepwise motion down to another chord tone
-
-How do we determine the labels (the numbers after the *sus*)?
-
--These are found by comparing the intervals against the bass, i.e. a 4-3 suspension would be a 4th above the bass note resolving to a 3rd above the bass note
-
--When the suspension is in the bass, the suspension label becomes larger, not smaller. It is measured against the most dissonant voice, typically a second which would lead to a 2-3 suspension. We measure against the most dissonant voice because of tradition, and also because we hear the dissonance moving much more than we hear the consonance remaining the same
+TBD
 
 # Further reading
 

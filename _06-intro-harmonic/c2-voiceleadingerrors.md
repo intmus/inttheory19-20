@@ -6,25 +6,7 @@ abc: true
 
 ## Class discussion
 
-Doubling rules in part writing
-
--No doubled 3rds in triads
-
--No doubled 3rds and 7ths in seventh chords
-
--Doubling roots and fifths are okay!
-
--Tripling roots is okay!
-
--The fifth is the least important and may be omitted
-
--It is okay to have more than an octave in tenor and bass
-
--It is NOT okay to have more than an octave in soprano/alto and alto/tenor, Adjacent!
-
--Octaves are okay, but should bring up red flags
-
-
+TBD
 
 # Further reading
 
