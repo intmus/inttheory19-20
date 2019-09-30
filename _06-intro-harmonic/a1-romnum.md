@@ -90,7 +90,7 @@ You are likely already familiar with the basics of using Roman numerals to label
     - We do this for two reasons: 
       - We cannot raise a M7 above the root; it just becomes the root.
       - A d7 would be lowered *twice* if we used a M7 as default, and we would have to devise a new system for showing this.
-  - A <sup>M</sup> is added before the inversion figure for all major seventh chords, even though they do occur diatonically. This allows us to differentiate chord qualities clearly once secondary functions and mode mixture are introduced later in the course.
+  - A <sup>M</sup> is added before the inversion figure for all major seventh chords, even though they do occur diatonically. This allows us to differentiate chord qualities clearly once secondary functions and mode mixture are introduced later in the course. Non-diatonic harmonies are common enough that the Roman numeral system must be able to clearly distinguish them while retaining its clarity.
   - The diminished symbol, <sup>o</sup>, is added before the inversion figure for fully diminished seventh chords. This also shows that the chordal fifth is lowered, the same as in a triad.
     - If you think of a m7 above the root as the default chordal seventh for inversion figures, then adding <sup>o</sup> lowers the chordal seventh by a half step.
     - As you know, half diminished seventh chords (diminished minor chords) have a lowered fifth above the root but a *minor* seventh, rather than the diminished seventh of a fully diminished seventh chord. For half diminished chords, we replace the <sup>o</sup> with a <sup>&oslash;</sup> to show that the chordal fifth is lowered but the chordal seventh is a m7 above the root.
