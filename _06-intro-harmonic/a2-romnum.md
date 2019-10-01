@@ -5,7 +5,23 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 
 # Class discussion
 
-TBD
+**What does Cmin7/E-flat tell us?**
+- First inversion, E-flat is in the bass
+- All 4 chord members (C Eb G Bb)
+- We *do not* know what key we are in and how this chord functions within the key. It is completely removed from form
+
+**Roman numerals**
+- The actual number identifies the root. As we'll see in a second, this can be altered just like the other chord members
+- Uppercase/lowercase identifies the third (major/minor)
+- 5ths are assumed perfect unless there's a +, a half-diminished, or a diminished sign in the superscript
+  - The diminished sign is special because it indicates that both the fifth and seventh are lowered. You can tell the difference from the half-diminished sign because the latter has a slash through it (it's cut in "half")
+- 7 by itself = dominant 7th. Can be altered with M, a half-diminished, or a diminished sign
+  - Sometimes chords like IV7 are notated without the clarification that it's a major seventh chord--you're expected to know because a major seventh is diatonic. However, when we get past the Classical era this method breaks down because all kinds of crazy stuff starts happening with harmony from the Romantic era onward
+  
+**Altering Roman numerals for non-diatonic chord qualities**
+- Can have any triad in any key as long as you know how it relates to the key
+- Accidental in front alters the chord from its diatonic version. Ex: in C major, bVI = Ab major chord
+  - Only sharps and flats are used this way--no naturals. Even in sharp keys, you would use a flat sign to indicate a lowered chord. Likewise, a sharp indicates a raised chord even in flat keys
   
 # Further Reading
 
