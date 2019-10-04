@@ -11,7 +11,7 @@ title: Discussion 6a - Roman Numerals in Harmonic Analysis
 - We *do not* know what key we are in and how this chord functions within the key. It is completely removed from form
 
 **Roman numerals**
-- The actual number identifies the root. As we'll see in a second, this can be altered just like the other chord members
+- The roman numeral itself identifies the root. You can tell what note the root is because its number correlates directly to its scale degree. For example, in C major vi indicates an A minor chord because A is the sixth scale degree in that key. As we'll see in a second, the root can be altered just like the other chord members
 - Uppercase/lowercase identifies the third (major/minor)
 - 5ths are assumed perfect unless there's a +, a half-diminished, or a diminished sign in the superscript
   - The diminished sign is special because it indicates that both the fifth and seventh are lowered. You can tell the difference from the half-diminished sign because the latter has a slash through it (it's cut in "half")
