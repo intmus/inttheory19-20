@@ -72,18 +72,18 @@ L:1/2
 Q:1/4=80
 K:C
 V:1
-Bc|| F/2D/2E|| d/2f/2e|| Bc|| G/2F/2E|| G/2A/2G|]
+Bc|| F/2D/2E|| d/2f/2e|| Bc|| Bc|| G/2A/2G|]
 V:2 clef=bass
-"M3"G,/2"M6"D,/2"P8"C,|| "m7"G,/2"P5"G,/2"M3"C,|| "P5"G,/2"m7"G,/2"M3"C,|| "+4"F,/2"M6"D,/2"m6"E,|| "m6"B,,/2"d5"B,,/2"M3"C,|| "M2"F,/2"M3"F,/2"m3"E,|]{% endcapture %}
+"M3"G,/2"M6"D,/2"P8"C,|| "m7"G,/2"P5"G,/2"M3"C,|| "P5"G,/2"m7"G,/2"M3"C,|| "+4"F,/2"M6"D,/2"m6"E,|| "P8"B,/2"M2"A,/2"P4"G,|| "M2"F,/2"M3"F,/2"m3"E,|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ### Conclusion
 
-As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** The first four measures added decorations that were simply part of the V or V<sup>7</sup> chords that were already implied. Of note, all students heard the added `F` in measures 3 and 4 as changing the harmony from V to V<sup>7</sup>, meaning that the harmony was altered rather than embellished.
+As we first begin to study non-chord tones, the most important thing to remember is what the name "non-chord tone" emphasizes. **NCTs must not belong to the chord.** The first four measures added decorations that were simply part of the V or V<sup>7</sup> chords that were already implied. Of note, you will likely hear the added `F` in measures 3 and 4 as changing the harmony from V to V<sup>7</sup>, meaning that the embellishment was still part of the harmony. 
 
-Measure 5 technically continues this idea, but for teaching purposes, consider the V chord as triad rather than a seventh chord. This changes the function of the 'F' entirely. Instead of a chordal skip, it becomes a non-chord tone called a *passing tone*. A *passing tone* is a non-chord tone *approached by step* and *left by step in the same direction*. 
+In measure 5 however, the A on beat 2 is certainly not part of the implied V or V7 harmonies. An embellishment that does not belong to the harmony is called a *non-chord tone* (NCT), and there a variety of NCTs that can be classified by how they are approached and left. The measure 5 NCT is called a *passing tone*, because it has a passing motion, so we can define a passing tone as a non-chord tone that is *approached by step* and *left by step in the same direction*. 
 
-The final measure clearly contains a non-chord tone, because the `A` can not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*--a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
+The final measure also clearly contains a non-chord tone, because the `A` can not be incorporated into a V or V<sup>7</sup> chord. This is an example of a *neighbor tone*--a non-chord tone that is *approached by step* and *left by step in the opposite direction*.
 
 A final reminder: always make sure that the pitch is not actually a chord tone! This is one of the most common mistakes for beginning analysts.
 
