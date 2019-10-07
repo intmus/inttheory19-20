@@ -3,8 +3,9 @@ layout: chapter
 title: Lesson 7a - Diatonic Progressions Derived from Circle-of-fifths Voice-leading
 abc: true
 ---
+<!-- Before teaching this lesson, make sure that they have attempted to resolve V7 to I in two voices in their previous homework as part of 6b. You can then use their findings from how the members of the V7 chord resolve to the I chord to move through this discussion more quickly. -->
 
-We now have the analytical foundation and tools to begin studying harmonic *function*--or how and why a chord works with other chords to build tonality. In this lesson, we will derive the basic aspects of function by combining two major concepts from previous units:
+We now have the analytical foundation and tools to begin studying harmonic *function*--how and why a chord works with other chords to build tonality. In this lesson, we will derive the basic aspects of function by combining two major concepts from previous units:
 1. As shown in the two-part examples in [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html), the progression from V to I creates a strong and natural sense of resolution. There are many reasons we hear this progression as a strong cadence, but perhaps the strongest reason is the voice-leading between the V<sup>7</sup> and I chords--meaning the way in which individual pitches naturally pull toward each other. 
 2. When written as a scale, diatonic collections are simply a sequence of five whole steps and two half-steps--major scale, for example, is W-W-H-W-W-W-H--but as we determined in [Unit 2c]({{ site.baseurl }}/02-int-scales-keys/c1-keys.html), you can find all seven pitches in the diatonic collection by altering a a single half-step in a circle-of-fifths. This alteration changes one of the P5 intervals to a d5, and it is these two pitches within the diatonic collection, `ti` and `fa`, that establish the voice leading that pulls V<sup>7</sup> to I and therefore around which tonal harmony is constructed.
 
@@ -194,7 +195,7 @@ There are a few common exceptions that should be added to this progression flowc
 
 ## Changes in Minor
 
-Minor follows all of the same progressions, but the chord qualities change to match the naturally occurring pitches in the key signature. Please remember that minor keys must have a major V chord and diminished vii chord to function diatonically. This means that both of these chords are built using the raised seventh scale degree.
+Minor follows all of the same progressions, but the chord qualities change to match the naturally occurring pitches in the key signature. Please remember that minor keys must have a major V chord and diminished vii chord to function diatonically. This means that both of these chords are built using the raised seventh scale degree, even though this isn't necessarily implied by the Roman numeral of the vii<sup>o</sup>.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |

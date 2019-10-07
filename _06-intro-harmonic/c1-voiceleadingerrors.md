@@ -36,7 +36,7 @@ w:tenor bass{% endcapture %}
 
 ### Conclusions 
 
-To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers constantly bend or break these rules if it better serves their ideas.
+To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers constantly bend or break these rules if it better serves their ideas.
 
 #### Doubling
 
