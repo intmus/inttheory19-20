@@ -5,7 +5,13 @@ title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 
 ## Class discussion
 
-TBD
+**How are leadsheet and Roman numerals different?**
+- Leadsheet tells you what notes are in the chord at a glance, but Roman numerals require you to know what key you're in to ID the chord
+  - Again, Roman numerals show *function*. What that means will become clearer in the coming weeks.
+
+**What is a chordal skip?**
+- Not a step or a leap--a third? (not necessarily a third, see below)
+  - *Consonant skip,* aka *moving between two chord tones.* We're outlining the arpeggio 
 
 # Further reading
 
