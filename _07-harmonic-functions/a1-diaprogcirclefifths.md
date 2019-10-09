@@ -114,9 +114,6 @@ This is helpful to begin thinking about voice-leading in the most basic of ways,
 T:Implied harmonies from two voices
 M:4/4
 L:1/2
-Q:1/4T:Implied harmonies from two voices
-M:4/4
-L:1/2
 Q:1/4=80
 K:C
 V:1
