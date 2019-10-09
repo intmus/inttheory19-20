@@ -5,7 +5,25 @@ title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 
 ## Class discussion
 
-TBD
+**How are leadsheet and Roman numerals different?**
+- Leadsheet tells you what notes are in the chord at a glance, but Roman numerals require you to know what key you're in to ID the chord
+  - Again, Roman numerals show *function*. What that means will become clearer in the coming weeks.
+
+**What is a chordal skip?**
+- Not a step or a leap--a third? (not necessarily a third, see below)
+  - *Consonant skip,* aka *moving between two chord tones.* We're outlining the arpeggio
+
+**How would you define a suspension? What are the three parts?**
+- A chord tone that is sustained into another chord and "becomes" a NCT, then resolves into a CT of the new chord? (Yes, but start your definition with it being a NCT)
+  - You can always assume that a NCT is between two CTs
+- *Approached by static motion, resolves downward by step.* The downward part is *very* important. Suspensions do not resolve upward ever.
+  - Suspensions can also appear as two separate notes, rather than notes tied together
+
+**How do we determine the labels (the numbers after the word *sus*)?**
+- The numbers correlate to the scale degrees? (Yes, but that isn't what we're looking for. We need labels that also indicate function)
+- Shows which NCT it's moving from and which one it's moving to?
+- *The labels are determined by interval size.* The labels are always measured against the bass. Ex: a sus 4-3 is resolving from a fourth to a third against the bass, but 4 and 3 do not necessarily indicate the third and fourth scale degrees
+  - Resolutions in the bass are always 2-3 because rather than being measured to the bass, this suspension is measured against the most dissonant voice. The most dissonant voice will always be a second moving to a third
 
 # Further reading
 
