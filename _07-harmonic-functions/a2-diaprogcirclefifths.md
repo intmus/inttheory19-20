@@ -6,22 +6,32 @@ abc: true
 
 # Class discussion
 
-Chordal member resolutions
+**Tendency tones**
+- Root in bass goes to root of next chord
+- Thirds move up by step to root of next chord
+- Fifths move down by step to root of next chord
+- Sevenths move down by step to third of next chord
 
--Smoothness of the upper voices, stepwise is good!
+**Notes on predominant and dominant chords**
+- viio can also be thought of as a V7 with no root. The voice leading functions the same way in both chords.
+- IV can be thought of as a ii7 with no root. Their voice leading functions in the same way. Keep in mind that the fa in IV resolves up to sol the same way it would in a ii7, and *not* down to mi.
 
--Bass voice does its own thing
+Here's our nifty progressions flowchart, both in major:
 
--Least amount of finger movement at the keyboard
+iii7 -> vi7 -> ii7 or IVM7 -> V7 or vii%7 -> I -> (any)
 
--Root in bass resolves to the root in bass
+And minor:
 
--Chordal third resolves up by step to the root of the next chord
+IIIM7 -> VIM7 -> ii%7 or iv7 -> V7 or viio7 -> I -> (any)
 
--Chordal seventh resolves down by step to the chordal third of the next chord
-
-Does this have anything to do with any of the voice-leading errors we just studied?
-
+**Notes**
+- Notice that the dominant chords are almost the same in both qualities. The only difference is the seventh of the seven chord.
+- All of these chords will also occur as triads. The sevenths have been included in the chart for memorization purposes.
+- There are also *lateral progressions*, where a predominant or dominant chord will go to the other chord in its category rather than proceeding to a dominant or tonic respectively. (I would have included this in the chart but ran up against the limitations of text formatting.)
+- Exceptions (notated in major for simplicity, but these happen in minor too)
+  - V -> vi: not always as a cadence, but don't use this if you don't have to
+  - IV -> I: almost always appears a cadence
+  - iii -> IV: part of the Pachelbel's Canon progression. Don't use it.
 
 
 # Further reading
