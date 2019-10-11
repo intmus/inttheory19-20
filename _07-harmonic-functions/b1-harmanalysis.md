@@ -89,15 +89,15 @@ The first question was obvious to most, but difficult to tackle. How often does 
 
 ## Chord tones versus non-chord tones (NCTs)
 
-<!-- If you remove all mention of NCTs from unit 5, you will need to alter this section to better describe these current NCTs-->
+<!-- It would make sense to move this entirely or at least create an exercise in which the students have to add NCTs into the Old 100th. As it stands, it is information without an example. If you remove all mention of NCTs from unit 5, you will need to alter this section to better describe these current NCTs-->
 
-Understanding the question of which pitches are functional means determining which pitches belong to the chord (chord tones) and which pitches are decoration for these chord tones. To this point, we have only looked at passing tones, neighbor tones, and suspensions. All of these require stepwise movement only, so any skip in our beginning examples will be a chordal skip. We will expand this as we begin looking at all of the classes of NCTs.
+Even though the Old Hundreth Psalm has no non-chord tones, it is important for us to discuss them in this context, because understanding the question of "Which pitches are functional?" means determining which pitches belong to the chord (chord tones) and which pitches are decoration for these chord tones.
 
-Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires working through all possible combinations of the pitches within a given harmony and then choosing the most likely combination. Even if you know that the harmony includes only two beats, if there are many pitches within those two beats, it can be difficult to sort through all the possible combinations. Fortunately, the same strategies that work for looking at harmonic rhythm work for determining NCTs. Looking at melodic patterns and bass-lines is a great start, but it is also helpful to be aware of whether a note occurs in a strong or weak position. It is unusual for the functional tones to occur only on offbeats, as the ear is drawn to pitches when the occur on the beat. 
+Much like determining the harmonic rhythm, finding NCTs can be difficult because it requires working through all possible combinations of the pitches within a given harmony and then choosing the most likely combination. Even if you know that the harmony includes only two beats, if there are many pitches within those two beats, it can be difficult to sort through all the possible combinations. Fortunately, the same strategies that work for determining the harmonic rhythm work just as well for determining NCTs. Looking at melodic patterns and bass-lines is a great start, but it is also helpful to be aware of whether a note occurs in a strong or weak position. It is unusual for the functional tones to occur only on offbeats, as the ear is drawn to pitches when they occur on the beat. 
 
-Even for one experienced in finding patterns within the music, this still sometimes requires trial-and-error. For beginning students, I suggested that they try copying the pitches to another staff (or lightly next to the chord if there is room,) and begin rearranging the pitches to see what triads and seventh chords are even possible. Usually this is enough to limit the possibilities to one or two chords. When it is not, they should refer to their harmonic flowchart to see if there is some context that could provide a probable chord.
+Even for one experienced in finding patterns within the music, this still sometimes requires trial-and-error. For beginning students, they should try copying the pitches to another staff (or lightly next to the chord if there is room,) and begin rearranging the pitches to see what triads and seventh chords are even possible. Usually this is enough to limit the possibilities to one or two chords. When it is not, they should refer to their harmonic flowchart to see if there is some context that could provide a probable chord.
 
-## Notating non-chord tones
+### Notating non-chord tones
 
 To nontate non-chord tones, you should place parentheses around the note head of each non-chord tone. You must also label the NCT with its abbreviation. Currently, we only have three possible NCTs:
 - pt (passing tone)
@@ -112,4 +112,4 @@ Regardless of whether you include the pitch as functional, the NCTs must always 
 
 ## Omitted tones
 
-This was a brief discussion. Refer to the voicing guidelines under Unit 6b for likely doublings and omissions in four-part writing.
+The Old Hundreth Psalms has a number of incomplete chords, and each one follows the rules and guidelines from Unit 6c. Please review the doubling and spacing rules there.

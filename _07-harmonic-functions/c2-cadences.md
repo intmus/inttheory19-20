@@ -5,7 +5,7 @@ title: Discussion 7c - Cadences
 
 # Class discussion
 
-Add in viio to imperfect authentic cadences
+TBD
 
 # Further reading
 

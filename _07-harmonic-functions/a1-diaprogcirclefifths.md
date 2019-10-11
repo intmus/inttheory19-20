@@ -149,7 +149,7 @@ V:2 clef=bass
 w:C:ii V I ii V I{% endcapture %}
 {% include abc-example.html number="7" abc=ex7 %}
 
-Some will prefer the sound of the first voicing, probably because they find the melodic shape in the soprano more interesting. Unfortunately, this voicing creates multiple issues. Not only are the parts more difficult to sing, particularly for the tenor voice, but unacceptable parallel perfect 5ths are created between the tenor and bass voices. 
+Some will prefer the sound of the first voicing, probably because they find the melodic shape in the soprano more interesting. Unfortunately, this voicing creates multiple issues. Not only are the parts more difficult to sing, particularly for the tenor voice, but the parallel perfect 5ths between the tenor and bass voices means that the tenor voice will meld into the bass voice and lose its independence. This doesn't sound too odd in a short excerpt like this, but in a longer passage, having parallel perfect 5ths will change the texture for brief moments in a noticeable way.
 
 The second progression has less melodic variety, but it provides the smoothest, easiest voice-leading for each part with no voice-leading errors. If you add two more chords to the progression by following the circle-of-fifths progression we are creating, you should be able to add vi and then iii without much issue by following the pattern.
 
@@ -169,14 +169,16 @@ w:C:iii vi ii V I{% endcapture %}
 
 ## Adding IV and vii<sup>o</sup>
 
-It is possible to continue this pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to there two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C` in C major, you are left with a IV chord, `F-A-C` in C major. Likewise, if you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. When we add these to our harmonic progression flowchart, we get our basic outline for harmonic progressions.
+It is possible to continue this pattern backwards to add the last two diatonic chords, IV and vii<sup>o</sup>, but these chords actually function differently. Instead, the IV and vii<sup>o</sup> chords function similarly to their two functional counterparts, ii<sup>7</sup> and V<sup>7</sup>. The logic is fairly simple, if you remove the root from a ii<sup>7</sup> chord, `D-F-A-C` in C major, you are left with a IV chord, `F-A-C`. Likewise, if you remove the root from a V<sup>7</sup> chord, you are left with a vii<sup>o</sup> chord. By this logic, the IV and vii<sup>o</sup> chords often use alternative voice leading, because their tendency tones are not necessarily tied to the chordal thirds and sevenths. 
+
+When we add these to our harmonic progression flowchart, we get our basic outline for harmonic progressions.
 
 | (*unnamed*) | (*unnamed*) | pre-dominant | dominant | tonic |
 --- | --- | --- | --- | --- |
 | iii | vi | ii | V | I |
 | | | IV | vii<sup>o</sup> | |
 
-Using just this flowchart, you can build basic chordal progressions for a given melody by harmonizing the pitches with the correct progressions. Please note that the I chord can go jump back to anywhere in the progressions.
+Using just this flowchart, you can build basic chordal progressions for a given melody by harmonizing the pitches with the correct progressions. Please note that the I chord can comfortably jump back to anywhere in the progressions.
 
 ## Adding in the Common Exceptions
 
