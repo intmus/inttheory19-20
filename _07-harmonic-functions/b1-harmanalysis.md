@@ -50,19 +50,18 @@ As you answered each of these questions, you began understanding how harmony *fu
 
 We use chorales to begin studying analysis because of the vertical nature of the writing. Every chord in this composition is aligned to where it can be easily parsed by sight, and almost every tone is functional. In the final measure of the piece, did every note belong to the chord? If not, how did you decide which notes did not?
 
-**Analyze the following chorale-style progression. Pay particular attention to the how your decision process as you decide how analyze the third beat. Are there any non-chord tones there? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
-
-There is one more type of cadence classification that is commonly used, although this is more of a sub-category of a half-cadence: the *phrygian half-cadence*. It only occurs in minor, and the approach to the half-cadence is the defining feature. Look at the following cadence and study the final two chords.
+**Analyze the following embellished first phrase of the Old Hundredth Psalm. Which notes are not necessary for the harmonic function? How would you describe their motion? If you are struggling to determine whether it belongs or not, try referring to your the harmonic outline that you built in the previous topic [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html). Does the voice-leading--i.e. how each chordal member resolves--work with the rules that you established in Unit 7a if you do not have a non-chord tone?**
 
 {% capture ex2 %}X:2
-T:Phrygian half cadence
+T:Embellished first phrase of Old Hundredth Psalm
 M:4/4
-L:1
-K:Eb
+L:1/4
+Q:1/4=50
+K:G
 V:1
-[GE]| [AE]| [FC]| H[GD]|]
+[GD]| [G/2D][G/2E] [F/2D][F/2C] [E/2B,][E/2C] [D/2D][D/2C]| [GB,] [AD] H[BD]|]
 V:2 clef=bass
-[C,C]| [A,,C]| [CA,,]| [=B,G,,]|]{% endcapture %}
+[G,/2B,][F,/2B,]| [G,B,] [A,D,] [E,G,] [B,,G,]| [E,G,] [E,/2F,][D,/2F,] H[G,G,,]|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
 ## Conclusion
