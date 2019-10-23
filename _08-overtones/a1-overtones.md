@@ -4,11 +4,13 @@ title: Lesson 8a - The Overtone Series
 abc: true
 ---
 
-You have likely heard the terms *overtone series* and *harmonic series* used in discussing music, but unless you have studied them previously, you probably do not realize how important this concept is to tonality and sound production. The overtone series occurs naturally in all non-synthetic tone production. When a person sings, a harmonic series is present above every pitch. When any woodwind, string, or brass instrument creates a pitch, a harmonic series is present above every pitch. Perhaps even more importantly for our discussions, we can study the acoustics--or the math--behind this overtone series to explain the fundamentals of Western harmony.
-- Why do we divide the octave into twelve parts?
-- Why do we hear some intervals as consonant and others as dissonant?
-- How do we determine if an interval is in tune?
-- Why do we use a harmonic system based on perfect intervals and thirds?
+You have likely heard the terms *overtone series* and *harmonic series* while discussing music, but unless you have studied them previously, you may not realize the importance of this concept in creating tonality. The overtone series occurs naturally in all non-synthetic tone production. When a person sings, a harmonic series is present above every pitch. When any woodwind, string, or brass instrument creates a pitch, a harmonic series is present above any pitch. Perhaps even more importantly for our discussions, we can study the acoustics--or the math--behind this overtone series to explain the fundamentals of Western harmony.
+
+The overtone series can help you to understand:
+- why we divide the octave into twelve parts.
+- why we hear some intervals as consonant and others as dissonant.
+- how we determine if an interval is in tune.
+- why we use a harmonic system based on perfect intervals and thirds.
 
 ## The Structure of the Overtone Series
 
@@ -45,11 +47,20 @@ The importance of these ratios is most easily observed in the circle of fifths. 
 
 C - G - D - A - E - B - F-sharp - C-sharp - G-sharp - D-sharp/E-flat - B-flat - F - *C*
 
-Perhaps more important for our discussion, though, is what happens when we introduce a non-perfect 5th into the pattern. If we begin on a pitch-class and begin moving through ascending perfect 5ths, each new perfect 5th will move us to a *new letter*. After seven letters, we will begin repeating letters but adding accidentals to them as seen in the circle of fifths above. If, however, we alter the last perfect 5th by a half-step to create a diminished 5th, we can break the pattern and shortcut to the end. 
+Perhaps more important for our discussion, though, is what happens when we introduce a diminished 5th into the pattern. Try this quick exercise:
+1. Choose any starting pitch, and then write your starting pitch and the next six pitches from the circle of fifths on a separate piece of paper.
+    - If you've done this correctly, you should have one pitch for every letter name. e.g. one 'A', one 'B', etc.
+2. Choose any pitch within your seven pitches, and lower it by one half-step thus creating the interval of a diminished 5th between it and the previous pitch.
+3. We will consider the two pitches of this diminished 5th to be our starting interval. Starting with the first pitch after your interval, begin altering the pitches to create perfect 5ths based on your altered note.
+    - For example, if you chose to alter A to A-flat, you would have created a diminished 5th between D and A-flat. You will then lower all pitches after A-flat to create perfect 5ths again, starting by lowering E to E-flat.
+4. Continue lowering pitches (and creating perfect 5ths) through the circle of fifths until you wrap around to your original interval.
+    - If you started by altering A, you created a diminished 5th between D and A-flat. You will then lower every pitch until you get back to D, but leave D unaltered. In this example, you would end with:
+    D - *A-flat* - E-flat - B-flat - F - C - G
+5. If you re-arrange the seven pitches that you've created, you will notice that you have created a diatonic collection of seven pitches.
+    - Continuing our example that we started by altering A to A-flat, you can see that we have three flat notes, and if you use your knowledge of key signatures, you know that the major scale with three flats starts on the tonic of E-flat. If you re-arrange these pitches, you will see:
+    E-flat - F - G - A-flat - B-flat - C - D
 
-C - G - D - A - E - B - *F* - C
-
-This slight change creates the necessary tension for keys to function diatonically, so diatonic function could be described as a slight imperfection on an otherwise perfect series of intervals. 
+This slight change--the addition of one diminished 5th--creates the necessary tension for keys to function diatonically, so diatonic function could be described as a slight imperfection on an otherwise perfect series of intervals. 
 
 This can be further shown by looking at the naturally occuring intervals if we write diatonic 5ths above the notes of a major scale.
 
