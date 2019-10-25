@@ -59,7 +59,7 @@ Because of the importance of the V-I progression, we should introduce an importa
 
 ## Embellishing Tones in Cadential Motion
 
-**The next example contains the same harmonies from the first example, but we now with an additional pitch to each measure.**
+**The next example contains the same harmonies from the first example, but it has an additional pitch in each measure.**
 - Are the new intervals consonant or dissonant?
   - For each new pitch, do you feel it strengthens or weakens the cadence?
 - Which, if any, of these "new" notes belong to the chords that you assigned in the previous example? 

@@ -4,30 +4,28 @@ title: 9a Lesson - Non-chord Tones
 abc: true
 ---
 
-<!-- This opening should be edited to only include the NCTs that you have *actually discussed in Unit 5. Currently, it says that you discussed suspensions--which you likely did in class--but that is not actually included in the textbook by this point. You put notes in both Units 5 and 6 where appropriate editing is needed.-->
-
 *NOTE: The full descriptions below of each type of non-chord tone are from the online textbook, [Open Music Theory](http://www.openmusictheory.net), although each has been edited to suit this textbook's terminology and purpose. If you have not had a chance to check out Open Music Theory in the Further Reading sections from the previous units, please take the time to do so. It is an excellent resource!*
 
 ## Non-chord tone recap
 
-Understanding non-chord tones is critical in increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the chord and progression and which tones are embellishing those functional tones. If you know the shapes that chord tones and their embellishments form, you can separate chord tones from embellishments by simply looking for common patterns.
+Understanding non-chord tones is critical for increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the harmonic progression and which tones are embellishing those functional tones. If you know the shapes that chord tones and their embellishments form, you can separate chord tones from embellishments by simply looking for common patterns.
 
 ## Labeling non-chord tones
 
-When we study non-chord tones we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches, and you can see this in how we defined the three non-chord tones (NCTs) that we studied in our [counterpoint unit]({{ site.baseurl }}/05-counterpoint-embell-shapes/c1-2ndandembellshapes.html):
+When we analyze non-chord tones we *label* a single pitch that does not belong to the chord, however, we are actually *classifying* the motion between the non-chord tone and its surrounding pitches, and you can see this in how we defined the three non-chord tones (NCTs) that we studied in Units 5 and 6:
 - A *passing tone* (PT) is a non-chord tone which is approached by step and left by step in the same direction.
 - A *neighbor tone* (NT) is a non-chord tone which is approached by step and left by step in the opposite direction.
 - A *suspension* (SUS) is a non-chord tone which is approached by static motion and resolves downward by step.
 
 As you can see, each definition describes the motion to and from the NCT, so to facilitate discussions of NCTs, there are formal names for each pitch involved in the creating the "shape" of a non-chord tone:
 - the preparation
-    - The pitch that directly precedes the NCT.
+    - The chord tone that directly precedes the NCT.
     - Its relationship to the NCT will define the type of movement used to approach the NCT.
 - the non-chord tone
     - The NCT must not be a member of the chord. 
-        - This should seem obvious given the name, but this is the most common mistake that students make when looking for NCTs.
+        - This should seem obvious given the name, but this is the most common mistake that students make when labeling NCTs.
 - the resolution
-    - The pitch that directly follows the NCT.
+    - The chord tone that immediately follows the NCT.
     - Its relationship to the NCT will define the type of movement used to leave the NCT.
 
 ## Further non-chord tone terminology
@@ -42,9 +40,12 @@ This information provides a methodology and framework through which we can look 
 - Chromatic vs diatonic
     - Diatonic NCTs use only the notes present in the key-signature whereas chromatic NCTs have an accidental.
     - All types of NCTs can be either chromatic or diatonic, although some are extremely rare (such as a chromatic suspension).
-- There are other possibilities for labeling NCTs such as ascending/descending and upper/lower. These are only applicable to certain NCTs, so it is easier to discuss these labels in those contexts.
-    - Passing tones can be either ascending or descending.
-    - Neighbor tones can be either upper or lower.
+- Ascending vs descending (*passing tones only*)
+    - This describes the direction created by the passing tone when combined with the chord tones on either side.
+- Upper vs lower (*neighbor tones only*)
+    - Neighbor tones can be divided into two categories based on whether they are above or below the chord tone that they are embellishing.
+
+One note on these labels: Because some methods for musical analysis only focus on music of certain periods (e.g. the Classical era), they may be overly specific in describing certain non-chord tones in a way that does not fully address the nature of the non-chord tone. For example, some texts say that suspensions must be accented, but because accented refers to a metric position ('on' or 'off' the beat) rather than a harmonic position, this is not always true in later styles. This is likely always true in the music of Mozart or even Beethoven, but it is not always true for the music of Gustav Mahler or John Lennon. It would be better to say that suspensions are always *on-chord*, because this allows for a suspension to happen in a weaker metric position. Harmony and rhythm exist independently, so we should use labels that allow us to approach all types of music.
 
 **We will use the following simple progression as a template for demonstrating non-chord tones. Start by creating a Roman numeral analysis with leadsheet symbols.**
 
