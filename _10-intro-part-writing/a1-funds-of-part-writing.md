@@ -49,9 +49,9 @@ We will be referring to this handout, [Part-Writing Error Checklist and Guide](h
 
 Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing, particularly in a strict style that is not performed regularly by modern musicians?
 
-There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most straightforward way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and every other aspect of how music functions.
+There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most straightforward way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
 
-We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
+We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
 In short, you may never use this directly, but a knowledge and understanding of these basic tenets will greatly enhance your ability to function as a musician, regardless of your career path.
 
@@ -68,14 +68,14 @@ Let's try to harmonize the simple melody below with one harmony per pitch.
 - **Choose a cadence** to complete your phrase.
     - Refer to [Unit 7c]({{ site.baseurl }}/07-harmonic-functions/c1-cadences.html) to review the types of cadences.
 - **Create the rest of the diatonic progression** beginning on tonic and ending with your cadence. (If not already provided.)
-    - This will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
+    - Beginning on tonic will establish your key center. Refer to [Unit 6b]({{ site.baseurl }}/06-intro-harmonic/b1-diafuncvoicelead.html) for a review of the three primary harmonic functions: tonic, dominant, and pre-dominant.
     - Refer to [Unit 7a]({{ site.baseurl }}/07-harmonic-functions/a1-diaprogcirclefifths.html) to determine a functional harmonic progression.
 - **Compose a bass line** based on your harmonization.
     - This will resemble 1:1 counterpoint, so refer to [Unit 5b]({{ site.baseurl }}/05-counterpoint-embell-shapes/b1-cantfirmand1st.html).
     - It is okay for the bass line to be more disjunct than the other voices, so feel free to leave your chords in root position to make doubling simpler.
     - Contrary motion against the soprano line is preferred.
 - **Fill in the alto and tenor voices.**
-    - Refer to the rules for voicing, range, and doubling in [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html).
+    - Refer to the guidelines for voicing, range, and doubling in [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html).
 - When writing your parts, always **strive to have voice-leading that is as smooth as possible** by emphasizing stepwise motion.
     - As mentioned above, bass lines are the exception and will often have more leaps, especially when using root-position chords.
 
@@ -96,9 +96,9 @@ w:C:{% endcapture %}
 The first steps in harmonizing any melody should involve: 
 1. Developing an ending--which cadences would make this a complete musical phrase? 
 2. Determine a harmonic rhythm and chords that both works with the melody and fills in the gaps on our way to the cadence. 
-    1. Will you have non-chord tones or are all notes part of the harmonic structure? 
-    2. Will you prolong a certain tonal function such as the dominant harmony, or is it interesting enough to move quickly through your progression?
-    3. Does your phrase sound convincing when played? If not, restructure your harmony and try again. 
+    - Will you have non-chord tones or are all notes part of the harmonic structure? 
+    - Will you prolong a certain tonal function such as the dominant harmony, or is it interesting enough to move quickly through your progression?
+    - Does your phrase sound convincing when played? If not, restructure your harmony and try again. 
     
 Please do not be afraid of failing! Your first attempts will likely sound clunky and unconvincing. This is a normal and important part of the learning process, so rather than be disappointed, try focusing on the parts that you do not like, and then analyze them for errors. You should be able to use the analytical tools that you have developed thus far to find mistakes, and then you can correct those. Iteration is key.
 
