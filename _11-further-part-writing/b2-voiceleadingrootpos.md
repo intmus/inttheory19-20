@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 11a - Voice-leading for Root Position Triads and Seventh Chords
+title: Discussion 11b - Voice-leading for Root Position Triads and Seventh Chords
 abc: true
 ---
 

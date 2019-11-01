@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 10a - Fundamentals of Part-writing
+title: Discussion 11a - Fundamentals of Part-writing
 abc: true
 ---
 

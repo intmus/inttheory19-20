@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 10b - Part-writing Errors
+title: Lesson 10a - Part-writing Errors
 abc: true
 ---
 

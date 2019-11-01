@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 11a - Voice-leading for Root Position Triads and Seventh Chords
+title: Lesson 11b - Voice-leading for Root Position Triads and Seventh Chords
 abc: true
 ---
 

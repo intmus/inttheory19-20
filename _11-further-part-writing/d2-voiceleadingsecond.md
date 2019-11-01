@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 11c - Voice-leading for Second Inversion Chords
+title: Discussion 11d - Voice-leading for Second Inversion Chords
 ---
 
 # Class Discussion

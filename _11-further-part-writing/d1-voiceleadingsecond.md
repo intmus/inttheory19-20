@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Lesson 11c - Voice-leading for Second Inversion Chords
+title: Lesson 11d - Voice-leading for Second Inversion Chords
 abc: true
 ---
 

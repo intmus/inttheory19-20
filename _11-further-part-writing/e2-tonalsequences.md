@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 11d - Tonal Sequences
+title: Discussion 11e - Tonal Sequences
 ---
 
 # Class Discussion
