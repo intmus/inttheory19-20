@@ -28,9 +28,10 @@ abc: true
 
 **Unacceptable unequal fifths (UU5)**
 - movement from a d5 to a P5
+- must involve the bass
 - Red flag: tendency tones not resolving the way they're supposed to
   - Ex: in C, B and F resolving to C and G. F is the seventh of a G7 chord and is supposed to resolve downward by step to the third of the next chord, but it went up to G instead.
-- There is no octavees version of this one, fifths only
+- There is no octaves version of this one, fifths only
 
 **Unacceptable similar fifths and octaves (US5, US8)**
 - The most restrictve of these movement errors, so if you look for the specifics it will be easy to find!
