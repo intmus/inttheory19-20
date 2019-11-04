@@ -21,6 +21,8 @@ V:2 clef=bass
 xxxx| xxxx| x4|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
+### Conclusion
+
 In no particular order, you would need to determine: 
 - Harmonies
 - Harmonic rhythm
@@ -29,9 +31,9 @@ In no particular order, you would need to determine:
 - Inner voices
 - Texture
 
-To this point in the course, we have discussed each of these, but you have spent most of your assignments analyzing existing examples rather than creating your own music. Fortunately, you can now combine all the tools that we have studied to begin creating your own music. We will begin by establishing our guidelines for *part-writing*--rules and structures that are used to create a relatively basic chorale structure.  
+To this point in the course, we have discussed each of these, but you have spent most of your assignments analyzing existing examples rather than creating your own music. You can now combine all the tools that we have studied to begin this process. We will start by establishing our guidelines for *part-writing*--basic rules and structures to guide your voice-leading.  
 
-If you did not print out our guide to part-writing in the last unit, you can find it here. [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing) We will continue referencing this for the rest of the unit, so you will probably want to print this out or open it in a separate window.
+If you did not access our guide to part-writing in the last unit, you can find it here. [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing) We will continue referencing this for the rest of the unit, so you will probably want to print this out or open it in a separate window.
 
 ## A first attempt
 

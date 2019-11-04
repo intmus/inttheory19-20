@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Discussion 10b - Part-writing Errors
+title: Discussion 10b - Error detection
 abc: true
 ---
 
