@@ -4,6 +4,32 @@ title: Lesson 10a - Part-writing Errors
 abc: true
 ---
 
+## Part-writing
+
+The term *part-writing* can imply many things depending on its context, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading from circle-of-fifths progressions) into functional music using diatonic tonality. 
+
+By applying the various rules and techniques that we have studied thus far, we can:
+- Harmonize a melody
+- Compose a melody given a harmony
+- Fully voice four-part harmonies
+- Create independent melodic lines that function harmonically together
+
+Units 10 and 11 will help you solidify this process. First, we will establish a reference model by looking at classic errors that occur when writing in a general four-part chorale style. We will then apply these guidelines to our own attempts to compose basic four-part chorales in order to better understand the voice-leading principles of all tonal music.
+
+We will be referring to this handout, [Part-Writing Error Checklist and Guide](https://docs.google.com/document/d/1s9Xd3LPqoaEevshTopxHzLX9jCzxVCZocOBLD_dceMU/edit?usp=sharing), for the next two units, so you may want to print this out or open it in a separate window.
+
+## Why part-writing?
+
+Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing, particularly in a strict style that is not performed regularly by modern musicians?
+
+There are many answers for this, but there is one in particular that I think justifies the study of this in this course. Part-writing is the simplest way to study how voice-leading creates harmony. Even though most of its rules are archaic, and a modern student's ear is not nearly as offended by certain style characteristics (e.g. parallel perfect fifths), this is the most straightforward way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
+
+We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
+
+In short, you may never use this directly, but a knowledge and understanding of these basic tenets will greatly enhance your ability to function as a musician, regardless of your career path.
+
+## Traditional errors
+
 In [Unit 6c]({{ site.baseurl }}/06-intro-harmonic/c1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
 - Voice-crossing
     - In this style, voices should generally not cross
