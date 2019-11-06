@@ -6,7 +6,7 @@ abc: true
 
 We can view the voicing rules (i.e. spacing, range, doubling, and voice-crossing) as our guidelines for creating the vertical aspect of this style of music, and our voice-leading rules (i.e. tendency tones, conjunct lines, and avoiding part-writing errors) as guidelines for creating the horizontal aspect of this style of music. By combining these ideas with a general knowledge of diatonic chord progressions, we can begin composing our first attempts at chorale-style music.
 
-Before beginning, please remember that when composing in this style, you occasionally will need to bend, or even break, these rules to accommodate other musical goals. There is not a "right" or "wrong" hierarchy for the conventional rules of part-writing. For example, you might choose to accept parallel perfect 5ths if you are trying to create a particular melodic line that emphasizes stepwise motion. Or, you might decide to use voice-crossing of the inner voices to change the timbre and texture of a passage. Regardless, be aware that even the cleverest of composers may choose to eschew convention if it does not align with their musical goals.
+Before beginning, please remember that when composing in this style, you occasionally will need to bend, or even break, these rules to accommodate other musical goals. There is not a "right" or "wrong" hierarchy for the conventional rules of part-writing. For example, you might choose to accept parallel perfect 5ths if you are trying to create a particular melodic line that emphasizes stepwise motion. Or, you might decide to use voice-crossing of the inner voices to change the timbre and texture of a passage. So even the cleverest of composers may choose to eschew convention if it does not align with their musical goals, but for our beginning attempts, you should do your best to observe every rule in order to understand their importance and implementation.
 
 ## Building the process
 
@@ -126,7 +126,7 @@ V:2 clef=bass
 w:C:I vi7 ii V7 I{% endcapture %}
 {% include abc-example.html number="9" abc=ex9 %}
 
-Notice that the chordal third in the alto voice of the ii chord defies its tendency to resolve upwards to the root, and instead, uses static motion to become the chordal seventh of the V<sup>7</sup>. This is our first example of having to make a choice between two guidelines; in this case, we are forced to choose to prioritize voice leading over tendency tones.
+Notice that the chordal third in the alto voice of the ii chord defies its tendency to resolve upwards to the root, and instead, uses static motion to become the chordal seventh of the V<sup>7</sup>. This is our first example of having to make a choice between two guidelines; is it better to prioritize smooth part writing or tendency tone resolution. In this case, the smooth voice-leading creates a stronger overall texture, so I prefer that option. You could, however, prefer the other sound and prioritize your tendency tones.
 
 ## Exploring options
 
@@ -166,7 +166,7 @@ V:2 clef=bass
 w:C:I V I I V vi{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-Because the vi chord acts as a replacement for a I chord, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention for doubling and double the chordal third of the vi chord. This doubling should now be your permanent convention for deceptive cadences.
+Because the vi chord acts as a replacement for a I chord when it is part of a deceptive cadence, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention for doubling and double the chordal third of the vi chord. This doubling should now be your permanent convention for deceptive cadences.
 - When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
 
 ### Root movement by 2nd
