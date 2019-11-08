@@ -149,9 +149,9 @@ w:C:I IV V7 I I IV V vi I ii IV V I ii7 V7 I{% endcapture %}
 
 When you were harmonizing these short progressions, which chord progression presented the most issues? For most, it will likely be when the progressions that have root-movement by 2nd, particularly a progression like IV-V-vi. Let's start by isolating a common example of this movement, V moving to vi. In this progression, the V is acting according to its standard dominant function, but the vi chord has replaced the I chord in the position where a tonic function should occur. This progression represents a *functional substitution* in which vi is now acting as the tonic function. (This concept has application within the dominant and pre-dominant functions as well, but we need to explore first-inversion chords in the next topic, 11b, before we are ready for that discussion):**
 
-#### Function over Form (Part 1)
+### Function over Form (Part 1)
 
-A *functional substitution* can, and often should, inform your voice-leading. When a root-position V chord precedes a root-position vi chord, we must choose to prioritize either our *doubling* conventions or our *part-writing conventions*. More specifically, do we want to double the third or do we want to end up with parallel perfect 8ves/5ths? With this in mind, harmonize the following two progressions; first with the standard tonic function (i.e. V to I) and then with the functional substitution (i.e. V to vi.) How does the standard function influence your decision on which conventions to employ on the functional substitution.
+A *functional substitution* can, and often should, inform your voice-leading. When a root-position V chord precedes a root-position vi chord, we must choose to prioritize either our *doubling* conventions or our *part-writing conventions*. More specifically, do we want to double the third or do we want to end up with parallel perfect 8ves/5ths? We can demonstrate this by looking at two nearly identical progressions. Harmonize the following two progressions; first with the standard tonic function (i.e. V to I) and then with the functional substitution (i.e. V to vi.) Even though the I chord and vi chord have two common tones--the first and third scale degrees--you will have to make very different choices to avoid voice leading errors.
 
 {% capture ex4 %}X:4
 T:Using a functional substitution for a deceptive cadence
@@ -166,8 +166,23 @@ V:2 clef=bass
 w:C:I V I I V vi{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-Because the vi chord acts as a replacement for a I chord when it is part of a deceptive cadence, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention for doubling and double the chordal third of the vi chord. This doubling should now be your permanent convention for deceptive cadences.
+When attempting this deceptive cadence, you hopefully realized that you cannot allow the tenor voice to remain on G and then resolve to A because it creates parallel octaves with the bass voice. Because the vi chord acts as a replacement for a I chord when it is part of a deceptive cadence, we double the scale degree that works best for a I chord, `do`, rather than the standard doubling of the root, `la` or fifth, `mi`. In this progression, it is correct to break standard convention for doubling and double the chordal third of the vi chord. This doubling should now be your permanent convention for deceptive cadences.
 - When V goes to vi, the vi chord is replacing the tonic function and therefore functions as a I<sup>sub6</sup>
+
+So for the above example, a better approach would be to alter the melody to allow for a doubling of the chordal third of the vi chord.
+
+{% capture ex8 %}X:8
+T:Using a functional substitution for a deceptive cadence
+M:3/4
+L:1/4
+Q:1/4=60
+K:C
+V:1
+[cE][dG][cE]|]
+V:2 clef=bass
+[C,G,] [G,,B,] [A,,C]|]
+w:C:I V vi{% endcapture %}
+{% include abc-example.html number="8" abc=ex8 %}
 
 ### Root movement by 2nd
 
