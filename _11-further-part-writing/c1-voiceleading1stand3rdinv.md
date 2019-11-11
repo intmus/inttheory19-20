@@ -83,6 +83,19 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 While it is certainly possible to voice the pre-dominant function chords in these progressions following standard doubling conventions, it can create less than appealing voicings for the ii chord, particularly in its triad form. When in first inversion, you may choose to double the third of the ii, in which case, it is acting as a functional substitution of a root-position IV chord. 
 
+{% capture ex5 %}X:5
+T:Using functional substitutions for pre-dominants
+M:4/4
+L:1/4
+Q:1/4=70
+K:C
+V:1
+[cE][dF][BD][cE]|]
+V:2 clef=bass
+[C,G,] [F,,A,] [G,,G,] [C,G,]|]
+w:C:I ii6 V I{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
+
 ## Passing chords
 
 When a chord is inserted between two other chords to create a bass line with stepwise motion, we call this a *passing chord*. To this point, when we have discussed a chord's function we have only discussed the primary functions of tonic, dominant, and pre-dominant. We now add a new category--tertiary function--and *passing* belongs to this category. (We will cover secondary functions in Unit 14.) You can consider *passing* a function that replaces a chord's standard function (i.e. tonic, dominant, and predominant), and instead extends the function of the chords on either side. Harmonize the following progression that uses the IV<sup>6</sup> as a passing function. What does this say about the function of the IV chord--is it still a pre-dominant? Does it change the function of the first V chord?
