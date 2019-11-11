@@ -6,41 +6,30 @@ abc: true
 
 # Class discussion 
 
-Chord progression: C: I, vi, ii, V, I  (Bass notes from root position chords)
+**Circle-of-fifths triadic progression: I - vi - ii - V - I**
+- Static movement in the melody is very good. It's exactly what we want because it can make everything else a whole lot easier. Priotize static or stepwise movement in the melody whenever you can
+- Same progression, but with do mi fa sol mi (C E F G E) as the melody
+  - Same process of building from the back. Since we're dealing with a circle-of-fifths progression, we know exactly how tendency tones are going to resolve and we can reverse-engineer the inner voices after we've written our melody
 
-Generated soprano lines: -C, C, D, D, C;   -C, C, D, B, C;   -C, C, D, D, E
+**Adding the seventh: I - vi7 - ii - V7 - I**
+- Used the same boring melody as before (C C D D C) because we have to K.I.S.S.
+- Really the best way to do these is to write your melody from the front and fill in the inner voices from the back
+- *Frustrated leading tone*: can ONLY be used in the inner voices. This happens when the leading tone resolves down by third to the fifth of the next chord instead of going upward to the root. Ex: in C, in our V the B in the tenor can go down to G on the next chord (I) if we really, really want to have a fifth in there
 
-Alto line to fit the first soprano line: -E, E, F, G, E
+**Short chord progressions, #2: I - IV - V - vi**
+- Soprano line: C C B C. There were a bunch of other options proposed that were at the same level of simplicity (focus on smooth voice leading), but they all caused errors
+- DOUBLE! THAT! THIRD! for a deceptive cadence. vi is a functional substitute for I because of its position in a deceptive cadence. In this instance it functions as the tonic instead of its usual "pre-predominant." We double the third because it's do/the tonic
+- Any time you use smooth contrary motion you'll avoid the majority of movement errors
+- "Circle of fifths progression" = literal circle of fifths bass movement. This is our vi - ii - V - I. When we move I - IV - V - (etc...) this is stepwise progression, so we can bend our tendency tone rules a little
+  - Think about functional substitutes, too! IV is just a ii7 without the root. vii0 is just a V7 without a root. vi stands in for I in deceptive cadences. In the progression we did in class, temporarily changing IV to ii7 helped make clear why the A in our IV did not have to resolve how thirds usually do, since A is the fifth in ii7 and should follow the same voice leading rules
+- vi6 is NO. The do in the bass makes it sounds like this chord was supposed to be I instead, which is the opposite of what you want to do with a deceptive cadence
 
-Tenor line to fit the first soprano line: -G, A, A, B, C
+**Overall conclusions**
+- Frustrated leading tone is a get out of jail free card in the inner voices ONLY
+- You can double the third for the vi in a deceptive cadence
 
-New soprano: C, E, F, G, E   Alto: G, C, A, B, C   Tenor: E, E, D, D, C
-
-
-Seventh Chords! next progression: I, vi7, ii, V7, I  (Bass notes from root position chords)
-
-Soprano: C, C, D, D, C  Alto: E, G, F, F, E  Tenor: G, A, A, B, G
-
-
-Chord Progression: I, IV, V7, I (Bass notes from root position chords)
-
-Soprano: C, C, B, C
-
-Alto: E, F, F, E
-
-Tenor: G, A, B, C
-
-The B in soprano and tenor voice creates parallel perfect octaves. Possible solutions: Frustrate the leading tone (still leaves the chord overly "thirdy"), Move the Tenor line to G, A, G, G, or move the soprano line to C, C, D, C (this creates parallel fifths between soprano and bass). The best option, in this case, becomes moving the tenor line.
-
-Chord Progression: I, IV, V, vi (Bass notes from root position chords, keep in mind there is no 7th in the V chord)
-
-Soprano: C, C, B, C
-
-Alto: E, F, D, E
-
-Tenor: G, A, B, A
-
-The soprano and tenor voices are doubling a third on the note B as part of the V chord. Possible solution: Move the tenor voice down to a G as the root of the V chord (this causes parallel fifths and octaves), Change the last chord so that the also is down to C and tenor is down to E, although this causes a doubled third (which is how you are supposed to voice deceptive cadences).
+**Additional tips**
+- Check the outer voices for errors before filling in the inner voices. If you catch errors early, you save yourself time
 
 # Further reading
 
