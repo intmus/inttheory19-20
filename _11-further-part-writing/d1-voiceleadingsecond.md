@@ -42,9 +42,9 @@ V:1
 
 Not only are these examples effective in demonstrating your ear's natural inclination toward root position, but they also show the basic diatonic underpinning of for limiting the use of second-inversion chords. In the above example that resolved the original sonority to an F major/minor chord, you can see how closely-related any key is to the key of its subdominant. Therefore, if used incorrectly, second-inversion chords can destabilize your part-writing by pushing toward a different key.
 
-## Alternate functions
+## Tertiary functions
 
-Because second-inversion triads are not as stable as the other inversions, they must be used differently in your part-writing. Instead of fulfilling a primary function such as tonic, dominant, or pre-dominant, they will have one of four alternate functions:
+Because second-inversion triads are not as stable as the other inversions, they must be used differently in your part-writing. Instead of fulfilling a primary function such as tonic, dominant, or pre-dominant, they will have one of the four tertiary functions, one of which we already discussed in the previous unit:
 - cadential
 - passing
 - pedal
@@ -91,7 +91,9 @@ Some theory methods teach that a cadential 6/4 should not be labeled as a I<sup>
 These reasons enforce an understanding of the true nature of the cadential 6/4. I prefer to label it as a I<sup>6/4</sup> chord, however, because:
 - We do not create special usage cases in our Roman numeral system for any other chord. It creates an unnecessary exception for students to learn and often confuses students on the difference between inversion figures and true figured bass.
 - By having two different chords labeled as a V<sup>6/4</sup>, it is easy for students to confuse a cadential 6/4 with an actual V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the *passing 6/4* section.)
-- When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four alternate categories (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
+- When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four tertiary functions (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
+
+As with all tertiary function chords, it is helpful to label a chord when it is not functioning as a primary function. For example, if a strange chord is functioning as a passing chord, we do not simply label it with a Roman numeral, but instead note somewhere in the analysis that it is functioning as a passing chord. It is helpful to apply the same strategy for cadential 6/4 chords, so I recommend bracketing the I<sup>6/4</sup> and V chord together and putting an abbreviated "cad" below the bracket.
 
 ## Passing 6/4s
 
