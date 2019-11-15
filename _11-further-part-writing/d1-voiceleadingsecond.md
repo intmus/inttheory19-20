@@ -87,13 +87,14 @@ Cadential 6/4 progressions are often used to correct part-writing errors in appr
 Some theory methods teach that a cadential 6/4 should not be labeled as a I<sup>6/4</sup>; instead, they label it as a V<sup>6/4 - 5/3</sup>. The reasoning behind this is twofold:
 - The I chord does not have a tonic function.
 - The cadential 6/4 chord resembles a 4-3 suspension and a 6-5 suspension occurring at the same time.
+These reasons ensure that students understand the true function of the cadential 6/4. 
 
-These reasons enforce an understanding of the true nature of the cadential 6/4. I prefer to label it as a I<sup>6/4</sup> chord, however, because:
-- We do not create special usage cases in our Roman numeral system for any other chord. It creates an unnecessary exception for students to learn and often confuses students on the difference between inversion figures and true figured bass.
+I prefer to label it as a I<sup>6/4</sup> chord, however, because:
+- We do not create special usage cases in our Roman numeral system for any other chord. It creates an unnecessary exception for students to learn and often confuses students.
 - By having two different chords labeled as a V<sup>6/4</sup>, it is easy for students to confuse a cadential 6/4 with an actual V<sup>6/4</sup>, a chord that occurs regularly as a passing chord. (Read more on this below under the *passing 6/4* section.)
-- When looking at an analysis, we are required to understand that all 6/4 chords function in one of the four tertiary functions (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
+- When looking at an analysis, we are required to understand that almost every 6/4 chord has a tertiary function (i.e. passing, cadential, passing, and arpeggiated), but we do not create special Roman numeral cases for the other three types of tertiary functions. Students are more than capable of learning the other three usages of second inversion chords, and they can remember that a I<sup>6/4</sup> followed by a root-position V or V<sup>7</sup> chord is a cadential 6/4 and has a dominant function.
 
-As with all tertiary function chords, it is helpful to label a chord when it is not functioning as a primary function. For example, if a strange chord is functioning as a passing chord, we do not simply label it with a Roman numeral, but instead note somewhere in the analysis that it is functioning as a passing chord. It is helpful to apply the same strategy for cadential 6/4 chords, so I recommend bracketing the I<sup>6/4</sup> and V chord together and putting an abbreviated "cad" below the bracket.
+As with all tertiary function chords, it is helpful to label a chord when it is not functioning as a primary function. For example, if a strange chord is functioning as a passing chord, we do not simply label it with a Roman numeral, because a Roman numeral without an explanation assumes that the chord is functioning in its primary role. For tertiary functions, it is helpful to note somewhere in the analysis that it is functioning as a passing chord. It is helpful to apply the same strategy for cadential 6/4 chords, so I recommend bracketing the I<sup>6/4</sup> and V chord together and putting an abbreviated "cad" below the bracket.
 
 ## Passing 6/4s
 
@@ -137,7 +138,7 @@ w:C:I V6/4 I6 I viio6 I6{% endcapture %}
 
 ## Pedal
 
-Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates in the bass line. A pedal 6/4 occurs when the bass line remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.
+Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates within a voice--most often the bass line. A pedal 6/4 occurs when a voice remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.
 
 {% capture ex4 %}X:4
 T:Pedal 6/4 chords
