@@ -64,7 +64,7 @@ cBcG B^AB^F| _BA_BF A^GAE| _AG_A_E G4||{% endcapture %}
 
 The fifth example above is the most difficult to complete and classify, because it mixes elements from both diatonic and chromatic sequences. It has a diatonic transposition, but it resembles a chromatic sequence because there is a fixed intervallic structure within the pattern. We could say that it is a diatonic sequence that descends in 3rds, but uses a fixed chromatic pattern within each iteration. The biggest problem lies with the fifth iteration because it is the only pattern that requires an altered fourth pitch rather than just a raised second pitch. Technically, there is not a "right" answer to this; it would be decided by the context and style in which the composer was using the pattern. In the completed example below, I chose to complete it using an `F-sharp`, because it creates a nice leading tone for the following pitch. If the pattern had been repeating at the second rather than third, the next pitch would have been an `A`, and I would likely have chosen an `F-natural`.
 
-{% capture ex11 %}X11
+{% capture ex11 %}X:11
 T:Diatonic transposition with a chromatic pattern
 M:2/2
 L:1/8
@@ -89,7 +89,7 @@ C, A,| G, G,| F, F,| E, E,| D, D,| C,2|]
 w:C:{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-What progression did you create? Did it follow standard tonal conventions? There are multiple variations on the harmonic progression for this sequence, but I have suggested one below. Using my progression, try adding a third voice as an alto line. (Remember that the sequential pattern will not start until the second measure.) Does this new voice also follow a pattern that could be described by your classfication method?
+While there are some variations on how you could harmonize this sequence, it is possible to make a chord progression that has diatonic chords with roots separated by a P5. I have suggested a version of this below. Using my progression, try adding a third voice as an alto line. As you do this, remember that the sequential pattern will not start until the second measure, so the first measure can just fill out missing chord tones. Your line does not have to have all stepwise motion like the outer two voices do, but it should follow some sort of repeating pattern.
 
 {% capture ex3 %}X:3
 T:Harmonizing a two voice sequence
@@ -117,12 +117,16 @@ C, A,| G, G,| F, F,| E, E,| D, D,| C,2|]
 w:C:I IV6 V7 I6/4 IVM7 viio6/4 iii7 vi6/4 ii7 V6/4 I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
+### Conclusions
+
 In your classification of the two-voice progression above, you likely described each line individually (e.g. descending diatonic 2nds that last one whole note), or you may have describe the intervals between the two lines for each measure (e.g. a diatonic 7th resolving to diatonic 6th, then repeating after transposing down a diatonic 2nd). Neither of these is sufficient, however, once we add a third voice.
 
 Instead, we classify *harmonic* sequences by describing the movement of the *roots* of each chord. We do *not* label harmonic sequences by inversions or the bass line. If we were to identify sequences by bass lines, all sequences that created a particular style of bass line (e.g. descending by stepwise motion) would be grouped together, even if they shared no harmonic similarities. (You can see this concept in the next two examples below.) Taking this into account, the description of the sequence in the example above would be:
 - A diatonic harmonic sequence with root-movement by descending 5th that alternates between root-position seventh chords and second-inversion triads.
 
-The above sequence has only one interval and direction in its root movement pattern, a descending P5. As we saw in the final example of the melodic sequences above, though, it is also possible for harmonic sequences to have two or more parts within each repetition. Look at the example below, and classify it using our terms from above:
+## Complex harmonic sequences
+
+The above sequence has only one interval and direction in its root movement pattern, a descending P5. Similar to the final example of the melodic sequences above, though, it is also possible for harmonic sequences to have two or more parts within each repetition. Look at the example below, and classify it using our terms from above:
 - ascending or descending
 - diatonic or chromatic
 - intervals of transposition
