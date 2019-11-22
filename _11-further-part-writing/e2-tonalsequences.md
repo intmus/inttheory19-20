@@ -5,7 +5,7 @@ title: Discussion 11e - Tonal Sequences
 
 # Class Discussion
 
-**Melodic sequences**
+***Melodic sequences***
 
 **Diatonic vs. chromatic**
 - Diatonic is entirely in the key. The first example is completely in C, so it's diatonic. When a sequence is diatonic you don't label the quality of the interval of transposition because it will vary between each scale degree
@@ -19,7 +19,7 @@ Some sequences will have qualities of diatonic and chromatic sequences. Ex. 5's 
 
 **How to label sequences:** put a bracket over the top of the areas you want to ID as a sequence, then draw arrows pointing from the one on the left to the one on the right. Over the top of the arrow, indicate whether it's ascending/descending with an up or down arrow, and also include a number (and quality, if the sequence is chromatic) to ID the interval of transposition.
 
-**Harmonic sequences**
+***Harmonic sequences***
 
 **A two voice sequence**
 - Is this example functional? Can you harmonize the example (come up with a progression for it)? Can we have a cadence as we normally would?
