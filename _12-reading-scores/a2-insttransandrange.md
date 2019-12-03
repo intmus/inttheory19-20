@@ -6,8 +6,19 @@ abc: true
 
 # Class discussion
 
-Why is it called a B-flat instrument?
+**Written pitch**: what is written on the page. If you're playing a transposed instrument, the note you are playing will be transposed too
+**Sounding pitch**: the "actual" note being played. Concert A is concert A no matter what instrument you're playing
+**Concert pitch**: interchangeable with sounding pitch. Basically means "in C." This is the baseline point of reference for everything else
 
--When the instrument plays its C, the sounds a Bb
+Remember that the process of transposition relies on compensation. If an instrument is pitched lower, its written pitches are *higher* than concert pitch. Ex: Bb trumpet's written C is concert Bb
 
--This works with other instruments. Eb Clarinet sounds an Eb when it is reading a C etc.
+You can organize various instruments according to how their music is written:
+- **C instruments**: written/sounding pitches match! These are the easy ones
+- **Octave displacing instruments**: instruments play up or down an octave from what is written. Generally high instruments get written an octave lower, and low instruments get written an octave higher (think about compensation like we talked about earlier!)
+- **Bb instruments**: transpose down a M2 from written pitch. Some instruments (like tenor sax) have an additional octave displacement
+- **Eb instruments**: transposition is based around M6. Some instruments have octave displacements, and Eb clarinet is transposed up a m3 from concert. This one is the only exception
+  - Quick way to remember what keys the saxophones are in: organize them ascending to descending and they will alternate Bb and Eb (soprano, alto, tenor, bari). Or think of soprano/tenor and alto/bari as pairs
+- **F instruments**: transpose down a P5 from written pitch
+- Others
+  - **Clarinet in A**: down a m3 from written pitch
+  - **Alto flute**: written in G, transpose down a P4 from written pitch
