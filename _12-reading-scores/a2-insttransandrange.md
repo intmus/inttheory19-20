@@ -7,7 +7,9 @@ abc: true
 # Class discussion
 
 **Written pitch**: what is written on the page. If you're playing a transposed instrument, the note you are playing will be transposed too
+
 **Sounding pitch**: the "actual" note being played. Concert A is concert A no matter what instrument you're playing
+
 **Concert pitch**: interchangeable with sounding pitch. Basically means "in C." This is the baseline point of reference for everything else
 
 Remember that the process of transposition relies on compensation. If an instrument is pitched lower, its written pitches are *higher* than concert pitch. Ex: Bb trumpet's written C is concert Bb
