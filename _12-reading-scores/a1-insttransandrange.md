@@ -14,8 +14,9 @@ Musicians use the following terms to discuss transposing instruments.
 - *sounding pitch* - The pitch that an instrument produces.
 - *written pitch* - The pitch as written on the music.
 - *concert pitch* - The pitch at which the note name matches the standard frequencies for that pitch. (i.e. C = C, A = A, etc.)
+    - In practical usage, concert pitch is almost always interchangeable with sounding pitch.
 
-Transposing instruments are not conceptually difficult to understand--these instruments sound at a different pitch than written--but in practice, it often confuses the students because instrument transposition is the process by which we *compensate* for an instrument's sounding pitch. If we write for a B-flat instrument, it sounds a whole-step *lower*, so we must write the part a whole-step *higher* to get the performer to sound the correct pitch. Conversely, when reading a B-flat transposed part, we must read it a whole-step lower, because it is written a whole-step higher than sounding. 
+Transposing instruments are not conceptually difficult to understand--these instruments sound at a different pitch than written--but in practice, it often confuses students because instrument transposition is the process by which we *compensate* for an instrument's sounding pitch. If we write for a B-flat instrument, it sounds a whole-step *lower*, so we must write the part a whole-step *higher* to get the performer to sound the correct pitch. Conversely, when reading a B-flat transposed part, we must read it a whole-step lower for concert pitch, because it is written a whole-step higher than sounding. 
 
 It is easy to transpose in the wrong direction when having to constantly flip back and forth between concert pitch and the transpositions, so it is important to have a complete understanding of transposition for each instrument. Luckily, they can be grouped into relatively few categories.
 
@@ -50,9 +51,9 @@ While not directly related to transpositions, some instruments commonly read alt
 
 ### Terminology confusion
 
-Before going further, make sure that you can differentiate between *sounding* pitch, *concert* pitch, and *written* pitch.
+Before going further, please make sure that you understand the above definitions and usage for the terms *sounding* pitch, *concert* pitch, and *written* pitch.
 
-One of the most confusing elements of understanding transposing instruments is the use of key names to describe the instruments. If an instrument is "in B-flat" as described above, that implies that the instrument transposes. Unfortunately, this creates the possibility of confusing statements such as, "When an instrument in B-flat plays in B-flat, it is actually playing in A-flat concert." This ambiguity should be clarified by differentiating between the instrument's transposition and the key signature in which the piece is composed: "When an instrument [that reads] in B-flat plays [in the key signature] of B-flat [major], it is actually playing in [the key signature of] A-flat [major]." The language we use in this instance is clunky at best, inadequate at worst. It falls upon the musician to make sure that they are communicating clearly when it comes to transposing instruments. 
+One of the most confusing elements of understanding transposing instruments is the use of key names to describe the instruments. If an instrument is "in B-flat" as described above, that implies that the instrument reads parts that are written a M2 away from concert pitch. Unfortunately, this creates the possibility of confusing statements such as, "For a trumpet in B-flat, the key of A-flat is actually B-flat." This ambiguity should be clarified by differentiating between the instrument's transposition and the key signature in which the piece is composed: "For a trumpet [that sounds] in B-flat, the [concert key signature] of A-flat [major] is [written] as B-flat [major]." The language we use in this instance is clunky at best, inadequate at worst. It falls upon the musician to make sure that they are communicating clearly when it comes to transposing instruments. 
 
 ### Non-transposing instruments (in C)
 
