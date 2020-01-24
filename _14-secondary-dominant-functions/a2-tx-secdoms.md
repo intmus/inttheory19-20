@@ -31,6 +31,8 @@ abc: true
 
 **How do we determine V/V in different keys?**
 - Literally ask "what is the V of V" and go from there
+- Relate V/V to something you're already very familiar with: ii! In a way, V/V is really just a fancy ii. They share the same root and usually share the same function. The only difference is V/V's raised third
+- If thinking about solfege works better for you, you can use the above point but think about sol and re instead. If you see re and fi together, you'll know it's likely a V/V
 - These chords are weird and require added accidentals so double-checking (or even triple-checking) them is always a good idea!! Make sure what you ID'd matches up with what you wrote out in the staff.
 
 # Further reading
