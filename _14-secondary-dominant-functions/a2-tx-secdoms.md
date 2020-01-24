@@ -7,104 +7,31 @@ abc: true
 # Class discussion
 ## Secondary Dominant Chords
 
-Harmonization of "A standard progression"
+**In a minor key, are i and iv diatonic or chromatic?**
+- They are diatonic! They show up naturally in minor keys. If we were to have a iv in a major key, that would be a chromatic chord. Any chord that is modified from how it would appear naturally in the major or minor key is chromatic.
 
-Progression: I, vi, ii, V, I
+**A standard progression: I - vi - ii - V - I (in C)**
+- Remember: fa does *not* always go to mi. In this progression, if you have F and G in the alto voice for ii and V, fa should go to sol. This is because in circle-of-fifths progressions, thirds always resolve up to the root of the next chord.
 
-Soprano is given, Bass notes found from chord inversion. Alto: E, E, F, G, E Tenor: G, A, A, B, C
+**Altering ii - V**
+- The mystery chords are V and I in G major. All we did was alter the key signature for the second two chords. The key signature is a stand-in for adding an accidental (raised third) to ii.
 
+**Changing ii to a dominant chord**
+- In order to get the same effect we got in the last example, we need to add an accidental. Raise the third in ii to get...a V/V! This is called *tonicization*.
+ - Tonicization = extending harmony to treat any non-tonic chord as a tonic. Another way to think of this is just us temporarily creating a tonic. Remember, V/V - V movement is really just V - I in the key of V.
+- Slashes below the staff = "x **of** x." Slashes above the staff = "x **over** x." It can be confusing, but try not to mix them up! Remember that Roman numerals label function, whereas chord symbols label the actual notes within a chord.
+- Unlike tertiary function chords, secondary dominants *replace* function, rather than extend/embellish it. I6/4 is always paired with V because it extends dominant function, but V/x is always paired with x because we are temporarily going to x's key area. One way to remember this is that we are temporarily phasing over to a *secondary* key.
 
-What do we change to make a ii V in C major become a V I in G major?
+**Do not** tonicize ii0 in minor or vii0 ever. There is no diminished key and trying to do this for our part writing in this class is a bad idea. However, in analyses later in the semester you might see a composer do this because the Romantic period was really crazy.
 
-We raise the third to become the leading tone in G. F becomes F#
+**Secondary dominant seventh chords (same progression as before, but with ii7)**
+- This process is the same as for turning a regular ii into a V/V, but we end up with a V7/V instead!
+ - *How do I tell what inversion a secondary function chord is in?*: The inversion figures will always be attached to the Roman numeral to the left of the slash, as seen with V7/V. They go with the "upper" Roman numeral because the "lower" one is just a shorthand for a key in relation to the key we are already in.
+- As we'll see in coming lectures, this process can used to tonicize any major or minor triad.
 
-It is called secondary dominant because it is the dominant chord of a different key. We use these chords to emphasize and decorate chords. A secondary dominant that leads to a V chord would be a V in the key of V (V/V). A secondary dominant that leads to a ii chord would be a V in the key of ii (V/ii).
- 
- In review: 
- 
- -Primary function of chords: tonic, dominant, pre-dominant, vi chord thing
- 
--Alternate function: cadential, arpeggiated, passing, pedal
- 
- -Now we are beginning secondary function with secondary dominants.
- 
- Harmonization of "Changing ii into a dominant seventh chord"
- 
- Soprano (given), Bass notes found from chord inversions. Alto: E, E, F#, G, E Tenor: G, A, C, B, C
- 
- 
-
-
-What is a secondary dominant?
-- a false tonicization to lead to a chord and extend its function
-Instead of a ii7 - V, you can use a V7/V - V.
- - in C, the V7/V is spelled DF#AC, as opposed to ii7 DFAC.
- - this creates a tonicization to the V chord
-
-
-#### Example 1 in C
-Soprano: C5 - C5 - D5 - D5 - C5
-
-Alto: E4 - E4 - F4 - G4 - E4
-
-Tenor: G3 - A3 - A3 - B3 - G3
-
-Bass: C3 - A2 - D3 - G2 - C3
-
-Progression: I - vi - ii - V - I
-- the tenor voice in the last two notes displays a frustrated leading tone (ti-sol in an inner voice)
-- another possibility is ti-doh with a tripled root
-
-A circle of fifths progression: iii - vi - ii - V - I
-- alternatively a IV in the place of a ii (pre-dominant function) 
-- alternatively a viio in the place of a V (dominant function)
-
-### Altering a ii - V
-We have a ii - V voicing in C major.
-The same voiceing creates a V - I in G major, the only difference being the change in key signature (F#).
-
-When we borrow the V chord for a dominant function from a different key, it's called tonicization. 
-DO NOT label it as a II. 
-We label based on function, and the function here is a secondary dominant: using the dominant from another key to create a false tonicization to a different key.
-We don't modulate, it takes your ear to a different tonic for two beats.
-
-A II spelling is written V/V. 
-It may look like a II, but it functions as the dominant to the V in the home key.
-This is an essential part of chromatic harmony. 
- 
-#### Example 2 in C
-Take the same soprano and bass lines from before, but alter the ii to be a ii7.
-
-Soprano: C5 - C5 - D5 - D5 - C5
-
-Alto: E4 - E4 - F4 - G4 - E4
-
-Tenor: G3 - A3 - C4 - B3 - G3
-
-Bass: C3 - A2 - D3 - G2 - C3
-
-Progression: I - vi - ii7 - V - I
-
-To use a secondary dominant, raise the F in the alto voice to an F#.
-This gives you a V7/V moving to a V in the next chord. 
-
-Where else in this example can you put a secondary dominant?
-The progression is I - vi - ii7 - V - I.
-We already have a V - I in the key, and we just made a V/V - V from the ii7.
-Our only other option is to turn the vi into a secondary dominant by raising the third of the chord. 
-
-This leaves us with a A - D-7, or a V/ii. 
-- remember we don't need to put the 7 from the ii7 in the secondary dominant
-- the label of the secondary dominant is what is functional in the key
-
-The top figure in the secondary dominant is the dominant chord.
-The bottom figure is where you are borrowing the chord from. 
-
-Take a chord progression:
-I - V7/vi - vi - ii - V7 - I
-In F: F - A7 - Dm - Gm - C7 - I
-- the A7 is a tonicization to Dm
-- as a secondary dominant, the A7 - Dm is the V7 - i in D minor
+**How do we determine V/V in different keys?**
+- Literally ask "what is the V of V" and go from there
+- These chords are weird and require added accidentals so double-checking (or even triple-checking) them is always a good idea!! Make sure what you ID'd matches up with what you wrote out in the staff.
 
 # Further reading
 
