@@ -44,7 +44,9 @@ V:2 clef=bass
 w:C:I vi V7/V V I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-To turn this into a secondary *leading-tone* chord, you need to replace the root--in this case, the pitch D--with a note from vii<sup>o</sup>/V. While this is a simple statement, I hope that you remember our discussions of the difficulties in voicing a vii<sup>o</sup> triad. You do not want to double the tendency tones, because one of them will need to resolve incorrectly to avoid objectionable parallels with each other. And because there are so many tendency tones, you need to be careful of where each voice is placed to avoid parallelisms, poor resolutions, and spacing errors. What note should you double? How do you have to re-voice the chord? What inversion does this create for your vii<sup>o</sup>/V chord? Try it using the following voicing.
+To turn this into a secondary *leading-tone* chord, you need to replace the root--in this case, the pitch D--with a note from vii<sup>o</sup>/V. While this is a simple statement, I hope that you remember our discussions of the difficulties in voicing a vii<sup>o</sup> triad. You do not want to double the tendency tones, because one of them will need to resolve incorrectly to avoid objectionable parallels with each other. And because there are so many tendency tones--the root, fifth, and seventh of any vii<sup>o7</sup> are all tendency tones--you need to be careful of where each voice is placed to avoid parallelisms, poor resolutions, and spacing errors. 
+
+As you work on revoicing your V7/V, take note of which pitch you choose to double. What other changes are necessary to avoid poor resolutions? You may choose to use any inversion for your vii<sup>o</sup>/V chord, so try re-voicing using the following voicing:
 
 {% capture ex4 %}X:4
 M:4/4
@@ -57,9 +59,13 @@ V:2 clef=bass
 w:C:I vi V7/V V I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-It is likely that you immediately ran into issues in trying to eliminate the D from the bass chord. Substituting the an A in the same octave creates parallel octaves against the tenor. Substituting an F-sharp in the same octave creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are extremely difficult to use as a dominant function. Instead it is much easier to use a seventh chord. 
+### Conclusions
 
-In the following example, try to using a vii<sup>o7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord. 
+It is likely that you immediately ran into issues in trying to eliminate the D from the bass chord. Substituting the an A in the same octave creates parallel octaves against the tenor. Substituting an F-sharp in the same octave creates parallel octaves against the alto. You could frustrate the leading tone in the alto as a workaround, but the fact remains: vii<sup>o</sup> *triads* are extremely difficult to use as a dominant function, and there is no straightforward answer to the above exercise that does not result in some compromise. 
+
+## Adding a seventh
+
+It is much easier to use a vii<sup>o</sup> as a seventh chord. In the following example, try to using a vii<sup>o7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
 
 {% capture ex5 %}X:5
 T:Using a secondary leading-tone seventh chord
@@ -73,7 +79,9 @@ V:2 clef=bass
 w:C:I vi viio7/V V I{% endcapture %}
 {% include abc-example.html number="5" abc=ex5 %}
 
-As you can see, the part-writing mostly takes care of itself in voicing this chord. The most obvious solution is listed below. Notice that the resolutions are smooth and allow every tendency tone to resolve correctly without creating objectional parallels.
+### Conclusion
+
+As you can see, the part-writing mostly takes care of itself in voicing this chord as long as you resolve the tendency tones correctly. The most obvious solution is listed below. Notice that the resolutions are smooth and allow every tendency tone to resolve correctly without creating objectional parallels.
 
 {% capture ex6 %}X:6
 T:A completed secondary leading-tone seventh chord
@@ -86,6 +94,21 @@ V:2 clef=bass
 [C,G,] [A,,A,]| [^F,,A,] [G,,G,]| [C,2]|]
 w:C:I vi viio7/V V I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
+
+Because this is a functional substition for a V/V chord, the root and fifth of the vii<sup>o7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
+
+{% capture ex7 %}X:7
+T:Comparing a vii07/V to a V7/V
+M:4/4
+L:1/2
+Q:1/4=60
+K:C
+V:1
+[cD] [DB]| [c_E] [DB]|]
+V:2 clef=bass
+[^F,,A,] [G,,G,]| [^F,,A,] [G,,G,]|]
+w:C:V6/5ofV I viio7/V V I{% endcapture %}
+{% include abc-example.html number="7" abc=ex7 %}
 
 ## Secondary leading-tone chords through similar chords
 
