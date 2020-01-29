@@ -6,91 +6,11 @@ abc: true
 # Class discussion
 ## Non-dominant Function Secondary Chords
 
-Roman Numeral analysis of "Other secondary functions"
+**Other secondary functions**
+- What is up with this weird mystery chord??? (Gmin in C major)
+  - Is it a iv/ii? It's followed by a V/ii, so is it just an extended progression?: Yep! It looks kind of weird, but that's exactly what it is.
+- *Contextual analysis tips:* always be thinking about what you're analyzing actually *sounds.* All Roman numerals do is label function. They're like a legend indicating what we hear
+  - Think of chords in a secondary progression as being tied together by a string. In our progression iv/ii - V42/ii - ii6 - V7 - I, the first three chords are basically a bundle setting up our V7.
 
-C: I, V4/3, I, iv of ii, V4/2 of ii, ii6, V7, I
-
-Why is iv of ii not a minor v chord? Minor v chords really only function as passing or pedal chords, but this iv of ii clearly functions as the beginning of a progression that moves toward a ii chord.
-
-Roman numeral analysis of "Ambiguous secondary functions"
-
-C: I, vi, V6/5 of V, V7, I
-
-Should vi be labeled as ii of V? Maybe not because you haven't heard the transition to V yet because I to vi is a common sound. This is subjective, though, and open for argument. 
-
-
-
-#### Example in C: Non-Secondary Dominant Functions (15b.)
-What is the chord progression?
-- we find chords that are unusual but still have secondary function
-
-Progression: I -  V7 - x - x - x - V7 - I
-
-Filled in:
-
-C - G7 - Gm - A7/G - Dm/A - G7 - C
-
-I - V7 - iv/ii - V42/ii - ii6/4 - V7 - I
-
-### Harmonizing consecutive seventh chords
-
-In a circle progression, stepwise resolution can be achieved with seventh chords in the iii and ii.
-- iii43 - vi7 - ii43 - V7 - I
-
-The second inversion in the iii7 and ii7 chords allows for a resolution with smooth voice leading
-
-#### Example in C: Harmonizing Consecutive Seventh Chords
-
-Soprano: C5 - B4 - C5 
-
-Alto: F4 - F4 - E4
-
-Tenor: A3 - G3 - G3
-
-Bass: D3 - D3 - C3
-
-Roman Numerals: ii7 - V43 - I 
-- the third of the ii7 (F), instead of resolving down has to stay through the next chord to get to the E in the tonic
-
-If you turn the ii7 into a V7/V, and change the F to an F# in the Alto line, you'll want to resolve it to a G.
-That resolution, while melodically ideal, doesn't work for voicing the next chord. 
-So sometimes you have to break voice leading rules. 
-
-In the case of this example in a piece of music, the musician would rather read a Gb - F than an F# - F. 
-This can cause confusion when trying to analyze a piece of music. 
-Sometimes you have to think enharmonically to solve problems in analysis. 
-
-#### Example in C: Consecutive Secondary Dominant Chords
-
-Soprano: C5 - C5 - D5 - D5 - C5
-
-Alto: E4 - E4 - F4 - G4 - E4 
-
-Tenor: G3 - A3 - A3 - B3 - G3
-
-Bass: C3 - A2 - D3 - G2 - C3
-
-Roman Numerals: I - vi - ii - V - I
-- here we have a normal circle progression
-
-Where can we input secondary dominants?
-Here are some places you can place secondary dominants.
-
-(G) V/I = V (G), (D) V/V = ii (Dmin), (A) V/ii = vi (Amin), (E) V/vi = iii (Emin)
-- you can replace every chord up to the V with a secondary dominant
-
-Soprano: C5 - C#5 - D5 - D5 - C5
-
-Alto: E4 - E4 - F#4 - G4 - E4 
-
-Tenor: G3 - A3 - A3 - B3 - G3
-
-Bass: C3 - A2 - D3 - G2 - C3
-
-Roman Numerals: I - V/ii - V/V - V - I
-- the secondary dominants are still resolving to the correct chord with a raised third
-- this can give us a string of secondary dominants leading to V - I
-
-iii - vi - [ii,IV] - [V,viio] - I
-
-V/vi - V/ii - V/V - V - I
+**Ambiguous secondary functions**
+- You can also label the Am chord as ii/V. You shouldn't do that, because it's overthinking, but you could. Remember: *always be thinking about what you're analyzing actually sounds like.* How does the Am chord function? Label it properly in order to reflect what you hear.
