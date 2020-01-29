@@ -27,9 +27,9 @@ w:C:{% endcapture %}
 
 ### Conclusion
 
-At first glance (and hearing), the G minor triad seems starkly out of place. We have seen minor v chords in previous examples, but in each case, they followed the defined conventions of one of our alternate functions such as a passing or pedal functions. Here, the minor v chord does not fit any of our known functions, so you needed to examine the context of this example. 
+At first glance (and hearing), the G minor triad seems starkly out of place. We have seen minor v chords in previous examples, but in each case, they followed the defined conventions of one of our alternate functions such as a passing or pedal functions. Here, the minor v chord does not fit any of our known functions, so we need to examine the context of this example. 
 
-The chord following the G minor triad is a clear V</sup>4/2</sup>/ii which then resolves to a ii chord. If you look at your leadsheet, you can clearly see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv/ii -- V</sup>4/2</sup>/ii -- ii. Without a firm cadence, we have not changed keys here, but this progression clearly emphasizes and extends our pre-dominant harmony.
+The chord following the G minor triad is a clear V<sup>4/2</sup>/ii which then resolves to a ii<sup>6</sup> chord. If you look at your leadsheet, you can clearly see a pattern that extends backwards if you continue thinking in the key of ii (D minor). In the key of ii, a G minor chord is a diatonic iv chord, which would make this a iv-V-i progression in that key. Therefore, the correct labeling of this example is iv/ii -- V<sup>4/2</sup>/ii -- ii<sup>6</sup>. Without a stable cadence, we have not changed keys, but this progression clearly emphasizes and extends our pre-dominant harmony.
 
 ## Secondary or diatonic?
 
@@ -51,4 +51,4 @@ w:C:{% endcapture %}
 
 The second chord, the A minor triad, is clearly a vi chord in the key of C major. It is worth noting however, that because this chord is followed by a secondary dominant, this chord also functions perfectly in the secondary key as a non-dominant secondary function. The third chord is a  V</sup>7</sup>/V which tonicizes the key of G major. If you extend this key backwards, the A minor chord functions as a ii/V chord.
 
-I would never label this as anything other than a vi chord in C major, because it is fulfilling its standard diatonic function in every way. However, this should further illustrate how fluid harmony can become when thinking of the relationships between keys and voice-leading.
+You do not need to label this as anything other than a vi chord in C major, because it is fulfilling its standard diatonic function in every way. However, this further illustrates how fluid harmony can become when thinking of the relationships between keys and voice-leading.

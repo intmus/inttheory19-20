@@ -124,3 +124,5 @@ V:2 clef=bass
 w:C:I V43/vi vi V/64/IV IV V65/V V7 I{% endcapture %}
 {% include abc-example.html number="6" abc=ex6 %}
 
+You probably notice when listening to this how similar this sounds to modern sources of harmonic progressions such as pop and jazz. A melodic bass line is often employed in these styles.
+
