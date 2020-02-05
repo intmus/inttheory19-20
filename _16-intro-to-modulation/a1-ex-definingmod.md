@@ -19,6 +19,17 @@ In our first studies of modulation, we will look at modulations between closely-
 - E-flat minor
 When determining closely-related keys, it is helpful to think of the *relative* major and minor keys as well as their closely-related keys, but the *parallel* major or minor is always a distantly-related key.
 
+### Conclusions
+
+Any key will have five closely related keys: two of the same mode, and three of the opposite mode. You can find these quickly by finding the relative major/minor key of the starting key, and then adding one sharp and one flat to both of these keys. For example, C major has a relative minor of A minor. If you add a sharp to both of those key signatures you get G major and E minor. If you add a flat to both of those key signatures, you get F major and D minor. The chart below shows the closely related keys for the four examples from above.
+
+Key | Closely related major keys | Closely related minor keys
+ --- | --- | ---
+ C major | G major, F major | A minor, E minor, D minor
+ A minor | C major, G major, F major | E minor, D minor
+ C-sharp minor | E major, B major, A major | G-sharp minor, F-sharp minor
+ E-flat minor | G-flat major, C-flat major, D-flat major | A-flat minor, B-flat minor
+
 ## Differentiating modulation and tonicization?
 
 The biggest difficulty regarding modulation is differentiating between modulation and tonicization. Some modulations will be obvious, but others can be contentious. Because a modulation is defined by a change in the tonic, it is necessary to consider how music establishes tonic in the listener's ear. In earlier units, we discussed the importance of phrasing and cadences, but the following exercise will further clarify their importance.
