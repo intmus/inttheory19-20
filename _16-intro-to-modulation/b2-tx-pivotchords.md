@@ -20,4 +20,4 @@ We *highly* recommend that if you weren't doing lead sheet notation first in you
   - Another ex: in the Tchaikovsky example, we hear the modulation in the second to last measure. The chord in the second half of the measure right before it is D major, which is I in the original key and Vi in the new key--a perfect pivot chord! It fits right into a standard circle-of-fifths progression.
 - If you have a lot of V/V - V - V/V - etc. in a row, chances are you have modulated and are now in a new key. This is the case for any new key, not just V.
 - How to label: use a pivot chord bracket!
-- Where will you (usually) find these?" in the middle of a phrase!
+- Where will you (usually) find these?: in the middle of a phrase!
