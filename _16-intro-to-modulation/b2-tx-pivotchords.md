@@ -6,95 +6,18 @@ abc: true
 
 # Class discussion
 
-What is a pivot chord? A chord that is shared by two keys and has strong function in both keys.
+LEAD SHEET >>>>>>>> EVERYTHING
 
-Do NOT write I7 please and thank you.
+We *highly* recommend that if you weren't doing lead sheet notation first in your analyses, you start now. It's especially important to do it this way now because we're getting into modulation, and lead sheet will keep you from having to go back and re-do a bunch of work, which might happen if you try and do Roman numerals first. Remember: Roman numerals label function, whereas lead sheet just labels chords. To figure out what the music is doing, first we have to know what we have.
 
-## Pivot Chords
-
-Pivot chords are a way to modulate.
-There are other ways to modulate, but we're going to focus on pivot chords.
-
-Pivot chords:
-- find a chord that is common in the current key and the key you are going to
-- use that chord (and its fuction in each key) to pivot to the new key
-- it functions in the progression for both keys
-  - when writing a pivot modulation, you use a bracket to deliniate what portions are in each key
-  - good pivot chords have a progression on both sides that follows a circle progression
-  
-When working on modulations, lead sheet symbols become your best friend.
-You can use the lead sheet symbols to identify where the key center changes based on the use of diatonic and chromatic harmony. 
-
-### Simple Modulations
-
-#### Ex: Haydn's Piano Sonata in G major, mvt. 3
-Looking at 4 measures of the Haydn, we have:
-G - G/D - D7 - G/B - D7/A - G - G - A7/C# - D - A7/G - D
-
-In G, this would be analyzed as:
-I - I64 - V7 - I6 - V43 - I - I - V65/V - V - V/V - V
-
-Why does a V/V start on the 2nd scale degree?
-You need to establish a tonic. 
-What we do with non-diatonic harmony is find a way for it to function in the diatonic harmony. 
-
-If we have the progression of A - G - C, you can't tell what key it's in. 
-If we're in C with the same chord progression, you get a V/V - V - I.
-- it's a way of explaining non-diatonic harmony
-
-Now, analyze the same passage in D: 
-IV - IV64 - V7/IV - V43/IV - IV - IV- V65 - I - V V/V - V
-
-By comparing the analysis of the example between the two keys, you can find where the modulation occurs in a way that gives both sections common progressions. 
-
-### Distantly Related Keys
-
-The further-away keys are from each other, the more difficult to modulate between the two. 
-How to find a modulation:
-- Look for accidentals
-- Go back 1 chord
-
-#### Ex: Distantly Related Keys
-- you have G major going to F minor: two distantly related keys
-- compare the triads of the scale to each other and look for shared chords
-  - the only shared chord between the two is C major
-
-### Approaching a Modulation
-
-- write in lead sheet symbols
-  - with lead sheet, you can look at where new chords out of the key appear
-  
-#### Example in Bb
-
-Soprano: C5 - D5 - E5
-
-Alto: F4 - F4 - E4
-
-Tenor: A3 - B3 - C4
-
-Bass: F3 - D3 - C3
-
-Bb: V ] (now in c minor)
-
-cmin: [ V/VII - viio - i
-
-- analysis can also look like:
-
-Bb: V - viio6/ii - x
-
-cmin: x - viio6 - i
-
-Names for pivot chords not shared in both keys:
-- secondary function pivot
-- altered pivot
-  - it's not a standard pivot because it's not on a common chord
-  
-modulation point: the place where we first hear the modulation
-  - go one chord back from the modulation point and that is where you will find a pivot chord
-  
-We have 2 types of pivot modulations:
-1. Common Chord Pivot Modulations
-  - pivots on chords shared between the two keys
-  - these take priority over secondary function pivot chords
-2. Secondary Function Pivot Modulations
-  - pivots on chords not shared between keys, but a secondary function in one key and a common chord in the other
+**Pivot modulations (Common chord pivot modulations)**
+- Three important questions:
+  - Where do you first hear something changing?
+  - How is the change prepared?
+  - What harmonies transition in and out of modulation?
+- With pivot modulations, you always modulate before you actually hear it. There's always an overlap with the previous key where the pivot modulation happens--there has to be a functional progression on both sides of the pivot chord
+  - Ideally, your pivot chord is the chord *right* before you hear the modulation. In the Haydn example, we don't hear the modulation until the C# in the bass in the second system. So, the chord in the first half of the same measure (I in G, IV in D) is where we would actually put the pivot chord bracket.
+  - Another ex: in the Tchaikovsky example, we hear the modulation in the second to last measure. The chord in the second half of the measure right before it is D major, which is I in the original key and Vi in the new key--a perfect pivot chord! It fits right into a standard circle-of-fifths progression.
+- If you have a lot of V/V - V - V/V - etc. in a row, chances are you have modulated and are now in a new key. This is the case for any new key, not just V.
+- How to label: use a pivot chord bracket!
+- Where will you (usually) find these?" in the middle of a phrase!
