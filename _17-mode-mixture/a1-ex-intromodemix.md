@@ -8,7 +8,7 @@ Tonal harmony is easiest to study when when it follows strict rules, and because
 
 ## Mode mixture (modal interchange)
 
-Look at the following chart of the chords of parallel major and minor keys. Compare the chords built off each diatonic scale degree. (e.g. I to i, ii to ii<sup>o</sup> How many of these chord match qualities? Does your answer fit with your perception of two keys that are distantly-related?
+Look at the following chart of the chords of parallel major and minor keys. Compare the chords built off each diatonic scale degree. (e.g. I to i, ii to ii<sup>o</sup> How many of these chords match qualities? Does this fit with your perception of two keys that are distantly-related?
 
 C major | Chord | Chord | C minor
  --- | --- | --- | ---
@@ -40,13 +40,13 @@ w:c:i VI iio V7 i{% endcapture %}
 
 ### Conclusion
 
-Even at a glance, you can see that the voice-leading in these two progressions are nearly identical. The only differences between the two are due to the differences in key signature. In particular, the resolution between from the sixth scale degree to the fifth scale degree is strengthened in minor, because the resolution becomes a half-step between le and sol.
+Even at a glance, you can see that the voice-leading in these two progressions is identical with the only differences between the two resulting from the altered pitches in the key signature. In particular, the resolution from the sixth scale degree to the fifth scale degree is strengthened in minor, because the resolution becomes a half-step between le and sol.
 
 ## Borrowing from the parallel minor
 
 When studying the voice-leading of these two parallel modes, they seem almost interchangeable.
 
-So let's try it.
+And they are.
 
 Alter the following progression in C major to "borrow" either the VI or ii<sup>o</sup> chords from minor. What chordal members do you have to alter for each chord? What scale degrees are these? When you play it back does it sound acceptable? What if you only alter both chords? Does this make it more or less jarring?
 
@@ -65,7 +65,7 @@ w:C:I vi>VI ii>iio V I{% endcapture %}
 
 ### Conclusions
 
-To borrow either ii<sup>o</sup> or VI from minor, you must alter the sixth scale degree, although the VI also requires an altered third scale degree. Regardless of which chord you alter--or both--the progression is fairly convincing. Borrowing from the minor mode greatly darkens the progression without changing any of the voice-leading functions. Also, take note of how the roots of chords are affected. Our ii chord has a root of `re` in either the major or minor mode and changes only in quality from a D minor to a D diminished chord. The vi chord undergoes a larger change, because not only does its quality change from minor to major, but it does this by changing the actual root of the chord from `la` to `le`. Forgetting to change the root correctly is one of the most common mistakes that students make when studying borrowed chords in mode mixture, so always check your roots before building the chord.
+To borrow either ii<sup>o</sup> or VI from minor, you must alter the sixth scale degreefor both, and the VI also requires an altered third scale degree. Regardless of which chord you alter--or both--the progression is fairly convincing. Borrowing from the minor mode greatly darkens the progression without changing any of the voice-leading functions. Also, take note of how the roots of chords are affected. The ii chord has a root of `re` in either the major or minor mode and changes only in quality from a D minor to a D diminished chord. The vi chord undergoes a more substantial change, because not only does its quality change from minor to major, but it does this by changing the actual root of the chord from `la` to `le`. Forgetting to alter the root when borrowing chords from different modes is one of the most common mistakes that students make when studying borrowed chords in mode mixture, so always check your roots before building the chord.
 
 Perhaps more importantly than even understanding which chords can be borrowed, you must look at how they function. In this example, we are borrowing chords directly from a circle-of-fifths progression. *They are still fulfilling their diatonic function, because the voice-leading is tendencies are the same regardless of mode.* As with all Roman numeral analysis, its purpose is to explain the function and provide context for a progression. So even though the quality of this ii chord has changed and is no longer diatonic, the meaning of the Roman numeral doesn't change unless you alter it with further information such as labeling it as a passing or pedal chord. If you put ii<sup>o</sup> without further explanation, you are saying that it still has a pre-dominant function in this context.
 
@@ -88,7 +88,11 @@ w:C:I ii6 V7 vi IV6 vii%7 I{% endcapture %}
 
 ### Conclusions
 
-TBD
+Almost every chord can be substituted for its minor counterpart in this progression without changing its function. The pre-dominant and tonic functions can all be borrowed without altering their function, although altering the tonic functions quickly changes the sense of whether we are operating in the major or minor mode.
+
+There are two chords that cannot be borrowed. The first is the minor v chord; if you borrow this, you undermine the fundamental core of diatonic tonality, so it sounds as if someone simply played a wrong note. The other non-borrowable chord for this progression is the major VII chord that would be built off of B-flat. Both of these chords demonstrate the importance of the resolution from the leading tone to the tonic to establish dominant and tonic function. This is the basis for tonal harmony.
+
+Of note, you *can* borrow the vii<sup>o7</sup> from minor because it still has a leading tone.
 
 ## Borrowing from the parallel major
 

@@ -38,7 +38,7 @@ zG, B,G, zG ^CE| DF, G,A, D,A,, D,,:|]{% endcapture %}
 
 The example begins in the key of G major but ends in the key of D major. The first two bars clearly establish G major and end with an authentic cadence on beats 2, 3, and 4 of the second measure. The third measure also begins in G major, but beats 3 and 4 have a chromatic tone (C-sharp) as part of an A<sup>7</sup> chord used to tonicize D major. This tonicization is then solidified through an authentic cadence in D major in measure 4, completing the modulation.
 
-If you attempt to analyze this excerpt in only one of the two keys, you do not create a convincing explanation of either key. In G major, the second phrase requires many secondary dominants and results in a *heavily* tonicized V chord at the end. Conversely, if we try to analyze the first phrase in D major, we end up with a progression that looks as if it's operating entirely in the key of IV.
+If you attempt to analyze this excerpt in only one of the two keys, you do not create a convincing explanation of what you hear in either key. In G major, the second phrase requires many secondary dominants and results in a *heavily* tonicized V chord at the end. Conversely, if we try to analyze the first phrase in D major, we end up with a progression that looks as if it's operating entirely in the key of IV.
 
 {% capture ex3 %}X:3
 T:Haydn - Piano Sonata in G Major, mvt. 3
@@ -58,7 +58,7 @@ w:G:I _ _ _ V7/V _ _ V _ V7/V _ V
 w:D:IV _ _ _ V7 _ _ I _ V7 _ I{% endcapture %}
 {% include abc-example.html number="3" abc=ex3 %}
 
-When you look at the analyses in both keys on top of each like this however, their is one point at which the progression makes sense in *both* keys. At the beginning of the measure three, the listener will hear the G major triad as a continuation of the I chord from the previous cadence. This chord can also act as the diatonic IV chord in the key of D major. Therefore, this moment is both the conclusion of V-I in G major as well as the beginning of a IV-V-I progression in D major. This is an exemplar of a *pivot chord*.
+When you look at the analyses in both keys on top of each like this however, there is one point at which the progression makes sense in *both* keys. At the beginning of the measure three, the listener will hear the G major triad as a continuation of the I chord from the previous cadence. This chord can also act as the diatonic IV chord in the key of D major. Therefore, this moment is both the conclusion of V-I in G major as well as the beginning of a IV-V-I progression in D major. This is an exemplar of a *pivot chord*.
 
 A pivot chord is a chord that allows the composer to smoothly modulate between two keys. Any chord can be used to pivot between two keys, but this chord must be part of a **functional progression** in *both* keys to be considered a pivot chord. If a chord does not have an obvious function on both sides of the pivot, it is not a pivot modulation. We will discuss the other modulatory techniques in the next topic.
 

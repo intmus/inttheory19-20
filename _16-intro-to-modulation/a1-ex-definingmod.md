@@ -17,6 +17,7 @@ In our first studies of modulation, we will look at modulations between closely-
 - A minor
 - C-sharp major
 - E-flat minor
+
 When determining closely-related keys, it is helpful to think of the *relative* major and minor keys as well as their closely-related keys, but the *parallel* major or minor is always a distantly-related key.
 
 ### Conclusions
