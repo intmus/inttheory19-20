@@ -5,100 +5,21 @@ abc: true
 ---
 
 # Class discussion
-From 1/28/2019
 
-Closely related keys: keys that are within one accidental of each other, for example C and F (0 accidentals and 1 flat)
+**Key signature vs. key**
+- You don't have to change key signatures to modulate. Think of a piece in sonata-allegro form: it will rapidly modulate during the development, but we don't get a key signature change for each one.
+- Tonic defines key. Key signatures are shorthand for the benefit of the performer, they have nothing to do with the actual key
 
-Closely related keys (Major keys in capitals minor keys in lowercase) a minor: the same as C major (G, F, C, e, d) C# major: F#, G# (Ab), a# (b-flat), d#, e# (f) Eb minor: Gb (F#), Db, Cb (B), b-flat, a-flat
+**Key relationships**
+- Each key has five closely related keys: the key with one more sharp, the key with one more flat, and the relative minor keys of all three.
+  - Ex: the closely related keys to C major are F and G major + A, D, and E minor. The minor keys are relative to the major keys, which include C major and the keys one sharp and one flat in either direction.
 
-Anything outside of the change of one accidental would be considered a distantly related key.
+**Tonicization vs. modulation: How do we tell the difference?**
+- Signaling is the same for both: look for accidentals, namely raised notes (ti in the temporary/new key, fi in the current key)
+- Placement: is the new key area happening at the end of a phrase or is it in the middle? Furthmore, what is *around* it? If we stay in the new key, we've modulated, but if it's temporary it's tonicization.
+  - In the second example we listened to in class, we have a V/VI - VI progression to the first fermata. However, the chords after it are still in the key of I. This indicates that we haven't changed keys. If we had, the following chords wouldn't make as much sense in I because they're actually in the key of VI
+- Ear training is vital. We talked about it a lot in class, but being able to follow *do* as it moves between keys will speed up the process of figuring out whether we're tonicizing or modulating
+  - Be aware that the actual *look* of the music can be deceiving. In the Chopin example we went over in class, he starts tonicizing Bb major. Since the example is in G minor, Bb major's relative minor, putting in a V/III requires no accidentals. Hunting for accidentals is a good start for finding secondary dominants and/or modulations, but as with most theory things...it doesn't always work
 
-What is modulation? The changing of tonic.
-
-
-
-From Before:
-
-## Defining Modulation
-
-What is a modulation?
-- a key change, BUT...
-
-Most of the time when a key modulates, there isn't a change in key signature.
-If you go from C major to C minor is that a modulation? 
-- no, that's called mode mixture 
-
-So what defines a modulation? 
-When the tonic changes. 
-That's why C major to C minor is mode mixture, not a modulation. 
-
-
-### Closely related keys vs. distantly related keys
-
-#### Closely related keys:
-
-- keys that are within one acciental of the original key
-- ex: D major
-  - majors: A, G
-  - minors: e, b, f#
-    - remember that these keys relate to only D major, they do not relate to each other
-- ex: A minor
-  - major: C, G, F
-  - minor: d, e
-    - one thing to note is that in the mode, (minor in this case) the dominant and subdominant chords are the two keys in minor, and the major keys are the relative major keys to the minor keys.
-
-Mode mixture is C major to C minor. 
-Modulation is C major to A minor. 
-
-Ex 1: The first phrase is in E major, and after the fermata it modulates to the relative minor, C# minor.
-- some people like to only hear the first doh when there are clearly two dohs, E, and C#
-
-Ex 2: The first quarter is in E major, the second in C# minor, and the last half back in E major.
-- the part of music surrounded in E major disguises the modulation by the time the example ends, but there was a modulation in the middle of the example because of a cadence in the minor key
-
-You as the listener, have to hear a new note as the tonic. 
-That's where we start.
-If the example is using a string of secondary dominants but never arriving on a tonic, it's tonicization, not a modulation.
-You need to hear a solid arriving point of a new tonic. 
-
-#### Distantly related keys:
-
-- any key that isn't a closely related key
-  - there are ways to get to distant keys, but they are different modulations that are more abrupt
-
-### Modulation vs. Tonicization
-
-How do we know if we've modulated?
-How is that different from a set of chords creating a tonicization?
-This relies heavily on how you determine what a phrase is.
-
-A phrase is a:
-- thought or expression
-- how long you can play before you have to take a breath (historically)
-
-BUT Musically and structurally what defines a phrase?
-- cadences
-- the period (cadence) on the end of a sentance (phrase)
-
-As we go through the listening examples, try to identify the cadences.
-By looking for cadences, we can identify where a modulation occurs, no matter how little time the music sits in the new key. 
-
-#### Ex: Beethoven
-The first phrase ends in a half cadence in C.
-The rest of the piece continues in C with a phrase of tonicization to F, but it never modulates.
-- this partially being because Beethoven will beat the tonic into your ear.
-
-#### Ex: Tchaikovsky
-The first phrase ends with and imperfect authentic cadence in D major.
-The last phrase modulates to F# minor out of context.
-In the real piece, it goes back into D major after this section so the F# minor moment functions as a tonicization. 
-
-#### Ex: Chopin
-We are in G minor. 
-This piece has a V/iii that heavily tonicizes Bb, but it's not a strong enough cadence point.
- - if the soprano line landed on a Bb then it would feel like a modulation, but it doesn't
-
-#### Ex: Mendelssohn 
-In G minor at the beginning, it modulates later in the example. 
-It's all based on the cadences throughout the example. 
+If it establishes the new key it's a modulation. However, this requires multiple things: you have to have a cadence, and you have to stay in the new key. "Does the phrase feel solid and stable in a new key?" is a really subjective question, though, which is how arguments/debate arise.
 
