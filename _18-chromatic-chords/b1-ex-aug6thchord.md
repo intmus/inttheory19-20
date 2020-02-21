@@ -4,7 +4,7 @@ title: 18b Examples - Augmented sixth chords
 abc: true
 ---
 
-The Neapolitan chord is a chromatic chord; it is constructed using tertian harmony but uses non-diatonic pitches. The chords that we will explore in this unit are not built in tertian harmony, although they are no more difficult to understand functionally. Interestingly, this chord comes in three different variants. (You can think of them as "flavors" if you'd like.) 
+While every chord we have studied in the course thus far has been based in tertian harmony, the chords that we will explore do not rely on intervals of the third for their construction. Although they are no more difficult to understand functionally. Interestingly, this chord type comes in three different variants. (You can think of them as "flavors" if you'd like.) 
 
 ## Augmented sixth (<sup>+6</sup>) chords
 
@@ -102,7 +102,7 @@ As you can see, the tendency tones of the augmented sixth -- ^b6 and ^#4 -- will
 
 #### Augmented sixth chords resolving to V<sup>7</sup> and I<sup>6/4</sup>
 
-There are certainly voice-leading issues when resolving augmented sixth chords, but the chromatic element, particularly the ^#4, somewhat camouflages the objectionable parallels. Most obviously, when a Ger<sup>+6</sup> resolves directly to a V chord, parallel perfect fifths will result when resolving the ^b6 and ^b3 scale degrees. For this reason, there are alternate resolutions for augmented sixth chords that are often preferable. Look at the next example to see two possible fixes for this. Does the cadential I<sup>6/4</sup> fix the likely objectionable parallels for a Ger<sup>+6</sup>? Why is the Ger<sup>+6</sup> have an enharmonically spelled pitch when resolving to a cadential I<sup>6/4</sup>? When an augmented sixth chord resolves to a V<sup>7</sup>, what changes about the resolution of the tendency tones in the augmented sixth chord?
+There are certainly voice-leading issues when resolving augmented sixth chords, but the chromatic element, particularly the ^#4, somewhat camouflages the objectionable parallels. Most obviously, when a Ger<sup>+6</sup> resolves directly to a V chord, parallel perfect fifths will result when resolving the ^b6 and ^b3 scale degrees. For this reason, there are alternate resolutions for augmented sixth chords that are often preferable. Look at the next example to see two possible fixes for this. Does the cadential I<sup>6/4</sup> fix the likely objectionable parallels for a Ger<sup>+6</sup>? Why does the Ger<sup>+6</sup> have an enharmonically spelled pitch when resolving to a cadential I<sup>6/4</sup>? When an augmented sixth chord resolves to a V<sup>7</sup>, what changes about the resolution of the tendency tones in the augmented sixth chord?
 
 {% capture ex5 %}X:5
 T:Other common resolutions of augmented sixth chords
