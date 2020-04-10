@@ -132,7 +132,7 @@ Modes as related to Ionian (major) scale degrees | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 |
 
 Yet understanding construction does nothing to further your understanding of their function. We often associate modes with early music, but modal music is still common in many types of modern music, including jazz, classical, and pop. Using modes allows composers to create a range of colors, through a variety of techniques. For example, one popular theory ranks the modes from "bright" to "dark" based on the number of raised or lowered pitches in the mode. If you apply this logic to the previous table, you can see that Lydian and Ionian would be the "brightest" modes because they have the most raised pitches, whereas Phrygian and Locrian would be the darkest modes because they have the most lowered pitches respectively.
 
-Our "non-mode"--the Lydian Dominant scale--shares many commonalities shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales. After you read more about these two new scales below, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
+Our "non-mode"--the Lydian Dominant scale--shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales. After you read more about these two new scales below, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
 
 You should spend time exploring each of these modes to learn why one pitch can sound "tonicized" without a traditional dominant to tonic relationship. With very few exceptions, every piece of music contains a harmonic method for creating tension and release, and music written in these modes is no different. When listening to all of the versions of *Happy Birthday* above, you probably disliked the first time a mode landed on `te`, but after listening to multiple examples using `te`, it becomes normalized and can be heard as a weaker--but still functional--counterpart to `do`. Discovering how each mode creates tension and release is paramount to understanding modal usage, and will help you create a framework for any scale--including those below.
 
@@ -148,7 +148,7 @@ D/2>D/2| E D G| D2 D/2>D/2| E D A| G2 D/2>D/2|
 d B G| D E d/2>d/2| B G A| G2|]{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
-We covered the standard major and minor pentatonic scales in Unit 2b, and you probably noticed that the Hirajoshi pentatonic scale is a combination of the two standard pentatonic scales. This is easiest to see if you look at them as relating to a major scale--The hirajoshi shares the scale degrees with the major pentatonic, but the accidentals from the minor scale.
+We covered the standard major and minor pentatonic scales in Unit 2b, and you hopefully can see how the Hirajoshi pentatonic scale combines aspects of both standard Western pentatonic scales--the hirajoshi uses the scale degrees of the major pentatonic but the accidentals from the natural minor scale.
 
 Pentatonic scales | 1 | 2 | 3 | 4 | 5
  --- | --- | --- | --- | --- | ---
@@ -170,14 +170,18 @@ _d B G| F _E _d/2>_d/2| B G A| G2|]{% endcapture %}
 
 The name clearly states this, but this scale is constructed entirely of major seconds, and because it has six pitches, we call this a *hexatonic* scale. Interestingly, the whole tone scale is one of the few collections of pitches that is both symmetrical and constructed entirely of one interval. It shares this trait with a fully diminished seventh chord (all minor thirds) and an augmented triad (all major thirds). Any whole tone scale also contains two augmented triads, separated by a M2. 
 
-Because there are only six pitches, you will have to choose to insert a skip of a diminished third when writing a whole tone scale on a staff, assuming that you want to keep your tonic the same in every octave. If you only use major seconds, you will end up on an enharmonic equivalent. There is no preferred place to put the interval of a third; most people just place it where it eliminates as many accidentals as possible.
+Because there are only six pitches, you will have to choose to insert a skip of a diminished third when writing a whole tone scale on a staff, assuming that you want to keep your tonic the same in every octave. If you stack only use major seconds, your octave will be an enharmonic equivalent. There is no preferred place to put the interval of a third; most people just place it where it eliminates as many accidentals as possible.
 
-The symmetry of the whole tone scale means that there are actually only two unique whole tone collections, because you can use any pitch of a given whole tone scale as a tonic. Its symmetry also contributes to the whole tone scale's general malleability--when all pitches are equal, it is both easy to manipulate but hard to solidify. It is often used in compositions to denote confusion or the supernatural.
+The symmetry of the whole tone scale means that there are actually only two unique whole tone collections, because you can use any pitch of a given whole tone scale as a tonic. In this chart, you can see that for each of these two collections, you can start on any pitch within the collection and create a whole tone scale.
 
 The two whole tone collections | 1 | 2 | 3 | 4 | 5 | 6
  --- | --- | --- | --- | --- | --- | ---
  1 | C | D | E | F# | G# | A#
  2 | Db | Eb | F | G | A | B
+
+Its symmetry also contributes to the whole tone scale's general malleability--when all pitches are equal, it is both easy to manipulate but hard to solidify. It is often used in compositions to denote confusion or the supernatural.
+
+### Other hexatonic scales
 
 {% capture ex10 %}X: 10
 T:Happy Birthday in 3+1 Hexatonic
@@ -238,12 +242,12 @@ K:C
 ^c _B G| ^F E c/2>c/2| _B G A| G2|]{% endcapture %}
 {% include abc-example.html number="13" abc=ex13 %}
 
-The two variants of the octatonic scale, the half-whole and whole-half, are similar to the 1+3/3+1 hexatonic scales in almost every way. Both:
+The two variants of the octatonic scale, the half-whole and whole-half, are similar to the 1+3/3+1 hexatonic scales in nearly every way. Both:
 - consist of an alternating pattern of two intervals
 - contain two standard, symmetrical chords separated by a half-step
 - can be transformed into another version of the octatonic scale by reassigning tonic to any pitch in the collection
 
-The primary difference is the interval pattern. The octatonic scale alternates between minor seconds and major seconds, as opposed to the 1+3/3+1 hexatonic scales' minor seconds and minor thirds. The slightly smaller interval pattern of the octatonic creates a collection of eight pitches with many symmetrical properties. And like hexatonic scales, we will always label an octatonic scale starting from its first interval *in its ascending form*, because in its descending form the pattern will be reversed. If the first interval of your ocatonic scale is a minor second, you will label this as a half-whole (HW) octatonic scale; if the first interval is a major second, you will label this a whole-half (WH) octatonic scale.
+The differentiator between the two scales is the intervallic pattern. The octatonic scale alternates between minor seconds and major seconds, as opposed to the 1+3/3+1 hexatonic scales' minor seconds and minor thirds. The slightly smaller interval pattern of the octatonic creates a collection of eight pitches with many symmetrical properties. And like hexatonic scales, we will always label an octatonic scale starting from its first interval *in its ascending form*, because in its descending form the pattern will be reversed. If the first interval of your ocatonic scale is a minor second, you will label this as a half-whole (HW) octatonic scale; if the first interval is a major second, you will label this a whole-half (WH) octatonic scale.
 
 You can divide any octatonic collection into two fully diminished seventh chords, as demonstrated in the C Half-whole (HW) scale written out here.
 
