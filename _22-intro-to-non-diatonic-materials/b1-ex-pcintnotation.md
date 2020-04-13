@@ -18,13 +18,13 @@ V:2 clef=bass
 G,^F,|| z2||G, _A,|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-In a tonal context, it is clear that there is an important difference between enharmonically equivalent pitches such as D-flat and C-sharp. In the example above, the interval the A4 between G and C-sharp implies the outward resolution of a V<sup>4/2</sup> to I<sup>6</sup> in the key of D major. In the second progression, changing the C-sharp to a D-flat creates a d5 that implies an inward resolution of a V<sup>6/5</sup> to I in the key of A-flat major. Clearly, the pitch notation system we use is designed to show harmonic movement in a tonal setting.
+In a tonal context, there is an important difference between enharmonically equivalent pitches such as D-flat and C-sharp. In the example above, the A4 between G and C-sharp implies the outward resolution of a V<sup>4/2</sup> to I<sup>6</sup> in the key of D major. In the second progression, changing the C-sharp to a D-flat creates a d5 that implies an inward resolution of a V<sup>6/5</sup> to I in the key of A-flat major. Clearly, the pitch notation system we use is designed to show harmonic movement in a tonal setting.
 
 ## Leaving tonality
 
-As we move toward music that no longer relies on tonal harmony, the tools with which we notate analysis reflect the lack of a traditional tonal center. If a piece does not rely on the tonic and dominant relationship to provide tension and release, the importance of Roman numerals, scale degrees, and even pitch names becomes less useful. They come from a system designed to prioritize seven pitches at a given time, so instead, we need a method for demonstrating the relationships between all twelve chromatic pitches. 
+As we move toward music that no longer relies on tonal harmony, the tools with which we notate analysis reflect the lack of a traditional tonal center. If a piece does not rely on the tonic and dominant relationship to provide tension and release, the importance of Roman numerals, scale degrees, and even pitch names becomes less useful. They are derived from a system that prioritizes seven pitches at a given time, so without that requirement, we need a method for demonstrating the relationships between all twelve chromatic pitches. 
 
-Look at the following ornamented melody. The numbers below the staff denote the *pitch class* for each pitch. (Note that `t` = 10, `e` = 11) Each number is considered a *pitch class* (abbrev.: pc), and the system itself is called *pitch-class (pc) integer notation*. After studying this example, what can you determine about the pitch classes? How do you determine which pitches are in a pitch-class? Is this numbering built around a key center or just a particular pitch? While it should be obviously that this system would not be helpful for analyzing a piece constructed around traditional tonic and dominant centers, what kinds of information *does* this system demonstrate?
+Look at the following ornamented melody. The numbers below the staff denote the *pitch class* for each pitch. (Note that `t` = 10, `e` = 11) Each number is considered a *pitch class* (abbrev.: pc), and the system itself is called *pitch-class (pc) integer notation*. After studying this example, what can you determine about the pitch classes? How do you determine which pitches are in a pitch-class? Is this numbering built around a key center or just a particular pitch? While it should be obvious that this system would not be ideal for analyzing tonic and dominant centers, what kinds of information *does* this system demonstrate?
 
 {% capture ex2 %}X:2
 T:Happy Birthday in G major (a la R. Strauss)
@@ -95,7 +95,7 @@ F _G ^G A| B c d _e| f|]
 w:0 1 3 4 0 1 3 4 0{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
-By using movable zero to highlight certain collections of pitch classes, you can show intervallic patterns within these collections. For a major scale, there are two [0245] collections separated by a whole step. For a Dorian mode, there are two [0235] collections separated by a whole step. And for a HW octatonic scale, there are two [0134] collections separated by a whole step.
+By using movable zero to highlight certain collections of pitch classes, you can show intervallic patterns within these collections. For a major scale, there are two (0245) collections separated by a whole step. For a Dorian mode, there are two (0235) collections separated by a whole step. And for a HW octatonic scale, there are two (0134) collections separated by a whole step. What scale would two (0235) collections separated by a half-step create?
 
 Any time we have a collections of pitch classes, this is called a *pitch-class set* (abbrev: pcs). A pitch-class set can be any number of pitches, and we call the number of pitches within a pcs its *cardinality*. Each cardinality has a special name shown in the chart below.
 
