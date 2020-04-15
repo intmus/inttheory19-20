@@ -13,11 +13,11 @@ In Unit 22, we introduced *integer notation* for *pitch classes*. Allen Forte fi
 - *Introduction to Post-tonal Theory* - Joseph Straus
 - *Basic Atonal Theory* - John Rahn
 
-There have been numerous refinements and alterations to this method since the first publication of Forte's text in 1973, so this unit will attempt to distill the basics that I have found most useful in understanding how these methods approach analysis.
+There have been numerous refinements and alterations to this method since the first publication of Forte's text in 1973, so this unit will attempt to distill the basics into a foundation that will make this sort of analysis more accessible.
 
 ## Notating pitch-class sets
 
-When we introduced pc sets in Unit 22, we did not formalize their notation, however, because we will study various levels of organization within pc sets, it is important to establish a standard form for writing an unordered pc set. When writing a pc set that you have not specifically organized, you should always notate this using parentheses with a comma between each pitch class. The following are all examples of unordered pc sets:
+When we introduced pc sets (pcs) in Unit 22, we did not formalize their notation, however, because we will study various levels of organization within pc sets, it is important to establish a standard form for writing an *unordered* pcs--a pitch class set that you have not specifically organized according to a predetermined, formalized sorting method. For unordered pcs, you should always notate this using **parentheses with a comma between each pitch class**. The following are all examples of unordered pc sets:
 
 - (0,1,5,t)
 - (B-flat,C,D,G)
@@ -25,9 +25,11 @@ When we introduced pc sets in Unit 22, we did not formalize their notation, howe
 - (0,1,3,5,6,7,8,9,e)
 - (B,C,D,E,F,G,A)
 
+You will notice that it doesn't matter if you use pitch names or integer notation; a pitch class set is any collection of pitch classes.
+
 ## Modulo 12 arithmetic
 
-Before we begin using integer notation to study pitch classes and pitch-class sets, we must establish the mathematical method necessary for manipulating pitches. Because music uses twelve equally-spaced pitches but our standard counting system is based around tens, we must create a specific equivalency around the number 12. For this, we use modulo 12 (mod12) arithmetic. You already use modulo 12 arithmetic every time you count time in hours, assuming that you use a 12-hour system. For example, if it is 11:00 and you have a meeting in three hours, what time is your meeting? From experience, you understand that when you reach 12, you must reset your counting to find the meeting's start time at 2:00 -- not 14:00. (Again, this assumes that you are not using a 12-hour clock cycle, not 24-hour.)
+Before we begin using integer notation to study pitch classes and pitch-class sets, we must establish the mathematical method necessary for manipulating pitches. Because music uses twelve equally-spaced pitches but our standard counting system is based around tens, we must create a specific equivalency around the number 12. For this, we use modulo 12 (mod12) arithmetic. You already use modulo 12 arithmetic every time you count time in hours, assuming that you use a 12-hour system. For example, if it is 11:00 and you have a meeting in three hours, what time is your meeting? From experience, you understand that when you reach 12, you must reset your counting to find the meeting's start time at 2:00--not 14:00. (Again, this assumes that you are not using a 12-hour clock cycle, not 24-hour.)
 
 This is exactly how pitch-class integer notation works, although the system begins numbering on 0 instead of 12. In this system, each time you pass 11, you begin again at zero, therefore making every multiple of 12 equal to zero. Complete the following chart to show the first two equivalencies for every number in this system. Can you create a method to quickly find any level of equivalency? What would happen if you crossed below zero?
 
@@ -48,7 +50,7 @@ Pitch-class integer | First equivalency | Second equivalency
 
 ### Conclusion
 
-It is simple to complete this chart using sequential counting within the column, but this is useful in that it demonstrates the continuum that is mod12 arithmetic. All whole integers can be represented by an integer between 0 and 11, giving us exactly one integer for every possible pitch class in the chromatic system.
+While it is easy to complete this chart by simply counting sequentially downward within each column, it is still useful in that it demonstrates the continuum that is mod12 arithmetic. All whole integers can be represented by an integer between 0 and 11, giving us exactly one integer for every possible pitch class in the chromatic system.
 
 Pitch-class integer | First equivalency | Second equivalency
  --- | --- | ---
@@ -109,7 +111,7 @@ This is relatively simple to memorize, but it is more important to consider what
 
 `(E, F, G, B-flat)`
 
-First, transpose these pitches up a P4, and as you do this, pay careful attention to the method that you use for transposing. Do you think of each pitch as part of a key? If so, what scale degree do you use for each pitch? Do you count half-steps? Do you find the first pitch and then as the base for finding the rest of the intervals?
+First, transpose these pitches up a P4 using our traditional intervallic method for transposition, and as you do this, pay careful attention to the process that you use for transposing. Do you think of each pitch as part of a key? If so, what scale degree do you use for each pitch? Do you count half-steps? Do you find the first pitch and then as the base for finding the rest of the intervals?
 
 Next:
 - Convert this pitch-class set into integer notation
@@ -124,7 +126,7 @@ Did you get the same result as when you transposed the pitches using the traditi
 
 Hopefully, you came to the same result using both methods of transposition. The pc set becomes (4,5,7,t), and then when you add 5 to each integer it becomes (9,t,12,15). All numbers greater than 11 must be reduced by mod12, so the set becomes (9,t,0,3). When these numbers are converted back into pitch letter names, you get (A,B-flat,C,E-flat) which is exactly a P4 above the original pc set.
 
-This works, of course, because the numbers in integer notation are actually representing the number of half-steps above a given pitch. When using fixed zero, each integer represents that many half-steps above C. From this, we derive the following chart, although if you have already memorized the integers for fixed-zero notation, you can always "reverse engineer" this chart using your knowledge of intervals within the C major scale.
+This works, of course, because *the numbers in integer notation actually represent the number of half-steps above a given pitch*. When using fixed zero, each integer represents that many half-steps above C. From this, we derive the following chart, although if you have already memorized the integers for fixed-zero notation, you can always "reverse engineer" this chart using your knowledge of intervals within the C major scale.
 
  Pitch-class integer | Interval 1 | Interval 2 | Interval 3
  --- | --- | --- | ---
@@ -151,7 +153,7 @@ This works, of course, because the numbers in integer notation are actually repr
 
 ## Transposing downward
 
-Any positive integer implies a transposition upward, but a negative integer can be used to transpose downward. For example, perform the following transposition:
+Any positive integer implies a transposition upward, so a negative integer is used to transpose downward. For example, perform the following transposition:
 
 T<sub>-3</sub>(4,5,7,t)
 
@@ -169,7 +171,7 @@ T<sub>-5</sub>(4,5,7,t) = (e,0,2,5)
 
 ## Normal form (normal order)
 
-In order to make comparing pc sets more useful, we need to use standardized orders to create consistent comparisons. You can imagine how difficult it would be to make sense of a series of pc sets if each set was in a random order. For this, we use *normal form*.
+In order to make comparing pc sets more useful, we need to use standardized orders to create consistent comparisons. You can imagine how difficult it would be to make sense of multiple pc sets if each set was in a random order. For this, we use *normal form*.
 
 Normal form is similar to the way in which we analyze standard tonal harmony. For example, how would you condense the following open voicing of a seventh chord in its simplest form while retaining its inversion?
 
@@ -197,9 +199,13 @@ V:1
 [EBGc]|]{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-*Normal form* (or *normal order*) follows the same principles for pc sets. **Normal form is an ascending arrangement of a pc set in which the outside interval is smallest.** For example, take the following pc set and arrange it so it fill the smallest space possible. Or to put it more precisely, you must find the ascending arrangement that has the smallest interval between the outside pitch classes. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through, consider the speed and efficacy of each method that you try.
+*Normal form* (or *normal order*) applies the same principles for organizing pitches to pc sets as you did when rearranging this seventh chord. **Normal form is an ascending arrangement of a pc set in which the outside interval is smallest.** For example, take the following pc set and arrange it so it fills the smallest space possible. 
 
 (1,7,t)
+
+More precisely, find the ascending arrangement that has the smallest interval between the outside pitch classes. You may use any method that works, but common methods include using mod12, notating the pitches on a staff, or even drawing the pitches on a clock face. As you work through this, consider the speed and efficacy of each method that you try.
+
+### Conclusions
 
 For this trichord, it is probably easiest to translate the pitches into standard pitch letters, and then just treat it as a triad. In this case, the pitches D-flat, G, and B-flat form a G diminished triad, so you can quickly tell that the normal form for this should be:
 
@@ -211,9 +217,9 @@ But what happens when you have a more complicated and ambiguous pc set? Try putt
 
 (1,3,7,t)
 
-## When there are "ties" for normal form
+## Breaking "ties" for ordering pcs
 
-With any pc set, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
+With any pcs, it is possible that there are multiple arrangements that have the same interval between the outside pitches. Try putting the following trichord into normal form.
 
 (0,5,7)
 
