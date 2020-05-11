@@ -6,106 +6,67 @@ abc: true
 
 # Class discussion
 
-## Basic PC Set Manipulation
+**Refresher: what is a pitch class (pc)?**
+- A number to represent all enharmonic equivalents of a pitch. We use 0 to e
+- Remember 10 and 11 are represented as t and e
 
-Vocabulary:
-1. Atonal music: music without a tonal center or key
-2. Twelve-tone music: music that doesn't value any pitch over another; all pitches are of equal importance
-3. Serial music: music created from a mathematical process
-4. Pitch class: a note and all of its enharmonic equivilants
-5. Integer notation: numbers assigned to each pitch class
-  - fixed zero integer notation: a system of interget notation where C is always 0, and every pitch class integer is assigned according to that.
-  - movable zero integer notation: a system of integer notation where 0 is set to whatever pitch class a musical example somewhat revolves around
-6. PC Collection: a scale for a non-diatonic group of pitches
-7. PC Set: a group of pitches in order
-  - a PC set can be a PC collection, but a PC collection CANNOT be a PC set.
+**Refresher: what is a pitch class set (pcs)?**
+- A collection of pitch classes. Each group size has a different name (refer to the chart in 22b)
 
+**Notating pitch class sets**
+- Many of the examples on your homework will be *unordered* pitch class sets. Despite this name, we need a standard system for writing these so we can easily make them *ordered* later
+- Undordered pc sets are notated with parantheses around the set and commas between each pc. Examples: (0,1,5,t) and (Bb,C,D,G). Like hwo points on a graph are notated before you actually graph them
 
-How is manipulating a pitch class set helpful as a musician?
-- playing atonal music
-- **looking for a pattern for our ears to cling to**
+**Modulo 12 arithmetic**
+- 12 is the magic number in this system! Everything is based around 12. Just like how you know that the clock resets when you go from noon to 1 P.M., the number above e/11 in this notation roll back around to 0, 1, 2, etc.
+- If you have a number above 12, you subtract 12 from it to get the number that's actually within the bounds of our system
 
-A chord with two tones is a dyad. 
-When analyzing atonal music, parentheses and commas versus brackets and commas mean different things. 
+**Notating transposition**
+- We are solely in fixed zero now
+- We have the pitch class set (E,F,G,Bb). Using traditional transposition methods, transpose up a P4 to get (A,Bb,C,Eb)
+- If we convert our first pcs to integer notation, we get (4,5,7,t). Add 5 to each number (subtracting 12 from any numbers over e), and we have (9,t,0,3). Convert the second set back to note names, and you will find it's the same as the second set the first time we transposed in our traditional method
+- The numbers in integer notation represent intervals from 0. 5 = P4 because F is a P4 (5 half steps) from C (0)
+- You would notate this process like this: T5(E,F,G,Bb) = (A,Bb,C,Eb) OR T5(4,5,7,t) = (9,t,0,3). T5 just means that we are transposing by adding 5, and it is fixed to the front of the original set to show that it is the one we're manipulating
 
-### Mod 12 Arithmetic
-In music we use 12 because there are 12 pitches.
-We want to always get our final number between 0 and 11. 
-Sometimes you have to subtract 12 to get to a number between 0 and 11, because for set theory analysis, all octaves are considered of equal importance.
-- C + P4 = F
-- this is the same, but with interger notation 0 + 5 = 5
+**Transposing downward**
+- Same process as above, but instead of adding numbers we subtract them!
+- In Mod12, you can also add 12 to a negative number to get a pc within the bounds of our notation system
 
-#### More Examples
-- Gb + m3 = Bbb / 6 + 3 = 9
-- A + P5 = E / 9 + 7 = 16 (4 for the octave equivalent)
+**Normal form/normal order**
+- Normal form/order is an ascending arrangement of a pcs where the outside interval is smallest. This is very different from tertian harmony, where we're concerned with stacking in thirds
+- Let's use (1,7,t). Think about this process like using a clock face: you can only go clockwise, which means you can shuffle which nubmer is first in the set as long as the set remains in the same order. You can have (7,t,1) but you can't have (1,t,7) because t is out of ascending order
+- We can have (1,7,t,), (7,t,1), or (t,1,7). We're looking for the smallest outside interval, which we do by subtracting the last integer from the first one in the set. t-1=9, 1-7=6, and 7-t=9. Since the middle one has the smallest interval, the normal form for (1,7,t) is [7,t,1].
+- Square brackets and commas denote normal form
+- *Always* put things in ascending form before you put them in normal or prime form. This form allows us to go through the process of finding the smallest outside interval, so it's important that we start out using it
 
-Wherever you set zero, integer notation tells you how many half-steps you move. 
-We typically use fixed zero, so if you're good at your intervals in C major, you will be able to short cut this.
+**Breaking ties for ordering pitch class sets**
+- What do we do if we do all our subtracting and end up with two of the same result??
+  - Go one more number in from the right with the remaining possibilities to break the tie! Obviously there was no tie to break with (1,7,t), but if we wanted to break the tie between the two 9 answers we would go 7-1=6 and 1-t=3 respectively
 
-Why do we have movable do?
--transposition
+**Developing a method for normal form using (3,e,5,2,8)**
+- Put in ascending order: (2,3,5,8,e). Any ascending order is fine, but I usually start with the smallest number on the left because it makes sure I don't get mixed up
+- Get all our different ascending forms:
+  - (2,3,5,8,e)
+  - (3,5,8,e,2)
+  - (5,8,e,2,3)
+  - (8,e,2,3,5)
+  - (e,2,3,5,8)
+- Subtract the outside numbers (last number - first number):
+  - e-2=9
+  - 2-3=e
+  - 3-5=t
+  - 5-8=9
+  - 8-e=9
+- Subtract the next smallest intervals for the tiebreakers (second to last number - first number):
+  - 8-2=6
+  - 3-8=7
+  - 5-e=6
+- Subtract the next smallest intervals for the second tiebreakers (third to last number - first number):
+  - 5-2=3
+  - 3-e=4
+-The normal form for this pentachord is [2,3,5,8,e]. Remember that we're subtracting the same number every time--we're just changing what we're subtracting it *from*
 
-Fixed zero is what we normally use: so integer notation is centered around C at 0. 
-Enharmonic Equivalency exists between pitch-classes that share the same tone but have different possible pitch names.
-- for example, Db and C# are the same tone. 
-
-### Normal Form (Normal order)
-The formula is Tn()=()
-  - the parenthesis contain numbers
-T: transpose by
-n: the number you are altering the following pitch-classes by
-- ex: T5(0,5,8) = (7,0,3)
-  - you take n and add it to the given intergers
-  
-Take a Cmaj7, spelled ECGB. 
-Put it in closed position, but maintain the inversion. 
-That is spelled EGBC (4,7,e,0)
-That is how you find normal form, where the pitches are in an order as condensed as possible.
-
-## How to find normal order:
- 1. Put the pitch-classes on the clock and find the smallest distance between the pitches.
- 2. Notate the numbers on a staff and find the closed position, then re-notate them into interger notation. 
-  - Ex: (1,7,t)
-  - normal form: (7,t,1)
-
-Permutations: we have all the different arrangements possible listed.
-- 17t, 1t7, t71, t17, 71t, 7t1
-  - automatically we can aliminate some of these, because they have to be in (clockwise) ascending form
-  - 17t, t17, 7t1
-    - the order with the smallest interval is 7t1. So we write it in brackets as [7,t,1]
- **Brackets identify normal form**
- 
- What is the relationship between these two pc sets?
-(3,7,0)
-(2,5,9)
-They don't have obvious intervalic relationships
-BUT, the first set isn't in normal form.
-(3,7,0) to [0,3,7].
-[0,3,7] and [2,5,9]. 
-Both have intervalic relationships of 3 between the first and second interger, and 4 between the second and third interger.
-- a shortcut to find normal form is to subtract the third interger from the first interger
-  - the options for (3,7,0) are 0,3,7; 3,7,0; and 7,0,3.
-  - the intervals between the outside intervals determine the normal form, you want the smallest interval.
-  - (0,3,7) has 7, (3,7,0) has 9, and (7,0,3) has 8; our normal order is [0,3,7]. 
-  
-#### Ex: (0,5,7)
-- the pc set options with the smallest interval are (0,5,7) and (5,7,0)
-- because the interval between the two outside intergers are both 7, we have to look to the interval between the first and second intergers.
-- the interval between the first two intergers in (0,5,7) is 5, while the interval between the first two intergers in (5,7,0) is 2, so [5,7,0] is our normal form. 
-    
- Normal form: The arrangement of pitches in ascending order that have the smallest interval between them
- 
- #### Ex: (2,3,5,8,e)
- Options in ascending order:
- - (2,3,5,8,e); (3,5,8,e,2); (5,8,e,2,3); (8,e,2,3,5); and (e,2,3,5,8).
- 
- Intervals between:
- - (2,3,5,8,e) 9 6 3
- - (3,5,8,e,2) 11
- - (5,8,e,2,3) 10
- - (8,e,2,3,5) 9 7
- - (e,2,3,5,8) 9 6 4
-  - Our normal form is [2,3,5,8,e]
+Completely symmetrical pitch class sets don't have a normal form, so we would just write it in ascending form with the smallest number at the bottom
   
 # Further reading
 
