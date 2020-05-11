@@ -6,65 +6,37 @@ abc: true
 
 # Class discussion
 
-What do all these numbers mean?
+Welcome to post-tonal analysis!
 
-The numbers indicate how many half steps you are away from a central point, in this example, C
+**The importance of pitch notation in tonal harmony**
+- In this example, we talked about determining implied key and progression just from looking at the accidentals, harmonic intervals, and resolution
+- Both measure contain a a tritone, and they each resolve in a different way: one outward, one inward. This results in resolutions to different keys from enharmonically equivalent chords
 
-Fixed Zero: C=0 (similar to fixed do)
+**Happy Birthday in G Major (a la R. Strauss)**
+- Welcome to pitch class integer notation!!
+  - Remember we only use 0-e in this form of notation. 0 is also 12 (and 1 is also 13, 2 is also 14, etc...)
+- In this system, there is no difference between C# and Db. Both are written as 1. While it's important to distinguish these notes in tonality, we're post-tonal! The notes don't matter
+  - All enharmonic equivalents are called a pitch class. This also includes double sharps and double flats. For example, C#, Db#, and Bx are all in the same pitch, class, represented as 1
+- What reasons are there to use this system?
+  - Quickly identifying pitches (or pitch classes)
+  - Identifying non-diatonic scales?
+- Is C always 0?
+  - In fixed zero notation, yes! There is also movable zero notation. Much like fixed and movable do, both of these notations have their uses.
 
-What is the difference between Db and C#? Nothing! they are both a 1
+**Scales labeled using multiple zeros in pc integer notation**
+- Notice each scale is made up of a repeating 4-number pattern. In this example we can see a major scale is based around 0245, Dorian mode is based around 0235, and HW octatonic is based around 0134
+- Movable zero is helpful for this kind of thing because we can quickly identify patterns in smaller things, like the scales here. It identifies the specific intervallic framework of a section, based around one note
 
-What are e and t? and why do we use them?
+A *pitch-class set* (pcs) is a collection of pitch classes. *Cardinality* is the number of pitches within a pcs. 0245 is a pcs, and since it has 4 pitch classes in it we call it a tetrachord. We run into problems with some of these cardinality terms because some of the words are the same as ones we associate with tonality
 
-They are eleven and ten; it is so that there is no numbers with two integers to clutter and confuse during analysis. for example B, C, Db might look like 1101` which can get confusing. Let's clear it up by writing e 0 1 with enough space between to read it
+**What is the application of an empty set?**
+- We need it for when we start inverting things later. An empty set is the inverse of an aggregate, containing all twelve pitch classes
 
-To get single syllable pitches using inteer notation, say oh instead of zero, also, e and t can be said instead of eleven and ten
+Our "normal" scales and modes would be called septachords, because they contain seven pitch classes.
 
-Movable zero: When zero can be whatever note you want. For example, if we set zero as E, then F# would be 2. Every other pitch is determined by the number of half-steps away from zero
+**Can you apply this system of notation to tonal music?**
+- You *can*! The example Dr. Butterfield pulled up in class was Hindemith's Trumpet Sonata, which he called "a mess to play" but went through using pc integer notation to look at the piece intervallically and not have to transpose as much
 
-As you study and become more familiar with integers, you can use the integer relationships to denote interval size and quality. 
-
-Pitch class can be abbreviated as pc and is collection of all enharmonic equivalents. For example, C#, Db are part of the same pitch class.
-
-Pitch class **set** can be abbreviated as pcs and is a collection of pitch classes. For example [e, 0, 1]
-
-What is the difference between chords and scales? Nothing. It is us as musicians that separate them as concepts to practice, but in this post-tonal context, there is no difference. 
-
-The cardinality of a pitch class set is the number of pitch classes in a pitch class set! Easy right?
-
-
-
-## Pitch-class Integer Notation
-Pitch class integer notation was created to analyze non-diatonic music. 
-As music evolved in the beginning of the 20th century, theory had to evolve with it. 
-
-Pitch classes are our way of naming a note in non-diatonic harmony.
-- this includes the notes enharmonic equivilants. 
-- Ex: Db/C# are in the same pitch class.
-
-### Fixed integer notation
-Each note has an assigned number that indicates its pitch class:
-- C is 0
-- C#/Db is 1
-- D is 2
-- D#/Eb is 3
-- E is 4
-- F is 5
-- F#/Gb is 6
-- G is 7
-- G#/Ab is 8
-- A is 9
-- A#/Bb is t (ten)
-- B is e (eleven)
- - if you write these numbers in the shape of a clock with C/0 at the top, it is a useful tool for any post-tonal analysis.
-### Pitch Class Collection
-
- A pitch class collection is the same as a scale in diatonic harmony. 
- BUT because it is not diatonic, we call it a collection of pitches. 
- Ex: Whole-Half Octatonic
- - DEFGAbBbBC#
- - our given notes are D,E,F,Ab,Bb,and B.
- - our pitch class collection is 2458te
 # Further Reading
 
 ## From *Open Music Theory*
