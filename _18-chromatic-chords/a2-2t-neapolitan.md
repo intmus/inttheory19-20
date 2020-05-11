@@ -6,51 +6,13 @@ abc: true
 
 # Class discussion
 
-New chord! bII! The Neapolitan chord (not to be confused with the tri-colored and tri-flavored ice cream).
-
-In major, the bII had two chromatic pitches. In minor, the bII has only one chormatic pitch (thanks le).
-
-You can treat the bII chord as a iv chord with a different fifth. In this way, you double the third of the bII chord as you would the root of the iv chord. 
-
-## Neapolitan 6 chord
-A neapolitan 6 chord is a flat major II in first inversion. 
-In C, spelled Db, F, Ab, but with F in the bass. 
-Think ra, fa, le. 
-It looks like a bII6 but is labeled N6. 
-
-#### Example 
-Given musical examples in major in minor, find the N6 chord and think about how it functions.
-
-How does the N6 function?
-- it is in first inversion
-- functions as a pre-dominant
-  - this is not like the modal interchange video
-  - that was borrowed from phrygian and functioned as the dominant
-  
-What makes this different than the bII in the video?
-The bII in the video is borrowed from phrygian. 
-C Phrygian is the third mode of Ab Ionian. 
-This is not where the Neapolitan six came from. 
-The Neapolitan 6 has pre-dominant function.
-You can write it as either a bII6 or N6, they both mean the same thing as long as you have them in first inversion. 
-What other predominant could we compare this to? 
-- pre-dominants are iio and iv (in minor)
-
-### Voice Leading with N6
-In C minor, Do6 and Fm share two of the same tones with a Neapolitan, in this case, Db6.
-Resolving the N6 to V7
-- Db resolves to B
-- Ab resolves to G
-- F stays the same
-Putting a I6/4 inbetween the two chords makes for smoother voice leading.
-They almost always occur in first inversion, calling them Neapolitan *six* chords. 
-The note to double in this chord is the third. 
-If you double the root or the fifth of the N6, ra and le are both tendancy tones and will cause parallel octaves. 
-
-Be aware that when you see an accidental, it may have been altered to make it easier to read. 
-Altering the Ab to a G# leading to an A for smoother voice leading is easier to read even though it doesn't make sense in the key. 
-This happens most often in melody lines. 
-
-One common chord progression is N6 - viio7/V - V.
-If you're in C major, the only other option you have for a fully diminished seventh chord is a borrowed viio7 from minor. 
+**Standard progressions using the bII**
+- You can spell this chord enharmonically! We see this in the third mini-example within this example. The Ab in the tenor is changed to a G# in order to make the voice leading make more sense--we go to an A next, so seeing a G# is easier to read
+- bII6 is going to be the most common version of this chord you see. You can also write it as N6, but we suggest bII6 because that actually informs its function (predominant, just like a regular ii!)
+- A root position bII has...problems
+  - We've introduced *ra*, which wants to resolve down because it's a flattened *re*. So, when it's followed by a V(7), we either have to have parallel octaves or have a tendency tone resolve in the wrong direction (ra skipping down to ti or going up to re because there's no do in V. gross)
+- bII6 - iv sounds super cool!
+  - There's only a half-step difference which makes voice leading a dream (le down to sol)
+- bII6 in the 20th century starts to get weird, functionally. Mahler used it just as a color
+- bII6 is mode mixture: it's borrowed from Phrygian mode
 
