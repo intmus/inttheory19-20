@@ -6,88 +6,61 @@ abc: true
 
 # Class discussion
 
-How do we remember modes?
+**What is a collection?**
+- A collection is an organized group of pitches. It's kind of a squares and rectangles situation. All scales are collections, but not all collections are scales.
 
-Intervallic patterns: whole and half steps
+**What is a mode?**
+- Related to major scales, modes are based around the various scales degrees of a major scale. For example, E Phrygian is the same key signature as C major but starts on the third scale degree
+  - If thinking in terms of what is altered from the original key is more helpful, you can instead think of E Phrygian as having a lowered 2, 3, 6, and 7. Each mode has its own lowered (or raised) scale degrees
 
-Modes as they relate to major scales: What key does this mode belong to? G phrygian is the notes of Eb major in a different order.
+## Seven note collections
 
-Solfege! See how modes are altered from their relative major. G phrygian has b2, b3, b6, and b7 so you can start with G major and alter pitches from there. Major: Do, re, me, fa, sol, la, ti, do  Phrygian: Do, ra, me, fa, sol, le, te, Do.
+**All our modes:**
+- Ionian (major)
+- Dorian: 2nd degree of major scale/lowered 3 and 7
+- Phrygian: 3rd degree of major scale/lowered 2, 3, 6, and 7
+- Lydian: 4th degree of major scale/raised 4
+- Mixolydian: 5th degree of major scale/lowered 7
+- Aeolian (natural minor)
+- Locrian: 7th degree of major scale/lowered 2, 3, 5, 6, and 7
+- Lydian Dominant: half Lydian, half Mixolydian/raised 4, lowered 7. You can remember this scale's relation to Mixolydian because of "dominant"/V because Mixolydian is based around the fifth scale degree
 
-Where do the names 3+1 hexatonic and 1+3 hexatonic come from? Alternating minor seconds and minor thirds! Or.. 1 half step then 3 half steps. 
+## Five note collections
 
-## Modes 
+**Major pentatonic**
+- 1, 2, 3, 5, 6/do re mi sol la
 
-Modes use every tone in a 7 degree scale.
+**Minor pentatonic**
+- 1, b3, 4, 5, b7
+- Related to the major pentatonic scale in the same way that the regular major and minor scales are related: minor pentatonic is just major pentatonic starting on la
 
-As a review, our modes are ionian (major), dorian, phrygian, lydian, mixolydian, aeolian (natural minor), locrian. 
+**Hirajoshi pentatonic**
+- 1, 2, b3, 5, b6/do re me sol le
+- Major pentatonic using minor notes
 
-Ionian (major) is 1234567 (Do Re Mi Fa Sol La Ti).
+## Six note collections
 
-Dorian is 12b3456b7 (Do Re Me Fa Sol La Te).
+**Whole tone scale**
+- Every note is a whole step apart. There are only two unique whole tone collections: C D E F# G# A# and Db Eb F G A B. You can start on any of the notes within these collections, but the cycle of the two will be the same
+- There's no possible center to a whole tone scale because there are six notes in it and they are all a whole step apart. This gives it its characteristic off-kilter feeling
+- Whole tone scale don't have a standard mode of notation but will always have a diminished third somewhere
+- Another way to think of these is as two interlocking augmented triads. For example, with the first whole tone collection (C D E F# G# A#), it is made up of the two augmented triads C E G# and D F# A#
+- Pretty common in music because composers like to do cool and fancy stuff with them
 
-Phrygian is 1b2b345b6b7 (Do Ra Me Fa Sol Le Te).
+**3+1 and 1+3 Hexatonic**
+- Based on interval patterns. 3+1 trades off between a minor third and a half step between each note, and 1+3 trades off between a half step and a minor third between each note
+- The 3 actually means three half steps, but it may be easier to think of it as a minor third instead
+- These scales have 4 unique collections which you can look at in the textbook because I don't want to write them all out here sorry
+- As an example, though, each collection can be used for either scale. Starting on a note that is followed by a half step, you start a 1+3 hexatonic scale. Starting on one followed by a minor third, you start a 3+1 hexatonic scale
+- We always label these scales in ascending form!! You might be asked to build a descending one of these, so make sure the interval pattern is correct
 
-Lydian is 123#4567 (Do Re Me Fi Sol La Ti).
+## Eight note collections
 
-Mixolydian is 123456b7 (Do Re Mi Fa Sol La Te).
-
-Aeolian (natural minor) is 12b345b6b7 (Do Re Me Fa Sol Le Te).
-
-Locrian is 1b2b34b5b6b7. (Do Ra Me Fa Se Le Te).
-
-Mixolydian is related to major because of the 3rd scale degree. 
-Dorian is related to minor because of the b3rd scale degree. 
-
-
-Another common scale is Lydian Dominant 123#456b7 (Do Re Mi Fi Sol La Te).
-
-The lydian title comes from the #4 in the first tetra scale.
-The dominant title comes from the b7 in the second tetra scale.
-
-Can you hear the mode change of happy birthday?
-
-Dorian: distinctive because of the b3 and b7.
-Phrygian: distinctive because of the minor tonality and b2.
-Lydian: almost major, but with a #4.
-Locrian: almost loses tonality because of the b5.
-
-
-## Non-Diatonic Scales
-
-Non-Diatonic scales use more or less note names depending on the size. 
-
-
-
-There are many different types of non-diatonic scales:
-
-1. Pentatonic (5 notes)
-2. Hexatonic (6 notes)
-3. Octatonic (8 notes not including repeated doh)
-
-
-### Pentatonic Scales
-
-1. Major Pentatonic: 12356 (Do Re Mi Sol La).
-2. Minor Pentatonic: 1b345b7 (Do Me Fa Sol Te).
-- like a Major Pentatonic if you started on La.
-3. Hirajoshi: 12b35b6 (Do Re Me Sol Le).
-- like a Major Pentatonic with minor scale qualities (Me & Le).
-
-
-### Hextonic Scales
-
-1. Whole Tone Scale: a pattern of whole tones, and cannot be explained in solfege or scale degrees. Ex: CDEF#G#A#, C#D#FGAB. 
-there are only two piano patterns for a whole tone scale no matter what note you start on or how your enharmonically spell it.
-2. Half-Step Minor Third (3+1): a pattern of a minor third followed by a half-step. Ex: CEbEGAbB.
-Half-Step Minor Third (1+3): a pattern of a half-step followed by a minor third. Ex: CDbEFAbA.
-
-
-### Octatonic Scales
-
-1. Half-Whole Octatonic: a pattern of alternating half-steps and whole-steps. Ex: CDbEbEGbGABb.
-2. Whole-Half Octatonic: a pattern of alternating whole-steps and half-steps. Ex: CDEbFGbAbAB.
-
+**Ocatonic (also called a diminished scale)**
+- Happen either half-whole (HW) or whole-half (WH)
+- Start on one note and alternate between half and whole steps (for a HW octatonic) or between whole and half steps (for a WH octatonic)
+- 3 unique octatonic collections. Just like the hexatonic and whole tone scales, you can start on any pitch within the collections to get a different scale
+- Stravinsky likes these! They have the potential to sound really spooky and weird
 
 # Further reading
 
