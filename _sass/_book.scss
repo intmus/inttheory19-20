@@ -165,3 +165,17 @@ a.sidebar-nav-item:focus {
     //border-radius: 5px;
     //background-color: #fff;
 }
+
+/* alert for archived version */
+.alert {
+    color: rgb(8, 121, 144);
+    background-color: rgb(207, 244, 252);
+    border-radius: 5px;
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    a {
+        color: rgb(10, 88, 202);//#303030;
+        text-decoration: underline;
+    }
+}
